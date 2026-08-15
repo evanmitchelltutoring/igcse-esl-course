@@ -1,0 +1,823 @@
+{
+ "_about": "Real live content for Mystery & the Unexplained (mystery-and-the-unexplained). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 11,
+  "slug": "mystery-and-the-unexplained",
+  "title": "Mystery & the Unexplained",
+  "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Mystery & the Unexplained — why this unit",
+   "skill": "orientation",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "objectives",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "The language of mystery & investigation",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "The case that was never solved",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "word_sort",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "Reading the clues",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "Hoax or real?",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "word_sort",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "An eyewitness account",
+   "skill": "reading",
+   "minutes": 22,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 7,
+   "title": "Telling the story + weighing the clues",
+   "skill": "grammar",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Voices on the unexplained — listening",
+   "skill": "listening",
+   "minutes": 22,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Writing — an email about a strange experience",
+   "skill": "writing",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing — a report on a strange event",
+   "skill": "writing",
+   "minutes": 28,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Discussing the unexplained — speaking",
+   "skill": "speaking",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 12,
+   "title": "Review, reflection & the unsolved debate",
+   "skill": "review",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "investigation": [
+   {
+    "word": "alibi",
+    "pos": "noun",
+    "def": "proof that you were somewhere else when a crime happened"
+   },
+   {
+    "word": "clue",
+    "pos": "noun",
+    "def": "a piece of information that helps to solve a mystery"
+   },
+   {
+    "word": "detective",
+    "pos": "noun",
+    "def": "a person whose job is to solve crimes"
+   },
+   {
+    "word": "evidence",
+    "pos": "noun",
+    "def": "facts or signs that show whether something is true"
+   },
+   {
+    "word": "examine",
+    "pos": "verb",
+    "def": "to look at something carefully and in detail"
+   },
+   {
+    "word": "investigate",
+    "pos": "verb",
+    "def": "to try carefully to find out the truth about something"
+   },
+   {
+    "word": "motive",
+    "pos": "noun",
+    "def": "a reason for doing something, especially a crime"
+   },
+   {
+    "word": "suspect",
+    "pos": "noun",
+    "def": "a person thought to be guilty of a crime"
+   },
+   {
+    "word": "trace",
+    "pos": "noun",
+    "def": "a small sign that shows something happened"
+   },
+   {
+    "word": "witness",
+    "pos": "noun",
+    "def": "a person who saw something happen"
+   }
+  ],
+  "reasoning": [
+   {
+    "word": "assume",
+    "pos": "verb",
+    "def": "to think something is true without having proof"
+   },
+   {
+    "word": "coincidence",
+    "pos": "noun",
+    "def": "when things happen at the same time by chance"
+   },
+   {
+    "word": "conclude",
+    "pos": "verb",
+    "def": "to decide something after considering the facts"
+   },
+   {
+    "word": "deduce",
+    "pos": "verb",
+    "def": "to work something out from the facts you have"
+   },
+   {
+    "word": "doubt",
+    "pos": "noun",
+    "def": "a feeling of not being sure about something"
+   },
+   {
+    "word": "evident",
+    "pos": "adjective",
+    "def": "clear and easy to see or understand"
+   },
+   {
+    "word": "prove",
+    "pos": "verb",
+    "def": "to show with evidence that something is true"
+   },
+   {
+    "word": "theory",
+    "pos": "noun",
+    "def": "an idea that tries to explain why something happens"
+   },
+   {
+    "word": "verdict",
+    "pos": "noun",
+    "def": "an official decision about whether someone is guilty"
+   }
+  ],
+  "strangeness": [
+   {
+    "word": "baffling",
+    "pos": "adjective",
+    "def": "impossible to understand; very confusing"
+   },
+   {
+    "word": "bizarre",
+    "pos": "adjective",
+    "def": "very strange and unusual"
+   },
+   {
+    "word": "eerie",
+    "pos": "adjective",
+    "def": "strange in a way that makes you feel afraid"
+   },
+   {
+    "word": "inexplicable",
+    "pos": "adjective",
+    "def": "impossible to explain"
+   },
+   {
+    "word": "mysterious",
+    "pos": "adjective",
+    "def": "strange, and difficult to understand or explain"
+   },
+   {
+    "word": "puzzling",
+    "pos": "adjective",
+    "def": "confusing and difficult to explain"
+   },
+   {
+    "word": "sinister",
+    "pos": "adjective",
+    "def": "seeming evil or threatening; suggesting harm"
+   },
+   {
+    "word": "uncanny",
+    "pos": "adjective",
+    "def": "strange in an unsettling, unnatural way"
+   }
+  ],
+  "reveal-conceal": [
+   {
+    "word": "conceal",
+    "pos": "verb",
+    "def": "to hide something carefully"
+   },
+   {
+    "word": "confess",
+    "pos": "verb",
+    "def": "to admit that you have done something wrong"
+   },
+   {
+    "word": "conspiracy",
+    "pos": "noun",
+    "def": "a secret plan by a group to do something harmful"
+   },
+   {
+    "word": "deny",
+    "pos": "verb",
+    "def": "to say that something is not true"
+   },
+   {
+    "word": "disappear",
+    "pos": "verb",
+    "def": "to go out of sight; to stop existing"
+   },
+   {
+    "word": "hoax",
+    "pos": "noun",
+    "def": "a trick that makes people believe something untrue"
+   },
+   {
+    "word": "reveal",
+    "pos": "verb",
+    "def": "to make known something that was hidden"
+   },
+   {
+    "word": "suspicious",
+    "pos": "adjective",
+    "def": "making you feel that something is wrong"
+   },
+   {
+    "word": "uncover",
+    "pos": "verb",
+    "def": "to discover something hidden or secret"
+   },
+   {
+    "word": "vanish",
+    "pos": "verb",
+    "def": "to disappear suddenly and completely"
+   }
+  ],
+  "events-and-fear": [
+   {
+    "word": "disappearance",
+    "pos": "noun",
+    "def": "the act of going missing or out of sight"
+   },
+   {
+    "word": "dread",
+    "pos": "noun",
+    "def": "a strong feeling of fear about something that may happen"
+   },
+   {
+    "word": "legend",
+    "pos": "noun",
+    "def": "an old, popular story that may not be true"
+   },
+   {
+    "word": "rumour",
+    "pos": "noun",
+    "def": "a story passed from person to person that may not be true"
+   },
+   {
+    "word": "suspense",
+    "pos": "noun",
+    "def": "a feeling of excited or anxious uncertainty"
+   },
+   {
+    "word": "testimony",
+    "pos": "noun",
+    "def": "a formal statement that something is true, especially in court"
+   },
+   {
+    "word": "unexplained",
+    "pos": "adjective",
+    "def": "without any known reason or cause"
+   },
+   {
+    "word": "unreliable",
+    "pos": "adjective",
+    "def": "not able to be trusted or believed"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "The Vanishing Village",
+   "topic": "unexplained disappearance",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "In 1930, a supply ship arrived at a remote island off the coast of Scotland to relieve the three men who kept watch over its small settlement of sheep farmers and their families. The crew expected the usual welcome: smoke rising from chimneys, dogs barking on the shore, someone waving from the jetty. Instead, they found nothing. The village of nineteen houses stood silent in the mist.\n\nThe crew went ashore and searched from house to house. Fires had been laid in several grates but never lit. A half-eaten meal sat on a table in one cottage, the chair pushed back as though someone had risen in a hurry. In another house, a Bible lay open on a windowsill, a knife resting across its pages to mark the place. Clothes hung on lines outside, still damp from washing. There was no sign of struggle anywhere, and no sign of the thirty-six villagers who had lived there only weeks before.\n\nThe last letter sent from the island, found half-written at a desk, mentioned nothing unusual - only a note about the weather turning and a plan to mend a boat before winter. The islanders' small fishing boats were still tied up at the jetty, which ruled out the simplest explanation: that they had all left together by sea.\n\nOver the following decades, theories multiplied. Some said a sudden storm must have driven the villagers to seek shelter on a neighbouring island, though no record of their arrival anywhere was ever found. Others suggested a disease had frightened them into fleeing overland, although the island's cliffs made such a journey almost impossible on foot. A few, only half joking, wondered whether the villagers had simply grown tired of watching for ships that so rarely came, and vanished by a route no one thought to search.\n\nWhat is agreed is this: the meal was left unfinished, the fires unlit, and the Bible marked at a page no one would ever read again. To this day, no bone, no boat, and no letter has ever explained what became of the people of that island."
+  },
+  {
+   "title": "Hoax or Real?",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": null,
+   "body": "Every few years, a photograph appears that seems to show something impossible: a strange creature in a lake, a light in the sky, a figure that should not be there. The pictures spread quickly, and for a while everyone argues. Then, often, the truth comes out, and it is rarely as exciting as the photograph.\n\nSo how can you tell a hoax from something real? The first question to ask is not whether the thing is amazing, but who is telling you, and how they know. A claim is only as strong as its source. A blurred photo posted by an unknown account, with no date and no location, is weak evidence, however striking it looks. A clear report from several independent witnesses, who do not know each other and have nothing to gain, is far stronger.\n\nThe second test is whether the claim can be checked. Real evidence can be examined by other people: a photograph can be studied for signs of editing, a footprint can be measured and compared. A hoax usually cannot survive this. Take the famous lake-monster photograph of the last century, which thrilled the world for decades. It showed a long neck rising from the water. Many years later, one of the men involved confessed: the monster had been a toy, a small model fixed to a floating wooden base and photographed close up. The picture had never been what it seemed.\n\nA third warning sign is the story that fits a little too neatly. Hoaxers know what people want to see, and they give it to them. When a claim arrives perfectly formed, with no loose ends and no awkward details, a careful thinker becomes more suspicious, not less. Real events are usually messy; they leave questions behind.\n\nNone of this means you should believe nothing. Some genuine discoveries did, at first, seem impossible. The point is not to switch off your curiosity, but to switch on your judgement. Ask who is speaking, ask whether the claim can be tested, and be wary of the answer that is simply too good. A real mystery can stand up to questions. A hoax falls apart the moment you start asking them."
+  },
+  {
+   "title": "What the Room Told the Detective",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": null,
+   "body": "Detective Sarah Okoro stood in the doorway of the study and did not move. The good ones never rushed in; they read the room first, the way you read a page.\n\nThe window was open, letting in the cold morning air, but the flowerbed beneath it was undisturbed — no footprints, no broken stems. Whoever had taken the painting, she thought, had not come in that way. On the desk, a cup of coffee had been left half-finished. She touched the side of the cup. It was still faintly warm. Someone had been here within the hour.\n\nThe safe in the corner stood open and empty. It had not been forced; there was not a scratch on the lock. Either it had been left open, which seemed unlikely for so careful a man as the owner, or someone had known the code. Three people knew it, she had been told: the owner, his brother, and the housekeeper.\n\nOn the carpet near the safe lay a single dark thread, the kind from an expensive coat. The owner, she remembered, had been away in another city since the night before, and his train ticket was still in his coat pocket upstairs. So he could not have stood in this room that morning. That left two people.\n\nThe housekeeper had a key but, by her own account, had not entered the study for days. Yet the coffee was fresh, and the housekeeper was the only person in the house who made coffee. Okoro turned the thought over carefully. She did not yet have proof, but she had something better than a guess: a set of small facts that, fitted together, pointed in one clear direction.\n\nShe did not announce her conclusion. A good detective, she had learned long ago, keeps her theory quiet until the evidence is ready to speak for itself. She simply asked, in her gentlest voice, whether she might trouble the housekeeper for a fresh cup of coffee, and watched, very carefully, to see how the woman's hands would move."
+  },
+  {
+   "title": "An Eyewitness Account",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "I have been asked to write down exactly what I saw on the night of the fourteenth, while it is still fresh in my memory.\n\nIt was just after eleven o'clock. I could not sleep, so I was standing at my bedroom window, which looks out over the square. The street was empty and very quiet, and a light rain was falling.\n\nThat was when I noticed the van. It was parked outside the jeweller's shop on the far corner, with its lights off, which struck me as odd at that hour. I am fairly sure it was dark blue, though the street lamp nearest it was broken, so I cannot be completely certain about the colour.\n\nAfter a minute or two, two people got out. Both wore dark coats with the hoods up, so I could not see their faces at all. One of them was noticeably taller than the other. The shorter one carried a bag of some kind, quite large and square. They walked quickly to the shop door and stood there with their backs to me for perhaps thirty seconds. I did not hear any glass break.\n\nThen a car came into the square from the south, and its headlights swept across the corner. The moment the light touched them, both figures turned and walked away, unhurried, in opposite directions. The van stayed where it was. I did not see anyone drive it away, but when I looked again at about half past eleven, it had gone.\n\nI want to be honest about what I am not sure of. I never saw either person's face. I cannot swear to the colour of the van. And I cannot say for certain that any crime took place at all — only that what I saw seemed strange enough to report."
+  },
+  {
+   "title": "The Lighthouse That Emptied Itself",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": null,
+   "body": "On a grey December morning, the supply boat reached the lighthouse on Carrick Rock two weeks late, delayed by storms. The three keepers who lived there should have been waiting on the jetty. Instead, the rock was silent.\n\nThe boat's captain, a careful man named Hale, climbed the long steps alone. He found the great door closed but unlocked. Inside, everything was strangely ordinary. The lamps had been cleaned. A meal sat half-eaten on the table, the bread now hard as stone. Two of the three oilskin coats were missing from their hooks by the door; the third still hung in its place. And the clock on the wall had stopped at 9.04.\n\nThe keepers were never seen again. When investigators arrived, they searched the logbook for an answer. The early entries were calm and routine. Then, three days before the boat was due, the handwriting changed. One keeper had written of a great storm and of seas washing over the gallery, although records from passing ships showed that the weather those nights had been mild and clear. The final entry read only: Storm ended. All quiet now.\n\nTheories came quickly, and none of them held. Some said a freak wave had swept all three men from the rocks, but only two coats were gone, and no keeper would climb down to a wild sea without his oilskin. Others suggested the men had quarrelled; yet there was no boat, no blood, and no way off the rock but the sea. A few whispered of madness brought on by the endless wind.\n\nWhat troubled investigators most was the logbook. If the weather had truly been calm, why had the keeper written of a storm that never came? Had the men seen something the passing ships could not? Or had one of them, alone in the dark, begun to imagine the sea rising around a tower that stood, in truth, perfectly still? A century later, no one has ever explained what happened on Carrick Rock, and perhaps no one ever will."
+  },
+  {
+   "title": "Ghost Lights and Ordinary Explanations",
+   "topic": "unexplained phenomena",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": null,
+   "body": "For centuries, travellers on lonely roads and sailors far from land have reported strange lights that hover, dance, or seem to chase them - lights with no obvious source. Such reports come from every continent and every era, which is itself interesting: whatever is happening, it is not confined to one culture's imagination.\n\nThe temptation is to treat every such story the same way, either dismissing all of them as nonsense or accepting all of them as proof of something supernatural. Neither approach is careful thinking. A more useful method is to ask, case by case, whether an ordinary cause fits the facts before reaching for an extraordinary one.\n\nTake the lights long reported over certain marshes and quiet country roads. Scientists studying one well-documented case found that the ground beneath contained unusually high levels of natural gas escaping slowly from decayed plant matter. Under the right conditions, this gas can ignite faintly on contact with air, producing a pale, flickering glow that drifts as air currents move it - matching, closely, generations of eyewitness reports of lights that seemed to \"follow\" or \"dance away\" from anyone who approached.\n\nOther reported lights have turned out to have equally unglamorous explanations: reflections of distant car headlights bent strangely by layers of warm and cold air, or the glow of mineral deposits in rock faces catching moonlight at a particular angle. In each case, investigators did not begin by assuming fraud or hallucination on the part of the witnesses - the witnesses had genuinely seen something. The mistake, when there was one, lay only in the leap from \"I cannot explain this\" to \"this cannot be explained.\"\n\nNone of this proves that every reported light has a tidy scientific answer waiting to be found; some cases remain genuinely unresolved, the evidence too thin or too old to test. But the pattern is instructive. Time and again, a phenomenon that seemed to defy explanation turned out to obey ordinary rules once someone bothered to measure it properly. The lesson is not that mystery is always an illusion, but that curiosity, not certainty, should come first."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Voices on the Unexplained — the Vanishing Village",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "A podcast segment discussing a real historical village whose disappearance was never fully explained.",
+   "script_text": "NARRATOR: In the winter of 1930, the small farming village of Angikuni, in a remote part of northern Canada, was reportedly found completely empty. According to the story, a fur trapper passed through and discovered cooking fires still smouldering, food left half-eaten, and even a team of sled dogs found starved to death, still tethered outside empty homes. Every single resident — reportedly around thirty people — had vanished without a trace.\nNARRATOR: The story spread quickly through newspapers at the time, and search parties were said to have combed the surrounding wilderness for weeks, finding no bodies, no signs of struggle, and no explanation.\nNARRATOR: But here's where the story gets complicated. Historians and journalists who later investigated found no official government or police records confirming a search ever took place, and no contemporary newspaper accounts from reputable outlets at the time the disappearance supposedly occurred. Most researchers now believe the story was either heavily exaggerated from a much smaller, explainable incident, or invented outright by a later writer looking for a dramatic headline.\nNARRATOR: Whatever really happened at Angikuni — whether it was a genuine mystery, a misunderstanding, or simply a myth — the story remains a striking example of how quickly an unverified tale can take on a life of its own, repeated as fact for nearly a century."
+  },
+  {
+   "title": "Voices on the Unexplained — the Ghost Ship Mary Celeste",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Listen to the talk and answer the questions. (Played twice.)",
+   "script_text": "NARRATOR: In December 1872, a merchant ship called the Mary Celeste was discovered adrift in the Atlantic Ocean, sailing under partial sail with nobody on board. The ship was in good condition, its cargo mostly untouched, and there was still food and water in the galley. Yet the entire crew, along with the captain's wife and young daughter, had vanished.\nNARRATOR: There was no sign of violence, no note, and the ship's lifeboat was missing, suggesting the crew had left deliberately, perhaps in a hurry. What could have caused ten people to abandon a perfectly seaworthy vessel in the middle of the ocean?\nNARRATOR: Over the years, dozens of theories have been proposed, from mutiny and piracy to sea monsters and alien abduction. However, most modern maritime historians favour a far less dramatic explanation: that the crew, fearing an explosion from fumes leaking out of the alcohol cargo they were carrying, panicked and abandoned ship in the lifeboat, only for a sudden storm or a snapped tow-rope to separate them from the Mary Celeste, leaving them stranded and lost at sea.\nNARRATOR: The true fate of the crew has never been confirmed, and the Mary Celeste remains one of the most famous maritime mysteries in history, still discussed by historians and sailors alike more than 150 years later."
+  },
+  {
+   "title": "Voices on the Unexplained — an interview with a skeptic investigator",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Listen to the interview and answer the questions. (Played twice.)",
+   "script_text": "HOST: Today I'm talking with James Whitfield, who spends his time investigating so-called mysterious events for a living. James, what does that actually involve?\nJAMES: Mostly it means going to a place where something strange has supposedly happened, and looking for the boring, ordinary explanation that usually gets left out of the exciting version of the story.\nHOST: Can you give us an example?\nJAMES: Sure. A few years ago, there were reports of strange lights appearing over a small town every night for a week. People were convinced it was something otherworldly.\nHOST: What did you find?\nJAMES: It turned out to be a nearby drone light show being tested for a festival that hadn't been announced yet. Completely mundane, but nobody wanted to believe that at first, because the mysterious version was simply more exciting to talk about.\nHOST: Does that happen a lot — people preferring the exciting explanation?\nJAMES: Constantly. I think people aren't necessarily gullible, they just enjoy a good story, and a mystery is a much better story than \"it was a scheduling error.\"\nHOST: So you don't believe in any unexplained phenomena at all?\nJAMES: I wouldn't say that. I believe there are things we genuinely can't explain yet. I just think the number of those cases is much smaller than people assume, once you actually investigate properly."
+  },
+  {
+   "title": "Voices on the Unexplained — the Halloway House podcast",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear part of a podcast in which a host interviews a local historian, Dr Priya Anand, about an unsolved mystery. Listen and answer the questions.",
+   "script_text": "HOST: Welcome back to Unexplained, the podcast about the mysteries on our own doorstep. I am here with local historian Dr Priya Anand. Priya, tell us about Halloway House.\nPRIYA: Thank you. Halloway House was a large family home just outside the town. In the spring of 1911, the whole Halloway family — the parents and their two children — left for a weekend by the sea and never returned to the house. Not because anything happened to them at the sea, you understand. They simply never came back.\nHOST: So they survived — they just abandoned the house?\nPRIYA: Exactly. And that is the strange part. They left everything behind: furniture, clothes, even food in the kitchen. The father had a successful business in the town, which he also gave up. They moved to another city and refused, for the rest of their lives, to speak a single word about why.\nHOST: And nobody knows the reason?\nPRIYA: We have theories, of course. Some say there were money troubles, but the business records show the family was doing perfectly well. Others believe they were frightened by something — there were reports, from the servants, of strange noises in the upper rooms in the weeks before. But servants tell tall tales, and we cannot rely on rumours.\nHOST: What do you think, personally?\nPRIYA: Honestly, I think the most likely explanation is the most ordinary one: a family quarrel, or a private fear, that they were simply too proud to explain. But I will admit, when you stand in that empty house, with the table still set for a meal that was never eaten, it is hard not to wonder.\nHOST: A genuine mystery. Dr Anand, thank you."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "12b4519c-9a65-4882-a4dc-762ce70ecd67",
+   "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd",
+   "task_type": "directed",
+   "register": "informal",
+   "title": "An email about a strange experience",
+   "subtopic": "mystery & narrative",
+   "difficulty": "standard",
+   "scenario": "A magazine for young writers is running a short-story competition on the theme of a door that should have been locked.",
+   "instruction": "Write a mystery story that includes, somewhere, the moment a character discovers a door standing open that they had locked themselves the night before.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "Describe what happened, and when and where it took place",
+    "Explain what made it impossible to explain",
+    "Say how you felt at the time and what you think now"
+   ],
+   "grammar_focus": [
+    "Narrative tenses (past simple, past continuous, past perfect)"
+   ],
+   "required_vocab": [
+    "eerie",
+    "uncanny",
+    "vanished",
+    "baffling",
+    "inexplicable"
+   ],
+   "scaffolds": null,
+   "model_answer": "Hi Sam,\n\nYou won't believe what happened to me last weekend — it's been on my mind ever since, and I had to tell you.\n\nI was staying at my aunt's old house in the countryside. On Saturday night I'd already gone to bed when I heard a soft tapping coming from downstairs. At first I assumed it was just the wind, but it kept going, slow and steady. While I was lying there, the tapping suddenly stopped, and the house went completely silent. It felt eerie — that uncanny kind of quiet when you know something isn't right.\n\nI crept down to check. The back door, which I had definitely locked, was wide open, and a single wet footprint sat on the kitchen floor. By the time I grabbed a torch, it had vanished. There was no one outside — no car, no sound, nothing.\n\nI still can't explain it. My aunt just laughed and said old houses make strange noises, but that doesn't cover the open door or the footprint. It's honestly baffling — completely inexplicable.\n\nAnyway, I'm fine! Has anything that strange ever happened to you?\n\nSpeak soon,\nAlex",
+   "rubric": null,
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": null,
+   "created_at": "2026-06-14T04:47:29.733384+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "eb6859b4-98f5-4cfb-ba28-f3bba7746869",
+   "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd",
+   "task_type": "extended",
+   "register": "formal",
+   "title": "A report on a strange event",
+   "subtopic": "mystery & investigation",
+   "difficulty": "standard",
+   "scenario": "Strange lights and noises have been reported at an old building in your area, and some people are worried. Your local newspaper has asked you to look into it and report what is actually known.",
+   "instruction": "Write a report for the newspaper describing what people have reported, weighing how reliable it is, and giving your conclusion.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "describe what people claim they have seen or heard",
+    "weigh how reliable the reports are, and mention any ordinary explanations",
+    "give a balanced conclusion about what is really known"
+   ],
+   "grammar_focus": [
+    "Past deduction (must have, might have, can't have + done)"
+   ],
+   "required_vocab": [
+    "witness",
+    "testimony",
+    "unreliable",
+    "evidence",
+    "conclude"
+   ],
+   "scaffolds": null,
+   "model_answer": "Report: The Reported Lights over Hillford\n\nIntroduction\nThis report examines the strange lights seen above Hillford last month and considers how reliable the various accounts are.\n\nWhat people claim\nSeveral residents reported bright, silent lights moving in formation across the night sky for about ten minutes. One witness described them as perfectly still before they shot away; another claimed they made the air feel cold.\n\nHow reliable the reports are\nThe testimony should be treated with caution. Most witnesses saw the lights from a distance and at night, when the eye is easily fooled, so they might have misjudged the height and speed. There is no photograph or recording, and some accounts only appeared days later, which makes them unreliable. According to locals the lights cannot have been ordinary aircraft, but they may well have been drones or a weather balloon catching the light.\n\nConclusion\nOn the available evidence, no firm explanation can be proven. The event was unusual, but it must have had a natural cause; we simply cannot yet conclude exactly what it was.",
+   "rubric": null,
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": null,
+   "created_at": "2026-06-14T04:47:29.733384+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "e5d956e1-10c9-4cfe-9a49-cb704b9a3891",
+   "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (mysteries & curiosity)",
+   "subtopic": null,
+   "difficulty": "standard",
+   "topic": "Mysteries and curiosity",
+   "intro": "The examiner will ask you some questions about yourself, about stories, puzzles and the unexplained. Answer naturally and give reasons.",
+   "card_points": [],
+   "discussion_questions": [
+    "Do you enjoy mystery or detective stories, films or games? Why, or why not?",
+    "Tell me about a time you lost something and had to work out where it was.",
+    "Would you say you are a curious person? What kinds of things make you curious?",
+    "Some people love puzzles and others find them frustrating. Which are you?",
+    "Do you think it is important to question things rather than simply believe them?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-14T04:47:23.995697+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "dceced8e-add5-4d1f-9725-855590d576ba",
+   "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd",
+   "task_type": "topic_card",
+   "title": "Speaking — A mystery that fascinates you",
+   "subtopic": null,
+   "difficulty": "standard",
+   "topic": "An unsolved mystery or strange story",
+   "intro": "We are going to talk about mysteries and the unexplained. Take a moment to look at the points on the card, then talk about them. You do not have to use them all.",
+   "card_points": [
+    "a mystery, unsolved story or strange event that you find fascinating",
+    "why it interests you, and how you first heard about it",
+    "what you think the most likely explanation is",
+    "whether some things are better left unexplained",
+    "the idea that people are too quick to believe strange claims"
+   ],
+   "discussion_questions": [
+    "Why do you think people are so fascinated by mysteries and the unexplained?",
+    "How can we tell the difference between a real mystery and a hoax?",
+    "Is it always important to find the truth, or can not knowing be interesting in itself?"
+   ],
+   "scaffolds": {
+    "L0": "Prompt only.",
+    "L3_cues": [
+     "What it is: name the mystery + one vivid detail",
+     "The spark: when or why it caught you",
+     "How it feels: curiosity, unease or suspense + why",
+     "Your theory: best explanation, using deduction modals (must/might/can't have)",
+     "Solve it?: whether you would want the answer + why"
+    ],
+    "L1_vocab": [
+     "mysterious",
+     "baffling",
+     "eerie",
+     "unexplained",
+     "theory",
+     "evidence",
+     "clue",
+     "suspense",
+     "vanish",
+     "it can't have been"
+    ],
+    "L2_stems": {
+     "React": [
+      "It fascinates me because...",
+      "What grips me is...",
+      "It leaves me with a sense of..."
+     ],
+     "Describe": [
+      "The mystery is that...",
+      "What happened was...",
+      "The strange part is that..."
+     ],
+     "Theorise": [
+      "It can't have been ..., because ...",
+      "The most likely explanation is that...",
+      "My best guess is that..."
+     ]
+    },
+    "L4_frame": "The mystery that fascinates me most is ___. What makes it so strange is that ___. I first came across it ___, and it fills me with ___. It can't have been ___, so my best guess is that ___. More than anything, I'd love to know ___."
+   },
+   "model_response": "The mystery that fascinates me most is a ship that was once found drifting in calm seas with no one on board. What makes it so baffling is that everything was still in place — the table was set and the lamps were burning low, and yet the whole crew had simply vanished. I first read about it in an old book when I was about thirteen, and I remember staying up far too late, completely gripped by the suspense of it. It still fills me with a strange unease, because no theory quite fits the evidence. People say the crew must have panicked and abandoned ship, but if the sea was calm, why would they? It can't have been a storm, and there was no sign of an attack. My own best guess is that something frightened them — a leak they misjudged, perhaps — but honestly, the most likely explanation is one we will never prove. More than anything, I'd love to know what those final hours were really like. For me, it's a reminder that some questions are more interesting than their answers.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-14T04:47:23.995697+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}

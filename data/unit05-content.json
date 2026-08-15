@@ -1,0 +1,2294 @@
+{
+ "_about": "Real live content for Art & AI (art-and-expression). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 5,
+  "slug": "art-and-expression",
+  "title": "Art & AI",
+  "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Orientation & theme hook",
+   "skill": "overview",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "teaching_page",
+    "text",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary launch",
+   "skill": "vocabulary",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "teaching_page",
+    "text",
+    "vocab_set"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Subtopic 1 — Made by a Machine?",
+   "skill": "reading",
+   "minutes": 50,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "A Picture in Ten Seconds"
+   ],
+   "listening_refs": [
+    "Read-Aloud: A Picture in Ten Seconds"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Subtopic 2 — Whose Hand, Whose Eye?",
+   "skill": "reading",
+   "minutes": 55,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "The Thing a Machine Cannot Feel"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Thing a Machine Cannot Feel"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Subtopic 3 — The Style Thief",
+   "skill": "reading",
+   "minutes": 55,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "listening_questions"
+   ],
+   "reading_refs": [
+    "Where Does an AI Learn to Draw?"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Where Does an AI Learn to Draw?",
+    "Six young creators on AI and art"
+   ]
+  },
+  {
+   "order": 6,
+   "title": "Subtopic 4 — Real Art, Real Prize?",
+   "skill": "reading",
+   "minutes": 55,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Should a Machine Win an Art Prize?"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Should a Machine Win an Art Prize?"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "Grammar consolidation (part 1) — Modals of speculation/deduction",
+   "skill": "grammar",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "teaching_page",
+    "text",
+    "grammar_exercise"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Grammar consolidation (part 2) — Concession linkers",
+   "skill": "grammar",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "teaching_page",
+    "text",
+    "grammar_exercise"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Listening block (5 exercises)",
+   "skill": "listening",
+   "minutes": 50,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Reactions to AI images (8 short clips)",
+    "Five stances on AI art (match to summary)",
+    "How an AI learns to make pictures (talk)",
+    "Six young creators on AI and art",
+    "Painter vs developer (interview)"
+   ]
+  },
+  {
+   "order": 10,
+   "title": "Writing — Directed task (Speech)",
+   "skill": "writing",
+   "minutes": 45,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task",
+    "grammar_exercise",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Writing — Extended task (part 1: plan + frame-build)",
+   "skill": "writing",
+   "minutes": 50,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task",
+    "grammar_exercise"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 12,
+   "title": "Writing — Extended task (part 2: draft + review) + Review & reflection",
+   "skill": "writing",
+   "minutes": 50,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "Made by a Machine": [
+   {
+    "word": "algorithm",
+    "pos": "noun",
+    "def": "a set of step-by-step rules a computer follows to solve a problem"
+   },
+   {
+    "word": "artificial",
+    "pos": "adjective",
+    "def": "made by people or machines, not occurring naturally"
+   },
+   {
+    "word": "automated",
+    "pos": "adjective",
+    "def": "done by machines with little or no human help"
+   },
+   {
+    "word": "dataset",
+    "pos": "noun",
+    "def": "a large collection of information used to train a model"
+   },
+   {
+    "word": "generate",
+    "pos": "verb",
+    "def": "to produce or create something"
+   },
+   {
+    "word": "mimic",
+    "pos": "verb",
+    "def": "to copy the way something looks or behaves"
+   },
+   {
+    "word": "novelty",
+    "pos": "noun",
+    "def": "the quality of being new; a new thing whose appeal may not last"
+   },
+   {
+    "word": "output",
+    "pos": "noun",
+    "def": "the thing a process produces"
+   },
+   {
+    "word": "prompt",
+    "pos": "noun",
+    "def": "the words you type to tell an AI what to make; (verb) to cause something to happen"
+   },
+   {
+    "word": "replicate",
+    "pos": "verb",
+    "def": "to copy something exactly"
+   },
+   {
+    "word": "seemingly",
+    "pos": "adverb",
+    "def": "based on how something appears, which may not be the truth"
+   }
+  ],
+  "The Style Thief": [
+   {
+    "word": "attribution",
+    "pos": "noun",
+    "def": "naming who created or is responsible for a work"
+   },
+   {
+    "word": "compensation",
+    "pos": "noun",
+    "def": "money paid to make up for loss or harm"
+   },
+   {
+    "word": "consent",
+    "pos": "noun",
+    "def": "permission for something to happen"
+   },
+   {
+    "word": "derivative",
+    "pos": "adjective",
+    "def": "copied from or based on something else; not original"
+   },
+   {
+    "word": "distinctive",
+    "pos": "adjective",
+    "def": "clearly different in a way that is easy to recognise"
+   },
+   {
+    "word": "exploit",
+    "pos": "verb",
+    "def": "to use something fully for benefit; or to use unfairly for one's own gain"
+   },
+   {
+    "word": "imitate",
+    "pos": "verb",
+    "def": "to copy the way someone does something"
+   },
+   {
+    "word": "infringe",
+    "pos": "verb",
+    "def": "to break a rule or law, especially about rights"
+   },
+   {
+    "word": "intellectual property",
+    "pos": "academic chunk",
+    "def": "legal ownership of something you created with your mind, such as a design or artwork"
+   },
+   {
+    "word": "originality",
+    "pos": "noun",
+    "def": "the quality of being new and not copied"
+   },
+   {
+    "word": "scrape",
+    "pos": "verb",
+    "def": "to collect data automatically from across the internet"
+   }
+  ],
+  "Whose Hand, Whose Eye?": [
+   {
+    "word": "authentic",
+    "pos": "adjective",
+    "def": "real and genuine, not fake or copied"
+   },
+   {
+    "word": "craft",
+    "pos": "noun",
+    "def": "skill in making things by hand; (verb) to make with care"
+   },
+   {
+    "word": "emotion",
+    "pos": "noun",
+    "def": "a strong feeling such as joy, fear, or sorrow"
+   },
+   {
+    "word": "evoke",
+    "pos": "verb",
+    "def": "to bring a feeling or memory into someone's mind"
+   },
+   {
+    "word": "express",
+    "pos": "verb",
+    "def": "to show a thought or feeling through words, art, or action"
+   },
+   {
+    "word": "genuine",
+    "pos": "adjective",
+    "def": "real and sincere; truly what it claims to be"
+   },
+   {
+    "word": "intention",
+    "pos": "noun",
+    "def": "the aim or purpose behind doing something"
+   },
+   {
+    "word": "intuition",
+    "pos": "noun",
+    "def": "knowing or sensing something without conscious reasoning"
+   },
+   {
+    "word": "meaning",
+    "pos": "noun",
+    "def": "the idea or significance that something carries"
+   },
+   {
+    "word": "soulless",
+    "pos": "adjective",
+    "def": "lacking warmth, feeling, or character"
+   }
+  ],
+  "Real Art, Real Prize?": [
+   {
+    "word": "consensus",
+    "pos": "noun",
+    "def": "general agreement among a group"
+   },
+   {
+    "word": "controversy",
+    "pos": "noun",
+    "def": "strong public disagreement about something"
+   },
+   {
+    "word": "credibility",
+    "pos": "noun",
+    "def": "the quality of being believable and trusted"
+   },
+   {
+    "word": "disqualify",
+    "pos": "verb",
+    "def": "to remove someone from a competition for breaking a rule"
+   },
+   {
+    "word": "it could be argued that",
+    "pos": "academic chunk",
+    "def": "a hedged way to introduce a claim you are not stating as certain"
+   },
+   {
+    "word": "judgement",
+    "pos": "noun",
+    "def": "the ability to form a careful opinion or decision"
+   },
+   {
+    "word": "legitimate",
+    "pos": "adjective",
+    "def": "reasonable and acceptable; lawful"
+   },
+   {
+    "word": "merit",
+    "pos": "noun",
+    "def": "the quality of being good and deserving praise or reward"
+   },
+   {
+    "word": "on the surface however",
+    "pos": "academic chunk",
+    "def": "a way to concede an appearance and then turn against it"
+   },
+   {
+    "word": "recognition",
+    "pos": "noun",
+    "def": "public acknowledgement that something is good or important"
+   },
+   {
+    "word": "the heart of the matter is",
+    "pos": "academic chunk",
+    "def": "a way to signal the central point or verdict"
+   },
+   {
+    "word": "there is no denying that",
+    "pos": "academic chunk",
+    "def": "a way to concede a strong opposing point before answering it"
+   },
+   {
+    "word": "this calls into question",
+    "pos": "academic chunk",
+    "def": "a way to challenge or cast doubt on a claim"
+   },
+   {
+    "word": "this raises the question of whether",
+    "pos": "academic chunk",
+    "def": "a way to open an issue for discussion"
+   },
+   {
+    "word": "transparency",
+    "pos": "noun",
+    "def": "being open and honest, so others can see how things are done"
+   },
+   {
+    "word": "undermine",
+    "pos": "verb",
+    "def": "to gradually weaken something"
+   },
+   {
+    "word": "value",
+    "pos": "noun",
+    "def": "how much something is worth, in money or importance; (verb) to think something is important"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "Should a Machine Win an Art Prize?",
+   "topic": "Real Art, Real Prize?",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Summary writing format. Original passage — written for this unit, not adapted from the Cambridge Art source.",
+   "body": "In 2022, a picture made with an AI program won first place in a digital-art competition in the United States. The artist had typed prompts, chosen from hundreds of results, and refined the final image — but no brush, pen, or camera was involved. The win caused an immediate controversy, and the questions it raised have not gone away.\n\nThe case for accepting AI art\nSupporters make several arguments. First, they say the result should be judged on its artistic merit alone: if a picture moves people, it should not matter how it was made. Second, they point to history. Photography was once dismissed as mere button-pressing, not real art; today it hangs in the world's great galleries. AI art, they argue, is simply the newest medium, and resistance to it will look old-fashioned within a generation. Third, they note that humans are still involved — choosing prompts, selecting outputs, editing results — so the work is not purely automatic. To this group, AI art is a legitimate form of expression that deserves recognition like any other.\n\nThe case against\nOpponents are unconvinced. Their central objection is about fairness: if an AI was trained on the work of human artists who were never paid, then any prize it wins is built on borrowed labour. Allowing such work to compete, they argue, is unfair to artists who spent years developing their skill. There is also a worry about value. If perfect-looking images can be produced in seconds by anyone, the special status of art — and the income of working artists — may be undermined. Some fear that letting AI win would damage the credibility of the prizes themselves, turning a test of human skill into a test of who has the best software.\n\nThe middle ground\nBetween these positions, many people take a more cautious view. They do not want to ban AI art, but they want transparency: entries should at least be labelled, so that judges and viewers know what they are looking at. Several competitions have responded by creating a separate category for AI work, rather than disqualifying it or letting it compete directly against human art. This, supporters of the idea say, respects both the new technology and the artists who fear it.\n\nNo agreement yet\nFor now, there is no consensus. Different competitions have reached different decisions, and the law offers little guidance. What once seemed a simple question — is this a real artist? — has become a matter of definition and judgement, argued case by case. The only certainty is that the question will be asked again, at the next competition, and the one after that."
+  },
+  {
+   "title": "Four People, Four Creative Hobbies",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Nadia (pottery)\nI took up pottery to unwind after a brutal exam term, when my head was so full of revision that I could not sleep at night. There is something about sitting at the wheel, hands covered in cool, wet clay, that empties your mind completely of everything else. My first attempts were a disaster — they collapsed, or cracked apart in the kiln — and I very nearly gave up in frustration more than once. I stuck with it, though, and slowly the bowls began to hold their shape. Now I actually sell my small bowls and mugs at a Saturday craft market in town, and there is a real thrill in watching a stranger pick up and choose something I made with my own two hands.\n\nB — Sam (songwriting)\nI began writing songs to make sense of how I was feeling after a difficult few months, usually late at night when the whole house had finally gone quiet and I could think clearly. The words came more easily than I expected, but for a long time I was far too shy to let a single person hear them; they felt too private, too raw and revealing. Then, last month, something pushed me to sign up for an open-mic evening at a local cafe, and I finally performed one of my own songs in public for the very first time. My hands were shaking so hard I could barely hold the guitar, but the moment it ended I wanted nothing more than to do it all over again.\n\nC — Priya (painting)\nMy aunt has painted in oils for as long as I can remember, and sitting quietly watching her work as a small child is what first inspired me to pick up a brush of my own. Faces gave me real trouble at the start — my early portraits looked nothing like the people in front of me — and I almost gave up and stuck to painting landscapes instead. I am so glad I persevered. Now I run a small, cheerful weekend class for younger children down at the community centre, and I always tell them exactly the same thing: the mistakes are part of learning, not something to be ashamed of. Watching them lose themselves happily in colour reminds me why I started.\n\nD — Luca (woodworking)\nI much prefer to work alone out in the garage, with the radio murmuring away to itself and nobody watching over my shoulder or offering advice I did not ask for. It is just me, the wood and the tools, and whole afternoons simply vanish. I learned the hard way to respect those tools: I cut my hand quite badly on a chisel early on, an accident that needed several stitches, and I have been far more careful and methodical about everything ever since. I rarely keep anything I make, as it happens — a stool, a box, a little carved bird — because almost all of it ends up given away as birthday and holiday presents for my family and friends."
+  },
+  {
+   "title": "The Changing Library",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Once, a library was simply a quiet place to borrow books, and very little else; you took out a book, you brought it back a few weeks later, and that was very much that. Today libraries up and down the country are changing fast to meet the new needs of the communities around them, and the result is something far more lively and useful.\n\nWalk into a modern library and you will usually find rows of free computers with internet access, which are a genuine lifeline for the many people who do not have them at home — for filling in forms, searching for a job, or simply staying in touch with family. Many libraries now also host clubs and classes of every kind, from story time for tiny children to coding lessons and language groups for adults. There are still quiet corners carefully set aside for study, where students revise in peace, but the building as a whole is far busier, warmer and more sociable than it ever used to be.\n\nSome libraries have gone further still and now lend out all sorts of unexpected things: tools for mending a bike, board games for a rainy weekend, even musical instruments to try out before you buy one. Throughout the building, friendly and knowledgeable staff are always on hand to help visitors find the exact information or the perfect book they need, and to make complete newcomers feel welcome. And, perhaps most importantly of all in hard times, almost everything that a library offers — the books, the computers, the clubs, the warm and safe space itself — is still completely free to use, open to absolutely everyone who walks in through the door."
+  },
+  {
+   "title": "Where Does an AI Learn to Draw?",
+   "topic": "The Style Thief",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Note completion format. Original passage — written for this unit, not adapted from the Cambridge Art source.",
+   "body": "The training problem\nAn AI image program is not born knowing how to draw. It learns by example — and the examples are real pictures made by real people. To build one of these programs, a company collects an enormous number of images, often by using software to scrape them automatically from across the internet. Photographs, paintings, comics, logos: billions of images are gathered, usually without anyone asking the people who made them.\n\nLearning a style\nFrom all this material, the program learns patterns. It notices how a certain artist uses colour, how a comic shades a face, how a photographer frames a street. Because it has seen so many examples, it can later imitate a distinctive style on demand. If you ask for a picture \"in the style of\" a particular illustrator, the result can be uncannily close — close enough that the illustrator must have been studied in detail during training, even though the company may never name whose work it used.\n\nCopying or learning?\nThis is where people disagree. The companies argue that the program does not store or copy any single picture; it only learns general patterns, the way a human student learns by looking at the masters. The output, they say, is new — not derivative. Many artists see it differently. Although the program never reproduces a picture exactly, it could not produce anything at all without the millions of works it absorbed. To these artists, learning a living person's style without consent is a form of taking.\n\nThe fairness question\nThree words come up again and again. The first is attribution: when a style is borrowed, the original artist is almost never credited. The second is consent: the artists were not asked whether their work could be used. The third is compensation: even when companies make money, the artists whose work trained the program are usually paid nothing. Some argue this is a clear case of exploitation; others say it may, in the end, count as fair use — a question the courts have only begun to settle.\n\nWhy it matters\nAt the heart of the dispute is an old idea given a new shape: intellectual property — the principle that what you create with your mind belongs, in some sense, to you. If a machine can absorb a lifetime of an artist's work and reproduce its flavour in seconds, that principle is harder to defend than it once was. The technology has run ahead of the rules, and the rules are now struggling to catch up."
+  },
+  {
+   "title": "A Picture in Ten Seconds",
+   "topic": "Made by a Machine",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Skim/scan format. Original passage — written for this unit, not adapted from the Cambridge Art source.",
+   "body": "In the past, making a detailed picture took training, patience, and hours of work. Today, a new kind of computer program can produce one in about ten seconds. You type a few words — a \"prompt,\" such as a cat reading a book by candlelight — and the program builds an image to match. These programs are a form of artificial intelligence, often shortened to AI.\n\nHow do they do it? Each program has studied an enormous collection of pictures, called a dataset, made up of millions of images created by people over many years. From all those examples, the AI learns the patterns that make a picture look a certain way: how light falls, how a face is shaped, how a forest looks in the rain. When you give it a prompt, it does not copy any single picture. Instead, it uses what it has learned to generate something new that fits your words.\n\nThe output can be surprising. Some images look like photographs; others mimic the style of famous painters. Much of this work is now automated, which means the machine does most of the steps on its own, with very little help from a person once the prompt is typed.\n\nPublic reactions are mixed. Some people are amazed and call the images beautiful. Others are suspicious, because a seemingly original picture might really be built from the work of thousands of artists who were never asked. A third group simply shrugs, treating the whole thing as a passing novelty — fun for now, but not real art.\n\nOne thing is certain: the technology is spreading quickly. Students use it for school projects. Businesses use it for advertisements. Artists argue about whether it threatens their jobs or simply gives them a new tool. The pictures may be made in seconds, but the questions they raise will not be settled nearly as fast."
+  },
+  {
+   "title": "The Thing a Machine Cannot Feel",
+   "topic": "Whose Hand, Whose Eye?",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Language & effect format. Original passage — written for this unit, not adapted from the Cambridge Art source.",
+   "body": "by a working illustrator\n\nI have spent twenty years learning to draw. Twenty years of failed sketches, aching hands, and quiet mornings spent chasing a line that finally felt right. So when people tell me a machine can now make art in ten seconds, I understand why they are excited. It is true that the images are often beautiful — but beauty was never the whole point.\n\nHere is what those ten-second pictures are missing. When I draw my grandmother's hands, I am not simply arranging shapes that look like hands. I am remembering the smell of her kitchen, the way she held a pencil, the afternoon she taught me to shade. Every deliberate choice — this shadow, that gap, the slight tremble in the line — carries a meaning that I put there on purpose. The drawing is not just a picture of her hands. It is what I feel about her hands.\n\nA machine has no grandmother. It has no afternoon to remember. It can study a million drawings and learn, with astonishing skill, how a hand is shaped. It can even mimic the look of grief or joy. But it has never felt either. Although the result may move you, the machine intended nothing by it. The feeling you see was not placed there — you brought it yourself.\n\nPeople sometimes call my worry old-fashioned. Perhaps it is. New tools have always frightened the people they replace, and I will not pretend the camera did not terrify painters once. But there is a difference between a tool that helps a human express something and a tool that removes the human altogether. A camera still needs an eye behind it, a reason to press the button at that exact moment.\n\nThis is why the word \"soulless\" keeps returning to me. I do not mean the pictures are ugly; many are stunning. I mean they come from nowhere. They are answers to a question no one was really asking, made by something that wanted nothing, remembered nothing, and risked nothing.\n\nSo make your beautiful pictures in ten seconds, if you like. I will keep my twenty years. Because art, to me, was never proof that something could be made. It was proof that someone chose to make it — and cared, deeply, whether it was any good."
+  },
+  {
+   "title": "Artists and the New Machines",
+   "topic": "art and ai",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "Four artists tell us how new technology has changed their work.\n\nA — LENA\nI am a painter, and I refuse to use AI tools at all. To me the whole point of painting is the slow, physical struggle with the brush. A machine that produces an image in seconds removes the very thing I love. I would rather make something imperfect with my own hands than something flawless with a click.\n\nB — OMAR\nI am a musician, and I use AI to handle the boring parts. It tidies up my recordings and suggests chords when I am stuck, which frees me to spend my energy on the ideas that only a human can have. For me the machine is a clever assistant, never the artist.\n\nC — YUKI\nI make digital images, and I worry about jobs. When a company can generate a hundred pictures for free, it stops hiring illustrators like me. I have already lost work to it. I do not hate the technology itself, but I am angry about how quickly it has been used to replace people without a thought for them.\n\nD — CARLOS\nI am a sculptor, and honestly the new tools have not touched my world at all. You cannot print marble feeling with a machine; you cannot fake the weight of stone. While everyone argues about screens, I am still in my workshop with a chisel, doing exactly what sculptors have done for thousands of years."
+  },
+  {
+   "title": "Street Art: Vandalism or Public Gallery?",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "Walk through almost any major city today and you are likely to see bold, colourful murals covering the sides of buildings, walls, and even bridges. What was once dismissed by many as simple vandalism has, in recent decades, become one of the most visible and debated forms of public art.\n\nThe debate centres on a basic question: who gets to decide what appears on a city's walls? Supporters of street art argue that it makes art accessible to everyone, not just those who can afford a museum ticket, and that it often reflects the real concerns and culture of the neighbourhood where it appears. Many cities have gone further, commissioning well-known street artists to paint official murals as a way of brightening public spaces and even attracting tourists.\n\nCritics counter that unauthorised street art is still, legally speaking, property damage, and that a building owner should have the right to decide what appears on their own wall, regardless of how skilled the artist is. There is also a practical concern: once a wall becomes known for accepting street art, it can attract lower-quality graffiti alongside genuinely talented work, making it harder for cities to tell the two apart.\n\nSome cities have tried to resolve this tension by designating specific \"legal walls\" where artists can paint freely without breaking the law, an approach that has proven popular with both artists and local residents in several major cities."
+  },
+  {
+   "title": "Looking After a Museum",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A museum is far, far more than the objects you see out on display in its bright halls. Behind the scenes, hidden away from visitors, a great deal of careful, painstaking work goes into keeping its precious objects safe, because many of them are extremely old, rare and fragile, and once they are damaged they can never truly be replaced.\n\nLight, surprisingly, is one of the very greatest enemies of all. Strong light can slowly fade bright colours and quietly damage delicate materials over the years, so many rooms are deliberately kept dim and cool, their blinds drawn against the sun. The temperature and the dampness of the air are carefully controlled as well, day and night, since too much heat or moisture can ruin old paintings, cloth, wood and paper. When staff need to move a precious object, even a short distance down a corridor, they very often wear soft white gloves, so that the natural oils on their skin do not slowly harm its surface.\n\nCleaning is never, ever rushed; it is done painfully slowly, and only ever by specially trained experts who know exactly what each delicate material can bear. Visitors are sometimes genuinely surprised to learn that most of a museum collection is not on display at all, but is instead kept safely in storage, deep in the basement, quietly waiting its turn or simply being preserved for future generations. And throughout it all, careful written records are kept about every single object — where it came from, how old it is, and exactly how it should be handled and looked after — so that its long story is never lost."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Six young creators on AI and art",
+   "accent": null,
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six people talking about AI and art. Choose from the list A-H the opinion each expresses. There are two extra letters.",
+   "script_text": "Speaker 1 (webtoon artist, woman): I posted a comic on Monday. By Friday there was a version in my exact style, made by a program, with my name nowhere on it. Nobody asked me. Nobody paid me. I'm not against new tools — but this took something of mine without permission. || Speaker 2 (design student, man): I use it most days, but only at the start. It throws ideas at me fast, I pick one, then I redraw the whole thing properly by hand. The machine gets me moving — it doesn't do the real work. That's still mine. || Speaker 3 (muralist, man): I paint twelve-metre walls in the open air, with the neighbourhood watching and arguing about the colours. A program can copy an image, fine. It can't stand on a ladder in the heat while a grandmother tells you the blue is wrong. My kind of art is safe. || Speaker 4 (gallery curator, woman): My problem isn't whether it's good. Some of it is beautiful. My problem is the wall label. What do I write? Who is the artist? How do I value a piece when I can't say who made it or how? Until we answer that, I'm cautious. || Speaker 5 (hobbyist, man): I never could draw, not even at school. Now I make little pictures for my friends and they love them. Am I an artist? No, and I'd never claim it. But I'm having fun making things for the first time in my life, and that counts for something. || Speaker 6 (AI developer, woman): Look, the program learns the way a student learns — by studying lots of work. That isn't theft, it's how everyone learns to draw. That said, I'll admit the original artists should probably get something back. We haven't solved that part yet."
+  },
+  {
+   "title": "Five stances on AI art (match to summary)",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five speakers. Match each to the opinion that fits. Two options are extra.",
+   "script_text": "Speaker 1 (man): If a picture makes me cry, I don't need its birth certificate. The feeling is real, whoever or whatever made it. || Speaker 2 (woman): I trained for fifteen years. A program that learned my work overnight and now competes with me — that's not progress, that's theft with extra steps. || Speaker 3 (man): I think we just need honesty. Label it. Then let people decide for themselves whether they like it. || Speaker 4 (woman): For me it's a sketchpad — I generate twenty rough ideas, throw away nineteen, then paint the last one myself by hand. || Speaker 5 (man): I couldn't draw a stick figure before. Now I make birthday cards for my family that actually look nice. I'm not calling myself an artist — it's just fun."
+  },
+  {
+   "title": "Reactions to AI images (8 short clips)",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each, choose the best answer.",
+   "script_text": "Clip 1 (gallery visitor, woman): Honestly? I stood in front of it for a good ten minutes. It was only when my son told me a computer had made it that my jaw dropped. I'd never have guessed. || Clip 2 (teenage boy): I use it for my history project covers. Takes me ten seconds instead of an hour drawing badly. I'm not pretending it's my art — it just gets the job done. || Clip 3 (art teacher, man): My worry isn't the tool. It's that students stop learning to look closely — to really see a face before they draw it. The machine sees for them now. || Clip 4 (young illustrator, woman): I found a picture online in my exact style — my colours, my line. I never made it. A program had learned me without asking. That's the part that stings. || Clip 5 (gallery owner, man): Do I sell them? Yes — they're popular and they're cheap to make. But I always tell the buyer it's AI. They have a right to know what they're paying for. || Clip 6 (university student, woman): People keep asking if it's real art. I think that's the wrong question. Ask instead who it helps and who it hurts. That tells you more than the label does. || Clip 7 (working parent, man): My daughter draws every single day. I'd hate for her to grow up thinking there's no point because a machine's faster. Faster isn't the same as better, is it? || Clip 8 (tech developer, woman): We're not replacing artists. We're handing more people a brush. Whether they paint anything worth looking at — that's still up to them, not us."
+  },
+  {
+   "title": "Painter vs developer (interview)",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with a traditional painter and an AI developer. Answer the questions.",
+   "script_text": "HOST: Let's start simply. Is what an AI makes — art? || PAINTER: It can be beautiful. I won't deny that. But art, to me, is about intention — a person choosing to say something. The machine chooses nothing. It has no reason to make anything at all. || DEV: I'd push back gently. When the painter learned, she studied thousands of works by others. The program does the same — it learns from examples. The intention comes from the person typing the prompt. || PAINTER: But the prompter didn't spend twenty years learning to see. They typed a sentence. There's a difference between asking for something and making it. || HOST: What about the artists whose work trained these systems? || DEV: That's the fair criticism, and I'll take it. Many weren't asked, and most weren't paid. We need to fix that — proper consent, proper compensation. I won't pretend it's solved. || PAINTER: At least we agree there. My work could be in that dataset right now and I'd never know. || HOST: So where does that leave a buyer, or a competition judge? || DEV: Label it honestly. Let people choose with open eyes. Transparency settles most of the worry. || PAINTER: Labelling helps, yes. But I'd still want a separate category. Don't make a twenty-year painter compete against a ten-second prompt and call it the same race. || HOST: A separate category — could that be the middle ground? || DEV: Honestly? It might be. I could live with that. || PAINTER: So could I. || HOST: Then we'll end on rare agreement. Thank you both."
+  },
+  {
+   "title": "How an AI learns to make pictures (talk)",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a short talk. Complete the notes. Write no more than three words in each gap.",
+   "script_text": "Good morning. Today I want to explain, simply, how an AI learns to make pictures — because once you see it, a lot of the mystery disappears. Start with the obvious: the program is not born knowing how to draw. It learns by example. So the first step is collecting examples — an enormous number of them. The people who build these systems gather a huge dataset of images, often by using software to scrape them automatically from across the internet. Next comes the learning itself. The program looks at all those pictures and works out patterns. It does not memorise any single image. Instead, it notices how light tends to fall, how a face is usually shaped, how a particular artist uses colour. From millions of examples, it builds up a sense of what things generally look like. Then you give it a prompt — a few words describing what you want. The program uses the patterns it has learned to generate a new image that fits your words. Because it learned from real artists, it can imitate a recognisable style on demand. And that is exactly where the arguments begin. The artists whose work filled that dataset were usually never asked, and they are almost never paid. So the technology is clever — but the questions about fairness are far from settled. Thank you."
+  },
+  {
+   "title": "Read-Aloud: A Picture in Ten Seconds",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "In the past, making a detailed picture took training, patience, and hours of work. Today, a new kind of computer program can produce one in about ten seconds. You type a few words — a \"prompt,\" such as a cat reading a book by candlelight — and the program builds an image to match. These programs are a form of artificial intelligence, often shortened to AI.\n\nHow do they do it? Each program has studied an enormous collection of pictures, called a dataset, made up of millions of images created by people over many years. From all those examples, the AI learns the patterns that make a picture look a certain way: how light falls, how a face is shaped, how a forest looks in the rain. When you give it a prompt, it does not copy any single picture. Instead, it uses what it has learned to generate something new that fits your words.\n\nThe output can be surprising. Some images look like photographs; others mimic the style of famous painters. Much of this work is now automated, which means the machine does most of the steps on its own, with very little help from a person once the prompt is typed.\n\nPublic reactions are mixed. Some people are amazed and call the images beautiful. Others are suspicious, because a seemingly original picture might really be built from the work of thousands of artists who were never asked. A third group simply shrugs, treating the whole thing as a passing novelty — fun for now, but not real art.\n\nOne thing is certain: the technology is spreading quickly. Students use it for school projects. Businesses use it for advertisements. Artists argue about whether it threatens their jobs or simply gives them a new tool. The pictures may be made in seconds, but the questions they raise will not be settled nearly as fast."
+  },
+  {
+   "title": "Read-Aloud: Should a Machine Win an Art Prize?",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "In 2022, a picture made with an AI program won first place in a digital-art competition in the United States. The artist had typed prompts, chosen from hundreds of results, and refined the final image — but no brush, pen, or camera was involved. The win caused an immediate controversy, and the questions it raised have not gone away.\n\nThe case for accepting AI art\nSupporters make several arguments. First, they say the result should be judged on its artistic merit alone: if a picture moves people, it should not matter how it was made. Second, they point to history. Photography was once dismissed as mere button-pressing, not real art; today it hangs in the world's great galleries. AI art, they argue, is simply the newest medium, and resistance to it will look old-fashioned within a generation. Third, they note that humans are still involved — choosing prompts, selecting outputs, editing results — so the work is not purely automatic. To this group, AI art is a legitimate form of expression that deserves recognition like any other.\n\nThe case against\nOpponents are unconvinced. Their central objection is about fairness: if an AI was trained on the work of human artists who were never paid, then any prize it wins is built on borrowed labour. Allowing such work to compete, they argue, is unfair to artists who spent years developing their skill. There is also a worry about value. If perfect-looking images can be produced in seconds by anyone, the special status of art — and the income of working artists — may be undermined. Some fear that letting AI win would damage the credibility of the prizes themselves, turning a test of human skill into a test of who has the best software.\n\nThe middle ground\nBetween these positions, many people take a more cautious view. They do not want to ban AI art, but they want transparency: entries should at least be labelled, so that judges and viewers know what they are looking at. Several competitions have responded by creating a separate category for AI work, rather than disqualifying it or letting it compete directly against human art. This, supporters of the idea say, respects both the new technology and the artists who fear it.\n\nNo agreement yet\nFor now, there is no consensus. Different competitions have reached different decisions, and the law offers little guidance. What once seemed a simple question — is this a real artist? — has become a matter of definition and judgement, argued case by case. The only certainty is that the question will be asked again, at the next competition, and the one after that."
+  },
+  {
+   "title": "Read-Aloud: Where Does an AI Learn to Draw?",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "The training problem\nAn AI image program is not born knowing how to draw. It learns by example — and the examples are real pictures made by real people. To build one of these programs, a company collects an enormous number of images, often by using software to scrape them automatically from across the internet. Photographs, paintings, comics, logos: billions of images are gathered, usually without anyone asking the people who made them.\n\nLearning a style\nFrom all this material, the program learns patterns. It notices how a certain artist uses colour, how a comic shades a face, how a photographer frames a street. Because it has seen so many examples, it can later imitate a distinctive style on demand. If you ask for a picture \"in the style of\" a particular illustrator, the result can be uncannily close — close enough that the illustrator must have been studied in detail during training, even though the company may never name whose work it used.\n\nCopying or learning?\nThis is where people disagree. The companies argue that the program does not store or copy any single picture; it only learns general patterns, the way a human student learns by looking at the masters. The output, they say, is new — not derivative. Many artists see it differently. Although the program never reproduces a picture exactly, it could not produce anything at all without the millions of works it absorbed. To these artists, learning a living person's style without consent is a form of taking.\n\nThe fairness question\nThree words come up again and again. The first is attribution: when a style is borrowed, the original artist is almost never credited. The second is consent: the artists were not asked whether their work could be used. The third is compensation: even when companies make money, the artists whose work trained the program are usually paid nothing. Some argue this is a clear case of exploitation; others say it may, in the end, count as fair use — a question the courts have only begun to settle.\n\nWhy it matters\nAt the heart of the dispute is an old idea given a new shape: intellectual property — the principle that what you create with your mind belongs, in some sense, to you. If a machine can absorb a lifetime of an artist's work and reproduce its flavour in seconds, that principle is harder to defend than it once was. The technology has run ahead of the rules, and the rules are now struggling to catch up."
+  },
+  {
+   "title": "Read-Aloud: The Thing a Machine Cannot Feel",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "by a working illustrator\n\nI have spent twenty years learning to draw. Twenty years of failed sketches, aching hands, and quiet mornings spent chasing a line that finally felt right. So when people tell me a machine can now make art in ten seconds, I understand why they are excited. It is true that the images are often beautiful — but beauty was never the whole point.\n\nHere is what those ten-second pictures are missing. When I draw my grandmother's hands, I am not simply arranging shapes that look like hands. I am remembering the smell of her kitchen, the way she held a pencil, the afternoon she taught me to shade. Every deliberate choice — this shadow, that gap, the slight tremble in the line — carries a meaning that I put there on purpose. The drawing is not just a picture of her hands. It is what I feel about her hands.\n\nA machine has no grandmother. It has no afternoon to remember. It can study a million drawings and learn, with astonishing skill, how a hand is shaped. It can even mimic the look of grief or joy. But it has never felt either. Although the result may move you, the machine intended nothing by it. The feeling you see was not placed there — you brought it yourself.\n\nPeople sometimes call my worry old-fashioned. Perhaps it is. New tools have always frightened the people they replace, and I will not pretend the camera did not terrify painters once. But there is a difference between a tool that helps a human express something and a tool that removes the human altogether. A camera still needs an eye behind it, a reason to press the button at that exact moment.\n\nThis is why the word \"soulless\" keeps returning to me. I do not mean the pictures are ugly; many are stunning. I mean they come from nowhere. They are answers to a question no one was really asking, made by something that wanted nothing, remembered nothing, and risked nothing.\n\nSo make your beautiful pictures in ten seconds, if you like. I will keep my twenty years. Because art, to me, was never proof that something could be made. It was proof that someone chose to make it — and cared, deeply, whether it was any good."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "5ce83d84-379e-4543-a613-16a090219253",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "extended_argumentative",
+   "register": "written-formal",
+   "title": "“A machine can never truly make art.” How far do you agree?",
+   "subtopic": "Real Art, Real Prize?",
+   "difficulty": null,
+   "scenario": "For a student magazine's debate page.",
+   "instruction": "Write an argumentative response giving your view, considering both sides, for the magazine's debate page.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "stance in introduction",
+    "concession paragraph (G-C-S)",
+    "speculation/reasoning paragraph (E-S-V)",
+    "strongest independent argument",
+    "conclusion resolving the stance"
+   ],
+   "grammar_focus": [
+    "concession linkers",
+    "modals of speculation / deduction"
+   ],
+   "required_vocab": [
+    "it could be argued that",
+    "this calls into question",
+    "there is no denying that",
+    "the heart of the matter is",
+    "intention",
+    "authentic",
+    "legitimate",
+    "merit"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Concede",
+      "examples": [
+       "Admittedly, AI can produce images that move us.",
+       "It is true that a machine can imitate almost any style."
+      ]
+     },
+     {
+      "fn": "Speculate (graded certainty)",
+      "examples": [
+       "A machine might copy the look of art, but not its meaning.",
+       "If there is no intention behind it, it cannot truly be art."
+      ]
+     },
+     {
+      "fn": "Argue (your own point)",
+      "examples": [
+       "The real value of art lies in the human choice behind it.",
+       "What moves us is knowing a person meant it."
+      ]
+     },
+     {
+      "fn": "Resolve (conclusion)",
+      "examples": [
+       "On balance, a machine may assist art, but it can never truly make it.",
+       "While the tools will improve, the heart of art must stay human."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a formal essay arguing how far you agree that a machine can never truly make art.",
+     "points": [
+      {
+       "how": "Open by reframing the question in your own words, then state your position. Don't drift — by the end of the intro, the reader knows exactly where you stand. 'While AI can imitate art, I don't believe it can truly create it.'",
+       "point": "stance in introduction"
+      },
+      {
+       "how": "Give the other side its strongest point, fairly. Use a concession linker: 'Admittedly, AI can produce work that moves people.' Granting it honestly shows you've thought, and sets up your counter.",
+       "point": "concession paragraph (G-C-S)"
+      },
+      {
+       "how": "Reason it through with modals of speculation. Move from evidence to a careful claim. 'A machine might copy a style, but it can't truly mean it.' Grade your certainty — 'might', 'could', up to 'must' or 'can't' — so your reasoning sounds measured.",
+       "point": "speculation/reasoning paragraph (E-S-V)"
+      },
+      {
+       "how": "Now your strongest point of your own — not a reply to them, but your case. What's the one argument that best supports your side? Build it fully: state it, back it, give an example. This is your essay standing on its own.",
+       "point": "strongest independent argument"
+      },
+      {
+       "how": "End by resolving your stance, not just repeating it. Pull your points together and give your final judgement: how far do you agree? Leave the reader with your position settled, not hanging.",
+       "point": "conclusion resolving the stance"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "One-sided (no concession) — grant the other side before pushing back.",
+     "Asserting without grading certainty — use could/might/must, not flat claims.",
+     "Chunks bolted on rather than integrated — weave the argument phrases in naturally."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a formal argumentative essay, with clear paragraphs."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all five: stance, concession, reasoning, my own argument, and a resolving conclusion."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal and academic — no slang, no chatty asides."
+     },
+     {
+      "ref": "G1",
+      "text": "I used concession linkers ('admittedly') and modals of speculation ('might', 'can't')."
+     },
+     {
+      "ref": "W6",
+      "text": "Each paragraph has one job, and they build to my conclusion."
+     }
+    ],
+    "structure": [
+     {
+      "do": "state your stance clearly in the introduction",
+      "stage": "Stance (intro)"
+     },
+     {
+      "do": "concede the other side, then push back — grant, counter, stand",
+      "stage": "Concession (G-C-S)"
+     },
+     {
+      "do": "reason from evidence using graded certainty (could/might -> must/can't)",
+      "stage": "Speculation/reasoning (E-S-V)"
+     },
+     {
+      "do": "make your strongest own argument",
+      "stage": "Strongest independent argument"
+     },
+     {
+      "do": "resolve the stance",
+      "stage": "Conclusion"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Argument chunks",
+       "words": [
+        "it could be argued that",
+        "this calls into question",
+        "there is no denying that",
+        "the heart of the matter is"
+       ],
+       "target_words": [
+        "it could be argued that",
+        "this calls into question"
+       ]
+      },
+      {
+       "label": "Key terms",
+       "words": [
+        "intention",
+        "authentic",
+        "legitimate",
+        "merit"
+       ],
+       "target_words": [
+        "intention",
+        "authentic",
+        "legitimate",
+        "merit"
+       ]
+      }
+     ],
+     "target_min": 5
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Few questions divide the art world today like this one: can a machine truly make art, or only imitate it? While AI can now produce images of startling beauty, I largely agree that a machine can never truly make art, because real art depends on something a program does not have — human intention.\n\nThere is no denying that AI produces work that moves people. It could be argued that if an image brings a viewer to tears, the question of who made it hardly matters. A machine can imitate almost any style, and some of its output is, by any fair measure, beautiful. To dismiss this would be dishonest.\n\nAnd yet beauty alone is not art. A machine might copy the look of a painting, but it cannot mean it. It produces patterns it has learned, with no idea of what they say or why. If there is no intention behind an image, this calls into question whether it can be called art at all, however authentic it appears. The machine feels nothing; it only predicts.\n\nMy strongest reason, though, is simpler. What moves us in real art is the knowledge that a person chose every line for a reason — that a human being, with a whole life behind them, decided this mattered enough to make. That choice is the merit of art, and it cannot be automated. A tool may hand more people a brush, but the meaning must still come from them.\n\nOn balance, then, a machine may assist art, and even improve it, but it can never legitimately claim to have made it. The heart of the matter is not the image, but the mind behind it — and that, for now, remains ours alone.",
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "Content (W4)",
+     "Organisation/argument structure (W6)",
+     "Register (W5)",
+     "Vocabulary",
+     "Grammar incl. frames (G1)"
+    ]
+   },
+   "exam_refs": [
+    "W4",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "03284f3e-6bd3-4371-b394-20b82217c290",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "directed_speech",
+   "register": "spoken-formal",
+   "title": "Should the school art prize accept AI entries?",
+   "subtopic": "Real Art, Real Prize?",
+   "difficulty": null,
+   "scenario": "Your school is deciding whether its annual art prize should accept AI-generated entries.",
+   "instruction": "Give a short speech at a student assembly arguing your position. Address your schoolmates and teachers directly.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "clear stance",
+    "strongest opposing point granted then countered",
+    "a call to action"
+   ],
+   "grammar_focus": [
+    "concession linkers",
+    "modals of speculation"
+   ],
+   "required_vocab": [
+    "there is no denying that",
+    "legitimate",
+    "merit",
+    "credibility"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Concede (grant)",
+      "examples": [
+       "Some of you will say...",
+       "I understand why — however,..."
+      ]
+     },
+     {
+      "fn": "Engage the audience",
+      "examples": [
+       "Ask yourself this:...",
+       "So where does that leave us?"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a persuasive speech arguing whether the school art prize should accept AI entries.",
+     "points": [
+      {
+       "how": "Open with where you stand — clearly, in the first few lines. This is a speech, so your audience can't reread. Say it plainly: 'I believe AI art has no place in this prize.' Don't leave them guessing where you stand.",
+       "point": "clear stance"
+      },
+      {
+       "how": "Take the other side's best point and grant it honestly — not a weak one. Use a concession linker: 'Admittedly, AI can produce striking images.' Then turn it: 'But art is about the human behind it.' Granting fairly makes your counter stronger.",
+       "point": "strongest opposing point granted then countered"
+      },
+      {
+       "how": "End by telling the audience what to do. A speech should move people, not just inform them. 'So when you vote, keep this prize for human hands.' Make it direct, and memorable.",
+       "point": "a call to action"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Drifts into an essay — use audience signals (you, us, ask yourself).",
+     "'Although...but...' doubling — use one or the other, not both.",
+     "Flat assertion with no concession — grant the other side first."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It sounds like a speech — I speak to the audience directly ('imagine...', 'you decide')."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal but spoken — persuasive, not a casual chat or a dry essay."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: my stance, a granted-then-countered objection, and a call to action."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a concession linker, like 'admittedly' or 'it is true that', before countering."
+     },
+     {
+      "ref": "W6",
+      "text": "It moves from my stance, through the concession and counter, to the call to action."
+     }
+    ],
+    "structure": [
+     {
+      "do": "open with a hook and state your stance clearly to the audience",
+      "stage": "Hook + stance"
+     },
+     {
+      "do": "grant the strongest opposing point fairly (concession)",
+      "stage": "Grant"
+     },
+     {
+      "do": "counter it — push back without self-contradiction",
+      "stage": "Counter"
+     },
+     {
+      "do": "reassert your stance",
+      "stage": "Stand"
+     },
+     {
+      "do": "end with a clear call to action",
+      "stage": "Call to action"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Argument language",
+       "words": [
+        "there is no denying that",
+        "legitimate",
+        "merit",
+        "credibility"
+       ],
+       "target_words": [
+        "there is no denying that",
+        "legitimate",
+        "merit",
+        "credibility"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Fellow students, teachers — in a few weeks, you will vote on a simple question with a not-so-simple answer: should our art prize accept AI entries?\n\nI believe it should not — and let me tell you why.\n\nThere is no denying that AI can produce striking images. Some of you will say that if the result is beautiful, it deserves a place, and I understand the appeal. A machine can imitate any style in seconds; its output can look every bit as polished as a human entry.\n\nBut ask yourself this: what is this prize actually for? It exists to reward the hours a young artist spends learning, failing, and trying again. A program that borrows a thousand styles overnight has earned none of that. To hand it the prize would strip the award of its credibility, and rob a real student of the recognition they have earned through genuine merit.\n\nSo when the vote comes, keep this prize a legitimate celebration of human effort. Keep it for the hands that drew it. Vote to keep our art prize human.",
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "Content/task fulfilment (W4)",
+     "Organisation incl. speech shape (W6)",
+     "Register & audience (W5)",
+     "Vocabulary range",
+     "Grammatical accuracy incl. frames (G1)"
+    ]
+   },
+   "exam_refs": [
+    "W4",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "860feb84-3e5a-49fe-9581-d65bcfeb3ee1",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "discussion",
+   "title": "Card 2 — Can a machine be creative?",
+   "subtopic": "Whose Hand, Whose Eye?",
+   "difficulty": null,
+   "topic": "art",
+   "intro": "Argument card: develop a reasoned view, conceding and rebutting.",
+   "card_points": [
+    "state your view on machine creativity",
+    "one reason",
+    "concede the other side",
+    "push back",
+    "a judgement"
+   ],
+   "discussion_questions": [
+    "Is copying a style the same as stealing it?",
+    "Could AI ever surprise us the way a human artist can?",
+    "Will made-by-a-human become a selling point?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Evaluation -> Speculation -> Verdict",
+     "name": "E-S-V",
+     "example": "A machine can produce something that looks genuinely new (E), though it might only be recombining patterns it has seen, with no intention of its own (S) — so it must be imitating creativity rather than truly having it, which makes its work clever but derivative (V)."
+    },
+    "stems": [
+     {
+      "fn": "Evaluate (state a view)",
+      "examples": [
+       "In my view, ___.",
+       "I'd argue that ___."
+      ]
+     },
+     {
+      "fn": "Speculate (modals)",
+      "examples": [
+       "It might ___, though it could just ___.",
+       "It may be that ___."
+      ]
+     },
+     {
+      "fn": "Push back",
+      "examples": [
+       "Then again, it could just ___.",
+       "But it might really only ___."
+      ]
+     },
+     {
+      "fn": "Deliver a verdict (deduction)",
+      "examples": [
+       "So it must ___.",
+       "That must mean ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a turn on whether a machine can be creative — evaluate, speculate, land a verdict — then discuss it.",
+     "discussion_how": [
+      {
+       "q": "Is copying a style the same as stealing it?",
+       "how": "Take a view, then reason it through. 'Not quite — learning from a style is normal, but copying it exactly might cross a line.' A speculation modal like might fits as you weigh it. A clear reason answers this far better than 'it depends'."
+      },
+      {
+       "q": "Could AI ever surprise us the way a human artist can?",
+       "how": "Give a view — and speculation modals fit this 'could' question well. 'It could surprise us with new combinations, but it may never shock us with real meaning.' Reason about what's possible, then land. Thoughtful speculation is the skill here."
+      },
+      {
+       "q": "Will made-by-a-human become a selling point?",
+       "how": "Take a view on the future, with a reason. 'I think it will — people may pay more for something genuinely human-made.' Say why the human touch might matter, or might not. A reasoned prediction answers this well."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Start by evaluating — state your view clearly. 'In my view, a machine can look creative, but isn't truly creative.' This is the Evaluate step: take a position before you reason. A clear view anchors the whole turn.",
+       "point": "state your view on machine creativity (E)"
+      },
+      {
+       "how": "Give one solid reason for your view — still the Evaluate stage. 'It follows patterns in its training, rather than feeling a real urge to create.' One built-out reason beats several thin ones. This grounds your evaluation.",
+       "point": "one reason (E)"
+      },
+      {
+       "how": "Now speculate — and start by fairly conceding the other side. 'It might seem genuinely creative, since some results really do surprise us.' Use might or could here — you're weighing a possibility, not stating fact. A fair concession makes you sound thoughtful.",
+       "point": "concede the other side (S)"
+      },
+      {
+       "how": "Still speculating — now push back on that concession. 'But it could simply be recombining what it has seen — derivative work, with no intention behind it.' Again, could or might: you're reasoning about what's likely, not certain. This is the heart of the Speculate stage.",
+       "point": "push back (S, speculate with modals)"
+      },
+      {
+       "how": "End with your Verdict — a judgement, stated with deduction. 'So it must be imitating creativity, rather than truly having it.' Use must here: you've reasoned it through, so you conclude firmly. A clear verdict lands the whole turn.",
+       "point": "a judgement (V, deduction)"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Stating speculation as fact — use might/could in the Speculate stage.",
+     "Skipping the verdict — E-S-V must land a judgement (use must).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I evaluated (stated a view + reason) before reasoning further"
+     },
+     {
+      "ref": "S1",
+      "text": "I speculated with might/could (concede then push back)"
+     },
+     {
+      "ref": "S1",
+      "text": "I landed a verdict with deduction (must)"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Creativity & intention",
+       "words": [
+        "creative",
+        "intention",
+        "genuine",
+        "spark"
+       ],
+       "target_words": [
+        "creative",
+        "intention"
+       ]
+      },
+      {
+       "label": "Imitation",
+       "words": [
+        "imitate",
+        "derivative",
+        "pattern",
+        "recombine"
+       ],
+       "target_words": [
+        "derivative"
+       ]
+      },
+      {
+       "label": "Speculate / judge",
+       "words": [
+        "it might be",
+        "it could be",
+        "that must mean",
+        "arguably"
+       ],
+       "target_words": [
+        "it might be"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "My view is that a machine can be creative, but only in a narrow way.\n\nMy main reason is surprise. These programs combine ideas that nobody asked for, and sometimes the result genuinely surprises us — and surprise has always been part of what we call creativity.\n\nThat said, I can see the other side, and it's a fair point: the machine is remixing human work without knowing what any of it means. It has no intention, so calling it creative might be too generous.\n\nBut I'd push back a little: if we only judge by feelings, we can never test it. If we judge by results — new, surprising, useful work — then the machine sometimes passes.\n\nSo my judgement is this: machines can be creative tools, but not creative minds. There is no denying that the spark of an idea still has to come from a person.",
+   "required_vocab": [
+    "creative",
+    "intention",
+    "genuine",
+    "derivative"
+   ],
+   "grammar_focus": [
+    "modals of speculation/deduction"
+   ],
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "S2 discussion & argument",
+     "G1"
+    ]
+   },
+   "exam_refs": [
+    "S2",
+    "G1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 3,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "2658e9a0-dd15-4ac8-a6d5-9271c3a1e22c",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "discussion",
+   "title": "Card 3 — Should a machine win an art prize?",
+   "subtopic": "Real Art, Real Prize?",
+   "difficulty": null,
+   "topic": "art",
+   "intro": "Debate-linked card: take a position, grant, counter, resolve.",
+   "card_points": [
+    "your position on AI winning a prize",
+    "grant the opposing point",
+    "counter it",
+    "reassert",
+    "resolve"
+   ],
+   "discussion_questions": [
+    "What would change your mind on this?",
+    "Is a separate AI category fair, or a cop-out?",
+    "Who should decide — judges, artists, or the public?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Grant -> Counter -> Stand",
+     "name": "G-C-S",
+     "example": "There is no denying that an AI image can be beautiful enough to deserve a prize (G), but it was built from artists' unpaid work, with little transparency about its sources (C) — so a prize should reward human merit, and however good the image looks, an AI win wouldn't feel legitimate (S)."
+    },
+    "stems": [
+     {
+      "fn": "State a position",
+      "examples": [
+       "In my view, ___.",
+       "My stand is that ___."
+      ]
+     },
+     {
+      "fn": "Grant (concession linker)",
+      "examples": [
+       "There is no denying that ___.",
+       "Although ___, ___."
+      ]
+     },
+     {
+      "fn": "Counter",
+      "examples": [
+       "But in reality, ___.",
+       "Even then, the problem is ___."
+      ]
+     },
+     {
+      "fn": "Stand (reassert + resolve)",
+      "examples": [
+       "So ___ — however ___.",
+       "Even so, ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Argue whether a machine should win an art prize — grant, counter, take a stand — then discuss it.",
+     "discussion_how": [
+      {
+       "q": "What would change your mind on this?",
+       "how": "Name a real condition that would shift your view. 'If artists were always credited and paid, I might feel differently.' Showing what would change your mind proves you've thought it through. An honest 'if' is a strong answer here."
+      },
+      {
+       "q": "Is a separate AI category fair, or a cop-out?",
+       "how": "Take a view on a separate category, with a reason. 'A separate category seems fair — although some would say it just avoids the hard question.' Use 'although' to grant the other read, then hold your view. Weigh it honestly, then land."
+      },
+      {
+       "q": "Who should decide — judges, artists, or the public?",
+       "how": "Pick who should decide, then justify it. 'Artists and judges together — their expertise gives the result credibility.' Don't just list the three; choose, and say why. A reasoned choice beats naming all of them."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open with your position — clearly, in a line. 'In my view, a machine shouldn't win a major art prize.' Take your stance up front; you'll defend it through the turn. A clear opening stance sets up the grant and counter to come.",
+       "point": "your position on AI winning a prize (open stance)"
+      },
+      {
+       "how": "Now Grant the other side fairly — use a concession linker. 'There is no denying that some AI images are beautiful enough to deserve a prize.' Start with 'There is no denying that…' or 'Although…'. Granting honestly makes your stand stronger, not weaker.",
+       "point": "grant the opposing point (G)"
+      },
+      {
+       "how": "Now Counter — explain why that granted point isn't the whole story. 'But it was trained on artists' work, often used without their permission, with little transparency.' This is the pivot: you accepted the point, now you limit it. A strong counter is specific, not vague.",
+       "point": "counter it (C)"
+      },
+      {
+       "how": "Begin your Stand — reassert your position now the counter has landed. 'So a prize should reward human merit, not a machine's output.' Restate your view with new force, built on the counter. This is where your argument resolves.",
+       "point": "reassert (S)"
+      },
+      {
+       "how": "Finish the Stand — resolve it with a concession linker. 'However good the image looks, an AI win wouldn't be legitimate.' Use 'However…' or 'Even so…' to hold your line against the best of the other side. A firm resolve lands the whole turn.",
+       "point": "resolve (S)"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Granting nothing (sounds one-sided) — a fair grant makes the stand stronger.",
+     "Granting so much you lose your stand — counter and reassert firmly.",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I stated a clear position up front"
+     },
+     {
+      "ref": "S1",
+      "text": "I granted a real opposing point with a concession linker"
+     },
+     {
+      "ref": "S1",
+      "text": "I countered, then reasserted and resolved my stand (however / even so)"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Prizes & merit",
+       "words": [
+        "merit",
+        "legitimate",
+        "recognition",
+        "credibility"
+       ],
+       "target_words": [
+        "merit",
+        "legitimate"
+       ]
+      },
+      {
+       "label": "Fairness & transparency",
+       "words": [
+        "fair",
+        "transparency",
+        "disqualify",
+        "entry"
+       ],
+       "target_words": [
+        "transparency"
+       ]
+      },
+      {
+       "label": "Concede & stand",
+       "words": [
+        "there is no denying that",
+        "although",
+        "however",
+        "even so"
+       ],
+       "target_words": [
+        "although"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "My position is that a machine should be allowed to win an art prize — but only in its own clearly labelled category.\n\nI completely understand why many artists would hate this idea, and they have a strong case: a prize rewards effort and growth, and a program has never struggled for anything. If a machine takes the main prize, a young artist loses recognition they have genuinely earned. That matters.\n\nBut refusing to look at this new work at all doesn't feel like fairness; it feels like fear. Some of it has real merit, and pretending otherwise damages the credibility of the prize in the other direction.\n\nSo I'd reassert my position: keep the main award for human hands, and create an honest, separate category for AI work, clearly labelled.\n\nThat way, the resolution is fair to everyone: human effort keeps its legitimate reward, and new tools are judged openly for what they are.",
+   "required_vocab": [
+    "merit",
+    "legitimate",
+    "credibility",
+    "transparency"
+   ],
+   "grammar_focus": [
+    "concession linkers"
+   ],
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "S2 discussion & argument",
+     "G1"
+    ]
+   },
+   "exam_refs": [
+    "S2",
+    "G1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 4,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "56552a6c-9538-4d48-970b-32ffa3fa473c",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "long-turn",
+   "title": "Card 1 — Something you have made",
+   "subtopic": "Made by a Machine",
+   "difficulty": null,
+   "topic": "art",
+   "intro": "Warm-up: talk about something you have created and how you felt about the result.",
+   "card_points": [
+    "what you made",
+    "how you made it, step by step",
+    "one difficulty you hit",
+    "how you felt about the result",
+    "one thing you would change"
+   ],
+   "discussion_questions": [
+    "Does it count as making something if a machine does most of the work — where's the line?",
+    "When you make something, how much of you ends up in it?",
+    "If two people type the same prompt and get different pictures, who made each one?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "The thing I'm proudest of making is a meal I cooked for my family (Point), because I wanted to create something special with my own hands (Reason), so I followed a recipe but added my own twist (Result) — when everyone enjoyed it, I felt proud it was original and mine (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "I'd like to talk about something I made — ___.",
+       "The thing I'm proudest of making is ___."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "I made it because ___, which means ___.",
+       "For example, ___."
+      ]
+     },
+     {
+      "fn": "Describe a step (sequence)",
+      "examples": [
+       "First I ___, then I ___.",
+       "After that, I ___, until ___."
+      ]
+     },
+     {
+      "fn": "Reflect (how you felt / what you'd change)",
+      "examples": [
+       "In the end I felt ___, because ___.",
+       "Next time, I'd ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about something you've made, then discuss making things with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Does it count as making something if a machine does most of the work — where's the line?",
+       "how": "Take a view, then draw your line. 'It still counts if a person guides it — but if the machine does everything, less so.' Say where you'd put the line, and why. A clear line answers this far better than 'it depends'."
+      },
+      {
+       "q": "When you make something, how much of you ends up in it?",
+       "how": "Give a view, then a reason or example. 'A lot of me — my choices and taste are what make it original.' Think about what makes your work yours. A personal reason makes this reflective question land."
+      },
+      {
+       "q": "If two people type the same prompt and get different pictures, who made each one?",
+       "how": "Take a thoughtful view on who made it. 'Each person did — their choice of words and what they kept shaped the result.' There's no single right answer; just reason it through. A considered view matters more than certainty here."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name what you made, then add one detail to picture it. 'I made a short video about my neighbourhood, just on my phone.' It could be food, a craft, a drawing, code — anything. One detail brings it to life before you explain how.",
+       "point": "what you made"
+      },
+      {
+       "how": "Walk me through it — but just a couple of real steps, not every tiny one. 'First I planned the shots, then filmed over a weekend, then edited it together.' Use sequence words: first, then, after that. A clear few steps beat a long list.",
+       "point": "how you made it, step by step"
+      },
+      {
+       "how": "Pick one real difficulty, and say how you handled it. 'The sound kept coming out badly, so I had to record it again in a quiet room.' One honest snag makes the story real. Show how you got past it.",
+       "point": "one difficulty you hit"
+      },
+      {
+       "how": "Give your genuine reaction — and build it out. 'I felt really proud, because I'd created something completely my own.' Name the feeling, then why. Honest feeling is what makes the talk warm.",
+       "point": "how you felt about the result"
+      },
+      {
+       "how": "End by looking forward — one thing you'd change next time. 'I'd plan the sound better, so the whole thing felt more polished.' This shows you can reflect, not just describe. A thoughtful 'next time' rounds the talk off well.",
+       "point": "one thing you would change"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing every tiny step — pick a few real ones.",
+     "Skipping the difficulty or the reflection — they carry the marks.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I described the steps in a clear sequence"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Making it",
+       "words": [
+        "create",
+        "make",
+        "craft",
+        "design"
+       ],
+       "target_words": [
+        "create"
+       ]
+      },
+      {
+       "label": "Describe the result",
+       "words": [
+        "original",
+        "result",
+        "outcome",
+        "finished"
+       ],
+       "target_words": [
+        "original"
+       ]
+      },
+      {
+       "label": "Reflect",
+       "words": [
+        "proud",
+        "improve",
+        "tricky",
+        "satisfying"
+       ],
+       "target_words": [
+        "proud"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "I'd like to tell you about a small clay bowl I made last year, as a present for my grandmother.\n\nThe steps were simple, at least on paper. First I rolled the clay flat, then I shaped it over an old bowl we had at home, and smoothed the edges with a wet spoon. After it dried, I painted it blue and white and added her name on the bottom.\n\nThe difficult part was the drying. My first bowl cracked right down the middle because I left it in the sun, so I had to start again and let the second one dry slowly, in the shade, for three days. That took real patience.\n\nWhen it was finished, honestly, I felt prouder of that little bowl than of things I've bought that cost far more. It wasn't perfect — one side sits slightly higher than the other — but every mark on it was mine.\n\nIf I made another one, I might use better paint, because the colour has faded a little. But I wouldn't change the wobble. That's the part that proves a person made it.",
+   "required_vocab": [
+    "create",
+    "make",
+    "original",
+    "result"
+   ],
+   "grammar_focus": null,
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "S1 extended response"
+    ]
+   },
+   "exam_refs": [
+    "S1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "eae4ffa0-3431-4451-9f05-1af0819027f5",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "debate",
+   "title": "Class debate — AI art is real art",
+   "subtopic": "Real Art, Real Prize?",
+   "difficulty": null,
+   "topic": "art",
+   "intro": "Assigned-side team debate (students do not choose their side): proposition vs opposition, live spoken exchange with rebuttal. Motion: “AI-generated work should be considered real art.”",
+   "card_points": [
+    "opening statement (assigned side)",
+    "one supporting argument",
+    "one rebuttal of the other side",
+    "closing"
+   ],
+   "discussion_questions": [
+    "Does it count as making something if a machine does most of the work?",
+    "Is copying a style the same as stealing it?",
+    "Could AI ever surprise us the way a human artist can?",
+    "Will made-by-a-human become a selling point?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "State your stand -> reason(s) with example -> concede + rebut -> restate",
+     "name": "Stand-Reasons-Concede-Restate",
+     "example": "My team argues that AI-generated work is real art (Stand). It still takes a human to imagine the idea and choose the result, so the creative intention is real (Reason) — and while a machine could never feel inspiration, it might still help us express ours (Reason). It is true that AI learns from existing artists (Concede); even so, every human artist also learns by studying others (Rebut). For these reasons, AI-generated work deserves to count as real art (Restate)."
+    },
+    "stems": [
+     {
+      "fn": "Claim",
+      "examples": [
+       "My team argues that ___.",
+       "We firmly believe ___."
+      ]
+     },
+     {
+      "fn": "Support",
+      "examples": [
+       "Our strongest reason is ___, for example ___.",
+       "On top of that, ___."
+      ]
+     },
+     {
+      "fn": "Concede & counter",
+      "examples": [
+       "Some argue that ___, but ___.",
+       "It is true that ___; even so, ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Pick your assigned side and argue only it — stand, reason, concede and rebut, then restate.",
+     "discussion_how": [
+      {
+       "q": "Does it count as making something if a machine does most of the work?",
+       "how": "Take a view, then draw your line. 'It still counts if a person guides it — but if the machine does it all, less so.' Say where the line falls, and why. A clear line beats 'it depends'."
+      },
+      {
+       "q": "Is copying a style the same as stealing it?",
+       "how": "Take a view, then reason it through. 'Learning a style is normal, but copying it exactly might cross a line.' A speculation modal like might fits as you weigh it. A clear reason answers this well."
+      },
+      {
+       "q": "Could AI ever surprise us the way a human artist can?",
+       "how": "Give a view — speculation modals fit this 'could' well. 'It could surprise us with new combinations, but may never move us with real meaning.' Reason about what's possible, then land. Thoughtful speculation is the skill."
+      },
+      {
+       "q": "Will made-by-a-human become a selling point?",
+       "how": "Take a view on the future, with a reason. 'I think it will — people may pay more for something authentically human.' Say why the human touch might matter. A reasoned prediction answers this well."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by committing to your assigned side — boldly, in one line. 'My team argues that AI-generated work IS real art.' No hedging; a debate rewards a clear stand. Say it with confidence, then defend it.",
+       "point": "opening statement (assigned side) = Stand"
+      },
+      {
+       "how": "Give your strongest argument — built out, with an example. 'AI art still needs a human to guide and choose it, so the intention is there.' Add a second angle if you can. A speculation modal fits here: 'a machine could never feel inspiration, but it might still channel ours.'",
+       "point": "one supporting argument = Reason(s)"
+      },
+      {
+       "how": "Take one real opposing point, concede it with a linker, then push back. 'It is true that AI learns from other artists' work; even so, every human artist learns from others too.' Use 'some argue…, but…' or 'it is true that…; even so…'. Concede to win, not to stay neutral.",
+       "point": "one rebuttal of the other side = Concede+Rebut"
+      },
+      {
+       "how": "Close by restating your stand — no new arguments. 'For these reasons, AI-generated work deserves to be called real art.' Bring it back to your side with the same confidence you opened with. A firm restatement settles the whole case.",
+       "point": "closing = Restate"
+      }
+     ]
+    },
+    "format": "assigned-side team debate, proposition vs opposition, live rebuttal",
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "motion": "AI-generated work should be considered real art.",
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute turn - ideas extended, argued one side, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "Arguing both sides instead of your assigned one - commit to one side.",
+     "A reason with no example - back it up.",
+     "Skipping the concede+rebut (a debate move worth marks).",
+     "No closing restatement, or rushing the delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "for_points": [
+     "A human still prompts, guides, and curates the result — that creative intention gives the work real merit.",
+     "It democratises creating: people without traditional training can now make and share art.",
+     "What matters is whether a work moves us — if it stirs genuine feeling, that makes it legitimate art.",
+     "Every new tool — photography, digital design — was once dismissed, then accepted as authentic art."
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I stated a clear stand for my assigned side and held it"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave a supporting argument with an example"
+     },
+     {
+      "ref": "S1",
+      "text": "I conceded one opposing point and rebutted it (it is true that… even so…)"
+     },
+     {
+      "ref": "S1",
+      "text": "I restated my stand to close"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "What counts as art",
+       "words": [
+        "authentic",
+        "legitimate",
+        "merit",
+        "intention"
+       ],
+       "target_words": [
+        "authentic",
+        "legitimate"
+       ]
+      },
+      {
+       "label": "The AI side",
+       "words": [
+        "derivative",
+        "generate",
+        "accessible",
+        "prompt"
+       ],
+       "target_words": [
+        "derivative"
+       ]
+      },
+      {
+       "label": "Argue chunks",
+       "words": [
+        "some argue",
+        "it is true that, however",
+        "for these reasons"
+       ],
+       "target_words": [
+        "some argue"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "against_points": [
+     "Art needs a maker's lived experience and intention — a machine has neither, so the result can feel hollow.",
+     "It is often derivative, built on artists' work used without consent or credit.",
+     "The skill and struggle of making something by hand is part of what gives art its value.",
+     "It floods the world with cheap images, which can devalue the authentic work of human artists."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "Good afternoon. Our side will argue that AI art is real art — and we'll show you why this is not as shocking as it sounds.\n\nOur main argument is history. Every new tool in art has been called cheating at first. When photography arrived, painters said a machine was doing the work; today, photographs hang in galleries. The tool changes; the art remains.\n\nNow, the other side will tell you there is no intention behind an AI image — that nobody meant it. But look closer: a person chose the idea, shaped the instructions, rejected a hundred results, and kept one. The intention is human. Only the brush is new.\n\nSo we say this: judge the work on the wall, not the tool in the hand. If an image can move you, challenge you, or stay with you for days, then it has earned the name of art — whoever, or whatever, held the brush.\n\nThank you.",
+   "required_vocab": [
+    "legitimate",
+    "merit",
+    "derivative",
+    "authentic"
+   ],
+   "grammar_focus": [
+    "concession linkers",
+    "modals of speculation/deduction"
+   ],
+   "rubric": {
+    "bands": 5,
+    "marking": "human",
+    "criteria": [
+     "S2 discussion & argument",
+     "G1"
+    ]
+   },
+   "exam_refs": [
+    "S2",
+    "G1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 5,
+   "created_at": "2026-05-30T15:13:24.493737+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "382b2aef-4184-4315-92bf-ed6de91d4cd7",
+   "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (art & creativity)",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": null,
+   "intro": null,
+   "card_points": null,
+   "discussion_questions": [
+    "Do you enjoy any kind of art — drawing, music, photography, anything creative?",
+    "Did you do much art at school when you were younger?",
+    "Do you prefer making things yourself, or enjoying what others create?",
+    "Have you ever made something you were really proud of?",
+    "Is there a kind of art or music that's popular where you live?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I really enjoy drawing (Point), because it lets me create something that's truly my own (Reason), so I feel calm and focused when I do it (Result) — finishing a sketch I'm proud of always makes me appreciate the effort it took (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name something you enjoy/made + a reason",
+      "examples": [
+       "One thing I love to create is ___, because ___.",
+       "Something I made and was proud of is ___, as ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions about art and making things — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Do you enjoy any kind of art — drawing, music, photography, anything creative?",
+       "how": "Name what you enjoy — and remember art is broad. 'I love music, mainly because it lets me switch off and feel something.' Drawing, photos, making videos — any of it counts. One reason makes a flat 'yes' real."
+      },
+      {
+       "q": "Did you do much art at school when you were younger?",
+       "how": "Say how much — a lot, a little, or none — then add a detail. 'A little — we drew and painted sometimes, and I enjoyed it.' If you didn't, that's fine; say what you did instead. One honest detail is enough."
+      },
+      {
+       "q": "Do you prefer making things yourself, or enjoying what others create?",
+       "how": "State your preference, then a quick why. 'I prefer making things, mainly because there's a real joy in creating something.' Both answers are fine — just give an honest reason. 'Mainly because...' is a handy way to start."
+      },
+      {
+       "q": "Have you ever made something you were really proud of?",
+       "how": "Say what it was, and why it mattered. 'Yes — I once painted a picture for my grandmother.' Even a small thing counts; add why you were proud. If not, say what you'd love to make."
+      },
+      {
+       "q": "Is there a kind of art or music that's popular where you live?",
+       "how": "Say what you notice, and you can keep it general. 'Pop music is everywhere, though traditional styles are still appreciated by many.' You're describing what you see, not speaking for everyone. One example is plenty."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Turning it into a speech or a lecture - keep it personal and warm.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named something creative I enjoy or made and said why"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Making & art",
+       "words": [
+        "create",
+        "design",
+        "original",
+        "express"
+       ],
+       "target_words": [
+        "create"
+       ]
+      },
+      {
+       "label": "Enjoying art",
+       "words": [
+        "appreciate",
+        "talent",
+        "imaginative",
+        "inspiring"
+       ],
+       "target_words": [
+        "appreciate"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "what I enjoy is",
+        "to be honest",
+        "especially"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-07T04:36:06.887038+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

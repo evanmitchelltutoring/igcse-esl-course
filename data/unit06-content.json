@@ -1,0 +1,3278 @@
+{
+ "_about": "Real live content for Fashion & Identity (fashion-and-identity). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 6,
+  "slug": "fashion-and-identity",
+  "title": "Fashion & Identity",
+  "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Orientation: Stand Out or Fit In?",
+   "skill": "orientation",
+   "minutes": 10,
+   "blocks": [
+    "owner_voice_slots",
+    "hook",
+    "teaching_page",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary Launch: The Words of Style",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "owner_voice_slots",
+    "hook",
+    "teaching_page",
+    "text",
+    "vocab_set",
+    "guided_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Reading: Trends in Motion",
+   "skill": "reading",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "text",
+    "guided_practice",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "How a Trend Travels"
+   ],
+   "listening_refs": [
+    "Read-Aloud: How a Trend Travels"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Reading: Dressing the Self",
+   "skill": "reading",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "text",
+    "guided_practice",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Why I Stopped Dressing for Other People"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Why I Stopped Dressing for Other People"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Reading: The Cost Underneath",
+   "skill": "reading",
+   "minutes": 35,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "instruction",
+    "guided_practice",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "The Real Price of Cheap Clothes"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Real Price of Cheap Clothes"
+   ]
+  },
+  {
+   "order": 6,
+   "title": "Reading: Fitting In or Standing Out",
+   "skill": "reading",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "independent_practice",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "The Grey Army"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Grey Army"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "Grammar: Present Continuous for Trends",
+   "skill": "grammar",
+   "minutes": 35,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "hook",
+    "instruction",
+    "worked_example",
+    "guided_practice",
+    "independent_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Grammar: Reported Speech",
+   "skill": "grammar",
+   "minutes": 35,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "hook",
+    "instruction",
+    "worked_example",
+    "think_aloud",
+    "guided_practice",
+    "independent_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Listening: Voices on Style",
+   "skill": "listening",
+   "minutes": 40,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "listening",
+    "listening_questions",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Style on the Street: Eight Short Recordings",
+    "Why We Wear It: Five Short Extracts",
+    "The Thirty-Item Challenge: A Short Talk",
+    "How I Dress, and Why: Six Speakers",
+    "The Student Who Started a Clothes-Swap: An Interview"
+   ]
+  },
+  {
+   "order": 10,
+   "title": "Directed Writing: The Style Interview",
+   "skill": "writing",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "text",
+    "writing_task",
+    "worked_example",
+    "guided_practice",
+    "independent_practice",
+    "self_review",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Extended Writing: Describe Someone's Style",
+   "skill": "writing",
+   "minutes": 45,
+   "blocks": [
+    "owner_voice_slots",
+    "text",
+    "writing_task",
+    "instruction",
+    "guided_practice",
+    "independent_practice",
+    "self_review",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "Fitting In or Standing Out": [
+   {
+    "word": "acceptance",
+    "pos": "noun",
+    "def": "being welcomed as part of a group"
+   },
+   {
+    "word": "blend in",
+    "pos": "phrasal verb",
+    "def": "to look the same as everyone around you"
+   },
+   {
+    "word": "conform",
+    "pos": "verb",
+    "def": "to behave or look the way most others do"
+   },
+   {
+    "word": "judge",
+    "pos": "verb",
+    "def": "to form an opinion about someone, often unfairly"
+   },
+   {
+    "word": "norm",
+    "pos": "noun",
+    "def": "what is usual or expected in a group"
+   },
+   {
+    "word": "peer pressure",
+    "pos": "noun",
+    "def": "the push to act like the people your own age"
+   },
+   {
+    "word": "stand out",
+    "pos": "phrasal verb",
+    "def": "to be easily noticed as different"
+   },
+   {
+    "word": "stereotype",
+    "pos": "noun",
+    "def": "a fixed, oversimplified idea about a type of person"
+   },
+   {
+    "word": "uniform",
+    "pos": "noun",
+    "def": "special clothes for school or a job"
+   }
+  ],
+  "Dressing the Self": [
+   {
+    "word": "bold",
+    "pos": "adjective",
+    "def": "strong, bright, and not afraid to stand out"
+   },
+   {
+    "word": "confidence",
+    "pos": "noun",
+    "def": "the feeling of being sure of yourself"
+   },
+   {
+    "word": "individuality",
+    "pos": "noun",
+    "def": "the quality of being different from everyone else"
+   },
+   {
+    "word": "modest",
+    "pos": "adjective",
+    "def": "(of clothing) not showing much of the body; not flashy"
+   },
+   {
+    "word": "self-expression",
+    "pos": "noun",
+    "def": "showing who you are through what you make, wear, or do"
+   },
+   {
+    "word": "tailored",
+    "pos": "adjective",
+    "def": "made or adjusted to fit a particular person or purpose"
+   },
+   {
+    "word": "understated",
+    "pos": "adjective",
+    "def": "quietly stylish without being showy"
+   },
+   {
+    "word": "versatile",
+    "pos": "adjective",
+    "def": "able to do or be used for many things"
+   },
+   {
+    "word": "wardrobe",
+    "pos": "noun",
+    "def": "all the clothes a person owns"
+   }
+  ],
+  "The Cost Underneath": [
+   {
+    "word": "disposable",
+    "pos": "adjective",
+    "def": "meant to be thrown away after little use"
+   },
+   {
+    "word": "ethical",
+    "pos": "adjective",
+    "def": "morally right; fair to the people and planet involved"
+   },
+   {
+    "word": "exploitation",
+    "pos": "noun",
+    "def": "treating people unfairly to benefit from their work"
+   },
+   {
+    "word": "fast fashion",
+    "pos": "noun",
+    "def": "cheap clothes produced very quickly to follow the latest trends"
+   },
+   {
+    "word": "garment",
+    "pos": "noun",
+    "def": "a single piece of clothing"
+   },
+   {
+    "word": "mass-produce",
+    "pos": "verb",
+    "def": "to make large amounts of something cheaply by machine"
+   },
+   {
+    "word": "second-hand",
+    "pos": "adjective",
+    "def": "already owned or used by someone else"
+   },
+   {
+    "word": "thrift",
+    "pos": "verb",
+    "def": "to buy used clothes cheaply from second-hand shops"
+   }
+  ],
+  "Trends in Motion": [
+   {
+    "word": "emerge",
+    "pos": "verb",
+    "def": "to start to appear or become known"
+   },
+   {
+    "word": "fad",
+    "pos": "noun",
+    "def": "a style that is very popular for a short time and then disappears"
+   },
+   {
+    "word": "influencer",
+    "pos": "noun",
+    "def": "a person who shapes others' choices by what they share online"
+   },
+   {
+    "word": "mainstream",
+    "pos": "adjective",
+    "def": "accepted by or popular with most ordinary people"
+   },
+   {
+    "word": "on-trend",
+    "pos": "adjective",
+    "def": "matching the latest fashion"
+   },
+   {
+    "word": "revival",
+    "pos": "noun",
+    "def": "a return to popularity of something from the past"
+   },
+   {
+    "word": "showcase",
+    "pos": "verb",
+    "def": "to show something in a way that draws attention to its best qualities"
+   },
+   {
+    "word": "signature",
+    "pos": "adjective",
+    "def": "clearly belonging to and identifying one person or brand"
+   },
+   {
+    "word": "trend",
+    "pos": "noun",
+    "def": "a general direction in which fashion or behaviour is changing"
+   },
+   {
+    "word": "viral",
+    "pos": "adjective",
+    "def": "spreading very quickly to many people, especially online"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "The Real Price of Cheap Clothes [pre-reauthor]",
+   "topic": "The Cost Underneath",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read this opinion article, then write a summary as instructed in the question.",
+   "body": "A T-shirt can now cost less than a cup of coffee. To a shopper, this looks like good news. To the planet, and to the people who make our clothes, it is a warning sign.\n\nThe system behind these low prices is called fast fashion. Brands copy the latest styles, manufacture them at enormous speed, and sell them cheaply, knowing buyers will return within weeks for the next look. To keep prices down, much of this clothing is mass-produced in factories where workers are paid very little. Reports have repeatedly described long hours, unsafe buildings, and wages too low to live on. The cheapness we enjoy in the shop is partly paid for by someone else, somewhere we never see.\n\nThe environmental cost is just as serious. Making clothes uses huge amounts of water and energy, and the dyes often pollute rivers. Worse, fast fashion is designed to be temporary. Garments are made to fall out of style — and sometimes to fall apart — within a season, so we keep buying. The result is mountains of waste. A great deal of discarded clothing is burned or buried, and synthetic fabrics can take centuries to break down.\n\nDefenders of fast fashion make two arguments. First, it makes style affordable: a teenager on a small budget can dress well without spending a fortune. Second, the industry provides jobs in countries that need them. Both points are true, and they should not be dismissed. Cheap clothing is not simply evil, and the workers who depend on these jobs would suffer if every factory closed overnight.\n\nBut affordability and jobs do not require a system built on waste and low pay. The problem is not that clothes are cheap; it is that the true costs are hidden and pushed onto others. There are better paths. Buying fewer, better-made items reduces waste. Choosing second-hand keeps clothing in use for longer. Supporting brands that pay fairly and produce less rewards the right behaviour. None of these alone will fix the industry, but together they shift the pressure.\n\nIn the end, the question is not whether we can afford fast fashion. Clearly we can — the prices are tiny. The real question is whether we can afford its true cost: the rivers, the waste, and the people behind the seams. Once you have seen that price, the cheap T-shirt never looks quite so cheap again."
+  },
+  {
+   "title": "What My Clothes Say About Me",
+   "topic": "fashion-and-identity",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "We asked four young people what their clothes mean to them.\n\nA — PRIYA\nFor me, clothes are about comfort, nothing more. I wear the same few outfits on rotation, and I genuinely don't notice what anyone else has on. People sometimes assume I'm not interested in how I look — but it's not that. I just decided years ago that I didn't want to spend energy thinking about it. Getting dressed in ten seconds is a kind of freedom.\n\nB — MARCUS\nI save for months to buy one good piece. I'd rather own three jackets that last ten years than thirty that fall apart. My friends think I'm extravagant, but it's the opposite — when you count the cost per wear, the expensive coat is the cheap one. What I can't stand is throwing clothes away. A well-made thing should outlive the trend that made it popular.\n\nC — LENA\nMy style changes constantly, and that's the whole point. One month I dress like the 1970s, the next like a film I just watched. Clothes are how I try on different versions of myself before I decide who I want to be. Some people find one look and keep it forever; I'd find that suffocating. For me, getting dressed is play.\n\nD — SAM\nI dress to fit in, and I'm not ashamed of it. At my age, standing out is risky — I've seen what happens to people who get it wrong. So I watch what the group wears and I match it. It's not that I have no taste; it's that belonging matters more to me than being noticed. My clothes are a way of saying: I'm one of you."
+  },
+  {
+   "title": "The Trainers Everyone Wanted (Backup)",
+   "topic": "Fitting In or Standing Out",
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": "Backup passage (alternate, same skill: language & effect). Read the personal essay and answer the questions.",
+   "body": "The trainers arrived at our school like weather. One week, no one had them. The next, they were on every other pair of feet, white and gleaming, as if a single cloud had rained shoes overnight.\n\nI did not have them. I told myself I did not care, and for a few days the lie held. Then I began to notice the small things: the quick glance down at my old shoes, the way a conversation paused, just slightly, when someone new arrived in the famous white. The trainers were not just trainers. They were a password, and I did not know it.\n\nWhat surprised me was how fast want became need. I had been perfectly happy with my scuffed black shoes on Monday. By Friday they felt like a confession — proof that I was outside, behind, not quite one of the group. Nothing about the shoes had changed. Only the air around them had.\n\nMy mother asked why these particular trainers mattered so much. I could not explain it, because the real answer sounded foolish out loud: they mattered because everyone else had decided they mattered. That is the strange power of a crowd. It can take an ordinary object and fill it with meaning, the way a single lit window can make a whole dark street look warm.\n\nIn the end I did not buy them. The hunger faded, as these hungers do, and by the next term the white trainers were old news, replaced by something else. But I have never forgotten the lesson hidden in those few weeks: how easily a crowd can tell you what to want — and how quietly it takes the wanting back."
+  },
+  {
+   "title": "Slow Fashion: Buying Less, Choosing Better (Backup)",
+   "topic": "The Cost Underneath",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Backup passage (alternate, same skill: summary writing). Read the article, then write a summary as instructed.",
+   "body": "If fast fashion is the problem, what is the answer? A growing movement says it is not to buy nothing, but to buy differently. Its name is slow fashion, and the idea is simple: fewer clothes, chosen with more care, and kept for longer.\n\nSlow fashion starts with a question most shoppers never ask: how long will I actually wear this? A cheap top bought on impulse may be worn twice before it is forgotten. A well-made jacket, chosen carefully, might last ten years. Spread across all those years, the expensive jacket can work out cheaper — and it creates far less waste. Buying less, supporters argue, is not about having less. It is about owning things you genuinely use.\n\nThe movement also values quality and repair. For decades, we have been taught to throw clothes away the moment they tear. Slow fashion brings back older habits: sewing on a button, patching a knee, taking a jacket to be mended rather than replaced. Some schools and community groups now run repair workshops, where students learn skills their grandparents took for granted.\n\nA third idea is keeping clothes in circulation. Swapping with friends, donating to charity shops, and buying second-hand all keep garments out of landfill and in use. One person's unwanted coat becomes another person's favourite find. A jacket that has grown dull in one wardrobe can feel almost new in another, and nothing fresh has to be manufactured for the swap to happen.\n\nCritics raise a fair objection. Well-made, ethically produced clothing is often more expensive, and not everyone can pay more at the checkout, even if it saves money later. Slow fashion, they warn, can become a luxury for the well-off, while ordinary shoppers are blamed for buying cheap. This is a real risk, and any honest version of the movement must take it seriously.\n\nYet slow fashion need not be expensive. Its cheapest forms — wearing what you own for longer, repairing instead of replacing, buying second-hand — cost little or nothing. The shift it asks for is less about money than about mindset: treating clothes as things to value rather than things to use up.\n\nThe fashion industry will not change because of one shopper. But every garment kept for an extra year, every repair, every swapped jacket is a small vote for a different system. Slow fashion is not about owning a perfect wardrobe. It is about asking better questions before we buy."
+  },
+  {
+   "title": "The Comeback of Old Clothes (Backup)",
+   "topic": "Trends in Motion",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Backup passage (alternate, same skill: skimming & scanning). Read the feature and answer the questions.",
+   "body": "My grandmother kept everything. When she passed her old wardrobe to me, I expected to throw most of it away. Instead, my friends asked where I had bought my new jacket. It was forty years old.\n\nSomething has changed in the way young people shop. For a long time, the newest clothes were the most wanted. Now, more and more teenagers are proud to wear second-hand pieces. Thrift shops that once felt forgotten are full again on weekends, and online resale apps have millions of users. A look that signals you bought something used — a worn denim jacket, a faded band T-shirt — has become, oddly, fashionable.\n\nPart of the reason is cost. Used clothes are cheaper, and a student budget only stretches so far. But that is not the whole story. Wearing something old also feels different from wearing something everyone can buy in the same shop. It is harder to copy. When a friend admires a jacket that no longer exists in any store, the compliment feels personal.\n\nThere is an environmental reason too. Many young shoppers now know that cheap, fast-made clothing creates enormous waste. Choosing second-hand is one small way to push back. Each reused garment is one less that has to be made, dyed, and shipped, and one less that ends up buried or burned. It is a small choice on its own, but small choices, repeated by enough people, slowly begin to add up. For them, an old coat is not a step down; it is a quiet statement.\n\nOf course, vintage has itself become a trend, with all the speed that brings. Some shops now make brand-new clothes designed to look old and worn. The cycle never really stops — it only changes shape. Still, the next time someone asks where you got your jacket, there may be real pleasure in answering: it was my grandmother's."
+  },
+  {
+   "title": "The Grey Army",
+   "topic": "Fitting In or Standing Out",
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": "Read this personal essay and answer the questions, paying attention to the writer's use of language and its effect.",
+   "body": "Every morning, two thousand of us pour through the gates in the same grey. From the bridge above, we are not students; we are a tide, a single grey animal breathing in and out at the bell. Our uniform is meant to make us equal. Sometimes it just makes us disappear.\n\nI have worn this grey for five years, and I have felt both things it does. On my worst mornings, when my shoes are scuffed and my hair will not sit, the uniform is a kindness — a curtain I can hide behind, where no one measures me against anyone else. We are all the same grey, and the same grey cannot be mocked.\n\nBut there are other mornings. Mornings when I want to be a colour, not a crowd. When the grey feels less like a curtain and more like a lid, pressing two thousand restless lives into one flat shape. On those mornings I notice the rebellions, tiny and everywhere: a bright lace, a folded sleeve, a badge worn just out of a teacher's sightline. Small flames, flickering against the grey.\n\nThat is the truth no rule can erase. You can dress us the same, but you cannot make us the same. The need to be ourselves does not vanish; it only shrinks, hides, waits. Press it down here, and it pops up there — in a drawing inside a shoe, a song hummed in a corridor, a way of walking that is unmistakably yours.\n\nSo dress us in grey, if you must. We will wear it. But look closely at the tide as it passes, and you will see it everywhere: the colour leaking through. We were never one grey animal. We were two thousand, each of us burning quietly to be seen."
+  },
+  {
+   "title": "The Real Price of Cheap Clothes",
+   "topic": "The Cost Underneath",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read this opinion article, then write a summary as instructed in the question.",
+   "body": "A T-shirt can now cost less than a cup of coffee. To a shopper, this looks like good news. To the planet, and to the people who make our clothes, it is a warning sign.\n\nThe system behind these low prices is called fast fashion. Brands copy the latest styles, manufacture them at enormous speed, and sell them cheaply, knowing buyers will return within weeks for the next look. To keep prices down, much of this clothing is mass-produced in factories where workers are paid very little. Reports have repeatedly described long hours, unsafe buildings, and wages too low to live on. The cheapness we enjoy in the shop is partly paid for by someone else, somewhere we never see.\n\nThe environmental cost is just as serious. Making clothes uses huge amounts of water and energy, and the dyes often pollute rivers. Worse, fast fashion is designed to be temporary. Garments are made to fall out of style — and sometimes to fall apart — within a season, so we keep buying. The result is mountains of waste. A great deal of discarded clothing is burned or buried, and synthetic fabrics can take centuries to break down.\n\nDefenders of fast fashion make two arguments. First, it makes style affordable: a teenager on a small budget can dress well without spending a fortune. Second, the industry provides jobs in countries that need them. Both points are true, and they should not be dismissed. Cheap clothing is not simply evil, and the workers who depend on these jobs would suffer if every factory closed overnight.\n\nBut affordability and jobs do not require a system built on waste and low pay. The problem is not that clothes are cheap; it is that the true costs are hidden and pushed onto others. There are better paths. Buying fewer, better-made items reduces waste. Choosing second-hand keeps clothing in use for longer. Supporting brands that pay fairly and produce less rewards the right behaviour. None of these alone will fix the industry, but together they shift the pressure.\n\nIn the end, the question is not whether we can afford fast fashion. Clearly we can — the prices are tiny. The real question is whether we can afford its true cost: the rivers, the waste, and the people behind the seams. Once you have seen that price, the cheap T-shirt never looks quite so cheap again."
+  },
+  {
+   "title": "The Uniform I Drew On (Backup)",
+   "topic": "Dressing the Self",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Backup passage (alternate, same skill: inference & viewpoint). Read the personal essay and answer the questions.",
+   "body": "At my school, everyone wore the same grey uniform. The rule was strict: no jewellery, no unusual shoes, nothing to mark you out. The idea, our teachers said, was fairness — if we all looked the same, no one could be judged for what they could or could not afford. I understood the reason. I still hated it.\n\nIt was not that I wanted expensive things. It was that the grey felt like a lid pressed over the whole school, flattening everyone into the same shape. We were two thousand students, and from the top of the stairs we looked like one grey crowd.\n\nSo I found small ways to stay myself. Inside my left shoe, where no teacher would ever look, I drew a tiny pattern in blue pen and redrew it every week. I knew it was there. On the bus home, the moment we crossed the school gate, I would push my sleeves up in a particular way, fold my collar a certain way — tiny changes that meant nothing to anyone else and everything to me.\n\nI used to think this made me strange. Later I learned that almost everyone did something similar. My friend kept a bright lining sewn into her plain bag. Another boy wore odd socks on purpose, one rule he could break without being caught. To a stranger, these gestures would have meant nothing at all. That was exactly the point: they were ours, private and unofficial, a small language the uniform could see but never quite read. None of us were rebels. We were simply looking for a crack of light, a way to say I am still here under the grey.\n\nI do not think uniforms are wrong. There is something restful about not competing over clothes every morning, and I have read that students argue less about appearance when everyone dresses the same. But I have also come to believe that the need to express who you are does not switch off because a rule tells it to. It just goes quiet, and finds smaller places to live — a drawing in a shoe, a folded sleeve, a hidden colour.\n\nWhen I left that school, I kept the shoes. The pattern in blue pen is faded now, almost gone. But I remember exactly why I drew it: not to be seen by anyone else, but to remind myself, on the greyest mornings, that I had not disappeared."
+  },
+  {
+   "title": "How a Trend Travels",
+   "topic": "Trends in Motion",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Read this magazine feature about fashion trends and answer the questions that follow.",
+   "body": "Five years ago, almost no one at my school wore wide-legged jeans. Now, on any morning, half the corridor is in them. I started to wonder how a single look spreads so fast — and why it fades just as quickly.\n\nA trend usually begins small. A designer shows something unusual on a runway, or a teenager in one city films a thirty-second clip of an outfit. Most of these ideas go nowhere. But every so often one of them is picked up by an influencer with millions of followers, and within days it is everywhere. Last spring, a student in Seoul posted a video of herself styling an oversized blazer with shorts. The clip went viral. Three weeks later, shops in Bangkok were selling almost the same blazer, and my classmates were wearing it without knowing where it came from.\n\nThis is the strange thing about modern fashion: a look can travel from one bedroom to a hundred countries before anyone can explain why it matters. Social media has made the journey faster than ever. In the past, a style might take a year to move from a fashion capital to an ordinary high street. Today it can happen in a fortnight.\n\nSpeed has a cost, though. The faster a trend rises, the faster it falls. By the time a look becomes truly mainstream — sold cheaply in every shop, worn by everyone — the people who started it have usually moved on. What felt fresh in March can feel tired by September. Some styles return years later as a revival, dressed up as something new, and the cycle begins again.\n\nSo the next time you notice everyone suddenly wearing the same thing, it is worth asking two questions. Where did this come from? And how long before it disappears? The answers say a lot — not only about clothes, but about how quickly we copy one another."
+  },
+  {
+   "title": "Why I Stopped Dressing for Other People",
+   "topic": "Dressing the Self",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read this personal essay, then answer the questions and complete the notes as instructed.",
+   "body": "For most of secondary school, I dressed to disappear. I chose whatever the others were wearing — the same shoes, the same bag, the same neutral colours — because being noticed felt dangerous. If no one looked at me, no one could judge me. It worked, in a way. I blended in completely. I also felt completely invisible.\n\nThe change began with a coat. I found it in a second-hand shop: deep green, slightly too big, with large gold buttons. It was nothing like what anyone at school wore. For two weeks it hung in my wardrobe while I argued with myself. Wearing it would mean standing out, and standing out meant questions.\n\nI wore it on a Monday. The first comment came before I reached my classroom — but it was not the comment I feared. I love that, a girl I barely knew said. It is so you. I had no idea what so me meant; I had spent years making sure I had no recognisable style at all. Yet the phrase stayed with me. For the first time, my clothes had said something, and someone had listened.\n\nAfter that, I began to experiment. Not dramatically — I am not a bold dresser even now. But I started choosing things because I liked them, not because they were safe. A scarf in a colour that made me happy. Shoes that were comfortable rather than fashionable. Slowly, my wardrobe began to feel less like a uniform and more like a reflection of me.\n\nWhat surprised me most was the effect on my confidence. I had always assumed confidence came first, and that confident people then dressed boldly. For me it was the other way around. Choosing clothes that felt true made me stand a little straighter. The green coat did not make me a different person. It simply let the person I already was become visible.\n\nI am not saying everyone should dress to be noticed. Some people feel most themselves in plain, quiet clothes, and that is its own kind of honesty. The point is not loud or quiet, bold or modest. The point is choice — wearing what reflects you, rather than what hides you. Looking back, the saddest part of those early years was not that I dressed badly. It was that I dressed like someone trying very hard not to exist.\n\nThese days, when a younger student asks me for advice about clothes, I give the same short answer every time: wear the coat."
+  },
+  {
+   "title": "How a Trend Travels [pre-reauthor]",
+   "topic": "Trends in Motion",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Read this magazine feature about fashion trends and answer the questions that follow.",
+   "body": "Five years ago, almost no one at my school wore wide-legged jeans. Now, on any morning, half the corridor is in them. I started to wonder how a single look spreads so fast — and why it fades just as quickly.\n\nA trend usually begins small. A designer shows something unusual on a runway, or a teenager in one city films a thirty-second clip of an outfit. Most of these ideas go nowhere. But every so often one of them is picked up by an influencer with millions of followers, and within days it is everywhere. Last spring, a student in Seoul posted a video of herself styling an oversized blazer with shorts. The clip went viral. Three weeks later, shops in Bangkok were selling almost the same blazer, and my classmates were wearing it without knowing where it came from.\n\nThis is the strange thing about modern fashion: a look can travel from one bedroom to a hundred countries before anyone can explain why it matters. Social media has made the journey faster than ever. In the past, a style might take a year to move from a fashion capital to an ordinary high street. Today it can happen in a fortnight.\n\nSpeed has a cost, though. The faster a trend rises, the faster it falls. By the time a look becomes truly mainstream — sold cheaply in every shop, worn by everyone — the people who started it have usually moved on. What felt fresh in March can feel tired by September. Some styles return years later as a revival, dressed up as something new, and the cycle begins again.\n\nSo the next time you notice everyone suddenly wearing the same thing, it is worth asking two questions. Where did this come from? And how long before it disappears? The answers say a lot — not only about clothes, but about how quickly we copy one another."
+  },
+  {
+   "title": "The Grey Army [pre-reauthor]",
+   "topic": "Fitting In or Standing Out",
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": "Read this personal essay and answer the questions, paying attention to the writer's use of language and its effect.",
+   "body": "Every morning, two thousand of us pour through the gates in the same grey. From the bridge above, we are not students; we are a tide, a single grey animal breathing in and out at the bell. Our uniform is meant to make us equal. Sometimes it just makes us disappear.\n\nI have worn this grey for five years, and I have felt both things it does. On my worst mornings, when my shoes are scuffed and my hair will not sit, the uniform is a kindness — a curtain I can hide behind, where no one measures me against anyone else. We are all the same grey, and the same grey cannot be mocked.\n\nBut there are other mornings. Mornings when I want to be a colour, not a crowd. When the grey feels less like a curtain and more like a lid, pressing two thousand restless lives into one flat shape. On those mornings I notice the rebellions, tiny and everywhere: a bright lace, a folded sleeve, a badge worn just out of a teacher's sightline. Small flames, flickering against the grey.\n\nThat is the truth no rule can erase. You can dress us the same, but you cannot make us the same. The need to be ourselves does not vanish; it only shrinks, hides, waits. Press it down here, and it pops up there — in a drawing inside a shoe, a song hummed in a corridor, a way of walking that is unmistakably yours.\n\nSo dress us in grey, if you must. We will wear it. But look closely at the tide as it passes, and you will see it everywhere: the colour leaking through. We were never one grey animal. We were two thousand, each of us burning quietly to be seen."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "In the Changing Room: Short Recordings (Backup outline)",
+   "accent": "mixed",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: short-recording MCQ). Three representative items shown; expand to eight on production. [Audio to be produced.]",
+   "script_text": "Recording 1 (announcement): The fitting rooms close at five today, half an hour earlier than usual.\n\nRecording 2 (a friend): I almost bought it, then I pictured my wardrobe and put it back. I have three just like it.\n\nRecording 3 (a student): People keep asking where my bag is from. The truth is it was my mother's — it is older than I am."
+  },
+  {
+   "title": "How I Dress, and Why: Six Speakers",
+   "accent": "six distinct voices; mixed accents",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six people (Speakers 1-6) say why they dress the way they do. Match each speaker to the statement (A-H). There are TWO extra statements you will not need. A: I dress to feel confident on hard days. B: I copy whatever my friends wear. C: I dress to express my culture and where I am from. D: I prefer plain clothes so people focus on what I say. E: I buy only second-hand to reduce waste. F: I change my style completely depending on my mood. G: I dress to be comfortable above all else. H: I follow whatever is trending online. [Audio to be produced.]",
+   "script_text": "Speaker 1: Mornings when I feel low, I put on my brightest jacket. It is like armour. Once it is on, I can face the day.\n\nSpeaker 2: I will not buy anything new any more. Everything I wear has had a life before me — it keeps clothes out of the bin.\n\nSpeaker 3: Honestly? I wear whatever is blowing up online that week. If a look is everywhere on my feed, it ends up on me.\n\nSpeaker 4: I keep my clothes simple and plain. In a meeting, I want people listening to my ideas, not staring at my outfit.\n\nSpeaker 5: My grandmother's patterns, the colours from home — I wear them on purpose. My clothes say where I come from.\n\nSpeaker 6: Comfort wins, every time. If I cannot move, run for the bus, sit on the floor — I will not wear it, however nice it looks."
+  },
+  {
+   "title": "Style on the Street: Eight Short Recordings",
+   "accent": "mixed; at least one non-UK/US accent",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each question, choose the correct answer (A, B, C or D). [Audio to be produced.]",
+   "script_text": "Recording 1 (store announcement): Attention shoppers — the denim sale on the second floor now starts at four o'clock, not three. All jeans are half price for one hour only.\n\nRecording 2 (a friend): I ordered the white trainers everyone has, but honestly, once they arrived I realised I only wanted them because the others did.\n\nRecording 3 (shop assistant): This jacket is second-hand, so there is a small mark on the left sleeve, but the price reflects that — it is seventy per cent off.\n\nRecording 4 (school announcement): From Monday, students may wear their own shoes, but they must be plain black — no bright colours or large logos.\n\nRecording 5 (podcast clip): People think buying cheap means saving money. But if a top falls apart after three washes, you buy it again and again. Cheap can be the most expensive habit there is.\n\nRecording 6 (voicemail): Do not bring the green dress back — keep it! It is so you. I have never seen you look more like yourself.\n\nRecording 7 (radio advert): This Saturday, bring any old clothes you no longer wear to the school hall. We will swap, repair, or donate them — nothing goes to waste.\n\nRecording 8 (a student): Everyone says my style is brave. I used to think that was a compliment. Now I am not sure it is not just a polite word for strange."
+  },
+  {
+   "title": "Building a Wardrobe: A Short Talk (Backup outline)",
+   "accent": "single speaker",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: monologue MCQ, answers in order). Representative talk shown; expand to eight questions on production. [Audio to be produced.]",
+   "script_text": "My advice is to start with the clothes you already reach for. Notice the three things you wear every week — those tell you your real style, not the things you bought and never touched. Build outwards from them, slowly, and only add what fits the picture."
+  },
+  {
+   "title": "What Style Means to Me: Speakers (Backup outline)",
+   "accent": "mixed; distinct voices",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: speaker matching). Match each speaker (1-3) to a statement (A-F); some are extra. A: I dress for comfort. B: I dress to fit in with my group. C: I dress to stand out. D: I dress to show my background. E: I dress for confidence. F: I dress to save money. Expand to six speakers on production. [Audio to be produced.]",
+   "script_text": "Speaker 1: I would rather be the only one in colour than one more person in grey.\n\nSpeaker 2: If the group wears it, I wear it. It is easier than standing out.\n\nSpeaker 3: A good outfit is like a deep breath before a hard day. It steadies me."
+  },
+  {
+   "title": "A Different Way to Shop: Interview (Backup outline)",
+   "accent": "two voices",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: interview MCQ + viewpoint). Representative interview shown; expand to eight questions on production. [Audio to be produced.]",
+   "script_text": "HOST: What changed the way you shop?\nGUEST: One question, really: would I still want this in a year? Most of the time, the honest answer is no — and that answer has saved me a fortune and a very full wardrobe."
+  },
+  {
+   "title": "Choosing What to Wear: Extracts (Backup outline)",
+   "accent": "mixed",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: paired short extracts, gist/detail). Three representative items shown; expand to ten (five pairs) on production. [Audio to be produced.]",
+   "script_text": "Extract 1 (a teenager): I dress to feel ready, not to impress. If I am comfortable, I am confident.\n\nExtract 2 (a shopper): I only check the label for one thing now — where it was made and by whom.\n\nExtract 3 (a parent): When she was small she copied everyone. Now she has her own style, and I love that, even when I do not understand it."
+  },
+  {
+   "title": "Style on the Street: Eight Short Recordings",
+   "accent": "mixed; at least one non-UK/US accent",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each question, choose the correct answer (A, B, C or D). [Audio to be produced.]",
+   "script_text": "Recording 1 (store announcement): Attention shoppers — the denim sale on the second floor now starts at four o'clock, not three. All jeans are half price for one hour only.\n\nRecording 2 (a friend): I ordered the white trainers everyone has, but honestly, once they arrived I realised I only wanted them because the others did.\n\nRecording 3 (shop assistant): This jacket is second-hand, so there is a small mark on the left sleeve, but the price reflects that — it is seventy per cent off.\n\nRecording 4 (school announcement): From Monday, students may wear their own shoes, but they must be plain black — no bright colours or large logos.\n\nRecording 5 (podcast clip): People think buying cheap means saving money. But if a top falls apart after three washes, you buy it again and again. Cheap can be the most expensive habit there is.\n\nRecording 6 (voicemail): Do not bring the green dress back — keep it! It is so you. I have never seen you look more like yourself.\n\nRecording 7 (radio advert): This Saturday, bring any old clothes you no longer wear to the school hall. We will swap, repair, or donate them — nothing goes to waste.\n\nRecording 8 (a student): Everyone says my style is brave. I used to think that was a compliment. Now I am not sure it is not just a polite word for strange."
+  },
+  {
+   "title": "The Thirty-Item Challenge: A Short Talk",
+   "accent": "single speaker; clear standard accent",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a student give a short talk about a wardrobe challenge. For each question, choose the correct answer (A, B or C). The questions follow the order of the talk. [Audio to be produced.]",
+   "script_text": "Thanks for having me. A year ago I tried something I called the thirty-item challenge. The idea was simple: for one whole year, I would wear only thirty pieces of clothing. Everything else went into a box in the garage.\n\nWhy did I do it? Honestly, not to save the planet — at least not at first. My wardrobe was so full I could never find anything, and I was tired of buying things I wore once. I wanted to see what would happen if I stopped.\n\nThere were rules. Underwear and sports kit did not count, but everything else did — shoes, coats, the lot. If I wanted something new, I had to give something away first. One in, one out.\n\nThe first month was the hardest. I kept reaching for things that were now in the garage. But by the second month, getting dressed had become faster, not slower. With fewer choices, I actually wore my favourite things more often.\n\nThe biggest surprise was that no one noticed. I had been sure people judged my clothes every day. In a whole year, exactly one person commented — and it was to say I always looked put together. The audience I was dressing for, it turned out, was mostly in my own head.\n\nDid I save money? Yes, a lot. But the real change was how I shopped afterwards. Now, before I buy anything, I ask one question: will this earn its place? If I cannot imagine wearing it thirty times, I leave it on the rail.\n\nI am not telling you to count your clothes. The number is not the point. The point is to own things you actually use — and to notice how little the crowd is really watching."
+  },
+  {
+   "title": "The Student Who Started a Clothes-Swap: An Interview",
+   "accent": "two voices; one non-UK/US accent",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Niran, a student who started a clothes-swap at school. For each question, choose the correct answer (A, B or C). [Audio to be produced.]",
+   "script_text": "HOST: Niran, you started a clothes-swap at your school. How did it begin?\nNIRAN: Almost by accident. I had a bag of clothes I had grown out of, a friend had the same, and we just traded. Within a term, two hundred students were doing it.\nHOST: Were you trying to make a statement about fast fashion?\nNIRAN: Not at first. I will not pretend I started it to save the world — I started it because buying new all the time was draining my money. The environmental part came later, once I saw how much we were throwing away.\nHOST: Some people say swaps are just a trend that will fade.\nNIRAN: Maybe the word swap will fade. But I do not think the habit will. Once you have worn something brilliant that cost you nothing, paying full price for a copy everyone owns feels a bit silly.\nHOST: Do you ever miss buying new things?\nNIRAN: Honestly, sometimes. There is a thrill in something new that a swap cannot quite match. I am not going to lie about that. But the thrill fades in a week, and the regret lasts longer.\nHOST: What would you say to someone who thinks their choices are too small to matter?\nNIRAN: I used to think that too. One person swapping a jacket changes nothing. But two hundred people, every term — that is hundreds of clothes that were not bought new and were not binned. Small only stays small if you stay alone.\nHOST: Finally, has it changed how you see your own style?\nNIRAN: Completely. I used to dress to keep up. Now I dress to use what I have well. It is quieter, but it feels more like me."
+  },
+  {
+   "title": "The Student Who Started a Clothes-Swap: An Interview",
+   "accent": "two voices; one non-UK/US accent",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Niran, a student who started a clothes-swap at school. For each question, choose the correct answer (A, B or C). [Audio to be produced.]",
+   "script_text": "HOST: Niran, you started a clothes-swap at your school. How did it begin?\nNIRAN: Almost by accident. I had a bag of clothes I had grown out of, a friend had the same, and we just traded. Within a term, two hundred students were doing it.\nHOST: Were you trying to make a statement about fast fashion?\nNIRAN: Not at first. I will not pretend I started it to save the world — I started it because buying new all the time was draining my money. The environmental part came later, once I saw how much we were throwing away.\nHOST: Some people say swaps are just a trend that will fade.\nNIRAN: Maybe the word swap will fade. But I do not think the habit will. Once you have worn something brilliant that cost you nothing, paying full price for a copy everyone owns feels a bit silly.\nHOST: Do you ever miss buying new things?\nNIRAN: Honestly, sometimes. There is a thrill in something new that a swap cannot quite match. I am not going to lie about that. But the thrill fades in a week, and the regret lasts longer.\nHOST: What would you say to someone who thinks their choices are too small to matter?\nNIRAN: I used to think that too. One person swapping a jacket changes nothing. But two hundred people, every term — that is hundreds of clothes that were not bought new and were not binned. Small only stays small if you stay alone.\nHOST: Finally, has it changed how you see your own style?\nNIRAN: Completely. I used to dress to keep up. Now I dress to use what I have well. It is quieter, but it feels more like me."
+  },
+  {
+   "title": "Why We Wear It: Five Short Extracts",
+   "accent": "mixed; at least one non-UK/US accent",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five short extracts. There are TWO questions for each extract. For each question, choose the correct answer (A, B or C). [Audio to be produced.]",
+   "script_text": "Extract 1 (a student): I started thrifting to save money, but now I do it for a different reason. In a charity shop you find things no one else will have. My favourite coat cost almost nothing, and it is completely unique.\n\nExtract 2 (parent and teenager): PARENT: I know you find the uniform boring. TEENAGER: It is not that it is boring. It is that I look like everyone else. But I suppose it does mean no one judges my clothes.\n\nExtract 3 (shop owner): We stopped selling the cheapest brands. Yes, we make less money per shirt, but our clothes last for years, and customers come back because they trust us.\n\nExtract 4 (a student): I followed this influencer for months and bought half the things she wore. Then I realised my wardrobe was full of clothes I did not even like — I just liked her.\n\nExtract 5 (a designer): A trend is exciting for about a month. The hard part of my job is not making something new — it is making something that people will still want to wear next year."
+  },
+  {
+   "title": "The Thirty-Item Challenge: A Short Talk",
+   "accent": "single speaker; clear standard accent",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a student give a short talk about a wardrobe challenge. For each question, choose the correct answer (A, B or C). The questions follow the order of the talk. [Audio to be produced.]",
+   "script_text": "Thanks for having me. A year ago I tried something I called the thirty-item challenge. The idea was simple: for one whole year, I would wear only thirty pieces of clothing. Everything else went into a box in the garage.\n\nWhy did I do it? Honestly, not to save the planet — at least not at first. My wardrobe was so full I could never find anything, and I was tired of buying things I wore once. I wanted to see what would happen if I stopped.\n\nThere were rules. Underwear and sports kit did not count, but everything else did — shoes, coats, the lot. If I wanted something new, I had to give something away first. One in, one out.\n\nThe first month was the hardest. I kept reaching for things that were now in the garage. But by the second month, getting dressed had become faster, not slower. With fewer choices, I actually wore my favourite things more often.\n\nThe biggest surprise was that no one noticed. I had been sure people judged my clothes every day. In a whole year, exactly one person commented — and it was to say I always looked put together. The audience I was dressing for, it turned out, was mostly in my own head.\n\nDid I save money? Yes, a lot. But the real change was how I shopped afterwards. Now, before I buy anything, I ask one question: will this earn its place? If I cannot imagine wearing it thirty times, I leave it on the rail.\n\nI am not telling you to count your clothes. The number is not the point. The point is to own things you actually use — and to notice how little the crowd is really watching."
+  },
+  {
+   "title": "Read-Aloud: How a Trend Travels",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Five years ago, almost no one at my school wore wide-legged jeans. Now, on any morning, half the corridor is in them. I started to wonder how a single look spreads so fast — and why it fades just as quickly.\n\nA trend usually begins small. A designer shows something unusual on a runway, or a teenager in one city films a thirty-second clip of an outfit. Most of these ideas go nowhere. But every so often one of them is picked up by an influencer with millions of followers, and within days it is everywhere. Last spring, a student in Seoul posted a video of herself styling an oversized blazer with shorts. The clip went viral. Three weeks later, shops in Bangkok were selling almost the same blazer, and my classmates were wearing it without knowing where it came from.\n\nThis is the strange thing about modern fashion: a look can travel from one bedroom to a hundred countries before anyone can explain why it matters. Social media has made the journey faster than ever. In the past, a style might take a year to move from a fashion capital to an ordinary high street. Today it can happen in a fortnight.\n\nSpeed has a cost, though. The faster a trend rises, the faster it falls. By the time a look becomes truly mainstream — sold cheaply in every shop, worn by everyone — the people who started it have usually moved on. What felt fresh in March can feel tired by September. Some styles return years later as a revival, dressed up as something new, and the cycle begins again.\n\nSo the next time you notice everyone suddenly wearing the same thing, it is worth asking two questions. Where did this come from? And how long before it disappears? The answers say a lot — not only about clothes, but about how quickly we copy one another."
+  },
+  {
+   "title": "Read-Aloud: The Grey Army",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Every morning, two thousand of us pour through the gates in the same grey. From the bridge above, we are not students; we are a tide, a single grey animal breathing in and out at the bell. Our uniform is meant to make us equal. Sometimes it just makes us disappear.\n\nI have worn this grey for five years, and I have felt both things it does. On my worst mornings, when my shoes are scuffed and my hair will not sit, the uniform is a kindness — a curtain I can hide behind, where no one measures me against anyone else. We are all the same grey, and the same grey cannot be mocked.\n\nBut there are other mornings. Mornings when I want to be a colour, not a crowd. When the grey feels less like a curtain and more like a lid, pressing two thousand restless lives into one flat shape. On those mornings I notice the rebellions, tiny and everywhere: a bright lace, a folded sleeve, a badge worn just out of a teacher's sightline. Small flames, flickering against the grey.\n\nThat is the truth no rule can erase. You can dress us the same, but you cannot make us the same. The need to be ourselves does not vanish; it only shrinks, hides, waits. Press it down here, and it pops up there — in a drawing inside a shoe, a song hummed in a corridor, a way of walking that is unmistakably yours.\n\nSo dress us in grey, if you must. We will wear it. But look closely at the tide as it passes, and you will see it everywhere: the colour leaking through. We were never one grey animal. We were two thousand, each of us burning quietly to be seen."
+  },
+  {
+   "title": "Read-Aloud: The Real Price of Cheap Clothes",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "A T-shirt can now cost less than a cup of coffee. To a shopper, this looks like good news. To the planet, and to the people who make our clothes, it is a warning sign.\n\nThe system behind these low prices is called fast fashion. Brands copy the latest styles, manufacture them at enormous speed, and sell them cheaply, knowing buyers will return within weeks for the next look. To keep prices down, much of this clothing is mass-produced in factories where workers are paid very little. Reports have repeatedly described long hours, unsafe buildings, and wages too low to live on. The cheapness we enjoy in the shop is partly paid for by someone else, somewhere we never see.\n\nThe environmental cost is just as serious. Making clothes uses huge amounts of water and energy, and the dyes often pollute rivers. Worse, fast fashion is designed to be temporary. Garments are made to fall out of style — and sometimes to fall apart — within a season, so we keep buying. The result is mountains of waste. A great deal of discarded clothing is burned or buried, and synthetic fabrics can take centuries to break down.\n\nDefenders of fast fashion make two arguments. First, it makes style affordable: a teenager on a small budget can dress well without spending a fortune. Second, the industry provides jobs in countries that need them. Both points are true, and they should not be dismissed. Cheap clothing is not simply evil, and the workers who depend on these jobs would suffer if every factory closed overnight.\n\nBut affordability and jobs do not require a system built on waste and low pay. The problem is not that clothes are cheap; it is that the true costs are hidden and pushed onto others. There are better paths. Buying fewer, better-made items reduces waste. Choosing second-hand keeps clothing in use for longer. Supporting brands that pay fairly and produce less rewards the right behaviour. None of these alone will fix the industry, but together they shift the pressure.\n\nIn the end, the question is not whether we can afford fast fashion. Clearly we can — the prices are tiny. The real question is whether we can afford its true cost: the rivers, the waste, and the people behind the seams. Once you have seen that price, the cheap T-shirt never looks quite so cheap again."
+  },
+  {
+   "title": "Read-Aloud: Why I Stopped Dressing for Other People",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "For most of secondary school, I dressed to disappear. I chose whatever the others were wearing — the same shoes, the same bag, the same neutral colours — because being noticed felt dangerous. If no one looked at me, no one could judge me. It worked, in a way. I blended in completely. I also felt completely invisible.\n\nThe change began with a coat. I found it in a second-hand shop: deep green, slightly too big, with large gold buttons. It was nothing like what anyone at school wore. For two weeks it hung in my wardrobe while I argued with myself. Wearing it would mean standing out, and standing out meant questions.\n\nI wore it on a Monday. The first comment came before I reached my classroom — but it was not the comment I feared. I love that, a girl I barely knew said. It is so you. I had no idea what so me meant; I had spent years making sure I had no recognisable style at all. Yet the phrase stayed with me. For the first time, my clothes had said something, and someone had listened.\n\nAfter that, I began to experiment. Not dramatically — I am not a bold dresser even now. But I started choosing things because I liked them, not because they were safe. A scarf in a colour that made me happy. Shoes that were comfortable rather than fashionable. Slowly, my wardrobe began to feel less like a uniform and more like a reflection of me.\n\nWhat surprised me most was the effect on my confidence. I had always assumed confidence came first, and that confident people then dressed boldly. For me it was the other way around. Choosing clothes that felt true made me stand a little straighter. The green coat did not make me a different person. It simply let the person I already was become visible.\n\nI am not saying everyone should dress to be noticed. Some people feel most themselves in plain, quiet clothes, and that is its own kind of honesty. The point is not loud or quiet, bold or modest. The point is choice — wearing what reflects you, rather than what hides you. Looking back, the saddest part of those early years was not that I dressed badly. It was that I dressed like someone trying very hard not to exist.\n\nThese days, when a younger student asks me for advice about clothes, I give the same short answer every time: wear the coat."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "26295138-b186-4e0a-94da-b7a495552949",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "extended",
+   "register": "Descriptive, personal and sensory; first-person; vivid and evocative; describe a person through their style.",
+   "title": "Dressed Like No One Else: A Descriptive Piece",
+   "subtopic": null,
+   "difficulty": null,
+   "scenario": "Describe a person you know well through the way they dress - someone whose style says something about who they are. It might be a friend, a relative, a teacher, or someone you simply notice.",
+   "instruction": "Write a descriptive piece of 150-200 words. Build it with Scene -> Detail -> Verdict, use rich, expanded noun phrases, and let the reader picture the person and what their style reveals.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "who the person is and the overall impression of their style (scene)",
+    "specific details of what they wear and how they wear it (detail)",
+    "what their style reveals about them and why it stays with you (verdict)"
+   ],
+   "grammar_focus": [
+    "expanded noun phrases and adjective order",
+    "present continuous for trends"
+   ],
+   "required_vocab": [
+    "self-expression",
+    "distinctive",
+    "bold",
+    "understated",
+    "signature",
+    "identity"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Scene",
+      "examples": [
+       "The first thing you notice about ___ is ___.",
+       "___ dresses like ___.",
+       "You could pick ___ out of any crowd by ___."
+      ]
+     },
+     {
+      "fn": "Detail",
+      "examples": [
+       "There is always the ___ that ___.",
+       "Today it is ___, tomorrow ___.",
+       "Every piece looks ___, as if ___."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "Their style says ___.",
+       "It is not about ___; it is about ___.",
+       "Long after they have gone, you remember ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a vivid descriptive piece about someone whose style stands out - show, don't tell. Build the picture with expanded noun phrases and present continuous, and end by saying what their style reveals (S-D-V).",
+     "points": [
+      {
+       "how": "Open on a strong image with expanded noun phrases & controlled adjective order (opinion before fact).",
+       "point": "set the person and overall impression in 1-2 rich sentences"
+      },
+      {
+       "how": "Show it with concrete detail and present continuous - don't list flatly.",
+       "point": "give 2-3 precise details of what they wear and how"
+      },
+      {
+       "how": "Evaluative close - what the style says, not just what it is.",
+       "point": "say what their style reveals and why it stays with you"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Telling not showing ('she is stylish') - show it with concrete detail.",
+     "Flat noun phrases - expand them (the worn leather jacket that...).",
+     "Listing clothes with no verdict - say what the style reveals.",
+     "Adjective order errors - opinion before fact (a lovely old denim jacket)."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "Opens with a vivid scene image (expanded noun phrases)"
+     },
+     {
+      "ref": "W4",
+      "text": "2-3 precise details, shown not told; present continuous held"
+     },
+     {
+      "ref": "G1",
+      "text": "Adjective order controlled (opinion before fact)"
+     },
+     {
+      "ref": "W3",
+      "text": "Ends with a verdict - what the style reveals"
+     },
+     {
+      "ref": "W5",
+      "text": "Description stays vivid and concrete throughout"
+     },
+     {
+      "ref": "G1",
+      "text": "At least 4 target chunks/words used naturally"
+     },
+     {
+      "ref": "W6",
+      "text": "120-160 words, organised Scene -> Detail -> Verdict"
+     }
+    ],
+    "structure": [
+     {
+      "do": "Set the person and overall impression in 1-2 rich sentences (expanded noun phrases, adjective order).",
+      "stage": "Scene"
+     },
+     {
+      "do": "2-3 precise details of what they wear and how (present continuous).",
+      "stage": "Detail"
+     },
+     {
+      "do": "What their style reveals and why it stays with you (evaluative).",
+      "stage": "Verdict"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Identity chunks",
+       "words": [
+        "an expression of who they are",
+        "draws attention to",
+        "at odds with",
+        "in keeping with",
+        "a sense of identity"
+       ],
+       "target_words": [
+        "an expression of who they are",
+        "draws attention to"
+       ]
+      },
+      {
+       "label": "Describe precisely",
+       "words": [
+        "worn leather",
+        "faded",
+        "tailored",
+        "oversized",
+        "layered"
+       ],
+       "target_words": [
+        "worn leather",
+        "layered"
+       ]
+      },
+      {
+       "label": "Evaluate",
+       "words": [
+        "effortless",
+        "deliberate",
+        "striking",
+        "understated"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    },
+    "owner_voice_slot": "The light S-D-V recap and any model are authored by the teacher in lesson L11 - left blank here on purpose (S-D-V is recapped, not re-taught)."
+   },
+   "model_answer": "My aunt dresses like no one else I know. The overall impression is of someone from another, calmer time: while everyone around her is chasing whatever is trending, she moves through the crowd in her own quiet world.\n\nHer signature piece is a long, faded denim jacket with deep square pockets, worn over plain cotton dresses in soft greys and creams. She wears small round silver glasses and one bold red scarf — the only loud thing about her. Even her shoes, flat brown leather boots, look chosen rather than bought.\n\nNothing she wears is expensive, and nothing is accidental. Her style is understated but completely distinctive, and that is the point: it is self-expression without noise.\n\nWhat stays with me is what it reveals — a person so sure of her own identity that she never checks what anyone else is wearing. People are following trends; my aunt is simply being herself.",
+   "rubric": {
+    "language": "Rich, expanded noun phrases; correct adjective order; varied sentences.",
+    "content_W4": "Sustained description of a person through their style; shows rather than tells; clear personal significance.",
+    "organisation_W6": "S-D-V structure; cohesive and well-paragraphed."
+   },
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 2,
+   "created_at": "2026-06-03T14:39:14.83125+00:00",
+   "status": "published",
+   "slug": "fashion-writing-61ab3081-reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "e071307b-1ffe-473c-b614-1c639fd76eec",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "directed",
+   "register": "Interview write-up for a student magazine; report what someone said about their style; clear, organised, mostly reported speech; purpose: present another person's views to readers.",
+   "title": "Why I Wear What I Wear: A Style Interview",
+   "subtopic": null,
+   "difficulty": null,
+   "scenario": "Your school magazine is running a feature called 'Why I Wear What I Wear'. Interview someone you know about their personal style, then write up what they told you for the magazine.",
+   "instruction": "Write an interview write-up of 150-200 words for the magazine. Report what your interviewee said using reported speech (the light reporting pattern), and organise it clearly for readers.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "who you interviewed and what their style is like",
+    "what they said about why they dress that way",
+    "one thing that surprised you, or what their style says about them"
+   ],
+   "grammar_focus": [
+    "reported speech (basics)",
+    "present continuous for trends"
+   ],
+   "required_vocab": [
+    "self-expression",
+    "identity",
+    "confidence",
+    "signature",
+    "bold",
+    "modest"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Introduce",
+      "examples": [
+       "I spoke to ___, who ___.",
+       "___ has a style that ___."
+      ]
+     },
+     {
+      "fn": "Report",
+      "examples": [
+       "When I asked why, she said that ___.",
+       "He told me that ___.",
+       "She explained that ___, because ___."
+      ]
+     },
+     {
+      "fn": "Round off",
+      "examples": [
+       "What surprised me was that ___.",
+       "Her clothes say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a short style-interview write-up for a student magazine: introduce the person, REPORT what they said about why they dress that way, and round off with what surprised you or what their style reveals. Use reported speech, not direct quotes throughout.",
+     "points": [
+      {
+       "how": "Set them up with present continuous (how they dress / what they're wearing now) before reporting them.",
+       "point": "introduce the person and their style in 1-2 sentences"
+      },
+      {
+       "how": "Use reported speech (said/told me that...), backshifting tenses - don't quote everything directly.",
+       "point": "report what they said about why they dress that way"
+      },
+      {
+       "how": "A short reflective comment, not a new topic.",
+       "point": "round off with what surprised you, or what their style reveals"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Quoting everything directly instead of reporting it - use reported speech.",
+     "'said me' - use 'told me'.",
+     "Forgetting to backshift ('she said she loves it' -> 'loved it').",
+     "No introduction of the person - set them up first."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "Introduces the person and their style before reporting them"
+     },
+     {
+      "ref": "G1",
+      "text": "Uses reported speech (not direct quotes) with correct backshift"
+     },
+     {
+      "ref": "W3",
+      "text": "Covers WHY they dress that way, in their reported words"
+     },
+     {
+      "ref": "W3",
+      "text": "Rounds off with a reflective comment (surprise / what it reveals)"
+     },
+     {
+      "ref": "W5",
+      "text": "Student-magazine peer register"
+     },
+     {
+      "ref": "G1",
+      "text": "At least 3 target words/chunks used naturally"
+     },
+     {
+      "ref": "W6",
+      "text": "120-160 words, organised Introduce -> Report -> Round off"
+     }
+    ],
+    "structure": [
+     {
+      "do": "Introduce the person and their style in 1-2 sentences (present continuous).",
+      "stage": "Introduce"
+     },
+     {
+      "do": "Report what they said about why they dress that way (reported speech).",
+      "stage": "Report"
+     },
+     {
+      "do": "End with what surprised you, or what their style reveals (reflective comment).",
+      "stage": "Round off"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Identity chunks",
+       "words": [
+        "a sense of identity",
+        "an expression of who they are",
+        "draws attention to",
+        "in keeping with"
+       ],
+       "target_words": [
+        "a sense of identity",
+        "an expression of who they are"
+       ]
+      },
+      {
+       "label": "Reporting verbs",
+       "words": [
+        "said that",
+        "told me that",
+        "explained that",
+        "admitted that"
+       ],
+       "target_words": [
+        "told me that"
+       ]
+      },
+      {
+       "label": "Style",
+       "words": [
+        "understated",
+        "bold",
+        "distinctive",
+        "comfortable"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    },
+    "owner_voice_slot": "The model interview write-up is authored by the teacher as the worked_example (Tier 3 / voice) in lesson L10 - left blank here on purpose."
+   },
+   "model_answer": "For this issue, I interviewed my classmate Dara, whose style is impossible to miss. While most of us are wearing the same trainers everyone is buying this term, Dara comes to school in bright, hand-painted jackets — bold on the outside, though she is one of the most modest people I know.\n\nWhen I asked why she dresses this way, she told me that her clothes did the talking. She said that she was shy in class, and that painting her own jackets gave her confidence before she even said a word. She explained that each design is a small piece of self-expression: her signature flowers come from her grandmother's garden.\n\nWhat surprised me most was her answer about trends. She said she never ignores them — she just repaints them in her own colours. Her style, I realised, is not decoration at all. It is her identity, worn where everyone can see it.",
+   "rubric": {
+    "language": "Reported speech used accurately (backshift; said/told).",
+    "content_W3": "Reports an interview with clear content points; presents the person's views, not just the writer's own.",
+    "register_W5": "Suited to a student-magazine audience; clear and engaging.",
+    "organisation": "Introduce -> Report -> Round off; cohesive."
+   },
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 1,
+   "created_at": "2026-06-03T14:39:14.83125+00:00",
+   "status": "published",
+   "slug": "fashion-writing-25521f0a-reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "25521f0a-42fd-4ffc-ba78-9f0d92e64487",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "directed",
+   "register": "Interview write-up for a student magazine; report what someone said about their style; clear, organised, mostly reported speech; purpose: present another person's views to readers.",
+   "title": "Why I Wear What I Wear: A Style Interview",
+   "subtopic": null,
+   "difficulty": null,
+   "scenario": "Your school magazine is running a feature called 'Why I Wear What I Wear'. Interview someone you know about their personal style, then write up what they told you for the magazine.",
+   "instruction": "Write an interview write-up of 150-200 words for the magazine. Report what your interviewee said using reported speech (the light reporting pattern), and organise it clearly for readers.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "who you interviewed and what their style is like",
+    "what they said about why they dress that way",
+    "one thing that surprised you, or what their style says about them"
+   ],
+   "grammar_focus": [
+    "reported speech (basics)",
+    "present continuous for trends"
+   ],
+   "required_vocab": [
+    "self-expression",
+    "identity",
+    "confidence",
+    "signature",
+    "bold",
+    "modest"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Introduce",
+      "examples": [
+       "I spoke to ___, who ___.",
+       "___ has a style that ___."
+      ]
+     },
+     {
+      "fn": "Report",
+      "examples": [
+       "When I asked why, she said that ___.",
+       "He told me that ___.",
+       "She explained that ___, because ___."
+      ]
+     },
+     {
+      "fn": "Round off",
+      "examples": [
+       "What surprised me was that ___.",
+       "Her clothes say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write up an interview for a student magazine about a classmate's style and why they dress that way.",
+     "points": [
+      {
+       "how": "Set up the person first — who are they, and what's their look? Give the reader a quick picture: 'Maya wears mostly second-hand, all bright colours.' One or two lines, so we can see them before they speak.",
+       "point": "who you interviewed and what their style is like"
+      },
+      {
+       "how": "Now report what they told you — in your words, not a transcript. This is reported speech: 'She told me she dressed for comfort, not for likes.' Backshift the verbs: 'I dress' becomes 'she dressed'. Keep their meaning, lose the quote marks.",
+       "point": "what they said about why they dress that way"
+      },
+      {
+       "how": "End with a real insight — something that surprised you, or what their style reveals. Not 'it was interesting'. A specific thought: 'For her, getting dressed is a small act of confidence.' Leave the reader with that.",
+       "point": "one thing that surprised you, or what their style says about them"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Quoting everything directly instead of reporting it — use reported speech.",
+     "'said me' — use 'told me'.",
+     "Forgetting to backshift ('she said she loves it' — 'loved it').",
+     "No introduction of the person — set them up first."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "I set up who the person is before reporting what they said."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: who they are, why they dress that way, and a closing insight."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone fits a student magazine — lively and readable, not stiff."
+     },
+     {
+      "ref": "G1",
+      "text": "I used reported speech with backshift, like 'she told me she wore it for comfort'."
+     },
+     {
+      "ref": "W6",
+      "text": "It flows from introducing the person, to their words, to my insight."
+     }
+    ],
+    "structure": [
+     {
+      "do": "introduce the person and their style in 1-2 sentences (present continuous)",
+      "stage": "Introduce"
+     },
+     {
+      "do": "report what they said about why they dress that way, using reported speech",
+      "stage": "Report"
+     },
+     {
+      "do": "end with what surprised you, or what their style reveals",
+      "stage": "Round off"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Style & identity",
+       "words": [
+        "self-expression",
+        "identity",
+        "confidence",
+        "signature",
+        "bold",
+        "modest"
+       ],
+       "target_words": [
+        "self-expression",
+        "identity",
+        "confidence",
+        "signature",
+        "bold",
+        "modest"
+       ]
+      },
+      {
+       "label": "Useful chunks",
+       "words": [
+        "a sense of identity",
+        "an expression of who they are",
+        "draws attention to",
+        "in keeping with"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Why I Wear What I Wear: An Interview with Maya\n\nFor this month's feature, I spoke to Maya, a student whose style everyone notices. Her look is bold and colourful, full of vintage jackets and bright trainers, though her jewellery stays modest.\n\nWhen I asked her why she dresses this way, Maya told me that her clothes were a form of self-expression. She said that fashion gave her confidence and helped her feel like herself. She explained that she had always loved mixing old and new pieces, and that bright colours were becoming her signature.\n\nI asked whether she followed trends. She replied that she did not really care what was popular. These days, she said, more and more people are dressing to fit in, but she would rather stand out.\n\nWhat surprised me most was how thoughtful she was. For Maya, getting dressed is not about showing off; it is a quiet, confident statement of identity. Her style may be loud, but the message behind it is anything but.",
+   "rubric": {
+    "language": "Reported speech used accurately (backshift; said/told).",
+    "content_W3": "Reports an interview with clear content points; presents the person's views, not just the writer's own.",
+    "register_W5": "Suited to a student-magazine audience; clear and engaging.",
+    "organisation": "Introduce -> Report -> Round off; cohesive."
+   },
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 1,
+   "created_at": "2026-05-31T14:08:39.315478+00:00",
+   "status": "published",
+   "slug": "25521f0a-SUPERSEDED-fashionreauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "61ab3081-1d68-4cf7-b1ea-0f387638ffbe",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "extended",
+   "register": "Descriptive, personal and sensory; first-person; vivid and evocative; describe a person through their style.",
+   "title": "Dressed Like No One Else: A Descriptive Piece",
+   "subtopic": null,
+   "difficulty": null,
+   "scenario": "Describe a person you know well through the way they dress - someone whose style says something about who they are. It might be a friend, a relative, a teacher, or someone you simply notice.",
+   "instruction": "Write a descriptive piece of 150-200 words. Build it with Scene -> Detail -> Verdict, use rich, expanded noun phrases, and let the reader picture the person and what their style reveals.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "who the person is and the overall impression of their style (scene)",
+    "specific details of what they wear and how they wear it (detail)",
+    "what their style reveals about them and why it stays with you (verdict)"
+   ],
+   "grammar_focus": [
+    "expanded noun phrases and adjective order",
+    "present continuous for trends"
+   ],
+   "required_vocab": [
+    "self-expression",
+    "distinctive",
+    "bold",
+    "understated",
+    "signature",
+    "identity"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Scene",
+      "examples": [
+       "The first thing you notice about ___ is ___.",
+       "___ dresses like ___.",
+       "You could pick ___ out of any crowd by ___."
+      ]
+     },
+     {
+      "fn": "Detail",
+      "examples": [
+       "There is always the ___ that ___.",
+       "Today it is ___, tomorrow ___.",
+       "Every piece looks ___, as if ___."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "Their style says ___.",
+       "It is not about ___; it is about ___.",
+       "Long after they have gone, you remember ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Describe a person through their style — the overall impression, the details, and what it reveals.",
+     "points": [
+      {
+       "how": "Start with the overall impression — what's the first thing you notice about them? Not a list of clothes yet — just the effect they have when they walk in. Set the impression before the detail.",
+       "point": "who the person is and the overall impression of their style (scene)"
+      },
+      {
+       "how": "Now the details — what they wear, and how they wear it. Expanded noun phrases bring it alive: 'a faded denim jacket covered in hand-sewn patches'. Present continuous can freeze the moment: 'she's wearing...'. Pick the telling details, not all of them.",
+       "point": "specific details of what they wear and how they wear it (detail)"
+      },
+      {
+       "how": "End with what their style reveals — and why it stays with you. Clothes are choices, so what do these choices say? 'Every patch is a story she's chosen to wear.' Close on the person, not the outfit.",
+       "point": "what their style reveals about them and why it stays with you (verdict)"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Telling not showing ('she is stylish') — show it with concrete detail.",
+     "Flat noun phrases — expand them (the worn leather jacket that...).",
+     "Listing clothes with no verdict — say what the style reveals.",
+     "Adjective order errors — opinion before fact (a lovely old denim jacket)."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a vivid description of a person, not a clothing list."
+     },
+     {
+      "ref": "W4",
+      "text": "I showed their style with specific details, not just 'they dress well'."
+     },
+     {
+      "ref": "W5",
+      "text": "My language is vivid and paints a clear picture of them."
+     },
+     {
+      "ref": "W6",
+      "text": "I built it in three moves: the impression, the details, then what it reveals."
+     },
+     {
+      "ref": "G1",
+      "text": "I used expanded noun phrases in the right order, like 'a worn black leather jacket'."
+     }
+    ],
+    "structure": [
+     {
+      "do": "set the person and overall impression in 1-2 rich sentences (expanded noun phrases, adjective order)",
+      "stage": "Scene"
+     },
+     {
+      "do": "give 2-3 precise details of what they wear and how (expanded noun phrases; present continuous)",
+      "stage": "Detail"
+     },
+     {
+      "do": "say what their style reveals and why it stays with you",
+      "stage": "Verdict"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Style & identity",
+       "words": [
+        "self-expression",
+        "distinctive",
+        "bold",
+        "understated",
+        "signature",
+        "identity"
+       ],
+       "target_words": [
+        "self-expression",
+        "distinctive",
+        "bold",
+        "understated",
+        "signature",
+        "identity"
+       ]
+      },
+      {
+       "label": "Descriptive chunks",
+       "words": [
+        "an expression of who they are",
+        "draws attention to",
+        "at odds with",
+        "in keeping with",
+        "a sense of identity"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "My aunt Lena has the most distinctive style of anyone I know. The moment she walks into a room, heads turn — not because she is loud, but because everything about her appearance feels deliberate.\n\nShe is wearing, as always, a long charcoal-grey coat with a single bright scarf, a deep glowing red that catches the eye. Her silver rings, worn on almost every finger, are bold yet somehow understated. Her short grey hair is neatly cut, and she is carrying an old leather bag that she has owned for years. Nothing is new; everything has been chosen with care.\n\nThat red scarf is her signature. To me, her style is a quiet form of self-expression — confident, calm and completely her own. It says that you do not need to follow every trend to have a strong identity. Long after she leaves, it is that single flash of red, against all the grey, that stays in my mind.",
+   "rubric": {
+    "language": "Rich, expanded noun phrases; correct adjective order; varied sentences.",
+    "content_W4": "Sustained description of a person through their style; shows rather than tells; clear personal significance.",
+    "organisation_W6": "S-D-V structure; cohesive and well-paragraphed."
+   },
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 2,
+   "created_at": "2026-05-31T14:08:39.315478+00:00",
+   "status": "published",
+   "slug": "61ab3081-SUPERSEDED-fashionreauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "22e7b009-3235-4e3f-8ef5-4fe06cfa0e7a",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "long-turn",
+   "title": "Your personal style",
+   "subtopic": "Dressing the Self",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Speak on your own for 1-2 minutes about the topic on the card. You have one minute to prepare. You may make notes — do not write out a script.",
+   "card_points": [
+    "what you usually wear",
+    "how you would describe your style",
+    "whether your style has changed over time",
+    "what your clothes say about you",
+    "whether it matters to you what others think of your clothes"
+   ],
+   "discussion_questions": [
+    "Do clothes really show who a person is?",
+    "Is it possible to have no style at all?",
+    "Should people care what others think of their clothes?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "My go-to look is a plain hoodie and trainers (Point) because it's comfortable and feels like me (Reason), which means I'm not thinking about my clothes all day (Result) - for example, I wear the same kind of thing whether it's school or weekends (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Describe",
+      "examples": [
+       "My style is mostly ___.",
+       "I usually wear ___ because ___."
+      ]
+     },
+     {
+      "fn": "Develop",
+      "examples": [
+       "These days I am ___ -ing more ___.",
+       "It has changed since ___."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "I think my clothes say ___.",
+       "For me, what I wear is about ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Speak 1-2 minutes about your personal style, developing each card point - then justify your views in the discussion. Notes, not a script.",
+     "discussion_how": [
+      {
+       "q": "Do clothes really show who a person is?",
+       "how": "Take a side; a mild counter is fine."
+      },
+      {
+       "q": "Is it possible to have no style at all?",
+       "how": "Argue it with a reason."
+      },
+      {
+       "q": "Should people care what others think of their clothes?",
+       "how": "Balanced view."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Describe it concretely (P-R-R-E).",
+       "point": "what you usually wear"
+      },
+      {
+       "how": "Give it a label + why it fits you.",
+       "point": "how you would describe your style"
+      },
+      {
+       "how": "Then vs now with a reason.",
+       "point": "whether your style has changed over time"
+      },
+      {
+       "how": "This is the verdict - what they reveal.",
+       "point": "what your clothes say about you"
+      },
+      {
+       "how": "Take an honest position + a reason.",
+       "point": "whether it matters what others think of your clothes"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing in the discussion - justify and add something (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I covered all card points in 1-2 minutes with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I said how my style changed and what it says about me"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Style & identity",
+       "words": [
+        "style",
+        "self-expression",
+        "identity",
+        "confidence",
+        "comfortable",
+        "bold",
+        "understated"
+       ],
+       "target_words": [
+        "self-expression",
+        "identity"
+       ]
+      },
+      {
+       "label": "Belonging",
+       "words": [
+        "stand out",
+        "blend in",
+        "it depends"
+       ],
+       "target_words": [
+        "stand out"
+       ]
+      },
+      {
+       "label": "Develop chunks",
+       "words": [
+        "these days",
+        "it has changed since",
+        "what I wear is about"
+       ],
+       "target_words": [
+        "these days"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "Most days, you'll find me in the same simple uniform of my own choosing: dark jeans, a plain T-shirt, and whatever jacket suits the weather. Nothing flashy.\n\nIf I had to describe my style, I'd call it quiet and practical. I like clothes that do their job and don't shout for attention. Comfort comes first, but I do care that things match.\n\nIt has changed, though. A couple of years ago, I tried hard to wear exactly what everyone else wore. I spent money on trainers I didn't even like, just to fit in. Slowly I realised I was more comfortable, in every sense, dressing simply.\n\nWhat do my clothes say about me? Probably that I'd rather be remembered for what I do than what I wear. That suits me fine.\n\nDoes it matter what others think? A little — I won't pretend it doesn't. But far less than it used to. These days, if I feel comfortable and ready for the day, that is enough. The opinion that matters most, in the end, is my own.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part2"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-03T14:39:40.964321+00:00",
+   "status": "published",
+   "slug": "fashion-speaking-part2-longturn-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "6e7b3cc7-857e-4f1e-94e7-809f0995918d",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "discussion",
+   "title": "The price of cheap clothes",
+   "subtopic": "The Cost Underneath",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Talk about cheap clothes and whether the way we shop should change.",
+   "card_points": [
+    "how often you buy new clothes",
+    "whether you think about where your clothes come from",
+    "what you know about fast fashion",
+    "whether the way we shop should change"
+   ],
+   "discussion_questions": [
+    "Whose responsibility is it to fix fast fashion - shoppers or brands?",
+    "Is buying second-hand realistic for everyone?",
+    "Would you pay more for clothes made fairly?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "My go-to look is a plain hoodie and trainers (Point) because it's comfortable and feels like me (Reason), which means I'm not thinking about my clothes all day (Result) - for example, I wear the same kind of thing whether it's school or weekends (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Describe",
+      "examples": [
+       "I buy new clothes about ___.",
+       "I (do not) really think about ___."
+      ]
+     },
+     {
+      "fn": "Develop",
+      "examples": [
+       "What I know about fast fashion is ___.",
+       "More and more people are ___ -ing ___."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "I think the way we shop should ___, because ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Speak 1-2 minutes about cheap clothes and fast fashion, developing each card point - then justify your views in the discussion.",
+     "discussion_how": [
+      {
+       "q": "Whose responsibility is it to fix fast fashion - shoppers or brands?",
+       "how": "Weigh both, then lean one way."
+      },
+      {
+       "q": "Is buying second-hand realistic for everyone?",
+       "how": "Reason + a real constraint."
+      },
+      {
+       "q": "Would you pay more for clothes made fairly?",
+       "how": "Honest position + a reason."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "State a habit + a frequency adverb.",
+       "point": "how often you buy new clothes"
+      },
+      {
+       "how": "Be honest + a reason.",
+       "point": "whether you think about where your clothes come from"
+      },
+      {
+       "how": "Show some awareness (waste, conditions, throwaway).",
+       "point": "what you know about fast fashion"
+      },
+      {
+       "how": "This is the verdict - take a position with a reason.",
+       "point": "whether the way we shop should change"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing in the discussion - justify and add something (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I described my buying habit + whether I think about origins"
+     },
+     {
+      "ref": "S1",
+      "text": "I showed some awareness of fast fashion"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave a verdict on whether shopping should change"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I weighed responsibility (shoppers vs brands)"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Fast fashion",
+       "words": [
+        "fast fashion",
+        "cheap",
+        "sustainable",
+        "ethical",
+        "second-hand",
+        "throwaway"
+       ],
+       "target_words": [
+        "fast fashion",
+        "sustainable"
+       ]
+      },
+      {
+       "label": "Trade-offs",
+       "words": [
+        "afford",
+        "quality",
+        "waste",
+        "thrift"
+       ],
+       "target_words": [
+        "afford"
+       ]
+      },
+      {
+       "label": "Develop chunks",
+       "words": [
+        "more and more people",
+        "what I know is",
+        "should change because"
+       ],
+       "target_words": [
+        "more and more people"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "I'll be honest: I buy new clothes more often than I should, usually without thinking where they came from.\n\nBut I've started to learn a little about fast fashion — how clothes made very cheaply and very fast often come at a hidden cost, both to the planet and to the people who sew them.\n\nNow, I want to grant the other side fairly. Cheap clothing isn't simply the villain. For many families it is the only affordable option, and for many workers these jobs are a real and valued source of income. We shouldn't pretend otherwise.\n\nBut granting that only sharpens my point: the answer isn't to shame shoppers or to wish those jobs away. It's to ask brands to make the same clothes more fairly and more safely.\n\nSo yes, the way we shop should change — slowly, and without pretending the people who make our clothes don't depend on the work.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 4,
+   "created_at": "2026-06-03T14:39:54.526066+00:00",
+   "status": "published",
+   "slug": "fashion-speaking-p3supp-6934401f-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "fa57ce1f-f6b2-4918-8c8f-ad8a7cbbc104",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "debate",
+   "title": "Debate: Fast fashion should be banned",
+   "subtopic": "The Cost Underneath",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Debate the motion: 'Fast fashion should be banned.'",
+   "card_points": [
+    "state your stand (for or against)",
+    "two reasons with examples",
+    "one opposing point - then your rebuttal",
+    "a clear closing restatement"
+   ],
+   "discussion_questions": [
+    "Would banning fast fashion help or hurt the people who make the clothes?",
+    "Can ordinary shoppers really afford the alternatives?",
+    "Is a ban fair, or should brands just be made to do better?",
+    "Whose job is it to change the industry?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "State stand -> two reasons+examples -> concede+rebut -> restate",
+     "name": "Stand-Reasons-Concede-Restate",
+     "example": "I believe fast fashion should be banned, mainly because it causes huge waste and relies on unsafe labour. For example, mountains of unsold clothes end up in landfill. Some argue a ban would cost jobs, but fairer production could protect those workers better. For these reasons, I think a ban is justified."
+    },
+    "stems": [
+     {
+      "fn": "Claim",
+      "examples": [
+       "I believe the motion is right/wrong because...",
+       "Fast fashion should / should not be banned because..."
+      ]
+     },
+     {
+      "fn": "Support",
+      "examples": [
+       "For example,...",
+       "This is because...",
+       "One sign of this is..."
+      ]
+     },
+     {
+      "fn": "Concede & counter",
+      "examples": [
+       "Some argue..., but...",
+       "It is true that..., however,..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Debate the motion 'Fast fashion should be banned'. Pick a side, give two reasons with examples, concede one opposing point and rebut it, then restate your stand. The for/against point banks are there to argue from - take a side, don't list both.",
+     "discussion_how": [
+      {
+       "q": "Would banning fast fashion help or hurt the people who make the clothes?",
+       "how": "Weigh livelihoods vs conditions."
+      },
+      {
+       "q": "Can ordinary shoppers really afford the alternatives?",
+       "how": "Be realistic about cost."
+      },
+      {
+       "q": "Is a ban fair, or should brands just be made to do better?",
+       "how": "Compare ban vs reform."
+      },
+      {
+       "q": "Whose job is it to change the industry?",
+       "how": "Shoppers / brands / government - lean one way."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Commit to a side up front.",
+       "point": "state your stand (for or against)"
+      },
+      {
+       "how": "Two distinct reasons, each with a concrete example.",
+       "point": "two reasons with examples"
+      },
+      {
+       "how": "Concede fairly, then push back ('Some argue..., but...').",
+       "point": "one opposing point - then your rebuttal"
+      },
+      {
+       "how": "Restate your stand in one line.",
+       "point": "a clear closing restatement"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "Arguing both sides instead of taking a stand - commit to one side.",
+     "Reasons with no examples - back each up.",
+     "Skipping the concession+rebuttal (a debate move worth marks).",
+     "No closing restatement, or rushing the delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "for_points": [
+     "it causes huge environmental waste and pollution",
+     "it depends on poorly paid workers in unsafe conditions",
+     "it encourages a throwaway culture where clothes are disposable",
+     "cheaper, fairer alternatives like second-hand already exist"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I stated a clear stand and held it"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave two reasons, each with an example"
+     },
+     {
+      "ref": "S2",
+      "text": "I conceded one opposing point and rebutted it"
+     },
+     {
+      "ref": "S1",
+      "text": "I restated my stand to close"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Debate topic",
+       "words": [
+        "fast fashion",
+        "ban",
+        "sustainable",
+        "ethical",
+        "exploitation",
+        "alternative"
+       ],
+       "target_words": [
+        "sustainable",
+        "exploitation"
+       ]
+      },
+      {
+       "label": "Stakes",
+       "words": [
+        "waste",
+        "afford",
+        "livelihood",
+        "throwaway"
+       ],
+       "target_words": [
+        "livelihood"
+       ]
+      },
+      {
+       "label": "Argue chunks",
+       "words": [
+        "some argue",
+        "it is true that, however",
+        "for these reasons"
+       ],
+       "target_words": [
+        "some argue"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "against_points": [
+     "it makes style affordable for people on low budgets",
+     "it provides millions of jobs in developing countries",
+     "a ban would punish the workers who depend on the industry",
+     "the real answer is fairer production, not a ban"
+    ],
+    "model_in_column": true
+   },
+   "model_response": "Good afternoon. Our side stands against banning fast fashion — not because we deny its harm, but because a ban is the wrong tool.\n\nOur first reason is people. Millions earn their living making these clothes; remove the industry overnight and you remove their wages, with nothing ready to replace them. Our second reason is fairness at home: for a family on a tight budget, cheap clothing is sometimes the only way to dress growing children. A ban punishes them first.\n\nNow, the other side will say that only a ban is strong enough to force change. We understand the frustration — gentle requests have achieved little. But look closer: a ban hides the problem rather than fixing it. Make the rules instead — safe factories, fair pay, less waste.\n\nSo we close where we began: don't ban the industry that clothes and feeds millions. Reform it, and reform it properly. That is how real change lasts.\n\nThank you.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 5,
+   "created_at": "2026-06-03T14:39:54.526066+00:00",
+   "status": "published",
+   "slug": "fashion-speaking-p3supp-961dbd40-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "961dbd40-b81d-46fe-a244-d6121164c364",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "debate",
+   "title": "Debate: Fast fashion should be banned",
+   "subtopic": "The Cost Underneath",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Debate the motion: 'Fast fashion should be banned.'",
+   "card_points": [
+    "state your stand (for or against)",
+    "two reasons with examples",
+    "one opposing point - then your rebuttal",
+    "a clear closing restatement"
+   ],
+   "discussion_questions": [
+    "Would banning fast fashion help or hurt the people who make the clothes?",
+    "Can ordinary shoppers really afford the alternatives?",
+    "Is a ban fair, or should brands just be made to do better?",
+    "Whose job is it to change the industry?"
+   ],
+   "scaffolds": {
+    "L0": "Motion only - argue FOR or AGAINST.",
+    "L3_cues": [
+     "State your stand clearly",
+     "Give two reasons with examples",
+     "Concede one opposing point, then rebut it",
+     "Restate your stand"
+    ],
+    "L1_vocab": [
+     "fast fashion",
+     "ban",
+     "sustainable",
+     "ethical",
+     "exploitation",
+     "waste",
+     "afford",
+     "livelihood",
+     "throwaway",
+     "alternative"
+    ],
+    "L2_stems": {
+     "Claim": [
+      "I believe the motion is right/wrong because...",
+      "Fast fashion should / should not be banned because..."
+     ],
+     "Support": [
+      "For example,...",
+      "This is because...",
+      "One sign of this is..."
+     ],
+     "Concede_counter": [
+      "Some argue..., but...",
+      "It is true that..., however,..."
+     ]
+    },
+    "L4_frame": "I believe fast fashion should / should not be banned, mainly because ___ and ___. For example, ___. Some people argue ___, but ___. For these reasons, I think ___.",
+    "for_points": [
+     "it causes huge environmental waste and pollution",
+     "it depends on poorly paid workers in unsafe conditions",
+     "it encourages a throwaway culture where clothes are disposable",
+     "cheaper, fairer alternatives like second-hand already exist"
+    ],
+    "against_points": [
+     "it makes style affordable for people on low budgets",
+     "it provides millions of jobs in developing countries",
+     "a ban would punish the workers who depend on the industry",
+     "the real answer is fairer production, not a ban"
+    ]
+   },
+   "model_response": null,
+   "required_vocab": [
+    "fast fashion",
+    "sustainable",
+    "ethical",
+    "exploitation",
+    "consumption",
+    "disposable"
+   ],
+   "grammar_focus": [
+    "reported speech (basics)"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 94,
+   "created_at": "2026-05-31T14:09:12.41807+00:00",
+   "status": "published",
+   "slug": "961dbd40-SUPERSEDED-fashionreauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "be60d798-d698-4c02-a16a-e1a4bbbb0241",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "discussion",
+   "title": "Fitting in or standing out",
+   "subtopic": "Fitting In or Standing Out",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "We'll now discuss some broader questions related to the topic.",
+   "card_points": [
+    "whether you prefer to fit in or stand out",
+    "a time you felt different from everyone else",
+    "how much your friends influence what you wear",
+    "whether standing out is worth it"
+   ],
+   "discussion_questions": [
+    "Why do people feel pressure to dress like their friends?",
+    "Is it braver to fit in or to stand out?",
+    "Do school uniforms help students or hold them back?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "My go-to look is a plain hoodie and trainers (Point) because it's comfortable and feels like me (Reason), which means I'm not thinking about my clothes all day (Result) - for example, I wear the same kind of thing whether it's school or weekends (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Claim",
+      "examples": [
+       "I prefer to ___, because ___.",
+       "Most of the time I want to ___."
+      ]
+     },
+     {
+      "fn": "Example",
+      "examples": [
+       "For example, once I ___.",
+       "When everyone ___, I ___."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "In the end, I think standing out is ___.",
+       "For me, fitting in is ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Speak 1-2 minutes on fitting in vs standing out, developing each card point - then justify your views in the discussion.",
+     "discussion_how": [
+      {
+       "q": "Why do people feel pressure to dress like their friends?",
+       "how": "Give a reason + a likely result."
+      },
+      {
+       "q": "Is it braver to fit in or to stand out?",
+       "how": "Take a side and justify."
+      },
+      {
+       "q": "Do school uniforms help students or hold them back?",
+       "how": "Weigh both sides."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "State it clearly + why.",
+       "point": "whether you prefer to fit in or stand out"
+      },
+      {
+       "how": "A short concrete example.",
+       "point": "a time you felt different from everyone else"
+      },
+      {
+       "how": "Be honest about peer influence + a reason.",
+       "point": "how much your friends influence what you wear"
+      },
+      {
+       "how": "This is the verdict - take a position.",
+       "point": "whether standing out is worth it"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing in the discussion - justify and add something (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I stated a clear preference (fit in / stand out) with a reason"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave a concrete example of feeling different"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave a verdict on whether standing out is worth it"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I weighed both sides"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Belonging",
+       "words": [
+        "fit in",
+        "stand out",
+        "blend in",
+        "belonging",
+        "conform",
+        "distinctive"
+       ],
+       "target_words": [
+        "fit in",
+        "stand out"
+       ]
+      },
+      {
+       "label": "Pressure",
+       "words": [
+        "peer pressure",
+        "judged",
+        "be myself",
+        "comfortable"
+       ],
+       "target_words": [
+        "peer pressure"
+       ]
+      },
+      {
+       "label": "Hedge",
+       "words": [
+        "in the end",
+        "most of the time",
+        "it depends"
+       ],
+       "target_words": [
+        "in the end"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "Honestly, I prefer to fit in — most of the time, anyway. There's a kind of comfort in not being looked at.\n\nI remember a day I wore something bold to a party, sure it looked great, and walked in to find everyone else in plain black. I felt different in the worst way, and I wanted to disappear.\n\nMy friends influence me more than I'd like to admit. If they start wearing something, I usually drift towards it too.\n\nBut is standing out worth it? Here I'd push back on my own answer. The people I most admire are the ones who dress like themselves and don't apologise for it. So while fitting in feels safer, I suspect standing out is what I'll respect in myself years from now.\n\nMy verdict: fit in when it costs nothing, but stand out when it actually matters to you.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3"
+   ],
+   "feedback_mode": null,
+   "display_order": 3,
+   "created_at": "2026-06-03T14:39:54.526066+00:00",
+   "status": "published",
+   "slug": "fashion-speaking-part3-discussion-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "f1a02515-4d87-422d-a27b-a362dfe82bae",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (clothes & identity)",
+   "subtopic": "clothes & identity",
+   "difficulty": null,
+   "topic": "Clothes and identity",
+   "intro": "The examiner will ask you some questions about yourself. Answer naturally; these are short, familiar-topic questions to warm up.",
+   "card_points": null,
+   "discussion_questions": [
+    "What kind of clothes do you feel most comfortable in?",
+    "Do you enjoy shopping for clothes, or do you find it a chore?",
+    "Is there a colour or style you wear a lot?",
+    "Do you and your friends dress in similar ways?",
+    "Has the way you dress changed as you've got older?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "My go-to look is a plain hoodie and trainers (Point) because it's comfortable and feels like me (Reason), which means I'm not thinking about my clothes all day (Result) - for example, I wear the same kind of thing whether it's school or weekends (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "I feel most comfortable in..., mainly because...",
+       "I'm really into..., especially when..."
+      ]
+     },
+     {
+      "fn": "Compare with friends",
+      "examples": [
+       "We dress fairly similarly, partly because...",
+       "Mine's a bit different - I tend to..."
+      ]
+     },
+     {
+      "fn": "Then vs now",
+      "examples": [
+       "It's changed since...",
+       "These days I wear more..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions about clothes and identity - short, natural answers, each extended with a reason or example rather than one word.",
+     "discussion_how": [
+      {
+       "q": "What kind of clothes do you feel most comfortable in?",
+       "how": "Name them + why they suit you."
+      },
+      {
+       "q": "Do you enjoy shopping for clothes, or do you find it a chore?",
+       "how": "Take a side + one reason."
+      },
+      {
+       "q": "Is there a colour or style you wear a lot?",
+       "how": "Name it + why you keep coming back to it."
+      },
+      {
+       "q": "Do you and your friends dress in similar ways?",
+       "how": "Compare + a reason (belonging / individuality)."
+      },
+      {
+       "q": "Has the way you dress changed as you've got older?",
+       "how": "Then vs now with one reason."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing in the discussion - justify and add something (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I compared myself with my friends, with a reason"
+     },
+     {
+      "ref": "S2",
+      "text": "I described how my style has changed and why"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Style & identity",
+       "words": [
+        "style",
+        "self-expression",
+        "identity",
+        "comfortable",
+        "understated",
+        "bold"
+       ],
+       "target_words": [
+        "self-expression",
+        "identity"
+       ]
+      },
+      {
+       "label": "Belonging",
+       "words": [
+        "stand out",
+        "blend in",
+        "fit in",
+        "be myself"
+       ],
+       "target_words": [
+        "stand out"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "especially when",
+        "to be honest",
+        "it depends"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part1"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-03T14:39:40.964321+00:00",
+   "status": "published",
+   "slug": "fashion-speaking-part1-interview-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "2a0a02a2-4005-424e-aa8d-d30098e19d1e",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "topic_card",
+   "title": "Your personal style",
+   "subtopic": "Dressing the Self",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Describe your own style and what it says about you.",
+   "card_points": [
+    "what you usually wear",
+    "how you would describe your style",
+    "whether your style has changed",
+    "what your clothes say about you"
+   ],
+   "discussion_questions": [
+    "Do clothes really show who a person is?",
+    "Is it possible to have no style at all?",
+    "Should people care what others think of their clothes?"
+   ],
+   "scaffolds": {
+    "L0": "Prompt only.",
+    "L3_cues": [
+     "Describe: what you usually wear",
+     "Develop: how you would describe your style (and how it has changed)",
+     "Reason: why you dress this way",
+     "Verdict: what your clothes say about you"
+    ],
+    "L1_vocab": [
+     "style",
+     "self-expression",
+     "identity",
+     "confidence",
+     "comfortable",
+     "bold",
+     "understated",
+     "stand out",
+     "blend in",
+     "it depends"
+    ],
+    "L2_stems": {
+     "Develop": [
+      "These days I am ___ -ing more ___.",
+      "It has changed since ___."
+     ],
+     "Verdict": [
+      "I think my clothes say ___.",
+      "For me, what I wear is about ___."
+     ],
+     "Describe": [
+      "My style is mostly ___.",
+      "I usually wear ___ because ___."
+     ]
+    },
+    "L4_frame": "My style is mostly ___. These days I am ___ -ing more ___. It has changed because ___. I think what I wear says ___ about me."
+   },
+   "model_response": null,
+   "required_vocab": [
+    "self-expression",
+    "identity",
+    "confidence",
+    "bold",
+    "understated",
+    "wardrobe"
+   ],
+   "grammar_focus": [
+    "present continuous for trends"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 91,
+   "created_at": "2026-05-31T14:09:12.41807+00:00",
+   "status": "published",
+   "slug": "2a0a02a2-SUPERSEDED-fashionreauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "6934401f-3c52-4657-a19c-4938b1ee0ca6",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "topic_card",
+   "title": "The price of cheap clothes",
+   "subtopic": "The Cost Underneath",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Talk about cheap clothes and whether the way we shop should change.",
+   "card_points": [
+    "how often you buy new clothes",
+    "whether you think about where your clothes come from",
+    "what you know about fast fashion",
+    "whether the way we shop should change"
+   ],
+   "discussion_questions": [
+    "Whose responsibility is it to fix fast fashion - shoppers or brands?",
+    "Is buying second-hand realistic for everyone?",
+    "Would you pay more for clothes made fairly?"
+   ],
+   "scaffolds": {
+    "L0": "Prompt only.",
+    "L3_cues": [
+     "Habit: how often you buy new clothes",
+     "Awareness: do you think about where they come from?",
+     "Knowledge: what you know about fast fashion",
+     "Verdict: should the way we shop change?"
+    ],
+    "L1_vocab": [
+     "fast fashion",
+     "cheap",
+     "sustainable",
+     "ethical",
+     "second-hand",
+     "thrift",
+     "waste",
+     "afford",
+     "quality",
+     "throwaway"
+    ],
+    "L2_stems": {
+     "Develop": [
+      "What I know about fast fashion is ___.",
+      "More and more people are ___ -ing ___."
+     ],
+     "Verdict": [
+      "I think the way we shop should ___, because ___."
+     ],
+     "Describe": [
+      "I buy new clothes about ___.",
+      "I (do not) really think about ___."
+     ]
+    },
+    "L4_frame": "I buy new clothes about ___. I (do not) usually think about ___. What I know about fast fashion is ___. I think the way we shop ___ change, because ___."
+   },
+   "model_response": null,
+   "required_vocab": [
+    "fast fashion",
+    "sustainable",
+    "ethical",
+    "second-hand",
+    "thrift",
+    "consumption"
+   ],
+   "grammar_focus": [
+    "present continuous for trends",
+    "reported speech (basics)"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 93,
+   "created_at": "2026-05-31T14:09:12.41807+00:00",
+   "status": "published",
+   "slug": "6934401f-SUPERSEDED-fashionreauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "70f932bb-2490-45ef-8c82-f3fd14490076",
+   "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c",
+   "task_type": "topic_card",
+   "title": "Fitting in or standing out",
+   "subtopic": "Fitting In or Standing Out",
+   "difficulty": null,
+   "topic": "Fashion & Identity",
+   "intro": "Talk about whether you prefer to fit in or stand out through what you wear.",
+   "card_points": [
+    "whether you prefer to fit in or stand out",
+    "a time you felt different from everyone else",
+    "how much your friends influence what you wear",
+    "whether standing out is worth it"
+   ],
+   "discussion_questions": [
+    "Why do people feel pressure to dress like their friends?",
+    "Is it braver to fit in or to stand out?",
+    "Do school uniforms help students or hold them back?"
+   ],
+   "scaffolds": {
+    "L0": "Prompt only.",
+    "L3_cues": [
+     "State: fit in or stand out?",
+     "Example: a time you felt different",
+     "Influence: how much friends affect your choices",
+     "Verdict: is standing out worth it?"
+    ],
+    "L1_vocab": [
+     "fit in",
+     "stand out",
+     "blend in",
+     "belonging",
+     "peer pressure",
+     "conform",
+     "distinctive",
+     "comfortable",
+     "judged",
+     "be myself"
+    ],
+    "L2_stems": {
+     "Claim": [
+      "I prefer to ___, because ___.",
+      "Most of the time I want to ___."
+     ],
+     "Example": [
+      "For example, once I ___.",
+      "When everyone ___, I ___."
+     ],
+     "Verdict": [
+      "In the end, I think standing out is ___.",
+      "For me, fitting in is ___."
+     ]
+    },
+    "L4_frame": "Most of the time I prefer to ___, because ___. For example, ___. My friends ___ what I wear. In the end, I think standing out is ___."
+   },
+   "model_response": null,
+   "required_vocab": [
+    "belonging",
+    "conform",
+    "stand out",
+    "blend in",
+    "peer pressure",
+    "distinctive"
+   ],
+   "grammar_focus": [
+    "present continuous for trends"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 92,
+   "created_at": "2026-05-31T14:09:12.41807+00:00",
+   "status": "published",
+   "slug": "70f932bb-SUPERSEDED-fashionreauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

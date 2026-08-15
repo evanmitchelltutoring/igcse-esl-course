@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #b07a1e; } a:hover { color: #8a5f13; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="E4 · Title" data-speaker-notes="Standalone exam-technique deck for the Speaking paper. Four clinics + a full-paper rehearsal: the warm-up, reading the topic card, developing an answer (Reason–Example–Contrast), and handling hesitation. Read the title, then how-this-works." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#b07a1e;">Exam Technique · Paper 4</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:90px;line-height:.98;margin:0;letter-spacing:-.015em;">Speaking Paper<br>Technique</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">It's a conversation, not a performance. Here's how to keep it going.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">4 clinics + full rehearsal</span>
+        <span style="color:#8a8478;">Warm-up · the card · developing answers · hesitation</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#efe6d4;display:flex;align-items:center;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-weight:700;font-size:340px;line-height:1;color:#e0a13c;opacity:.85;">4</div>
+      <div style="position:absolute;bottom:70px;left:0;right:0;text-align:center;font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#8a6a2e;">Paper 4 · Speaking</div>
+    </div>
+  </section>
+
+  <section data-label="How This Works" data-screen-label="E4 · How this works" data-speaker-notes="Set expectations. A technique clinic, not new content. Each clinic: the trap, the fix, and a spoken rep in pairs — one talks, one listens with a checklist. The examiner wants a real conversation, developed answers, and range. Pair students up now." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">How each clinic works</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:14px 0 30px;">The trap · the fix · a spoken rep</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">1 · The trap</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">The habit that stalls the conversation or caps development.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">2 · The fix</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">A move you can feel yourself making, live, mid-answer.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">3 · A spoken rep</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">In pairs: one talks to the timer, one listens with a checklist. Then swap.</div></div>
+    </div>
+    <div style="margin-top:30px;font-size:30px;line-height:1.4;color:#e6ddd0;font-style:italic;">Assessed on grammar, vocabulary, development and pronunciation — the biggest wins are in development.</div>
+  </section>
+
+  <!-- CLINIC 1 -->
+  <section data-label="1 · The Warm-Up" data-screen-label="E4 C1 · The trap + fix" data-speaker-notes="Clinic 1: the warm-up. The trap is treating the unassessed warm-up as a throwaway — mumbling one-word answers and arriving at the card cold and nervous. The fix: use it to settle, warm your voice, and set a friendly tone. Read, then the paired rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 1 · The warm-up</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:54px;line-height:1.02;margin:12px 0 22px;">Not assessed — but it still <span style="color:#b07a1e;">matters</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Treating the warm-up as a throwaway — one-word answers, eyes down — then meeting the card cold, nervous, and still finding your voice on the part that counts.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · use it to settle</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Answer in a sentence or two, look up, and let your voice warm. It's not assessed, so it costs nothing — but it sets your nerves and your pace for the card. If you're nervous, say so.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">By the time the card appears, you want to already be talking comfortably — not starting from silence.</div>
+  </section>
+
+  <section data-label="1 · Spoken Rep" data-screen-label="E4 C1 · Warm-up rep" data-speaker-notes="Paired rep: Student A answers the warm-up questions in full sentences for 90 seconds while B listens for 'did they answer in more than one word, and look up?'. Then swap. These are the real Part 1 warm-up questions." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="90" label="Talk"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · in pairs · A talks, B listens · then swap</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 20px;">Answer in a sentence or two — and look up</h2>
+    <div style="display:flex;flex-direction:column;gap:13px;font-size:29px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;">"Tell me a little about where you live and who you live with."</div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;">"What are you studying, and which subject do you enjoy most?"</div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;">"What do you usually do after school or at the weekend?"</div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Listener's checklist:</strong> more than one word? · a reason added? · looked up, not down? Give one thing that worked and one to grow.</div>
+  </section>
+
+  <!-- CLINIC 2 -->
+  <section data-label="2 · The Topic Card" data-screen-label="E4 C2 · The trap + fix" data-speaker-notes="Clinic 2: reading the topic card. The trap is treating the five prompts as a checklist to march through, or writing a speech to read aloud. The fix: the prompts are a ladder — start on one, and climb as far as it takes you. Read, then the paired rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 2 · Reading the topic card</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">The prompts are a <span style="color:#b07a1e;">ladder</span>, not a list</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Marching through all five prompts with a sentence each — or writing full sentences in the prep time and reading them aloud, which the examiner hears instantly.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · climb one prompt</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">You don't have to use them all. If one prompt opens into something you actually want to say, follow it and let the others go. Jot brief notes — words, not sentences.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Two or three prompts explored deeply beat five prompts touched once. Depth is what earns the development mark.</div>
+  </section>
+
+  <section data-label="2 · Spoken Rep" data-screen-label="E4 C2 · Card rep" data-speaker-notes="Paired rep with real timing: 60 seconds' prep making WORD notes (not sentences), then A talks for up to 2 minutes on the Technology card, choosing 2–3 prompts to develop. B listens for depth vs list-marching. Swap for a later run." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;gap:16px;"><lesson-timer seconds="60" label="Prep"></lesson-timer><lesson-timer seconds="120" label="Talk"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · topic card · Technology &amp; everyday life</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:8px 0 16px;">Prep in words, then climb 2–3 prompts</h2>
+    <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:22px 34px;">
+      <div style="font-family:Archivo,sans-serif;font-size:22px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#b07a1e;margin-bottom:12px;">You could talk about…</div>
+      <ul style="margin:0;padding-left:28px;font-size:28px;line-height:1.55;color:#2c2822;">
+        <li>the technology you use most in an ordinary day</li>
+        <li>how it has changed the way you study</li>
+        <li>whether being contactable at all times is good or bad</li>
+        <li>a piece of technology you'd find hard to give up, and why</li>
+        <li>how everyday technology might look in twenty years</li>
+      </ul>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Listener's checklist:</strong> did they develop a prompt, or list all five? · notes, not a read-out speech? · did one idea lead into the next?</div>
+  </section>
+
+  <!-- CLINIC 3 -->
+  <section data-label="3 · Develop an Answer" data-screen-label="E4 C3 · The trap + fix" data-speaker-notes="Clinic 3: developing an answer. The trap is the one-sentence answer that dies. The fix: Reason, Example, Contrast — three engines that always give you more to say. Read, then the sort rep and the paired practice." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 3 · Developing an answer</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.02;margin:12px 0 20px;">Reason · Example · <span style="color:#b07a1e;">Contrast</span></h2>
+    <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:22px 34px;font-size:29px;line-height:1.4;color:#2c2822;margin-bottom:18px;"><strong style="color:#b0402a;">The trap:</strong> the answer that stops after one sentence — "Yes, I like it." — and leaves the examiner to drag out more.</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #2f8f57;border-radius:14px;padding:22px 26px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#2f8f57;">Reason</div><div style="font-size:26px;line-height:1.4;margin-top:8px;color:#2c2822;">"…because it lets me…" — always ask yourself <em>why</em>.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #2f8f57;border-radius:14px;padding:22px 26px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#2f8f57;">Example</div><div style="font-size:26px;line-height:1.4;margin-top:8px;color:#2c2822;">"…for instance, last week…" — a specific moment.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #2f8f57;border-radius:14px;padding:22px 26px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#2f8f57;">Contrast</div><div style="font-size:26px;line-height:1.4;margin-top:8px;color:#2c2822;">"…though some people would say…" — the other view.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:20px 34px;font-size:28px;line-height:1.4;">Run out of things to say? Reach for whichever engine you haven't used yet. There is always a reason, an example, or a contrast left.</div>
+  </section>
+
+  <section data-label="3 · Spoken Rep" data-screen-label="E4 C3 · Develop rep" data-speaker-notes="Rep: A answers a short question, then must keep going using Reason, then Example, then Contrast — at least 45 seconds from one prompt. B ticks which engines were used. Swap. This is the deck's core skill." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="45" label="Extend"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · one prompt, three engines · 45 seconds</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 18px;">Keep going: add a reason, then an example, then a contrast</h2>
+    <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 34px;font-size:30px;line-height:1.45;color:#2c2822;margin-bottom:16px;">Prompt: <em>"Do you prefer studying with technology or with paper books?"</em></div>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:27px;line-height:1.35;color:#2c2822;">
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 26px;">Start: "I prefer ______" → <strong>Reason</strong> "because ______"</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 26px;">→ <strong>Example</strong> "for instance, ______"</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 26px;">→ <strong>Contrast</strong> "although some people ______"</div>
+    </div>
+    <div style="margin-top:auto;background:#f7f3ec;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;font-size:25px;color:#5a544c;"><strong>Listener:</strong> tick R · E · C as you hear each. A full answer uses all three from a single prompt — no new question needed.</div>
+  </section>
+
+  <!-- CLINIC 4 -->
+  <section data-label="4 · Hesitation" data-screen-label="E4 C4 · The trap + fix" data-speaker-notes="Clinic 4: handling hesitation. The trap is filler ('um, er') and long dead silences, or freezing when a question surprises you. The fix: buy time in English with fluent hesitation phrases, and it costs nothing. Read, then the paired rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 4 · When you run out</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.02;margin:12px 0 22px;">Hesitation that costs <span style="color:#b07a1e;">nothing</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Filling every gap with "um… er…", or freezing into a long silence when a question surprises you — both read as a breakdown in fluency.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · buy time in English</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Use a fluent holding phrase while you think: "That's an interesting question…", "I've never really thought about it, but…", "Let me put it this way…". It sounds composed and buys you seconds.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:20px 34px;font-size:28px;line-height:1.4;">A short phrase in fluent English is scored as fluency; a silence or "um" is not. Rehearse two until they're automatic.</div>
+  </section>
+
+  <section data-label="4 · Spoken Rep" data-screen-label="E4 C4 · Hesitation rep" data-speaker-notes="Rep: B fires a surprising question; A must open with a holding phrase (no 'um') and then answer. 60 seconds, a few rounds. Swap. Build the reflex to reach for a phrase, never a silence." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="60" label="Rounds"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · open with a phrase, never a silence</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 18px;">B asks a surprise question; A buys time, then answers</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:20px 28px;"><div style="font-family:Archivo,sans-serif;font-size:22px;font-weight:700;color:#b07a1e;margin-bottom:8px;">Holding phrases (pick two)</div><div style="font-size:26px;line-height:1.6;color:#2c2822;">"That's an interesting question…"<br>"I've never really thought about it, but…"<br>"Let me put it this way…"<br>"It depends, really — for example…"</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:20px 28px;"><div style="font-family:Archivo,sans-serif;font-size:22px;font-weight:700;color:#b07a1e;margin-bottom:8px;">Surprise questions</div><div style="font-size:26px;line-height:1.6;color:#2c2822;">"Is it better to be busy or to have free time?"<br>"Should everyone learn to cook?"<br>"What would you change about your town?"</div></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Listener:</strong> did A open with a phrase, not "um"? · no dead silence? · did the real answer then arrive?</div>
+  </section>
+
+  <!-- FULL REHEARSAL -->
+  <section data-label="Full Rehearsal" data-screen-label="E4 · Full rehearsal" data-speaker-notes="The whole paper in one sitting, in the real order: unassessed warm-up, 2–3 min prep, the card, then discussion. A does the full run in ONE take with pauses left in; B is the examiner and keeps time. This rehearses keeping going when a question surprises you — the real skill. Swap and repeat if time allows." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;gap:14px;"><lesson-timer seconds="120" label="Prep"></lesson-timer><lesson-timer seconds="120" label="Card"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Full paper · one take · A speaks, B is the examiner</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:8px 0 14px;">Warm-up → prep → card → discussion</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;font-size:24px;line-height:1.4;color:#2c2822;"><strong>Card · "Money and young people"</strong><br>how young people get money · a part-time job while studying? · something you saved for · how you decide if something's worth it · should schools teach managing money?</div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;font-size:24px;line-height:1.4;color:#2c2822;"><strong>Then discuss</strong><br>Should parents give a fixed weekly amount? · Save carefully, or enjoy what you have now? · Do people your age worry about money more than their parents did?</div>
+    </div>
+    <div style="background:#14243d;color:#f4efe6;border-radius:12px;padding:16px 28px;font-size:25px;line-height:1.4;">Leave your pauses in. Sitting the whole paper once — warts and all — teaches more than three tidy fragments, because what you're really rehearsing is <em>recovering</em> when a question catches you off guard.</div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 28px;font-size:25px;color:#2f6d49;"><strong>Examiner (B):</strong> keep time, ask the discussion questions, and note one strength + one fix across all four skills. Then swap.</div>
+  </section>
+
+  <section data-label="Takeaways" data-screen-label="E4 · Takeaways" data-speaker-notes="Close the deck — and the whole exam-technique set. Recap the five moves. Congratulate the class: with the four papers' technique decks plus Units 1–12, they have the full toolkit. End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:82px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">Take it into the exam</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 26px;">Five moves for the Speaking paper</h2>
+    <div style="display:flex;flex-direction:column;gap:14px;font-size:30px;line-height:1.3;">
+      <div style="display:flex;gap:20px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 28px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:40px;">1</span><span>Use the warm-up to settle and find your voice — it sets your pace.</span></div>
+      <div style="display:flex;gap:20px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 28px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:40px;">2</span><span>Treat card prompts as a ladder — climb two or three, deeply.</span></div>
+      <div style="display:flex;gap:20px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 28px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:40px;">3</span><span>Develop every answer with Reason, Example, Contrast.</span></div>
+      <div style="display:flex;gap:20px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 28px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:40px;">4</span><span>Buy time with a fluent phrase — never "um" or silence.</span></div>
+      <div style="display:flex;gap:20px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 28px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:40px;">5</span><span>Rehearse the whole paper in one take — practise recovering, not reciting.</span></div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

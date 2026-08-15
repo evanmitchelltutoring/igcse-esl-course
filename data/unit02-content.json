@@ -1,0 +1,2450 @@
+{
+ "_about": "Real live content for Landscapes & Living Things (our-beautiful-world), pulled 2026-08-14. Mirror this in the decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 2,
+  "slug": "our-beautiful-world",
+  "title": "Landscapes & Living Things",
+  "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Welcome to Landscapes & Living Things",
+   "skill": "orientation",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "reading_questions",
+    "vocab_exercise",
+    "word_sort",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary Launch",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "vocab_set",
+    "vocab_exercise"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Rule-Breakers of the Plant World",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "grammar_exercise",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The Plants That Break the Rules"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Plants That Break the Rules"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Animal Migrations",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "grammar_exercise",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "Four Great Journeys"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Four Great Journeys"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Describing & Comparing",
+   "skill": "grammar",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "grammar_point",
+    "grammar_exercise",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "Bringing Nature Back",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "grammar_exercise",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The River That Came Back to Life"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The River That Came Back to Life"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "City Environments",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "grammar_exercise",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The Man Who Grows Forests on Rooftops"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Man Who Grows Forests on Rooftops"
+   ]
+  },
+  {
+   "order": 8,
+   "title": "Reporting Objectively",
+   "skill": "grammar",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "grammar_point",
+    "grammar_exercise",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Listening Skills",
+   "skill": "listening",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "listening",
+    "listening_questions",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Exercise 1 — Eight Short Recordings",
+    "Exercise 2 — Five Short Extracts",
+    "Exercise 3 — A Talk on Starting a Wildlife Garden",
+    "Exercise 4 — Six Speakers: A Place in Nature",
+    "Exercise 5 — Interview with a Marine Biologist"
+   ]
+  },
+  {
+   "order": 10,
+   "title": "Writing: A Letter About Nature",
+   "skill": "writing",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task",
+    "vocab_set",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Writing: A Conservation Report + Unit Review",
+   "skill": "writing",
+   "minutes": 35,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task",
+    "vocab_set",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "plants & landscapes": [
+   {
+    "word": "adapt",
+    "pos": "verb",
+    "def": "to change in order to survive better in particular conditions"
+   },
+   {
+    "word": "barren",
+    "pos": "adjective",
+    "def": "(of land) too poor to grow plants; bare and lifeless"
+   },
+   {
+    "word": "drought",
+    "pos": "noun",
+    "def": "a long period with little or no rain"
+   },
+   {
+    "word": "ecosystem",
+    "pos": "noun",
+    "def": "a community of living things together with the environment they depend on"
+   },
+   {
+    "word": "fragile",
+    "pos": "adjective",
+    "def": "easily damaged, broken or harmed"
+   },
+   {
+    "word": "habitat",
+    "pos": "noun",
+    "def": "the natural home or environment of an animal or plant"
+   },
+   {
+    "word": "lush",
+    "pos": "adjective",
+    "def": "growing thickly and healthily; rich and green"
+   },
+   {
+    "word": "revive",
+    "pos": "verb",
+    "def": "to bring something back to life, health, or activity"
+   },
+   {
+    "word": "species",
+    "pos": "noun",
+    "def": "a group of living things that share features and can breed together"
+   },
+   {
+    "word": "thrive",
+    "pos": "verb",
+    "def": "to grow strongly and do very well"
+   },
+   {
+    "word": "vegetation",
+    "pos": "noun",
+    "def": "the plants found in a particular area, taken as a whole"
+   }
+  ],
+  "city environments": [
+   {
+    "word": "commute",
+    "pos": "verb",
+    "def": "to travel regularly between home and work"
+   },
+   {
+    "word": "congestion",
+    "pos": "noun",
+    "def": "the state of being overcrowded, especially with traffic"
+   },
+   {
+    "word": "cultivate",
+    "pos": "verb",
+    "def": "to prepare and use land for growing crops or plants"
+   },
+   {
+    "word": "density",
+    "pos": "noun",
+    "def": "the degree to which an area is filled with people or things"
+   },
+   {
+    "word": "drainage",
+    "pos": "noun",
+    "def": "the natural or artificial removal of water from an area"
+   },
+   {
+    "word": "emission",
+    "pos": "noun",
+    "def": "a gas or other substance sent out into the air, especially a harmful one"
+   },
+   {
+    "word": "infrastructure",
+    "pos": "noun",
+    "def": "the basic systems and structures a place needs to work, such as roads and water supply"
+   },
+   {
+    "word": "renewable",
+    "pos": "adjective",
+    "def": "(of energy or resources) able to be replaced naturally and not used up, such as sun or wind"
+   },
+   {
+    "word": "sustainable",
+    "pos": "adjective",
+    "def": "able to continue without damaging the environment"
+   },
+   {
+    "word": "urban",
+    "pos": "adjective",
+    "def": "relating to a town or city (opposite: rural)"
+   }
+  ],
+  "conservation": [
+   {
+    "word": "conservation",
+    "pos": "noun",
+    "def": "the protection of nature and natural resources"
+   },
+   {
+    "word": "endangered",
+    "pos": "adjective",
+    "def": "(of a species) at serious risk of dying out completely"
+   },
+   {
+    "word": "extinction",
+    "pos": "noun",
+    "def": "the dying out of a species so that none are left"
+   },
+   {
+    "word": "initiative",
+    "pos": "noun",
+    "def": "a new plan or action taken to solve a problem or improve something"
+   },
+   {
+    "word": "neglect",
+    "pos": "verb",
+    "def": "to fail to care for something properly"
+   },
+   {
+    "word": "pollution",
+    "pos": "noun",
+    "def": "harmful substances that damage air, water, or land"
+   },
+   {
+    "word": "preserve",
+    "pos": "verb",
+    "def": "to keep something safe and unchanged for the future"
+   },
+   {
+    "word": "recover",
+    "pos": "verb",
+    "def": "to return to a normal or healthy state after damage or difficulty"
+   },
+   {
+    "word": "responsibility",
+    "pos": "noun",
+    "def": "a duty to deal with or take care of something"
+   },
+   {
+    "word": "restoration",
+    "pos": "noun",
+    "def": "the act of returning something to its original or healthy condition"
+   },
+   {
+    "word": "threaten",
+    "pos": "verb",
+    "def": "to be likely to cause harm or danger to something"
+   },
+   {
+    "word": "volunteer",
+    "pos": "noun",
+    "def": "a person who freely offers to do helpful work without being paid"
+   }
+  ],
+  "animal migration": [
+   {
+    "word": "endurance",
+    "pos": "noun",
+    "def": "the ability to keep going through pain, effort or hardship for a long time"
+   },
+   {
+    "word": "flock",
+    "pos": "noun",
+    "def": "a large group of birds or sheep moving or feeding together"
+   },
+   {
+    "word": "generation",
+    "pos": "noun",
+    "def": "all the members of a group born and living at about the same time"
+   },
+   {
+    "word": "instinct",
+    "pos": "noun",
+    "def": "a natural tendency to behave in a certain way, without having to learn it"
+   },
+   {
+    "word": "migration",
+    "pos": "noun",
+    "def": "the seasonal movement of animals or people from one region to another"
+   },
+   {
+    "word": "navigate",
+    "pos": "verb",
+    "def": "to find the way across difficult land or water"
+   },
+   {
+    "word": "predator",
+    "pos": "noun",
+    "def": "an animal that hunts and eats other animals"
+   },
+   {
+    "word": "seasonal",
+    "pos": "adjective",
+    "def": "happening or changing with the seasons of the year"
+   },
+   {
+    "word": "shelter",
+    "pos": "noun",
+    "def": "a place or structure that protects you from danger or weather"
+   },
+   {
+    "word": "survive",
+    "pos": "verb",
+    "def": "to continue to live, especially through danger or hardship"
+   },
+   {
+    "word": "vast",
+    "pos": "adjective",
+    "def": "extremely large in size, amount or extent"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "How Honey Is Made",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Honey begins its life as nectar, a sweet, watery liquid that bees patiently gather from deep inside flowers. A single worker bee may visit hundreds of separate blooms in a single day. It sucks up the nectar and carries it all the way home inside a special stomach kept just for the purpose, quite separate from the ordinary stomach it uses for its own food.\n\nBack at the hive, the real work begins in earnest. The bee passes the nectar mouth to mouth to other waiting workers, who then pass it on again, over and over, in a long relay. As it travels from bee to bee, natural substances are slowly added to it and it begins to change and thicken. The bees then spread the half-made honey into the six-sided wax cells of the honeycomb and beat their wings hard, all together, like hundreds of tiny fans, driving off most of the water until what remains is thick, golden and ready.\n\nOnce the honey is finally ready, the bees seal each cell with a small, neat lid of wax to keep it perfectly fresh, sometimes for years on end. A sealed honeycomb is one of the very few foods that almost never goes off. It is slow, patient, astonishing teamwork: a single honeybee makes only a tiny amount of honey — less than one teaspoonful — in its entire short life. This means that the full jar standing on your breakfast table really represents the lifetime work of hundreds and hundreds of bees, all working quietly together for the good of the whole hive."
+  },
+  {
+   "title": "The Man Who Grows Forests on Rooftops",
+   "topic": "Our Beautiful World — greening the city",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the article about Daniel Owusu, then choose the best answer (A, B, C or D) for each question.",
+   "body": "When Daniel Owusu tells people he is a farmer, they picture open fields. In fact his farms sit on the flat roofs of office blocks and car parks in the centre of one of the busiest cities in West Africa.\n\nOwusu trained as an architect, not a gardener. For years he designed glass towers like everyone else, until a long illness forced him to spend months indoors looking out over a grey sea of concrete. 'I realised I had helped build a city with almost nowhere for anything green to live,' he says. 'I had been part of the problem.'\n\nHis idea was simple but stubborn: every unused roof, he argued, was a field waiting to happen. Persuading building owners was harder. Many feared the weight of the soil, or leaks, or the cost. Owusu's answer was to start small and let the results speak. He covered one modest rooftop with lightweight beds of vegetables and herbs, tended by people from the neighbourhood, and invited sceptical landlords to come and see.\n\nThe rooftop did more than grow food. In summer the planted roof kept the floor below it noticeably cooler, cutting the building's air-conditioning bills. Rainwater that had once rushed straight into overloaded drains was now soaked up by the soil. Bees and birds, almost unknown in the district, began to return. What had looked like charity turned out to make hard financial sense.\n\nToday more than forty roofs across the city are under cultivation, and a waiting list of owners want to join. Owusu is careful, though, not to promise too much. 'A few gardens will not undo what cities have done to the natural world,' he warns. 'But they change how people think. Once someone has grown a tomato above the traffic, they never look at a bare roof the same way again. That shift in the mind is the real harvest.'"
+  },
+  {
+   "title": "The Return of the School Garden",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A growing number of schools, in towns and cities alike, are turning unused corners of their grounds into thriving vegetable gardens, and the reasons go well beyond simply growing a few rows of carrots.\n\nThe most obvious benefit is food. Pupils who have grown a vegetable themselves, all the way from a tiny seed, are far more willing to taste it at last, and along the way they learn where their everyday meals actually come from. Teachers report that even the fussiest eaters become noticeably more adventurous at lunchtime once they have proudly dug up their own muddy potatoes.\n\nThere are quieter, gentler benefits too. Many pupils describe the garden as the calmest part of their entire week, a green and welcome escape from the noise and rush of the busy classroom. Staff have noticed, again and again, that anxious or restless children often settle almost at once when they are given a simple, repetitive task to do with their hands, such as watering, weeding or gently raking the soil.\n\nGardens also teach valuable skills that are very hard to deliver from a textbook alone. Planting seeds and then waiting for the harvest demand real patience, because nothing in a garden can ever be hurried along. Working together on a shared plot quietly forces pupils to cooperate and to divide up the many jobs fairly between them. And the whole garden becomes a living science lesson, where dry ideas about soil, weather, bees and insects suddenly feel real and important.\n\nFinally, school gardens cut waste in a satisfying circle. Vegetable peelings and grass cuttings go straight onto a compost heap rather than into a bin, slowly rotting down into rich, dark food for the crop the following year."
+  },
+  {
+   "title": "The Plants That Break the Rules",
+   "topic": "Our Beautiful World — extraordinary plant life",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "Read the article about four unusual plants and answer the questions. Write a short answer (a few words) for each.",
+   "body": "We tend to think of plants as quiet, patient things that stay where they are put. A few species, however, seem determined to break every rule we expect them to follow.\n\nTake the welwitschia, which grows in the Namib Desert of southern Africa. It produces only two leaves in its entire life, yet it can live for more than a thousand years. The leaves never fall; instead they grow steadily, split and fray at the tips until the plant looks like a tangled heap of old ribbon. Botanists call it a living fossil, because it has barely changed in millions of years.\n\nFar to the east, in the rainforests of Sumatra, the titan arum takes a different approach to survival. Once every few years it unfurls a flower taller than an adult, which gives off a powerful smell of rotting meat. Visitors often hold their noses, but the stink is no accident: it draws in the flies and beetles that the plant depends on to carry its pollen. The bloom lasts barely two days before it collapses.\n\nThe resurrection plant is stranger still. During a drought it curls into a dry, brown ball that looks completely dead and can be blown across the ground by the wind. Yet add a little water and, within hours, it unrolls and turns green again, as though nothing had happened. Some specimens have been brought back to life after decades on a shelf.\n\nPerhaps the boldest of all is the dancing plant of South Asia, whose small side-leaves twitch and rotate in response to warmth, light and even music. Nobody is quite sure why it moves; one theory is that the motion helps the plant find the brightest patches of sun.\n\nWhat these plants share is a refusal to be ordinary. Each has found an unusual answer to the same question every living thing must face: how to survive."
+  },
+  {
+   "title": "Why Leaves Change Colour",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Why do the leaves of so many trees blaze into gold and red each autumn before they finally fall? The answer lies in a green substance called chlorophyll, which fills the leaves all summer long. Chlorophyll has one vital job: it uses the energy in sunlight to make food for the whole tree, and in doing so it also gives the leaves their familiar green colour that we see from spring right through to the end of summer. A single large tree may carry hundreds of thousands of these tiny green food factories.\n\nAs autumn slowly arrives, the days grow shorter and cooler, and there is less and less sunlight for the leaves to work with. Sensing the change in the light, the tree gradually stops making chlorophyll, since it is no longer worth the effort. As the strong green colour quietly fades away, the yellow and orange shades that were hidden underneath the green all along are revealed at last. In certain trees the leaves also turn a brilliant, fiery red, and this colour is different: it is one the tree actually makes fresh, from sugar trapped inside the dying leaf.\n\nThere is a very practical reason behind all of this beauty. Broad, flat leaves would lose far too much water in the dry winter air, and would be battered and torn by the winter storms, so the tree carefully drops them to save precious water and energy through the cold, dark months ahead. Through the whole of winter the bare tree simply rests, doing almost nothing at all, waiting patiently until the warmth and the light return in spring and the new buds open once again."
+  },
+  {
+   "title": "Four Great Journeys",
+   "topic": "Our Beautiful World — animal migration",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read about four migrating animals (A, B, C and D). For each question, choose the correct animal. You may use each letter more than once.",
+   "body": "A  The Arctic tern\nNo animal travels further. Each year the Arctic tern flies from the Arctic, where it breeds, all the way to the seas around Antarctica and back — a round trip of around 70,000 kilometres. Because it follows the summer at both ends of the planet, it sees more daylight than any other creature on Earth. It rarely lands, snatching fish from the surface of the sea as it goes, and a single tern may cover three million kilometres in its lifetime.\n\nB  The monarch butterfly\nThe monarch's journey is remarkable not for its length but for who completes it. No single butterfly makes the whole trip from Canada to the forests of central Mexico. Instead the migration is shared across several generations: the butterflies that finally arrive in Mexico are the great-grandchildren of those that first set out. How they find a forest none of them has ever seen remains one of nature's great puzzles.\n\nC  The humpback whale\nHumpback whales swim from the cold, food-rich waters near the poles to warm tropical seas where their calves are born. They make the journey without eating at all, living off the fat they built up over the summer. Along the way the males sing long, complex songs that travel for many kilometres underwater; the same song spreads slowly from group to group until whole oceans seem to share a single tune.\n\nD  The wildebeest\nOn the plains of East Africa more than a million wildebeest move in a vast circle, always chasing the rain and the fresh grass it brings. There is no leader; the herd simply turns as one when the weather changes. The most dangerous moments come at the rivers, where crocodiles wait, and only the animals that cross quickly and together are likely to survive."
+  },
+  {
+   "title": "The River That Came Back to Life",
+   "topic": "Our Beautiful World — community conservation",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article about a town that restored its river, then complete the notes below. Write one to four words in each gap.",
+   "body": "Thirty years ago the River Mell, which runs through the small town of Casterton, was little more than an open drain. Factories upstream had poured waste into it for decades, the water ran a strange grey-green, and the fish had long since disappeared. Most residents simply kept their backs to it.\n\nThe change began with a single retired teacher, Pamela Osei, who started picking litter from the banks on her morning walks. Neighbours who had once ignored the river began to join her, and within a year a small volunteer group had formed. They called themselves the River Watch.\n\nTheir first victory was information. By testing the water themselves and sharing the results online, they put quiet pressure on the factories until two of the worst polluters agreed to install filters. Cleaner water alone, however, was not enough. The group also planted reeds along the banks, which trap dirt and give insects and birds somewhere to shelter, and they removed several old concrete walls so that the river could spread into its natural floodplain after heavy rain.\n\nSlowly, life returned. Dragonflies appeared first, then small fish, and three years ago an otter — an animal not seen in Casterton for half a century — was photographed at dawn. The town now holds a River Festival every spring, and local schools use the banks as an outdoor classroom.\n\nPamela is modest about her part. 'I never set out to start a movement,' she says. 'I just couldn't walk past the mess any more. The lesson, if there is one, is that a place only stays neglected for as long as nobody decides to care for it.'"
+  },
+  {
+   "title": "The Man Who Grows Forests on Rooftops [Landscapes re-author copy]",
+   "topic": "Our Beautiful World — greening the city",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Landscapes re-authoring own-copy (draft-at-101). Read the article about Daniel Owusu, then choose the best answer (A, B, C or D) for each question.",
+   "body": "When Daniel Owusu tells people he is a farmer, they picture open fields. In fact his farms sit on the flat roofs of office blocks and car parks in the centre of one of the busiest cities in West Africa.\n\nOwusu trained as an architect, not a gardener. For years he designed glass towers like everyone else, until a long illness forced him to spend months indoors looking out over a grey sea of concrete. 'I realised I had helped build a city with almost nowhere for anything green to live,' he says. 'I had been part of the problem.'\n\nHis idea was simple but stubborn: every unused roof, he argued, was a field waiting to happen. Persuading building owners was harder. Many feared the weight of the soil, or leaks, or the cost. Owusu's answer was to start small and let the results speak. He covered one modest rooftop with lightweight beds of vegetables and herbs, tended by people from the neighbourhood, and invited sceptical landlords to come and see.\n\nThe rooftop did more than grow food. In summer the planted roof kept the floor below it noticeably cooler, cutting the building's air-conditioning bills. Rainwater that had once rushed straight into overloaded drains was now soaked up by the soil. Bees and birds, almost unknown in the district, began to return. What had looked like charity turned out to make hard financial sense.\n\nToday more than forty roofs across the city are under cultivation, and a waiting list of owners want to join. Owusu is careful, though, not to promise too much. 'A few gardens will not undo what cities have done to the natural world,' he warns. 'But they change how people think. Once someone has grown a tomato above the traffic, they never look at a bare roof the same way again. That shift in the mind is the real harvest.'"
+  },
+  {
+   "title": "The Plants That Break the Rules [Landscapes re-author copy]",
+   "topic": "Our Beautiful World — extraordinary plant life",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "Landscapes re-authoring own-copy (draft-at-101). Read the article about four unusual plants and answer the questions. Write a short answer (a few words) for each.",
+   "body": "We tend to think of plants as quiet, patient things that stay where they are put. A few species, however, seem determined to break every rule we expect them to follow.\n\nTake the welwitschia, which grows in the Namib Desert of southern Africa. It produces only two leaves in its entire life, yet it can live for more than a thousand years. The leaves never fall; instead they grow steadily, split and fray at the tips until the plant looks like a tangled heap of old ribbon. Botanists call it a living fossil, because it has barely changed in millions of years.\n\nFar to the east, in the rainforests of Sumatra, the titan arum takes a different approach to survival. Once every few years it unfurls a flower taller than an adult, which gives off a powerful smell of rotting meat. Visitors often hold their noses, but the stink is no accident: it draws in the flies and beetles that the plant depends on to carry its pollen. The bloom lasts barely two days before it collapses.\n\nThe resurrection plant is stranger still. During a drought it curls into a dry, brown ball that looks completely dead and can be blown across the ground by the wind. Yet add a little water and, within hours, it unrolls and turns green again, as though nothing had happened. Some specimens have been brought back to life after decades on a shelf.\n\nPerhaps the boldest of all is the dancing plant of South Asia, whose small side-leaves twitch and rotate in response to warmth, light and even music. Nobody is quite sure why it moves; one theory is that the motion helps the plant find the brightest patches of sun.\n\nWhat these plants share is a refusal to be ordinary. Each has found an unusual answer to the same question every living thing must face: how to survive."
+  },
+  {
+   "title": "Four Great Journeys [Landscapes re-author copy]",
+   "topic": "Our Beautiful World — animal migration",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Landscapes re-authoring own-copy (draft-at-101). Read about four migrating animals (A, B, C and D). For each question, choose the correct animal. You may use each letter more than once.",
+   "body": "A  The Arctic tern\nNo animal travels further. Each year the Arctic tern flies from the Arctic, where it breeds, all the way to the seas around Antarctica and back — a round trip of around 70,000 kilometres. Because it follows the summer at both ends of the planet, it sees more daylight than any other creature on Earth. It rarely lands, snatching fish from the surface of the sea as it goes, and a single tern may cover three million kilometres in its lifetime.\n\nB  The monarch butterfly\nThe monarch's journey is remarkable not for its length but for who completes it. No single butterfly makes the whole trip from Canada to the forests of central Mexico. Instead the migration is shared across several generations: the butterflies that finally arrive in Mexico are the great-grandchildren of those that first set out. How they find a forest none of them has ever seen remains one of nature's great puzzles.\n\nC  The humpback whale\nHumpback whales swim from the cold, food-rich waters near the poles to warm tropical seas where their calves are born. They make the journey without eating at all, living off the fat they built up over the summer. Along the way the males sing long, complex songs that travel for many kilometres underwater; the same song spreads slowly from group to group until whole oceans seem to share a single tune.\n\nD  The wildebeest\nOn the plains of East Africa more than a million wildebeest move in a vast circle, always chasing the rain and the fresh grass it brings. There is no leader; the herd simply turns as one when the weather changes. The most dangerous moments come at the rivers, where crocodiles wait, and only the animals that cross quickly and together are likely to survive."
+  },
+  {
+   "title": "The River That Came Back to Life [Landscapes re-author copy]",
+   "topic": "Our Beautiful World — community conservation",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Landscapes re-authoring own-copy (draft-at-101). Read the article about a town that restored its river, then complete the notes below. Write one to four words in each gap.",
+   "body": "Thirty years ago the River Mell, which runs through the small town of Casterton, was little more than an open drain. Factories upstream had poured waste into it for decades, the water ran a strange grey-green, and the fish had long since disappeared. Most residents simply kept their backs to it.\n\nThe change began with a single retired teacher, Pamela Osei, who started picking litter from the banks on her morning walks. Neighbours who had once ignored the river began to join her, and within a year a small volunteer group had formed. They called themselves the River Watch.\n\nTheir first victory was information. By testing the water themselves and sharing the results online, they put quiet pressure on the factories until two of the worst polluters agreed to install filters. Cleaner water alone, however, was not enough. The group also planted reeds along the banks, which trap dirt and give insects and birds somewhere to shelter, and they removed several old concrete walls so that the river could spread into its natural floodplain after heavy rain.\n\nSlowly, life returned. Dragonflies appeared first, then small fish, and three years ago an otter — an animal not seen in Casterton for half a century — was photographed at dawn. The town now holds a River Festival every spring, and local schools use the banks as an outdoor classroom.\n\nPamela is modest about her part. 'I never set out to start a movement,' she says. 'I just couldn't walk past the mess any more. The lesson, if there is one, is that a place only stays neglected for as long as nobody decides to care for it.'"
+  },
+  {
+   "title": "Why Birds Migrate",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "As the seasons slowly change, huge numbers of birds set off on some of the most remarkable journeys in all of nature. The main reason they migrate is to find food: when winter strips the trees bare and freezes the hard ground, the insects and seeds quietly vanish, and so many birds fly off to warmer places where food is still plentiful and the days are longer and brighter.\n\nThese journeys can be truly astonishing. Some tiny birds, no heavier than a letter, fly thousands of kilometres without ever once stopping to rest. To find their way across wide oceans and empty deserts they have no maps at all to guide them, and yet they rarely get lost. Instead they use a clever mixture of clues — the position of the sun by day and the stars by night, familiar coastlines and mountain ranges far below, and a mysterious natural force called magnetism, which they can somehow sense and which acts like an invisible map inside their heads.\n\nBirds very often travel together in a great group, taking turns at the tiring front position while the others rest in the slipstream behind, because flying together in this way saves a huge amount of precious energy. Most follow exactly the same routes year after year, generation after generation, passing over the very same fields and rivers that their parents and grandparents crossed before them. It is not an easy or a safe trip, though, by any means: migration is also extremely dangerous, with storms, exhaustion, hunger and hungry predators all along the way, and sadly many birds do not survive to see the journey through to its end."
+  },
+  {
+   "title": "The Return of the Wolves",
+   "topic": "rewilding wolves",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article about wolves in Yellowstone, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "When the last wolves were hunted out of Yellowstone National Park in the 1920s, few people thought it mattered. The park looked beautiful without them. Yet over the following seventy years, scientists watched something strange and worrying happen to the whole landscape.\n\nWith no wolves to hunt them, the number of elk grew enormously. These large deer ate young trees faster than the trees could grow. Along the rivers, the willows and aspens that once lined the banks almost disappeared. Without those trees, songbirds lost their nesting places, and beavers, which need willow to build with, became rare.\n\nIn 1995, after years of debate, scientists released fourteen wolves back into the park. What followed surprised even the experts. The wolves, of course, killed some elk, but the bigger effect was on how the elk behaved. The deer no longer dared to linger in the open river valleys where they could be caught. They began to move more, and to avoid the most dangerous places altogether.\n\nFreed from constant grazing, the young trees finally grew tall. As the willows returned, so did the songbirds. Beavers came back too, and their dams created ponds that gave homes to fish, frogs and insects. Even the rivers changed shape: the new plants held the banks together, so the water ran in steadier channels instead of washing the soil away.\n\nScientists call this a \"trophic cascade\" — a chain of effects that begins with one species at the top and ripples all the way down. The story of Yellowstone taught ecologists an important lesson: a single missing animal can quietly change an entire ecosystem, and bringing it back can heal far more than anyone expects."
+  },
+  {
+   "title": "A Weekend in the National Park",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "Last weekend, my family visited a national park about two hours from our city. We arrived early in the morning, before it got too hot. The park was full of tall trees, colourful birds, and a river that ran through the middle of it.\n\nWe walked along a marked trail for about an hour. Our guide told us the names of different plants and pointed out animal tracks in the mud. Halfway through the walk, we stopped by the river to eat lunch and watch the water flow over the rocks.\n\nIn the afternoon, we visited the park's small information centre, where we learned about the animals that live in the area, including deer, foxes, and many kinds of birds. By the time we left, everyone was tired but happy. My little sister said it was the best day of her holiday so far."
+  },
+  {
+   "title": "Growing Vegetables on a Windowsill",
+   "topic": "how-to / informative",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Imagine you are giving a short talk about growing vegetables on a windowsill. Use the article to make short notes under each heading.",
+   "body": "You don't need a garden to grow your own vegetables. A bright windowsill and a few containers are enough to keep a kitchen supplied with fresh herbs and salad leaves for much of the year — and it costs very little to begin.\n\nThe most important thing is light. A windowsill that faces the sun and receives at least six hours of light a day will grow almost anything; a darker one will only suit a few leafy plants. If your room is dim, a cheap clip-on lamp can make up the difference.\n\nAlmost any container will do, from a proper plant pot to an old tin, as long as it has holes in the bottom so that water can escape. Without drainage, the roots sit in water and quickly rot. Stand the containers on a tray to protect the windowsill.\n\nBeginners should start with herbs such as basil and mint, and fast salad leaves like rocket, which are difficult to kill and ready to eat within weeks. Tomatoes and peppers are possible but need more light and patience, so they are better left until you have some experience.\n\nWatering is where most people go wrong. Rather than watering a little every day, wait until the top of the soil feels dry to the touch, then water well. Plants on a windowsill also tend to lean towards the glass, so turn the containers every few days to keep them growing straight. Once the first proper leaves appear, a weak liquid feed every two weeks will keep them strong.\n\nThe commonest problem indoors is simply too little light, which makes plants pale and weak. If that happens, move them closer to the window or add a lamp."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Exercise 2 — Five Short Extracts [Landscapes re-author copy]",
+   "accent": "British English (mixed voices)",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five short extracts. Answer the two questions on each extract by choosing A, B or C. You will hear each extract twice.",
+   "script_text": "[Extract 1] \"The thing that amazed me about the rainforest wasn't the size of the trees — it was how unbelievably loud it was at night.\" \"Sounds incredible. If you go again, try the dry season though; we got soaked every single afternoon.\"\n[Extract 2] \"I grow tomatoes on the roof of my block of flats now.\" \"Does it actually save you money?\" \"A little, but honestly that's not the point — it just makes the whole building feel alive.\"\n[Extract 3] \"I watched this film about the wildebeest crossing — millions of them, and no leader at all.\" \"That sounds like total chaos.\" \"That's exactly what I expected, but it's the opposite — it's beautifully organised.\"\n[Extract 4] \"We sort absolutely everything now — glass, paper, food waste, the lot.\" \"Isn't that a hassle?\" \"It was at first, I won't lie, but now none of us even thinks about it.\"\n[Extract 5] \"I joined the beach clean expecting to fill a couple of bags.\" \"And?\" \"We filled an entire van. It really opened my eyes to just how much washes up there.\"\n"
+  },
+  {
+   "title": "Exercise 1 — Eight Short Recordings [Landscapes re-author copy]",
+   "accent": "British English (mixed voices)",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each one, choose the correct answer (A, B, C or D). You will hear each recording twice.",
+   "script_text": "[Recording 1] Good morning, visitors. Please note that the tropical greenhouse is closed today while our team repairs a broken heating pipe. All the other glasshouses are open as usual.\n[Recording 2] A quick update for everyone joining the dawn bird walk: we are now meeting by the boathouse, not the main gate, because the path from the gate is flooded after last night's rain.\n[Recording 3] \"What do we do with these glass jars?\" \"Rinse them first and put them in the green bin — the council won't take them if they're still sticky.\"\n[Recording 4] If you're walking the marsh trail today, do wear waterproof boots. After all the rain it's extremely muddy in places, and ordinary trainers won't last five minutes.\n[Recording 5] People ask why I give up my Saturdays to clear the old canal. Honestly, it isn't really about the tidiness — it's that I've made some of my closest friends down there.\n[Recording 6] Thank you all for supporting our plant sale this weekend. Every single pound you spend today goes straight towards planting new trees along the riverbank.\n[Recording 7] Please be aware that this week the penguin feeding has moved from eleven o'clock to half past two, because of some filming taking place in the morning.\n[Recording 8] Just a reminder that we can take cardboard, glass and metal here, but we are not able to accept garden waste — that needs to go in the brown bin at home."
+  },
+  {
+   "title": "Exercise 1 — Eight Short Recordings",
+   "accent": "British English (mixed voices)",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each one, choose the correct answer (A, B, C or D). You will hear each recording twice.",
+   "script_text": "[Recording 1] Good morning, visitors. Please note that the tropical greenhouse is closed today while our team repairs a broken heating pipe. All the other glasshouses are open as usual.\n[Recording 2] A quick update for everyone joining the dawn bird walk: we are now meeting by the boathouse, not the main gate, because the path from the gate is flooded after last night's rain.\n[Recording 3] \"What do we do with these glass jars?\" \"Rinse them first and put them in the green bin — the council won't take them if they're still sticky.\"\n[Recording 4] If you're walking the marsh trail today, do wear waterproof boots. After all the rain it's extremely muddy in places, and ordinary trainers won't last five minutes.\n[Recording 5] People ask why I give up my Saturdays to clear the old canal. Honestly, it isn't really about the tidiness — it's that I've made some of my closest friends down there.\n[Recording 6] Thank you all for supporting our plant sale this weekend. Every single pound you spend today goes straight towards planting new trees along the riverbank.\n[Recording 7] Please be aware that this week the penguin feeding has moved from eleven o'clock to half past two, because of some filming taking place in the morning.\n[Recording 8] Just a reminder that we can take cardboard, glass and metal here, but we are not able to accept garden waste — that needs to go in the brown bin at home."
+  },
+  {
+   "title": "Exercise 4 — Six Speakers: A Place in Nature",
+   "accent": "British English (six distinct voices)",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six people talk about a natural place that is special to them. For each speaker, choose from the list A–H the statement that best matches what they say. There are two extra statements you will not need.\n\nA  It reminds the speaker of their childhood.\nB  The speaker goes there to be completely alone.\nC  The speaker worries the place is being spoiled.\nD  The speaker discovered it only recently.\nE  The speaker mainly goes there to exercise.\nF  The place changed the speaker's career.\nG  The speaker goes there to watch wildlife.\nH  The place helps the speaker think clearly.",
+   "script_text": "[Speaker 1] The little wood behind my grandmother's house — I played there every single summer when I was small. Even now, walking through it, I feel about ten years old again.\n[Speaker 2] I go down to the estuary at first light with my binoculars. For me it's all about the birds; I've counted well over ninety different species there over the years.\n[Speaker 3] I love that beach, I really do, but every year there are more cafes, more cars, more litter left behind. I'm honestly afraid we're loving the place to death.\n[Speaker 4] Whenever I'm stuck on a difficult problem at work, I walk up the hill behind the town. Something about all that open sky just untangles my thoughts.\n[Speaker 5] I visited the rainforest reserve on holiday, and it genuinely changed everything. I came home, handed in my notice at the office, and trained as an ecologist.\n[Speaker 6] I only stumbled across the canal path last month, after living in this area for years. I still can't believe it was right on my doorstep the whole time."
+  },
+  {
+   "title": "Exercise 3 — A Talk on Starting a Wildlife Garden [Landscapes re-author copy]",
+   "accent": "British English",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a park ranger talk about turning an ordinary garden into a home for wildlife. Complete the notes below. Write one to three words in each gap. You will hear the talk twice.",
+   "script_text": "Hello everyone, and thanks for coming along. People often think you need a huge space to help wildlife, but even a small garden can make a real difference. Let me give you a few simple steps.\n\nFirst, the easiest thing of all: leave one corner of your garden completely wild. Don't cut it at all. Long grass is where insects breed, and insects are the very bottom of the whole food chain.\n\nSecond, add water. If you can, dig a small pond — honestly, even a washing-up bowl sunk into the ground will do. You'll be amazed: frogs often arrive within weeks, entirely on their own.\n\nThird, think about flowering times. Try to choose plants that flower at different times of the year, so there is always something for the bees, from early spring right through to autumn.\n\nA quick warning: please avoid using pesticides. They don't only kill the pests — they wipe out the very insects you are trying to attract.\n\nAnd don't tidy up too much. A simple pile of dead wood in a shady corner becomes a shelter for beetles, and even for hedgehogs over the winter.\n\nDon't forget the birds, either. Put out fresh water all year round, but especially in summer, when natural sources dry up.\n\nOne last tip, for the evening: a few night-flowering plants will bring in moths. The best time to begin all of this is autumn, while the soil is still warm. Right — shall we go and look at the demonstration garden?"
+  },
+  {
+   "title": "Exercise 4 — Six Speakers: A Place in Nature [Landscapes re-author copy]",
+   "accent": "British English (six distinct voices)",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six people talk about a natural place that is special to them. For each speaker, choose from the list A–H the statement that best matches what they say. There are two extra statements you will not need.\n\nA  It reminds the speaker of their childhood.\nB  The speaker goes there to be completely alone.\nC  The speaker worries the place is being spoiled.\nD  The speaker discovered it only recently.\nE  The speaker mainly goes there to exercise.\nF  The place changed the speaker's career.\nG  The speaker goes there to watch wildlife.\nH  The place helps the speaker think clearly.",
+   "script_text": "[Speaker 1] The little wood behind my grandmother's house — I played there every single summer when I was small. Even now, walking through it, I feel about ten years old again.\n[Speaker 2] I go down to the estuary at first light with my binoculars. For me it's all about the birds; I've counted well over ninety different species there over the years.\n[Speaker 3] I love that beach, I really do, but every year there are more cafes, more cars, more litter left behind. I'm honestly afraid we're loving the place to death.\n[Speaker 4] Whenever I'm stuck on a difficult problem at work, I walk up the hill behind the town. Something about all that open sky just untangles my thoughts.\n[Speaker 5] I visited the rainforest reserve on holiday, and it genuinely changed everything. I came home, handed in my notice at the office, and trained as an ecologist.\n[Speaker 6] I only stumbled across the canal path last month, after living in this area for years. I still can't believe it was right on my doorstep the whole time."
+  },
+  {
+   "title": "Exercise 5 — Interview with a Marine Biologist",
+   "accent": "British English (two voices)",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Dr Maya Reyes, a marine biologist who studies ocean plastic. Choose the correct answer (A, B or C) for each question. You will hear the interview twice.",
+   "script_text": "Interviewer: Dr Reyes, when did you first realise plastic was such a problem?\nDr Reyes: Honestly, not in a laboratory at all. I was diving on a reef I'd known for years, and I saw a turtle completely tangled in a shopping bag. That image has stayed with me ever since.\nInterviewer: A lot of people picture huge floating islands of rubbish. Is that an accurate image?\nDr Reyes: That's actually the myth I most want to correct. The really dangerous plastic isn't the big, visible stuff — it's the tiny pieces, smaller than a grain of rice, that fish swallow and that work their way right up the food chain.\nInterviewer: So the worst of the problem is almost invisible?\nDr Reyes: Exactly. And that's precisely what makes it so hard to make people care — you simply can't photograph it easily.\nInterviewer: Whose responsibility is it to fix — shoppers, or companies?\nDr Reyes: People always want me to blame the shopper. But asking individuals to solve this on their own is unfair; the real change has to come from the companies that produce all the packaging in the first place.\nInterviewer: Is it too late?\nDr Reyes: No — and I'm always careful to say so. The ocean recovers surprisingly fast when we give it the chance. In places where fishing was paused, the reefs came back within just a few years.\nInterviewer: What's the one thing you'd ask our listeners to do?\nDr Reyes: Please don't feel guilty — guilt just makes people switch off. I'd far rather they picked one piece of single-use plastic they use every day, and simply refused it. Start there."
+  },
+  {
+   "title": "Exercise 5 — Interview with a Marine Biologist [Landscapes re-author copy]",
+   "accent": "British English (two voices)",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Dr Maya Reyes, a marine biologist who studies ocean plastic. Choose the correct answer (A, B or C) for each question. You will hear the interview twice.",
+   "script_text": "Interviewer: Dr Reyes, when did you first realise plastic was such a problem?\nDr Reyes: Honestly, not in a laboratory at all. I was diving on a reef I'd known for years, and I saw a turtle completely tangled in a shopping bag. That image has stayed with me ever since.\nInterviewer: A lot of people picture huge floating islands of rubbish. Is that an accurate image?\nDr Reyes: That's actually the myth I most want to correct. The really dangerous plastic isn't the big, visible stuff — it's the tiny pieces, smaller than a grain of rice, that fish swallow and that work their way right up the food chain.\nInterviewer: So the worst of the problem is almost invisible?\nDr Reyes: Exactly. And that's precisely what makes it so hard to make people care — you simply can't photograph it easily.\nInterviewer: Whose responsibility is it to fix — shoppers, or companies?\nDr Reyes: People always want me to blame the shopper. But asking individuals to solve this on their own is unfair; the real change has to come from the companies that produce all the packaging in the first place.\nInterviewer: Is it too late?\nDr Reyes: No — and I'm always careful to say so. The ocean recovers surprisingly fast when we give it the chance. In places where fishing was paused, the reefs came back within just a few years.\nInterviewer: What's the one thing you'd ask our listeners to do?\nDr Reyes: Please don't feel guilty — guilt just makes people switch off. I'd far rather they picked one piece of single-use plastic they use every day, and simply refused it. Start there."
+  },
+  {
+   "title": "Exercise 3 — A Talk on Starting a Wildlife Garden",
+   "accent": "British English",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a park ranger talk about turning an ordinary garden into a home for wildlife. Complete the notes below. Write one to three words in each gap. You will hear the talk twice.",
+   "script_text": "Hello everyone, and thanks for coming along. People often think you need a huge space to help wildlife, but even a small garden can make a real difference. Let me give you a few simple steps.\n\nFirst, the easiest thing of all: leave one corner of your garden completely wild. Don't cut it at all. Long grass is where insects breed, and insects are the very bottom of the whole food chain.\n\nSecond, add water. If you can, dig a small pond — honestly, even a washing-up bowl sunk into the ground will do. You'll be amazed: frogs often arrive within weeks, entirely on their own.\n\nThird, think about flowering times. Try to choose plants that flower at different times of the year, so there is always something for the bees, from early spring right through to autumn.\n\nA quick warning: please avoid using pesticides. They don't only kill the pests — they wipe out the very insects you are trying to attract.\n\nAnd don't tidy up too much. A simple pile of dead wood in a shady corner becomes a shelter for beetles, and even for hedgehogs over the winter.\n\nDon't forget the birds, either. Put out fresh water all year round, but especially in summer, when natural sources dry up.\n\nOne last tip, for the evening: a few night-flowering plants will bring in moths. The best time to begin all of this is autumn, while the soil is still warm. Right — shall we go and look at the demonstration garden?"
+  },
+  {
+   "title": "Exercise 2 — Five Short Extracts",
+   "accent": "British English (mixed voices)",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five short extracts. Answer the two questions on each extract by choosing A, B or C. You will hear each extract twice.",
+   "script_text": "[Extract 1] \"The thing that amazed me about the rainforest wasn't the size of the trees — it was how unbelievably loud it was at night.\" \"Sounds incredible. If you go again, try the dry season though; we got soaked every single afternoon.\"\n[Extract 2] \"I grow tomatoes on the roof of my block of flats now.\" \"Does it actually save you money?\" \"A little, but honestly that's not the point — it just makes the whole building feel alive.\"\n[Extract 3] \"I watched this film about the wildebeest crossing — millions of them, and no leader at all.\" \"That sounds like total chaos.\" \"That's exactly what I expected, but it's the opposite — it's beautifully organised.\"\n[Extract 4] \"We sort absolutely everything now — glass, paper, food waste, the lot.\" \"Isn't that a hassle?\" \"It was at first, I won't lie, but now none of us even thinks about it.\"\n[Extract 5] \"I joined the beach clean expecting to fill a couple of bags.\" \"And?\" \"We filled an entire van. It really opened my eyes to just how much washes up there.\"\n"
+  },
+  {
+   "title": "Read-Aloud: The Man Who Grows Forests on Rooftops",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "When Daniel Owusu tells people he is a farmer, they picture open fields. In fact his farms sit on the flat roofs of office blocks and car parks in the centre of one of the busiest cities in West Africa.\n\nOwusu trained as an architect, not a gardener. For years he designed glass towers like everyone else, until a long illness forced him to spend months indoors looking out over a grey sea of concrete. 'I realised I had helped build a city with almost nowhere for anything green to live,' he says. 'I had been part of the problem.'\n\nHis idea was simple but stubborn: every unused roof, he argued, was a field waiting to happen. Persuading building owners was harder. Many feared the weight of the soil, or leaks, or the cost. Owusu's answer was to start small and let the results speak. He covered one modest rooftop with lightweight beds of vegetables and herbs, tended by people from the neighbourhood, and invited sceptical landlords to come and see.\n\nThe rooftop did more than grow food. In summer the planted roof kept the floor below it noticeably cooler, cutting the building's air-conditioning bills. Rainwater that had once rushed straight into overloaded drains was now soaked up by the soil. Bees and birds, almost unknown in the district, began to return. What had looked like charity turned out to make hard financial sense.\n\nToday more than forty roofs across the city are under cultivation, and a waiting list of owners want to join. Owusu is careful, though, not to promise too much. 'A few gardens will not undo what cities have done to the natural world,' he warns. 'But they change how people think. Once someone has grown a tomato above the traffic, they never look at a bare roof the same way again. That shift in the mind is the real harvest.'"
+  },
+  {
+   "title": "Read-Aloud: The Plants That Break the Rules",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "We tend to think of plants as quiet, patient things that stay where they are put. A few species, however, seem determined to break every rule we expect them to follow.\n\nTake the welwitschia, which grows in the Namib Desert of southern Africa. It produces only two leaves in its entire life, yet it can live for more than a thousand years. The leaves never fall; instead they grow steadily, split and fray at the tips until the plant looks like a tangled heap of old ribbon. Botanists call it a living fossil, because it has barely changed in millions of years.\n\nFar to the east, in the rainforests of Sumatra, the titan arum takes a different approach to survival. Once every few years it unfurls a flower taller than an adult, which gives off a powerful smell of rotting meat. Visitors often hold their noses, but the stink is no accident: it draws in the flies and beetles that the plant depends on to carry its pollen. The bloom lasts barely two days before it collapses.\n\nThe resurrection plant is stranger still. During a drought it curls into a dry, brown ball that looks completely dead and can be blown across the ground by the wind. Yet add a little water and, within hours, it unrolls and turns green again, as though nothing had happened. Some specimens have been brought back to life after decades on a shelf.\n\nPerhaps the boldest of all is the dancing plant of South Asia, whose small side-leaves twitch and rotate in response to warmth, light and even music. Nobody is quite sure why it moves; one theory is that the motion helps the plant find the brightest patches of sun.\n\nWhat these plants share is a refusal to be ordinary. Each has found an unusual answer to the same question every living thing must face: how to survive."
+  },
+  {
+   "title": "Read-Aloud: The River That Came Back to Life",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Thirty years ago the River Mell, which runs through the small town of Casterton, was little more than an open drain. Factories upstream had poured waste into it for decades, the water ran a strange grey-green, and the fish had long since disappeared. Most residents simply kept their backs to it.\n\nThe change began with a single retired teacher, Pamela Osei, who started picking litter from the banks on her morning walks. Neighbours who had once ignored the river began to join her, and within a year a small volunteer group had formed. They called themselves the River Watch.\n\nTheir first victory was information. By testing the water themselves and sharing the results online, they put quiet pressure on the factories until two of the worst polluters agreed to install filters. Cleaner water alone, however, was not enough. The group also planted reeds along the banks, which trap dirt and give insects and birds somewhere to shelter, and they removed several old concrete walls so that the river could spread into its natural floodplain after heavy rain.\n\nSlowly, life returned. Dragonflies appeared first, then small fish, and three years ago an otter — an animal not seen in Casterton for half a century — was photographed at dawn. The town now holds a River Festival every spring, and local schools use the banks as an outdoor classroom.\n\nPamela is modest about her part. 'I never set out to start a movement,' she says. 'I just couldn't walk past the mess any more. The lesson, if there is one, is that a place only stays neglected for as long as nobody decides to care for it.'"
+  },
+  {
+   "title": "Read-Aloud: Four Great Journeys",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "A  The Arctic tern\nNo animal travels further. Each year the Arctic tern flies from the Arctic, where it breeds, all the way to the seas around Antarctica and back — a round trip of around 70,000 kilometres. Because it follows the summer at both ends of the planet, it sees more daylight than any other creature on Earth. It rarely lands, snatching fish from the surface of the sea as it goes, and a single tern may cover three million kilometres in its lifetime.\n\nB  The monarch butterfly\nThe monarch's journey is remarkable not for its length but for who completes it. No single butterfly makes the whole trip from Canada to the forests of central Mexico. Instead the migration is shared across several generations: the butterflies that finally arrive in Mexico are the great-grandchildren of those that first set out. How they find a forest none of them has ever seen remains one of nature's great puzzles.\n\nC  The humpback whale\nHumpback whales swim from the cold, food-rich waters near the poles to warm tropical seas where their calves are born. They make the journey without eating at all, living off the fat they built up over the summer. Along the way the males sing long, complex songs that travel for many kilometres underwater; the same song spreads slowly from group to group until whole oceans seem to share a single tune.\n\nD  The wildebeest\nOn the plains of East Africa more than a million wildebeest move in a vast circle, always chasing the rain and the fresh grass it brings. There is no leader; the herd simply turns as one when the weather changes. The most dangerous moments come at the rivers, where crocodiles wait, and only the animals that cross quickly and together are likely to survive."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "4cf407a0-39f8-4ab9-bd62-010dc1852064",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "report",
+   "register": "formal",
+   "title": "A report on restoring a local river",
+   "subtopic": "Bringing Nature Back / City Environments (S3–S4)",
+   "difficulty": "extended",
+   "scenario": "A neglected river runs through your town. A local group wants the town council to pay for its restoration, and the council has asked residents to submit reports setting out the case.",
+   "instruction": "Write a report for the town council describing the current problems with the river, explaining what could be done to restore it, and recommending action. Use a formal, objective tone.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "describe the current problems with the river (pollution, neglect, lost wildlife)",
+    "explain what could be done to restore it, as a series of steps",
+    "outline the benefits and recommend that the council take action"
+   ],
+   "grammar_focus": [
+    "passive voice for objective reporting: the water has been polluted, reeds could be planted, the banks should be protected",
+    "modal passives: could be taken, should be tested, can be held responsible",
+    "formal report register and cause-effect linking (as a result, so that, therefore)"
+   ],
+   "required_vocab": {
+    "min": 5,
+    "from": [
+     "pollution",
+     "restoration",
+     "conservation",
+     "volunteer",
+     "neglect",
+     "sustainable",
+     "habitat",
+     "drainage"
+    ]
+   },
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Open the problem section",
+      "examples": [
+       "For years the river has been ___..."
+      ]
+     },
+     {
+      "fn": "Propose the steps",
+      "examples": [
+       "Several steps could be ___.",
+       "First, the water should be ___..."
+      ]
+     },
+     {
+      "fn": "State benefits + recommend",
+      "examples": [
+       "If these measures are carried out, ___ would be ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a formal report for the local council on how to restore a neglected river.",
+     "points": [
+      {
+       "how": "Lay out the problems clearly and factually — pollution, neglect, lost wildlife. Keep it objective: state what's wrong, don't get angry about it. Group similar problems so it reads in order, not as a jumble.",
+       "point": "describe the current problems with the river (pollution, neglect, lost wildlife)"
+      },
+      {
+       "how": "Give the steps in order, like a plan the council could follow. This is where the passive fits: 'The banks could be cleared', 'trees could be planted'. It keeps the focus on the action, not on who does it.",
+       "point": "explain what could be done to restore it, as a series of steps"
+      },
+      {
+       "how": "First, set out what the area gains — cleaner water, wildlife back, a place people enjoy. Then make a clear recommendation: don't hint, state plainly that the council should act. End on the decision you want, not a vague hope.",
+       "point": "outline the benefits and recommend that the council take action"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Writing it like a personal letter. A report is formal and objective — no 'I think' or chatty asides.",
+     "Using active verbs everywhere. In a report, the passive keeps the focus on the action. Say 'the river was polluted', not 'people polluted the river'.",
+     "Listing the problems but stopping there. The marks need the steps and a clear recommendation too.",
+     "Skipping the report shape — no title, no headings. A report should look like one on the page."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "My report has a title and clear headings, like a real report."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone stays formal and objective — no chatty or personal bits."
+     },
+     {
+      "ref": "W4",
+      "text": "I gave all three: the problems, the steps, and the benefits with a clear recommendation."
+     },
+     {
+      "ref": "G1",
+      "text": "I used the passive voice for the steps, like 'the banks could be cleared'."
+     },
+     {
+      "ref": "W6",
+      "text": "Each section follows the last in a logical order."
+     }
+    ],
+    "structure": [
+     {
+      "do": "give the report a clear title and a heading for each section",
+      "stage": "Title + headings"
+     },
+     {
+      "do": "describe the river's current state — pollution, neglect, lost wildlife — objectively",
+      "stage": "Current problems"
+     },
+     {
+      "do": "set out what could be done as a clear series of steps, using the passive",
+      "stage": "Proposed steps"
+     },
+     {
+      "do": "outline the benefits and recommend the council take action",
+      "stage": "Benefits + recommendation"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "River & restoration",
+       "words": [
+        "pollution",
+        "restoration",
+        "conservation",
+        "volunteer",
+        "neglect",
+        "sustainable",
+        "habitat",
+        "drainage"
+       ],
+       "target_words": [
+        "pollution",
+        "restoration",
+        "conservation",
+        "neglect",
+        "sustainable"
+       ]
+      },
+      {
+       "label": "Passive structures",
+       "words": [
+        "has been neglected",
+        "could be planted",
+        "should be tested",
+        "can be held responsible"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 5
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Restoring the River Mell: A Proposal for the Council\n\nIntroduction\nThis report examines the condition of the River Mell and recommends how it could be restored.\n\nCurrent problems\nFor many years the river has been neglected. Waste was allowed to enter the water from factories upstream, and as a result the fish disappeared and the banks were left covered in litter. At present the river is avoided by most residents rather than enjoyed.\n\nProposed action\nSeveral steps could be taken to improve the situation. First, the water should be tested regularly, and the results should be made public so that polluters can be held responsible. Reeds could be planted along the banks, where dirt is trapped and wildlife is sheltered. Old concrete walls could also be removed so that the river is allowed to spread naturally after heavy rain.\n\nBenefits\nIf these measures are carried out, the river will gradually be restored. A valuable habitat would be created, pollution would fall, and the area could be enjoyed by schools and families. Such conservation work is also sustainable, since a healthy river needs little maintenance once it has recovered.\n\nRecommendation\nIt is therefore recommended that the council approve the restoration as soon as possible.",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All content points addressed with relevant, practical detail."
+    },
+    {
+     "exam_ref": "W4",
+     "criterion": "Development",
+     "descriptor": "Ideas extended across sections with reasons and consequences, not just listed."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently formal, objective report tone with a title and clear sections, suited to a council."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical sections (problems -> action -> benefits) with effective linking."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate, well-controlled passive voice; at least 5 target words used well."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points, formal register, passive-voice use, target-word use, sectioning, accuracy",
+    "human": "nuanced feedback on objectivity, strength of the recommendation and overall persuasiveness of the case"
+   },
+   "display_order": 2,
+   "created_at": "2026-05-29T13:50:21.42993+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "44f6d641-4eee-460a-9ca4-35bec5214216",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "letter",
+   "register": "informal",
+   "title": "A letter about a natural place",
+   "subtopic": "Rule-Breakers of the Plant World & Animal Migrations (S1–S2)",
+   "difficulty": "extended",
+   "scenario": "A friend who has always lived in a big city has written to you saying that they find nature 'boring'. You recently spent time in a natural place you love — a river valley, a forest or a stretch of coast — and you want to change their mind.",
+   "instruction": "Write a letter to your friend describing a natural place you love and persuading them to visit it with you. Use comparisons to show how it differs from the city.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "describe the place vividly and say what makes it special",
+    "compare it with the city, explaining why you find nature anything but boring",
+    "persuade your friend to come, and suggest when and how they could visit"
+   ],
+   "grammar_focus": [
+    "comparatives & superlatives: more peaceful than, far quieter than, the most beautiful place, as calm as",
+    "descriptive adjectives for landscape and wildlife",
+    "informal persuasion: why don't you come..., you should..., I'd love it if..."
+   ],
+   "required_vocab": {
+    "min": 4,
+    "from": [
+     "habitat",
+     "species",
+     "thrive",
+     "migration",
+     "predator"
+    ]
+   },
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Open the letter",
+      "examples": [
+       "Hi ___, it was lovely to hear from you...",
+       "Hi ___! I've just got back from the most beautiful place ever."
+      ]
+     },
+     {
+      "fn": "Introduce the place",
+      "examples": [
+       "The place I want to tell you about is...",
+       "It's the most peaceful spot I've ever seen."
+      ]
+     },
+     {
+      "fn": "Compare with the city",
+      "examples": [
+       "It's far ___ than the city",
+       "nothing there is as ___ as..."
+      ]
+     },
+     {
+      "fn": "Persuade & invite",
+      "examples": [
+       "Why don't you come and...?",
+       "You'd love it — it's far more relaxing than home."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a friendly letter telling a friend about a natural place you'd love them to visit.",
+     "points": [
+      {
+       "how": "Don't just name it — make your friend see and feel it. Use the senses: what you hear, smell and see there.",
+       "point": "describe the place vividly and say what makes it special"
+      },
+      {
+       "how": "This is the part the examiner rewards most. Use comparatives like 'quieter than' or 'far greener than'. Show the difference — don't just describe each place on its own.",
+       "point": "compare it with the city, explaining why you find nature anything but boring"
+      },
+      {
+       "how": "Actually ask them to come — warmly. A real invitation, not just 'it's nice here'. Give them a reason to say yes. Then make it easy — suggest a when ('come in the holidays') and a how ('we could go together').",
+       "point": "persuade your friend to come, and suggest when and how they could visit"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Slipping into essay tone. This is a letter to a friend — keep it warm and chatty, not formal.",
+     "Describing the place but forgetting to compare it. The comparison with the city is where the comparatives — and the marks — come in.",
+     "Forgetting it's a letter at all — no greeting, no sign-off. The friendly frame is part of the task."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "I opened and closed like a real letter — a greeting and a warm sign-off."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone sounds friendly and chatty, the way I'd write to a friend."
+     },
+     {
+      "ref": "W4",
+      "text": "I did all three: described the place, compared it with the city, and invited my friend."
+     },
+     {
+      "ref": "G1",
+      "text": "I used at least two comparatives, like 'quieter than' or 'greener than'."
+     },
+     {
+      "ref": "W6",
+      "text": "My letter moves in a clear order, each part leading to the next."
+     }
+    ],
+    "structure": [
+     {
+      "do": "greet the friend and react to their news (informal)",
+      "stage": "Warm opening"
+     },
+     {
+      "do": "introduce the natural place and bring it to life with sensory detail",
+      "stage": "Describe the place"
+     },
+     {
+      "do": "use comparatives to contrast it with city life",
+      "stage": "Compare with the city"
+     },
+     {
+      "do": "invite them to visit, suggesting when and how, then sign off warmly",
+      "stage": "Persuade & invite"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Nature & habitat",
+       "words": [
+        "habitat",
+        "species",
+        "thrive",
+        "migration",
+        "predator"
+       ],
+       "target_words": [
+        "habitat",
+        "species",
+        "thrive",
+        "migration"
+       ]
+      },
+      {
+       "label": "Comparatives",
+       "words": [
+        "more peaceful than",
+        "quieter than",
+        "far greener than",
+        "the most..."
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Hi Sam,\n\nIt was great to hear from you, although I had to laugh at you calling nature 'boring'! I think you would change your mind in about five minutes if you came with me to the river valley near my home.\n\nHonestly, it is the most peaceful place I know. The city is exciting, but it is far noisier and more crowded than the valley, and there is nothing there as calming as sitting by the water at dawn. The valley is a habitat for all kinds of species — herons, otters, even dragonflies — and in spring the meadows absolutely thrive with wild flowers.\n\nThe best part is the bird migration in autumn, when thousands of swallows pass through at once. It is far more impressive than anything you could watch on a screen, believe me.\n\nSo why don't you come and stay next month? We could walk the whole valley in a day, and I promise it is prettier than any photo. Let me know — I would love to show you that nature is anything but dull!\n\nSpeak soon,\nAlex",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points covered and developed with vivid, relevant detail."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently warm, informal tone suited to a close friend (greeting, contractions, direct address)."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Clear letter format; description and persuasion build logically."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate comparatives and superlatives; at least 4 target words used naturally."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points covered, register, comparative use, target-word use, basic accuracy",
+    "human": "nuanced feedback on vividness, persuasiveness and how naturally the comparisons are handled"
+   },
+   "display_order": 1,
+   "created_at": "2026-05-29T13:50:21.42993+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "41005c7d-fc33-4456-b541-4478f4df96e7",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "long-turn",
+   "title": "A plant or animal that fascinates you",
+   "subtopic": "Landscapes & Living Things",
+   "difficulty": null,
+   "topic": "Landscapes & Living Things",
+   "intro": "Speak on your own for 1-2 minutes. One minute to prepare. Notes, not a script.",
+   "card_points": [
+    "a plant or animal you find fascinating, and what it looks like",
+    "how it survives in its habitat",
+    "how it compares with a more ordinary plant or animal",
+    "whether people pay enough attention to the natural world around them",
+    "why this plant or animal matters to you"
+   ],
+   "discussion_questions": [
+    "Why do you think some people find nature boring while others love it?",
+    "Are zoos and botanical gardens a good way to learn about nature, or not?",
+    "Should children spend more time outdoors learning about plants and animals?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Describe -> Compare -> Evaluate",
+     "name": "D-C-E",
+     "example": "Take the octopus (Describe): it has eight arms, can change colour in a second, and even solves puzzles. Compared with an ordinary fish, it's far more intelligent and adaptable (Compare). To me that's remarkable — it shows how much hidden cleverness the ocean still holds (Evaluate)."
+    },
+    "stems": [
+     {
+      "fn": "Open / describe",
+      "examples": [
+       "I'd like to talk about one of the most fascinating creatures I know.",
+       "The first thing you notice about it is its ___."
+      ]
+     },
+     {
+      "fn": "Compare (comparatives)",
+      "examples": [
+       "Compared with an ordinary garden animal, it's far more ___.",
+       "It's one of the most ___ creatures in its habitat."
+      ]
+     },
+     {
+      "fn": "Evaluate",
+      "examples": [
+       "What makes it truly remarkable is the way it ___.",
+       "For me, it matters because it ___."
+      ]
+     },
+     {
+      "fn": "Justify in discussion",
+      "examples": [
+       "I'd say yes, mainly because ___.",
+       "I can see both sides, but on balance I'd argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about a plant or animal you find fascinating, then discuss nature with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Why do you think some people find nature boring while others love it?",
+       "how": "Give a reason for each side — don't just pick one. Maybe some grew up outdoors, while others never had the chance. 'It often depends on what you were shown as a child.' Show you can see why both feel the way they do."
+      },
+      {
+       "q": "Are zoos and botanical gardens a good way to learn about nature, or not?",
+       "how": "Take a clear view, then justify it. 'Yes — for many people, it's the only way they'll ever see these species up close.' Or push the other way: animals in cages aren't truly wild. Pick a side and give one solid reason."
+      },
+      {
+       "q": "Should children spend more time outdoors learning about plants and animals?",
+       "how": "Give a recommendation, and say what would come of it. 'Yes — children who explore outdoors grow up caring more about nature.' Back your yes or no with the result it would bring. That outcome is what makes the case."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Bring it to life — don't just name it, describe it so I can picture it. Shape, size, colour, the one feature that stands out. 'A chameleon, with eyes that swivel in different directions.' Pick the detail that makes it unforgettable.",
+       "point": "a plant or animal you find fascinating, and what it looks like"
+      },
+      {
+       "how": "Now how it lives — how does it survive where it's found? Talk about its habitat and one clever way it copes. How does it find food, hide from a predator, or handle the cold? 'It blends in so well that predators swim right past.' Show what makes it a survivor.",
+       "point": "how it survives in its habitat"
+      },
+      {
+       "how": "This is the compare step — set it against something ordinary. Comparatives do the work here: 'An octopus is far smarter than most fish.' Or go superlative: 'It's the most resourceful creature in the rock pool.' The contrast is what makes it stand out.",
+       "point": "how it compares with a more ordinary plant or animal"
+      },
+      {
+       "how": "Now give your view — do people notice nature enough, or not? Back it with what you see: phones over parks, or a real love of the outdoors? 'Most people walk past amazing things without looking.' Take a side, and say why.",
+       "point": "whether people pay enough attention to the natural world around them"
+      },
+      {
+       "how": "Close on why it matters to you — the personal note. Not 'it's interesting', but what it makes you feel or think. 'It reminds me how much we still don't understand.' End on something real, so the talk lands.",
+       "point": "why this plant or animal matters to you"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — describe, compare, and evaluate (D-C-E), not just a flat description."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "Only describing — the card also asks you to compare and evaluate (D-C-E).",
+     "One-word answers in the long turn (kills S1 fluency) — develop every point.",
+     "Listing facts with no reaction — say why it fascinates you (the evaluate move).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I described, compared, and evaluated (D-C-E), not just described"
+     },
+     {
+      "ref": "S1",
+      "text": "I used comparatives/superlatives to compare it with something more ordinary"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Nature & survival",
+       "words": [
+        "habitat",
+        "species",
+        "thrive",
+        "predator",
+        "adapt"
+       ],
+       "target_words": [
+        "habitat",
+        "species",
+        "thrive"
+       ]
+      },
+      {
+       "label": "Describe & compare",
+       "words": [
+        "remarkable",
+        "unlike",
+        "more striking than",
+        "what sets it apart"
+       ],
+       "target_words": [
+        "remarkable"
+       ]
+      },
+      {
+       "label": "Evaluate",
+       "words": [
+        "it's easy to overlook",
+        "we take for granted",
+        "worth paying attention to"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — paint the picture, don't rush.",
+     "Stress the key describing word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation lift on the comparison and fall to finish your evaluation."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "One creature I find fascinating is the welwitschia — well, it's actually a plant, not an animal. It looks like a tangled heap of old leaves, far stranger than any normal plant. It survives in one of the driest habitats on Earth, because it can live for over a thousand years on almost no water, which makes it one of the toughest species I know. Compared with an ordinary garden flower, it is much less pretty but far more impressive. I don't think most people pay enough attention to nature like this; they walk past amazing things every day without noticing them.",
+   "required_vocab": {
+    "min": 3,
+    "from": [
+     "habitat",
+     "species",
+     "thrive",
+     "predator"
+    ]
+   },
+   "grammar_focus": [
+    "D-C-E description frame (Describe-Compare-Evaluate)",
+    "comparatives & superlatives"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part2"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-04T02:50:37.203579+00:00",
+   "status": "published",
+   "slug": "landscapes-speaking-part2-longturn-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "94a623ef-486d-46c9-a55a-906e3aaa8b0a",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "discussion",
+   "title": "Nature in the city",
+   "subtopic": "City Environments",
+   "difficulty": null,
+   "topic": "Greening towns and cities",
+   "intro": "We'll now discuss some broader questions related to the topic.",
+   "card_points": null,
+   "discussion_questions": [
+    "Should every new building be required to include green space?",
+    "Are rooftop gardens and city farms worth the cost and effort?",
+    "Is it more important for a city to be green or to be affordable?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Turning an empty, derelict lot into a community garden transforms a neighbourhood (Point), because it gives people a green place to meet, grow food and relax (Reason), so a forgotten corner becomes the heart of the street (Result) — in cities around the world, neighbours have turned weed-filled lots into gardens full of vegetables and bees (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "My view is that ___.",
+       "If you ask me, the answer is clearly ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason I think so is that ___.",
+       "This matters because ___, which means ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, it's far more ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "That said, you could argue ___.",
+       "It depends, though — ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss bringing nature into cities — take a position, give reasons, and respond with balance.",
+     "discussion_how": [
+      {
+       "q": "Should every new building be required to include green space?",
+       "how": "Give a recommendation, and say what would result. 'Yes — if every building added green space, whole cities would breathe easier.' Back your yes or no with the effect it brings. That outcome is what makes the case."
+      },
+      {
+       "q": "Are rooftop gardens and city farms worth the cost and effort?",
+       "how": "Weigh the worth against the cost — that's the heart of this one. 'They cost a lot, but they grow food and cool buildings — a sustainable use of scarce space.' Don't just say good or bad; show the trade-off, then judge it."
+      },
+      {
+       "q": "Is it more important for a city to be green or to be affordable?",
+       "how": "Take a side on the trade-off, but show you see the tension. 'Affordable first — people need homes before parks.' Then a balance turn: 'That said, green and affordable don't have to fight; good planning gives both.' Pick a side, then soften fairly."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — clearly, in one line. Don't list every angle first; lead with your view. 'I think every city needs far more green space.' A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, developed fully, not a list. Make the point, say why, show what follows, give an example. 'Green space cools a city and lifts people's mood, so everyone lives better.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare a grey concrete street with one lined with trees. Or point to a city that built parks and saw life improve. A real case is far more convincing than a general claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed both sides — concede a point, once. 'That said, land in a city is expensive, and housing matters too.' One fair concession makes you sound balanced, not one-sided.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Urban nature",
+       "words": [
+        "green space",
+        "rooftop garden",
+        "urban",
+        "biodiversity",
+        "habitat"
+       ],
+       "target_words": [
+        "green space",
+        "biodiversity"
+       ]
+      },
+      {
+       "label": "Evaluate / trade-off",
+       "words": [
+        "sustainable",
+        "worth the cost",
+        "trade-off",
+        "liveable"
+       ],
+       "target_words": [
+        "sustainable"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "it depends",
+        "on the one hand",
+        "that said",
+        "on balance"
+       ],
+       "target_words": [
+        "it depends"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "Where I live there isn't much green space, just a few small parks. One idea I like is the rooftop garden, where vegetables are grown on the roofs of ordinary buildings. The process is simple: lightweight beds are added, crops are cultivated by local people, and rainwater is soaked up instead of overloading the drainage. As a result, the building is kept cooler and a new habitat is created for bees and birds. I don't think a city can ever be perfect for the environment, but it can certainly be made far more sustainable than it is today.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 5,
+   "created_at": "2026-06-04T02:50:49.110568+00:00",
+   "status": "published",
+   "slug": "landscapes-speaking-p3supp-a71d7cd7-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "23ea10b3-c02b-4c91-adf3-bea00d438df8",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "discussion",
+   "title": "Looking after a natural place",
+   "subtopic": "Bringing Nature Back",
+   "difficulty": null,
+   "topic": "Conservation and restoration",
+   "intro": "We'll now discuss some broader questions related to the topic.",
+   "card_points": null,
+   "discussion_questions": [
+    "Whose job is it to protect the environment — governments, companies, or individuals?",
+    "Are volunteer groups an effective way to look after local nature?",
+    "Should people be fined for dropping litter in natural places?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "When a community cleans up its local river, everyone benefits (Point), because a clean river brings back fish, birds and clean water (Reason), so the whole neighbourhood has a healthier, nicer place to live (Result) — in many towns, volunteers who gave up a few weekends turned a rubbish-filled stream into a place children play again (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "My view is that ___.",
+       "If you ask me, the answer is clearly ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason I think so is that ___.",
+       "This matters because ___, which means ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___ is far better."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "That said, you could argue ___.",
+       "It depends, though — ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss looking after natural places — take a position, give reasons, and respond with balance.",
+     "discussion_how": [
+      {
+       "q": "Whose job is it to protect the environment — governments, companies, or individuals?",
+       "how": "Take a side — or share it out, but clearly. 'Mostly governments, because only they can make rules that stick.' You can apportion: a bit to each, but say who carries the most. Back your split with a reason, don't just list all three."
+      },
+      {
+       "q": "Are volunteer groups an effective way to look after local nature?",
+       "how": "Give a view, then show what volunteers actually achieve. 'Yes — a local group can clear a river that no one else will touch.' A real example of their impact is what proves the point. Effective or not, back it with what you've seen."
+      },
+      {
+       "q": "Should people be fined for dropping litter in natural places?",
+       "how": "Give a recommendation, and say what would result. 'Yes — fines make people think twice, so places stay cleaner.' A balance turn fits well here: 'That said, teaching people why may work better than punishing them.' Recommend, then show the effect."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one clear line. Don't drift through every angle first; lead with your position. 'I think we're all responsible for protecting natural places.' A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built out fully, not a list. Make the point, say why, show what follows, give an example. 'If no one looks after a place, it slowly falls apart — and once it's gone, it's gone.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something real — an example, or a comparison. Point to a beach cleanup, or a forest left to ruin versus one that's cared for. A concrete case makes your point far more convincing than a general claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed both sides — concede a point, once. 'That said, ordinary people can't do it alone — governments have to help.' One fair concession makes you sound balanced, not preachy.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Conservation & care",
+       "words": [
+        "conservation",
+        "protect",
+        "restore",
+        "neglect",
+        "litter"
+       ],
+       "target_words": [
+        "conservation",
+        "protect"
+       ]
+      },
+      {
+       "label": "Responsibility",
+       "words": [
+        "responsibility",
+        "volunteer",
+        "take action",
+        "accountable"
+       ],
+       "target_words": [
+        "responsibility"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "it depends",
+        "on the one hand",
+        "that said",
+        "on balance"
+       ],
+       "target_words": [
+        "it depends"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "There's a small river near my home that was badly neglected for years. The situation was poor: waste had been allowed into the water and the fish had disappeared. Then several things were done by a local volunteer group — the banks were cleared, the water was tested, and reeds were planted. As a result, wildlife has slowly returned and the restoration is still going on. I think everyone shares responsibility for conservation, but I really do believe small actions make a difference, because once one person starts caring for a place, others usually join in.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3"
+   ],
+   "feedback_mode": null,
+   "display_order": 4,
+   "created_at": "2026-06-04T02:50:49.110568+00:00",
+   "status": "published",
+   "slug": "landscapes-speaking-part3-discussion-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "cfb186dd-8bf9-4f15-bbf2-e2dac39dd91f",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "discussion",
+   "title": "A journey in nature",
+   "subtopic": "Animal Migrations",
+   "difficulty": null,
+   "topic": "Movement and migration",
+   "intro": "We'll now discuss some broader questions related to the topic.",
+   "card_points": null,
+   "discussion_questions": [
+    "Is it better to see wildlife in real life or in high-quality films?",
+    "Should humans do more to protect the routes that migrating animals use?",
+    "Why are people so fascinated by long animal journeys?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "The Arctic tern makes the most astonishing journey of any animal (Point), because it flies from the Arctic right down to the Antarctic and back each year (Reason), so it chases an endless summer across the whole planet (Result) — in a lifetime, one bird travels further than to the Moon and back (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "My view is that ___.",
+       "If you ask me, the answer is clearly ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason I think so is that ___.",
+       "This matters because ___, which means ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, it's far more ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "That said, you could argue ___.",
+       "It depends, though — ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss animal journeys and nature — take a clear position, back it with reasons, and respond with balance.",
+     "discussion_how": [
+      {
+       "q": "Is it better to see wildlife in real life or in high-quality films?",
+       "how": "Take a side, then compare the two directly. 'Real life wins — a film can't match standing metres from a wild animal.' Weigh what each gives: films reach everyone, but real life is unforgettable. A clear comparison is what answers this well."
+      },
+      {
+       "q": "Should humans do more to protect the routes that migrating animals use?",
+       "how": "Give a recommendation, and say what it would lead to. 'Yes — if we protect their routes, whole species can survive.' Back your yes or no with the result it brings. That outcome is what makes the case strong."
+      },
+      {
+       "q": "Why are people so fascinated by long animal journeys?",
+       "how": "Offer a reason — and you can give more than one. Maybe it's the mystery of how they navigate, or that it makes our own travels look small. 'These journeys remind us nature can do what we can't.' A thoughtful reason matters more than a quick answer."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Start by saying where you stand — clearly, in one line. Don't be vague or list every angle first; lead with your view. 'I think protecting migration routes should come first.' A clear opening gives the rest something to build on.",
+       "point": "open with a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, developed fully, not a quick list. Build it out: make the point, say why, show what follows, give an example. One reason taken deep beats five mentioned in passing.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — a real example, or a comparison. Compare animal travel with our own: birds that navigate across oceans with no map. Or set real life against a film. A vivid example makes your point stick in the listener's mind.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've thought about both sides — concede a point, once. 'That said, films can reach people who'll never travel.' Or: 'It depends on what you want — wonder, or convenience.' One fair concession makes you sound balanced, not stubborn.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Nature & journeys",
+       "words": [
+        "migration",
+        "species",
+        "predator",
+        "navigate",
+        "route"
+       ],
+       "target_words": [
+        "migration",
+        "navigate"
+       ]
+      },
+      {
+       "label": "Compare / evaluate",
+       "words": [
+        "remarkable",
+        "far more impressive than",
+        "worth protecting"
+       ],
+       "target_words": [
+        "remarkable"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "it depends",
+        "on the one hand",
+        "that said",
+        "on balance"
+       ],
+       "target_words": [
+        "it depends"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "The journey I find most remarkable is the migration of the Arctic tern, which flies almost from pole to pole every year. It's far more impressive than any human journey, because the bird navigates thousands of kilometres entirely on its own, with no map and no rest. What makes it so difficult is that predators and storms wait the whole way. Compared with the way we travel, by plane in a few comfortable hours, it seems almost unbelievable. I think documentaries are a brilliant way to experience journeys like this, although seeing even one wild bird in real life is more exciting than any screen.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 3,
+   "created_at": "2026-06-04T02:50:49.110568+00:00",
+   "status": "published",
+   "slug": "landscapes-speaking-p3supp-7b93ddcb-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "e71f2e9c-1e9b-46f5-97a1-d1ac586336f5",
+   "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (nature & the outdoors)",
+   "subtopic": "nature & the outdoors",
+   "difficulty": null,
+   "topic": "Nature and the outdoors",
+   "intro": "The examiner will ask you some questions about yourself. Answer naturally; these are short, familiar-topic questions to warm up.",
+   "card_points": null,
+   "discussion_questions": [
+    "Do you enjoy spending time outdoors? What do you like to do?",
+    "Is there a natural place near your home that you like?",
+    "Do you prefer the countryside or the city? Why?",
+    "Have you ever grown a plant or looked after an animal?",
+    "Is protecting nature something young people think about where you live?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I really enjoy being outdoors (Point), because it helps me unwind (Reason), so I always feel better afterwards (Result) — last weekend a long walk left me calm and clear (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name a place + reason",
+      "examples": [
+       "There's a ___ near my home, where I ___.",
+       "The place I like best is ___, because ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions on nature and the outdoors — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Do you enjoy spending time outdoors? What do you like to do?",
+       "how": "Don't stop at 'yes'. Name what you actually do, and say why you like it. 'Yes — I love hiking, because it clears my head after a busy week.' One activity plus one reason turns a flat answer into a real one."
+      },
+      {
+       "q": "Is there a natural place near your home that you like?",
+       "how": "Name a real place, then one reason it suits you. 'There's a park near my home where I go to relax.' Don't just say 'yes, a park' — add what it gives you. A small detail makes the answer feel genuine."
+      },
+      {
+       "q": "Do you prefer the countryside or the city? Why?",
+       "how": "State your preference clearly, then justify it briefly. 'The countryside, mainly because it's quieter and I can breathe.' You don't need a speech — one honest reason is enough. 'Mainly because...' is a handy way to start."
+      },
+      {
+       "q": "Have you ever grown a plant or looked after an animal?",
+       "how": "Answer yes or no, then give a quick real example. 'Yes — I grew tomatoes on our balcony last summer.' Even a small story beats a bare 'yes'. If it's no, say what you'd like to try instead."
+      },
+      {
+       "q": "Is protecting nature something young people think about where you live?",
+       "how": "Give a view, with a reason — and you can keep it general. 'Some do — many of my friends appreciate wildlife and worry about waste.' You're not speaking for everyone; just say what you notice. A reason makes even a general answer solid."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named a place or activity and why I like it"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference (countryside vs city) and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Outdoors & nature",
+       "words": [
+        "the outdoors",
+        "fresh air",
+        "wildlife",
+        "scenery",
+        "get outside"
+       ],
+       "target_words": [
+        "the outdoors",
+        "wildlife"
+       ]
+      },
+      {
+       "label": "Feel / value",
+       "words": [
+        "peaceful",
+        "refreshing",
+        "appreciate",
+        "look after"
+       ],
+       "target_words": [
+        "appreciate"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "especially when",
+        "to be honest",
+        "that said"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part1"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-04T02:50:37.203579+00:00",
+   "status": "published",
+   "slug": "landscapes-speaking-part1-interview-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

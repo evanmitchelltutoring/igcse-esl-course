@@ -1,0 +1,817 @@
+{
+ "_about": "Real live content for Adventure & Survival (adventure-and-survival). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 12,
+  "slug": "adventure-and-survival",
+  "title": "Adventure & Survival",
+  "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Adventure & Survival — why this unit",
+   "skill": "orientation",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "objectives",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "The language of survival and danger",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "The long walk out",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "word_sort",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "A cave rescue",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "word_sort",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "An explorer's account",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "A survivor's recount",
+   "skill": "reading",
+   "minutes": 22,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 7,
+   "title": "If, then, and what they said",
+   "skill": "grammar",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Voices on survival — listening",
+   "skill": "listening",
+   "minutes": 22,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Writing — an email recounting a strange event",
+   "skill": "writing",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing — a report on a safety issue",
+   "skill": "writing",
+   "minutes": 28,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Discussing adventure & danger — speaking",
+   "skill": "speaking",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 12,
+   "title": "Review, reflection & the survival debate",
+   "skill": "review",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "rescue-escape": [
+   {
+    "word": "abandon",
+    "pos": "verb",
+    "def": "to leave someone or something behind, especially in danger"
+   },
+   {
+    "word": "beacon",
+    "pos": "noun",
+    "def": "a light or fire used as a warning or a signal"
+   },
+   {
+    "word": "current",
+    "pos": "noun",
+    "def": "a continuous flow of water or air moving in one direction"
+   },
+   {
+    "word": "drift",
+    "pos": "verb",
+    "def": "to be carried along slowly by water or air, with no control"
+   },
+   {
+    "word": "evacuate",
+    "pos": "verb",
+    "def": "to move people away from a dangerous place"
+   },
+   {
+    "word": "flare",
+    "pos": "noun",
+    "def": "a device that produces a bright light, fired into the sky as a signal"
+   },
+   {
+    "word": "rescue",
+    "pos": "verb",
+    "def": "to save someone from danger"
+   },
+   {
+    "word": "signal",
+    "pos": "verb",
+    "def": "to send a message or sign, especially a call for help"
+   },
+   {
+    "word": "survivor",
+    "pos": "noun",
+    "def": "a person who lives through a disaster or great danger"
+   }
+  ],
+  "explorer-terrain": [
+   {
+    "word": "ascent",
+    "pos": "noun",
+    "def": "the act of climbing or going up"
+   },
+   {
+    "word": "descent",
+    "pos": "noun",
+    "def": "the act of going down"
+   },
+   {
+    "word": "expedition",
+    "pos": "noun",
+    "def": "an organised journey made for a particular purpose, often somewhere difficult"
+   },
+   {
+    "word": "frontier",
+    "pos": "noun",
+    "def": "the far edge of explored, settled or known land"
+   },
+   {
+    "word": "remote",
+    "pos": "adjective",
+    "def": "far away from people, towns or help"
+   },
+   {
+    "word": "summit",
+    "pos": "noun",
+    "def": "the highest point of a mountain"
+   },
+   {
+    "word": "terrain",
+    "pos": "noun",
+    "def": "an area of land, especially its physical features"
+   }
+  ],
+  "danger-jeopardy": [
+   {
+    "word": "brink",
+    "pos": "noun",
+    "def": "the very edge of something, or the point just before disaster"
+   },
+   {
+    "word": "capsize",
+    "pos": "verb",
+    "def": "(of a boat) to turn over in the water"
+   },
+   {
+    "word": "collapse",
+    "pos": "verb",
+    "def": "to fall down suddenly; to fail completely"
+   },
+   {
+    "word": "jagged",
+    "pos": "adjective",
+    "def": "having a rough, sharp, uneven edge"
+   },
+   {
+    "word": "peril",
+    "pos": "noun",
+    "def": "serious and immediate danger"
+   },
+   {
+    "word": "perilous",
+    "pos": "adjective",
+    "def": "full of serious danger"
+   },
+   {
+    "word": "plunge",
+    "pos": "verb",
+    "def": "to fall or drop suddenly and steeply"
+   },
+   {
+    "word": "treacherous",
+    "pos": "adjective",
+    "def": "dangerous, especially when it appears safe"
+   }
+  ],
+  "mind-resolve": [
+   {
+    "word": "composure",
+    "pos": "noun",
+    "def": "calmness and self-control, especially in a crisis"
+   },
+   {
+    "word": "courage",
+    "pos": "noun",
+    "def": "the ability to face danger, pain or fear"
+   },
+   {
+    "word": "despair",
+    "pos": "noun",
+    "def": "the complete loss of hope"
+   },
+   {
+    "word": "morale",
+    "pos": "noun",
+    "def": "the confidence, spirit and hope of a person or group"
+   },
+   {
+    "word": "panic",
+    "pos": "noun",
+    "def": "a sudden, uncontrollable feeling of fear"
+   },
+   {
+    "word": "willpower",
+    "pos": "noun",
+    "def": "the strength of mind to do something difficult or resist something"
+   }
+  ],
+  "survival-endurance": [
+   {
+    "word": "dehydrated",
+    "pos": "adjective",
+    "def": "having lost too much water from the body"
+   },
+   {
+    "word": "endure",
+    "pos": "verb",
+    "def": "to suffer something difficult patiently"
+   },
+   {
+    "word": "exhaustion",
+    "pos": "noun",
+    "def": "the state of being extremely tired"
+   },
+   {
+    "word": "frostbite",
+    "pos": "noun",
+    "def": "injury to parts of the body caused by extreme cold"
+   },
+   {
+    "word": "persevere",
+    "pos": "verb",
+    "def": "to keep trying despite difficulty or failure"
+   },
+   {
+    "word": "ration",
+    "pos": "verb",
+    "def": "to limit how much of something you use so it lasts"
+   },
+   {
+    "word": "stranded",
+    "pos": "adjective",
+    "def": "left somewhere with no way to leave"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "The Long Walk Out",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Maya had been walking for six hours when she finally admitted to herself that she was lost.\n\nThe trail had seemed obvious that morning — a clear line of stones winding up through the pines. But somewhere after the river crossing the path had faded, and the thick mist that rolled down from the peaks had swallowed every landmark she might have used. Now the light was failing, the temperature was dropping fast, and her water bottle was almost empty.\n\nShe made herself stop and think. Panicking, she knew, would only waste energy she could not spare. She remembered the one piece of advice her uncle, an experienced climber, had drummed into her before the trip: if you get lost, do not wander; find water and follow it downhill, because rivers lead to people. It was the only plan she had.\n\nShe found a thin stream within the hour and began to follow it, stumbling over wet rocks in the half-dark. Twice she fell. Her ankle, already sore, began to throb with every step, and there were moments when she wanted nothing more than to sit down in the cold and rest. She did not let herself. If she stopped now, she thought, she might never get up again.\n\nThe stream grew slowly into a noisy little river, and the river, at last, led her to a rough track. Maya could have wept with relief. She turned downhill and followed it until, rounding a bend, she saw the yellow squares of a farmhouse window glowing through the trees. The farmer who opened the door took one look at her — soaked, shaking, white with exhaustion — and pulled her inside without a word.\n\nLater, wrapped in a blanket with a hot drink in her hands, Maya thought about how close it had been. If she had panicked, if she had sat down to rest, if she had not remembered her uncle's single rule, the night might have ended very differently. She had not done anything heroic, she decided. She had simply kept calm, kept moving, and trusted the water to do the rest."
+  },
+  {
+   "title": "The Island That Would Not Let Us Leave",
+   "topic": "adventure accounts",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the text and answer the questions that follow.",
+   "body": "Nobody planned to spend a night on Karren Island. We had rented the small sailing boat for a single afternoon, and by four o'clock we were supposed to be back at the harbour, returning the keys and buying ice creams before the drive home. Instead, at four o'clock, my brother Theo and I were standing on a strip of grey sand, watching our boat drift further out to sea with every wave.\n\nIt had been my idea to land on the island \"just for ten minutes,\" to see the old lighthouse close up. Theo had argued against it — he always did — but I had already jumped out into the shallow water, and rather than watch me explore alone, he had followed, dragging the boat up onto the sand as he came. Neither of us had tied it properly. A rope that looks secure on wet sand is not secure at all, and the tide, when it turns, does not ask permission.\n\nBy the time we noticed, the boat was a distant white speck, and shouting at it achieved nothing except making us hoarse. There was no phone signal on the island, no other boats in sight, and the mainland was a smudge of grey on the horizon, much too far to swim.\n\n\"We are not going to panic,\" Theo said, in a voice that suggested he very much wanted to. He was right, though. Panic would not bring the boat back, and it would not build us anywhere to shelter before dark. We searched the island — which took less than twenty minutes, it was so small — and found only the ruined lighthouse, roofless but with three solid walls, and a scatter of dry driftwood above the tideline.\n\nWe spent the afternoon building a fire, more for the comfort of doing something useful than because we expected anyone to see it. We had one bottle of water between us and a bag of crackers, which we rationed without needing to discuss it — some agreements do not need words. When the sun went down, we sat inside the broken lighthouse walls, close to the fire, and Theo, of all things, started telling jokes. Bad ones. I have never laughed so much while so frightened.\n\nIt was nearly midnight when we heard the engine — a fishing boat, drawn in, we later learned, by the orange glow of our fire against the dark walls. The fisherman who pulled us aboard was more amused than alarmed; apparently Karren Island had \"borrowed\" more than one careless sailor before us. Theo did not say \"I told you so.\" He did not need to. We had both learned, on that strip of sand, that a plan is only as good as the person who checks the knots — and that fear shared with someone else is a different, lighter thing than fear carried alone."
+  },
+  {
+   "title": "Four People, Four New Beginnings",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Ana (moved to a big city)\nMoving to a big city was absolutely thrilling at first, with something new to do on every single corner and lights that never seemed to go out at night. The noise, though, completely overwhelmed me to begin with — the traffic, the sirens, the constant restless hum of it all — and it took a good few weeks before I could sleep through it without waking. I have grown to love being able to hop on a train or a bus and go absolutely anywhere I please, whenever the mood takes me. The one thing I really, genuinely miss from home, far more than I ever thought I would, is the night sky: here you can barely make out a single faint star.\n\nB — Kofi (moved to a small village)\nI utterly dreaded moving somewhere so small and quiet, absolutely certain that I would be bored out of my mind within days and forever missing my old town. What genuinely surprised me, almost at once, was how quickly everybody in the village seemed to know my name — the shopkeeper, the neighbours, people I was sure I had never even met before. I have grown to truly enjoy the slower, gentler pace of life here, where there is always time to stop and talk to someone. I have even taken up fishing down at the river on still mornings, sitting for hours with my line in the water, which is something I would never once have dreamed of trying before.\n\nC — Rosa (moved to another country)\nWhen we moved abroad, I was most nervous of all about the language, lying awake at night imagining all the ways I might embarrass myself in front of everyone. In the end, though, it was the food that surprised me the very most — so many dishes were completely new and strange to me, and some I have since grown to love dearly. I made my very first proper friends through playing volleyball after school, where nobody minded in the least that my words still came out jumbled. And no matter how busy or settled I become here, I still telephone my grandparents back home every single Sunday without fail, so that they never feel far away.\n\nD — Jack (changed schools across town)\nChanging schools meant a much longer, duller journey right across town each morning, which I grumbled about endlessly to anyone who would listen. But the strange and unexpected advantage was that absolutely nobody knew me there — none of my old reputation, none of the tired assumptions — so I could quietly start fresh and be whoever I genuinely wanted to be. I decided to be braver than before. I joined the school band specifically to meet new people, even though I was hopelessly rusty on my instrument, and it worked far better than I had ever hoped. I still meet up with all my old friends most weekends too, so in the end I feel I have the best of both worlds."
+  },
+  {
+   "title": "Four People, Four Big Challenges",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Pavel (a charity run)\nI had genuinely never run a single step in my life before I rather rashly signed up for that charity run; I was always the boy who walked the cross-country at school, trailing in last. I trained right through a long, bitter winter, out pounding the dark, icy streets in the rain and the wind when every part of me wanted only to stay curled up warm indoors. I was running to raise money for the hospital that had once helped my father through a frightening illness, and on the very hardest mornings I held that single thought in front of me like a small, steady light. When I finally crossed the finish line, exhausted and half frozen, I burst into floods of tears, and I was not in the least ashamed of them.\n\nB — Indira (cooking thirty dishes in a year)\nI set myself one single, simple rule one cold New Year: to learn to cook thirty proper dishes, entirely from scratch, within a single year, from countries all over the world. I burned a truly great many of them along the way, set off the smoke alarm more times than I can possibly count, and produced a few meals that went straight into the bin. But slowly, steadily, dish by dish, I got better at it. Now I cook for my whole family most nights, and they have become my honest, hungry critics. I blogged the entire long journey, every small triumph and every smoking disaster alike, for anyone out there who cared to follow along — and, to my great surprise, quite a few strangers actually did.\n\nC — Wes (climbing a mountain)\nMy single biggest fear in life was always failing where other people could see me do it, so I trained quietly for months and told almost no one at all what I was secretly planning, just in case I had to slink home having failed. On the day itself, the weather suddenly closed right in near the summit — thick grey cloud, stinging sleet, a wind that shoved us sideways across the path — and it very nearly forced our whole group to turn back down in defeat. We talked it over, shivering and breathless, and chose to push on through it instead. The view from the very top, when the cloud finally tore open for a few short minutes, was worth every single difficult, doubting step of the way.\n\nD — Joy (a sponsored silence)\nFor someone as endlessly talkative as I am — my family will tell you I have never once knowingly finished a sentence — going a full twenty-four hours without speaking a single word was genuinely, surprisingly hard, far harder than it ever sounds. My friends actually bet real money that I would never, ever manage it, which, if anything, only made me more stubbornly determined to prove every last one of them completely wrong. I scribbled furious notes instead. In the end I raised a good sum for an animal charity I love, I surprised absolutely everyone, myself most of all — and, though they will groan aloud to hear me say it, I would honestly, happily do the whole silent thing all over again tomorrow."
+  },
+  {
+   "title": "Crossing the White",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "People ask me why anyone would choose to walk across a frozen wilderness, dragging everything they need behind them on a sledge. I am not sure I have ever given a good answer. The truth is that the ice gets into you, and you keep going back.\n\nMy third expedition was the hardest. For five weeks my partner and I hauled our sledges across a great white plain, hundreds of miles from the nearest human being. There is a particular kind of silence out there that I have found nowhere else — no birds, no traffic, no voices, only the hiss of the runners and the sound of your own breathing. Some people find it unbearable. I have come to love it.\n\nThe cold, of course, is the constant enemy. At those temperatures a moment of carelessness — a glove pulled off for too long, a zip left open — can cost you your fingers. Every task that would take seconds at home takes minutes, performed with stiff hands and enormous concentration. You learn to do everything slowly and to check everything twice, because out there a small mistake does not stay small.\n\nWhat surprised me most, on that third crossing, was not the hardship but how the mind behaves. There were days when I felt I could walk forever, and days when putting up the tent felt beyond me. I learned that the body will usually do far more than the mind believes, if you can only keep the mind from giving up. On the worst afternoon, when a storm pinned us in the tent for thirty hours, my partner said something I have never forgotten: the secret, she said, was not to think about the whole journey, only about the next hour. Just get through the next hour, and then the next.\n\nWe reached the far coast on the thirty-eighth day, thinner, slower and quieter than we had set out. People imagine a great moment of triumph at the end of such a journey. In truth I mostly felt a deep tiredness, and a strange sadness that it was over. Within a year, of course, I was planning the next one. The ice, as I said, gets into you."
+  },
+  {
+   "title": "Four Who Went Looking for Adventure",
+   "topic": "adventure accounts",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "We asked four young people to tell us about a trip that changed them.\n\nA — RAVI\nI cycled the length of my country alone, over three weeks. People warned me it was dangerous, but the hardest part was not the roads — it was the loneliness. There was no one to share the views with, and on bad days no one to tell me to keep going. By the end I had learned to be my own encouragement. I came home quieter, but somehow stronger.\n\nB — SOFIA\nI went on a sailing course with eleven strangers. None of us knew how to handle a boat, and the instructor refused to do the work for us. When a storm came, we either worked together or we sank. We argued, we panicked, and then we figured it out as a team. I have never trusted a group of people so completely as I did by the last day.\n\nC — DANIEL\nMy trek through the mountains went wrong on the second day, when I twisted my ankle far from any village. I had to walk out slowly on my own, in real pain, rationing my food. I was frightened the whole time. But I also discovered I could stay calm and solve problems when everything was going wrong — and that knowledge has never left me.\n\nD — AMARA\nI spent a month volunteering in a village very different from my own. I did not climb anything or cross any wild places; my adventure was inside my head. Living somewhere with no hot water and no phone signal made me question what I really need to be happy. I returned with far fewer wants than I left with."
+  },
+  {
+   "title": "Twelve Hours in the Cave",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "When the rain began, Daniel was already half a mile underground.\n\nHe and two friends had gone caving that Saturday, as they often did, following a familiar passage deep beneath the hills. None of them had thought to check the weather. None of them knew that, far above their heads, a sudden storm was turning quiet streams into torrents — or that the water would pour down into the cave system and rise, with terrifying speed, in the narrow tunnels behind them.\n\nBy the time they realised what was happening, the passage they had come in by was already flooded. There was no going back. Daniel made a quick decision and told the others to climb: their only hope was to get higher than the water and wait. They scrambled up onto a narrow ledge, soaked and shivering, and watched the black water rise in the torchlight until it was lapping just below their feet. Then, mercifully, it stopped.\n\nWhat followed was the longest night of Daniel's life. The cold seeped into them, and their torches, one by one, began to die, so they switched them off to save the last of the light. To keep everyone's spirits up, Daniel made them talk — about anything, about nothing — because he had read somewhere that the greatest danger in a situation like theirs was not the cold or the water but despair.\n\nAbove ground, their families had raised the alarm, and a cave rescue team was already pulling on its gear. These were volunteers, ordinary people with day jobs, who train for exactly this. It took them hours to reach the trapped cavers, wading and swimming through passages no sensible person would enter, but reach them they did. When the first rescuer's light finally appeared around the bend, Daniel said, none of them could speak; one of his friends simply began to laugh, and could not stop.\n\nAfterwards, a reporter asked Daniel what he had learned. They had survived, he said, because they had not split up, they had got above the water, and they had kept each other talking through the dark. But the real lesson, he added with a rueful smile, was simpler: next time, he would check the weather first."
+  },
+  {
+   "title": "A Night on the Mountain",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "I have been asked to describe, as clearly as I can, what happened on the mountain that night, while I still remember it well.\n\nWe had set out late — that was our first mistake. By the time we reached the ridge, the afternoon light was already fading, and a cold wind had begun to rise from the valley below. I suggested turning back, but the others wanted to push on to the summit, and I did not argue as firmly as I should have.\n\nThe mist came down without warning. One moment we could see the path ahead; the next, we could see almost nothing. We lost the trail completely. Rather than wander on in the dark, we did the one sensible thing we did all day: we stopped, found a hollow that was sheltered from the wind, and waited for morning. We had no tent, but we had a little food and, luckily, a survival blanket, which we shared between us.\n\nIt was a long, cold night. To stay awake and keep our spirits up, we took turns to talk. Nobody slept much. I will be honest: there was a point, in the small hours, when I was genuinely frightened that one of us might not make it to morning.\n\nAt first light the mist lifted, and we saw, to our astonishment, that we had stopped barely two hundred metres from a marked path. We walked down slowly and were met by a mountain rescue team who had been about to come looking for us. I am told we were very lucky. I believe it."
+  },
+  {
+   "title": "Four More Voices from the Wild",
+   "topic": "adventure accounts",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the text and answer the questions that follow.",
+   "body": "We asked four more travellers to describe the moment their adventure tested them hardest.\n\nA — PRIYA\nI took part in a desert crossing by camel, six days from the last village to the coast. On the fourth day our guide fell ill with a fever, and it was suddenly the rest of us — none of us experienced — who had to read the stars and choose the route. We got it wrong twice before we got it right. I learned that courage is mostly just continuing to make decisions when you are not sure they are correct.\n\nB — LUCAS\nMy adventure was underwater, on a diving trip to study a coral reef. On the third dive my regulator began to malfunction at depth, and for perhaps thirty seconds I genuinely believed I would not surface again. My diving partner noticed, stayed calm, and guided me up slowly, the way we had been trained to. Since that day I trust training over instinct, because instinct told me to bolt for the surface, and that would have injured me badly.\n\nC — HANA\nI cycled across a mountain range with my sister, and on the second-to-last day a wheel buckled on a rocky descent, thirty kilometres from the nearest town. We had no spare, so we walked, pushing both bikes, for six hours in the heat. My sister and I had barely spoken in the year before the trip. By the time we reached the town, we were talking again properly for the first time in months.\n\nD — OMAR\nI joined a wilderness survival course expecting to learn about fire and shelter. What I actually learned, on a night when our group's food ran short earlier than planned, was how quickly people show their true character under pressure — some shared without being asked, others did not. I came home far more interested in people than in survival skills."
+  },
+  {
+   "title": "Taking on a Challenge",
+   "topic": "personal challenges",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read about four people (A, B, C and D) who took on a personal challenge. For each question, choose the correct person. A person may be chosen more than once.",
+   "body": "A — Daniel: When I decided to learn the violin at sixteen, my friends thought it was an odd choice, and the first few months were painful for everyone in my house. What kept me going was a recording of a street musician I had heard while on holiday; I wanted to play like that one day. I still practise every morning before school, even though I know I will never be a professional.\n\nB — Soraya: I started a podcast about local history almost by accident, after recording a chat with my grandmother. I had no equipment and no real idea what I was doing, and the first ten episodes are honestly embarrassing. But listeners began writing to me with stories of their own, and that completely changed how seriously I took the whole thing. Now I plan each episode for weeks.\n\nC — Mei: Everyone warned me that restoring an old bicycle would be expensive and difficult, and they were certainly right about the difficult part. I spent a whole winter in a freezing garage, and twice I nearly gave up. The moment I finally rode it down the street, though, was worth every cold evening. Since then I have helped two friends repair their own bikes.\n\nD — Tomas: I agreed to grow vegetables on our balcony mainly to stop my mother asking me to. I assumed it would be simple. In fact, my first attempts died within weeks, and I had to read a great deal before anything survived. These days the balcony provides most of our salads in summer, and I find the whole process surprisingly calming."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Outdoors Hour — Preparing for a Multi-Day Trek",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "A radio interview with an experienced trek leader about preparing for a multi-day wilderness trek.",
+   "script_text": "HOST: Welcome back to Outdoors Hour. Today I'm joined by trek leader Sofia Marchetti, who's led over thirty multi-day wilderness treks. Sofia, what's the first thing people get wrong when preparing for a trip like this?\nSOFIA: Honestly, it's the pack weight. People pack for comfort instead of necessity. I always tell first-timers: lay everything out, then remove a third of it. If you're not certain you'll use something twice on the trip, leave it at home.\nHOST: That's a strong rule. What about food and water?\nSOFIA: Water is non-negotiable — you need a reliable filtration system, not just bottles, because you can't carry enough water for four or five days. For food, we recommend high-calorie, lightweight options: nuts, dried fruit, dehydrated meals. You're burning far more calories hiking with a loaded pack than people expect.\nHOST: And if the weather turns badly halfway through?\nSOFIA: That's where preparation really matters. Everyone should know the group's turnaround point before setting out — a specific time or location where, if conditions have worsened, you commit to heading back rather than pushing on. Too many accidents happen because a group kept going past the point where turning back was still the safe option.\nHOST: Sofia, thank you so much for joining us.\nSOFIA: My pleasure."
+  },
+  {
+   "title": "Outdoors Hour — Surviving a Night Lost in the Woods",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Listen to the talk and answer the questions. (Played twice.)",
+   "script_text": "NARRATOR: If you ever find yourself lost in a forest as night approaches, experts agree that the single most important thing you can do is stop moving. Continuing to walk in the dark, tired and disoriented, dramatically increases the risk of injury and often leads people further from any trail or path, rather than closer to safety.\nNARRATOR: The next priority is shelter. Even a simple lean-to made from branches and leaves, built against a fallen tree or large rock, can make a huge difference in staying warm through the night, especially in cold or wet conditions where losing body heat is the most immediate danger.\nNARRATOR: Water is generally a bigger short-term concern than food. A person can survive for weeks without eating, but only a few days without water, so experts recommend staying near any stream or water source you can find, rather than wandering further away from it.\nNARRATOR: Finally, staying calm is more important than any physical skill. Panic leads to poor decisions, wasted energy, and exhaustion. Most people who are reported lost are found within twenty-four to forty-eight hours, especially if they stay in one place and make themselves easy to spot, for example by wearing bright clothing or creating a visible signal."
+  },
+  {
+   "title": "Outdoors Hour — an interview with a solo sailor",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Listen to the interview and answer the questions. (Played twice.)",
+   "script_text": "HOST: My guest today sailed alone across the Atlantic Ocean last year. Marcus, what made you want to do something so risky?\nMARCUS: Honestly, it wasn't about the risk. I'd sailed with crews for years, and I just wanted to see if I could handle the whole journey by myself, start to finish.\nHOST: Were there moments you regretted the decision?\nMARCUS: Definitely. About halfway through, I hit a storm that lasted almost three days. I barely slept, and at one point a wave knocked out most of my navigation equipment.\nHOST: What did you do?\nMARCUS: I had to fall back on paper charts and a compass, which I'd actually practiced with beforehand, just in case. That preparation probably saved the trip.\nHOST: Did you ever consider calling for help?\nMARCUS: I thought about it once, but I decided the situation, while frightening, wasn't actually life-threatening — the boat was still sound. Calling for rescue over something you can handle yourself puts other people at unnecessary risk.\nHOST: What advice would you give someone attempting a similar journey?\nMARCUS: Prepare for the equipment you rely on to fail, not just the weather. Most people over-prepare for storms and under-prepare for what happens when their instruments stop working."
+  },
+  {
+   "title": "Outdoors Hour — a mountain rescue interview",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear part of a radio interview in which a presenter talks to Erin Vance, a mountain rescue volunteer. Listen and answer the questions.",
+   "script_text": "HOST: Welcome to Outdoors Hour. With me is Erin Vance, who has volunteered with the mountain rescue team for over ten years. Erin, what makes someone get into trouble on the hills?\nERIN: Thank you. Honestly, it is rarely the experienced climbers who need us. The people we rescue most often are not reckless at all — they are simply unprepared. They set out on a sunny morning in trainers, with no map and no warm layer, and they have no idea how fast the weather can turn.\nHOST: So it is the weather more than the terrain?\nERIN: Almost always. A path that is perfectly safe at noon can be deadly in mist just two hours later. The single most useful thing anyone can do is check the forecast before they leave — and then actually believe it.\nHOST: And what should people do if they realise they are lost?\nERIN: The hardest advice to follow, but the most important: stop. Do not keep walking, because you will only get more lost and more tired. Stay where you are, keep warm, and call for help if you have a signal. We would far rather come to someone who has stayed put than search miles of empty hillside.\nHOST: And the rescuers themselves — you are all volunteers?\nERIN: Every one of us. We have ordinary day jobs, and we drop everything when the call comes, day or night. People sometimes thank us as though we were heroes, but we do not see it that way at all. We just could not sit at home knowing that someone was out there in trouble.\nHOST: Erin Vance, thank you."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "053ac2e9-2fa2-4ee8-a04c-f180bc02dcad",
+   "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497",
+   "task_type": "extended",
+   "register": "formal",
+   "title": "A report on the safety of a local walking route",
+   "subtopic": "adventure & community",
+   "difficulty": "standard",
+   "scenario": "A popular walking route near your town has become dangerous in bad weather, and there have been several recent rescues. Your local council has asked young people who use the route to report on the problem.",
+   "instruction": "Write a report for the council describing the dangers and recommending what could be done.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "describe the route and why it is popular",
+    "explain the dangers, especially in bad weather",
+    "recommend two or three improvements the council could make"
+   ],
+   "grammar_focus": [
+    "Modal verbs for recommendations (should, could, would)",
+    "Passive voice (is used, is exposed)"
+   ],
+   "required_vocab": [
+    "summit",
+    "treacherous",
+    "stranded",
+    "shelter",
+    "rescue"
+   ],
+   "scaffolds": null,
+   "model_answer": "Report on the Safety of the Ridgeway Path\n\nIntroduction\nThis report describes the dangers of the popular Ridgeway walking route and recommends improvements, following several recent rescues.\n\nThe route and its popularity\nThe Ridgeway is a five-mile path along the hills above the town. It offers fine views and is used by hundreds of walkers every weekend, from families to serious hikers. Its very popularity is why the dangers matter so much.\n\nThe dangers\nThe chief problem is the weather. In clear conditions the path is straightforward, but mist can descend within minutes, and walkers quickly lose the trail. The upper section is badly exposed to wind, and the ground becomes treacherous after rain. Many of those who get into difficulty are inexperienced and poorly equipped.\n\nRecommendations\nI would recommend three measures. First, the council should install clear marker posts along the upper path, so it can be followed even in mist. Second, a warning board at the start could remind walkers to check the forecast and carry proper gear. Third, a simple shelter near the summit would give stranded walkers somewhere safe to wait.\n\nConclusion\nWith these low-cost changes, the Ridgeway could stay popular and become far safer.",
+   "rubric": null,
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": null,
+   "created_at": "2026-06-14T05:37:07.722514+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "14281486-e40a-40b9-a84e-5f3ff3977bf7",
+   "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497",
+   "task_type": "directed",
+   "register": "informal email to a friend",
+   "title": "An email about a frightening experience",
+   "subtopic": "adventure & survival",
+   "difficulty": "standard",
+   "scenario": "Something dramatic happened to you recently on a trip — you got lost, were caught out by the weather, or had a narrow escape. A friend has heard a rumour and wants to know what really happened.",
+   "instruction": "Write an email to your friend recounting what happened and how you felt.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "explain where you were and what went wrong",
+    "describe what happened and how you felt at the time",
+    "say how it ended and what you learned from it"
+   ],
+   "grammar_focus": [
+    "Narrative tenses (past simple, past continuous, past perfect)",
+    "Third conditional (If I had …, … might have …)"
+   ],
+   "required_vocab": [
+    "stranded",
+    "composure",
+    "willpower",
+    "treacherous",
+    "shelter"
+   ],
+   "scaffolds": null,
+   "model_answer": "Hi Sam,\n\nYou will not believe what happened to me last weekend! You probably heard that I got into trouble up on the hills — well, it is true, and it was the most frightening hour of my life.\n\nI had gone walking on my own, which was my first mistake. The path was clear at the start, but after the river the mist came down and I lost the trail completely. Suddenly I was stranded: the light was fading, my water had run out, and for a few minutes I lost all my composure, my heart pounding, with no idea which way to turn.\n\nThen I remembered what my uncle always says: if you get lost, find water and follow it downhill. It took all my willpower to keep going, slipping on the treacherous wet rocks, until the stream finally led me to a farmhouse, where the owners gave me shelter.\n\nIf I had panicked, I dread to think how the night might have ended. I have learned my lesson, though — next time I will check the forecast, and I will never go up there alone again.\n\nWrite back soon!\nLove, Alex",
+   "rubric": null,
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": null,
+   "created_at": "2026-06-14T05:37:07.722514+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "6f41c937-a743-4121-9248-44203bd552e6",
+   "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (adventure & the outdoors)",
+   "subtopic": null,
+   "difficulty": "standard",
+   "topic": "Adventure and the outdoors",
+   "intro": "The examiner will ask you some questions about yourself, about the outdoors, risk and adventure. Answer naturally and give reasons.",
+   "card_points": [],
+   "discussion_questions": [
+    "Do you enjoy outdoor activities like walking, climbing or camping? Why, or why not?",
+    "Tell me about a time you did something a little adventurous or a little risky.",
+    "Would you say you are a cautious person or someone who takes risks?",
+    "Some people love the idea of an expedition to a wild place; others find it frightening. Which are you?",
+    "Do you think young people today spend enough time outdoors? Why?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-14T05:37:34.082027+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "e28b250f-4e86-4478-b888-e6b15713b455",
+   "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497",
+   "task_type": "topic_card",
+   "title": "Speaking — An adventure or a time you faced danger",
+   "subtopic": null,
+   "difficulty": "standard",
+   "topic": "A challenge, an adventure or a moment of danger",
+   "intro": "We are going to talk about adventures and difficult moments. Take a moment to look at the points on the card, then talk about them. You do not have to use them all.",
+   "card_points": [
+    "an adventure you have had, or a time you faced some danger or difficulty",
+    "where you were, who you were with, and what happened",
+    "how you felt during it and what you did",
+    "what you learned from the experience",
+    "the idea that facing difficulty is good for young people"
+   ],
+   "discussion_questions": [
+    "Why do you think some people are drawn to dangerous activities and adventures?",
+    "What is the most important thing to do if you find yourself in a dangerous situation?",
+    "Is it the responsibility of schools to give students more challenging, outdoor experiences?"
+   ],
+   "scaffolds": {
+    "L0": "Prompt only.",
+    "L3_cues": [
+     "The situation: where you were + what went wrong",
+     "The danger: what made it frightening or risky",
+     "Your reaction: what you felt and did (panic vs composure)",
+     "The outcome: how it ended + who or what helped",
+     "The lesson: what you learned, using 'If I had..., I might have...'"
+    ],
+    "L1_vocab": [
+     "stranded",
+     "treacherous",
+     "panic",
+     "composure",
+     "descent",
+     "willpower",
+     "shelter",
+     "instinct",
+     "terrain",
+     "keep a clear head"
+    ],
+    "L2_stems": {
+     "React": [
+      "I remember feeling...",
+      "What frightened me most was...",
+      "My first instinct was to..."
+     ],
+     "Reflect": [
+      "Looking back, I realise that...",
+      "What it taught me was...",
+      "If I had ..., I might have ..."
+     ],
+     "Describe": [
+      "The situation was that...",
+      "What happened was...",
+      "Before I knew it, ..."
+     ]
+    },
+    "L4_frame": "The time I faced danger was when ___. It became frightening because ___. At that moment I felt ___, but I tried to ___. In the end, ___, and we got to safety by ___. Looking back, the experience taught me that ___."
+   },
+   "model_response": "I would like to talk about a time I got caught out by the weather while hiking with my family. We had set off on a clear morning, so we were not at all prepared when the mist suddenly came down. Within minutes, we could barely see the path, and we were effectively stranded on the ridge. I remember feeling frightened, because if we had wandered off in the wrong direction, we could have walked straight off the edge. The rocks had turned wet and treacherous, so one careless step could have been serious. My father, though, kept his composure. He told us to stop where we were and wait, rather than guess our way down, and slowly the panic in my chest settled. After about an hour the mist lifted, and we began a careful descent and found our way safely down. Looking back, I think the most important thing in any dangerous situation is not to panic, and to listen to whoever is keeping a clear head. If we had tried to rush down blindly, the day might have ended differently. The whole experience taught me to respect the mountains and always to check the forecast first.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-14T05:37:34.082027+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}

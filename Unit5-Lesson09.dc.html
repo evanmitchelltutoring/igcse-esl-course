@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U5 L9 · Title" data-speaker-notes="The listening block — five exam-style exercises across Parts 1–5, all on AI and art. You read each script aloud twice (or play audio), pausing between. Students answer, then self-mark. Read the title, then the how-it-works slide." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 5 · Lesson 9 · Listening</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:80px;line-height:1.0;margin:0;letter-spacing:-.015em;">Listening<br>Block</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">Five exam-style exercises, Parts 1–5.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">Listening</span>
+        <span style="color:#8a8478;">50 minutes</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u5-l9-hero" src="assets/images/u5-l9-hero.jpg" shape="rect" fit="cover" placeholder="Headphones resting on a desk beside a notebook and pencil — the listening-exam moment. Calm, focused. No identifiable faces."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="How it works" data-screen-label="U5 L9 · How it works" data-speaker-notes="Explain the routine: you'll read (or play) each script twice, pausing between. Students read the question first, listen for meaning, then answer, then self-mark. It maps to the five exam parts. Then objectives." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">How the block works</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:50px;line-height:1.02;margin:12px 0 24px;">Five exercises, one for each exam part</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:12px;padding:18px 26px;display:flex;gap:18px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#0f7d76;min-width:66px;">Ex 1</div><div style="font-size:26px;line-height:1.35;">Eight short clips — reactions to AI images <span style="color:#8a8478;">(Part 1)</span></div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:12px;padding:18px 26px;display:flex;gap:18px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#0f7d76;min-width:66px;">Ex 2</div><div style="font-size:26px;line-height:1.35;">Five stances — match to the opinion <span style="color:#8a8478;">(Part 2)</span></div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:12px;padding:18px 26px;display:flex;gap:18px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#0f7d76;min-width:66px;">Ex 3</div><div style="font-size:26px;line-height:1.35;">A talk — complete the notes <span style="color:#8a8478;">(Part 3)</span></div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:12px;padding:18px 26px;display:flex;gap:18px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#0f7d76;min-width:66px;">Ex 4</div><div style="font-size:26px;line-height:1.35;">Six creators — match the opinion A–H <span style="color:#8a8478;">(Part 4)</span></div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:12px;padding:18px 26px;display:flex;gap:18px;align-items:baseline;grid-column:span 2;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#0f7d76;min-width:66px;">Ex 5</div><div style="font-size:26px;line-height:1.35;">Painter vs developer — an interview, choose the best answer <span style="color:#8a8478;">(Part 5)</span></div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:20px 34px;font-size:28px;line-height:1.4;">Each script is heard <strong>twice</strong>. Read the question first · listen for <strong>meaning</strong>, not matching words · answer · then self-mark.</div>
+  </section>
+
+  <section data-label="Objectives" data-screen-label="U5 L9 · Objectives" data-speaker-notes="Read all three. The listening skill of the unit — read options first, then listen for the idea, not word-matching — is objective 2. Point to the success criteria." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Today you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.02;margin:16px 0 34px;">Three things by the end of the lesson</h2>
+    <div style="display:flex;flex-direction:column;gap:18px;">
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">1</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Handle all five listening question types.</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I complete each exercise and self-mark.</div></div></div>
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">2</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Listen for meaning, not matching words.</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I don't fall for a distractor that just repeats a word.</div></div></div>
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">3</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Read the questions before you listen.</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I know what to listen for before the clip starts.</div></div></div>
+    </div>
+    <div style="margin-top:auto;font-size:30px;line-height:1.4;color:#e6ddd0;font-style:italic;">Why it matters: the exam plays each clip only twice — reading first is how you catch the answer.</div>
+  </section>
+
+  <section data-label="Listening Skill" data-screen-label="U5 L9 · Coached skill" data-speaker-notes="The coached skill: read → predict → meaning → check. Warn about the classic trap: a wrong option that repeats a word you heard. Copy the box. Two minutes, then straight into Exercise 1." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exam skill · the listening routine</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.02;margin:14px 0 22px;">Read → predict → meaning → check</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:14px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #0f7d76;border-radius:14px;padding:24px 22px;"><div style="font-family:Archivo,sans-serif;font-size:40px;font-weight:700;color:#0f7d76;">Read</div><div style="font-size:25px;line-height:1.35;margin-top:8px;color:#3d3830;">the question &amp; options before the clip.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #0f7d76;border-radius:14px;padding:24px 22px;"><div style="font-family:Archivo,sans-serif;font-size:40px;font-weight:700;color:#0f7d76;">Predict</div><div style="font-size:25px;line-height:1.35;margin-top:8px;color:#3d3830;">what a speaker might say for each.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #0f7d76;border-radius:14px;padding:24px 22px;"><div style="font-family:Archivo,sans-serif;font-size:40px;font-weight:700;color:#0f7d76;">Meaning</div><div style="font-size:25px;line-height:1.35;margin-top:8px;color:#3d3830;">listen for the idea, not the exact word.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #0f7d76;border-radius:14px;padding:24px 22px;"><div style="font-family:Archivo,sans-serif;font-size:40px;font-weight:700;color:#0f7d76;">Check</div><div style="font-size:25px;line-height:1.35;margin-top:8px;color:#3d3830;">use the second play to confirm.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#fbeee9;border:1px solid #e9c9c2;border-radius:14px;padding:20px 34px;font-size:28px;line-height:1.45;color:#5a3833;"><strong style="color:#a2503a;">The trap:</strong> a wrong option often repeats a word you just heard. The right one usually says the same idea in <em>different</em> words.</div>
+  </section>
+
+  <section data-label="Ex1 · Reactions" data-screen-label="U5 L9 · Ex1 (Q)" data-speaker-notes="Part 1 — read the 8 clips twice, pausing between. Students note, in a few words, each speaker's main point. Run the timer between plays. Answers next. Scripts: Clip 1 amazed can't tell; 2 saves time, not his art; 3 fears students stop looking; 4 style copied without asking; 5 sells but discloses; 6 better question is who it helps/hurts; 7 faster isn't better; 8 gives more people tools, not replacing artists." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:66px 88px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:40px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="120" label="Note"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exercise 1 · Part 1 · eight short clips</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:40px;line-height:1.0;margin:8px 0 16px;">In a few words, what is each speaker's main point?</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px 18px;font-size:25px;line-height:1.25;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">1. Gallery visitor → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">2. Teenage boy → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">3. Art teacher → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">4. Young illustrator → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">5. Gallery owner → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">6. University student → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">7. Working parent → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">8. Tech developer → <span style="color:#b89a4a;">______</span></div>
+    </div>
+    <div style="margin-top:auto;display:flex;gap:16px;padding-top:12px;">
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:12px 24px;font-size:23px;color:#2f6d49;"><strong>Support →</strong> just catch each speaker's feeling: amazed? worried? fair? having fun?</div>
+      <div style="flex:1;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:12px 24px;font-size:23px;color:#2c5f7a;"><strong>Stretch →</strong> which two speakers are most positive, and which two most worried?</div>
+    </div>
+  </section>
+
+  <section data-label="Ex1 · Answer" data-screen-label="U5 L9 · Ex1 (A)" data-speaker-notes="Self-mark. Accept any answer that captures the idea. Read each aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:66px 88px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Exercise 1 · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:40px;line-height:1.0;margin:8px 0 16px;">Main point of each speaker</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px 18px;font-size:24px;line-height:1.28;color:#1a1713;">
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">1. Amazed — <strong>couldn't tell it was AI</strong>.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">2. Uses it to <strong>save time</strong>; doesn't call it his art.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">3. Fears students <strong>stop learning to look closely</strong>.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">4. Upset her <strong>style was copied without asking</strong>.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">5. Sells them but <strong>always says it's AI</strong>.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">6. Better question: <strong>who it helps or hurts</strong>.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">7. <strong>Faster isn't better</strong>; kids shouldn't give up.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:7px solid #8fbf9f;border-radius:10px;padding:12px 22px;">8. Gives <strong>more people the tools</strong> — not replacing artists.</div>
+    </div>
+  </section>
+
+  <section data-label="Ex2 · Stances" data-screen-label="U5 L9 · Ex2 (Q)" data-speaker-notes="Part 2 — match five speakers to opinions A–G; two are extra. Read twice. Warn them the extra options are there to tempt. Answers next. Scripts: 1 feeling matters not maker; 2 training on my work is theft; 3 just label it; 4 draft tool then paint by hand; 5 fun, not claiming artist." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:66px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:40px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="120" label="Match"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exercise 2 · Part 2 · match speaker → opinion</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:38px;line-height:1.0;margin:8px 0 14px;">Five speakers · options A–G · two are extra</h2>
+    <div style="display:flex;gap:20px;flex:1;">
+      <div style="flex:1.25;background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:18px 24px;font-size:24px;line-height:1.3;">
+        <div style="font-family:Archivo,sans-serif;font-weight:700;color:#0f7d76;margin-bottom:8px;">Opinions</div>
+        <div style="display:flex;flex-direction:column;gap:7px;">
+          <div><strong>A</strong> The feeling matters, not the maker.</div>
+          <div><strong>B</strong> Training on my work is theft.</div>
+          <div><strong>C</strong> We just need honest labelling.</div>
+          <div><strong>D</strong> I use it to draft, then paint by hand.</div>
+          <div><strong>E</strong> It's fun; I'm not claiming to be an artist.</div>
+          <div style="color:#a2503a;"><strong>F</strong> AI will replace all artists soon.</div>
+          <div style="color:#a2503a;"><strong>G</strong> Galleries should ban AI art.</div>
+        </div>
+      </div>
+      <div style="flex:1;display:flex;flex-direction:column;gap:11px;font-size:26px;">
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:14px 24px;">Speaker 1 → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:14px 24px;">Speaker 2 → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:14px 24px;">Speaker 3 → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:14px 24px;">Speaker 4 → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:14px 24px;">Speaker 5 → <span style="color:#b89a4a;">___</span></div>
+      </div>
+    </div>
+    <div style="margin-top:16px;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:12px 24px;font-size:23px;color:#2c5f7a;"><strong>Stretch →</strong> what makes F and G tempting but wrong? Nobody actually says them.</div>
+  </section>
+
+  <section data-label="Ex2 · Answer" data-screen-label="U5 L9 · Ex2 (A)" data-speaker-notes="Self-mark. F and G are the extras — no speaker holds those views. Read each match aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Exercise 2 · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:10px 0 24px;">Speaker → opinion</h2>
+    <div style="display:flex;gap:16px;font-size:34px;font-family:Archivo,sans-serif;font-weight:700;">
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:26px 20px;text-align:center;color:#1a1713;">1 → <span style="color:#2f6d49;">A</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:26px 20px;text-align:center;color:#1a1713;">2 → <span style="color:#2f6d49;">B</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:26px 20px;text-align:center;color:#1a1713;">3 → <span style="color:#2f6d49;">C</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:26px 20px;text-align:center;color:#1a1713;">4 → <span style="color:#2f6d49;">D</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:26px 20px;text-align:center;color:#1a1713;">5 → <span style="color:#2f6d49;">E</span></div>
+    </div>
+    <p style="margin:28px 0 0;font-size:28px;color:#5a544c;font-style:italic;">Extras: <strong>F</strong> and <strong>G</strong> — no speaker actually says either. That's the Part 2 trap: don't pick an opinion just because it sounds like the topic.</p>
+  </section>
+
+  <section data-label="Ex3 · Notes" data-screen-label="U5 L9 · Ex3 (Q)" data-speaker-notes="Part 3 — a talk on how an AI learns. Read twice. Students complete the notes, max three words per gap. Answers next. Script order: learns by example → gather a dataset → scrape from internet → works out patterns → give a prompt → generates new image." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="120" label="Notes"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exercise 3 · Part 3 · complete the notes</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:40px;line-height:1.0;margin:8px 0 20px;">No more than three words per gap</h2>
+    <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:30px 44px;font-size:31px;line-height:1.95;color:#2c2822;max-width:1660px;">
+      How an AI learns to make pictures:<br>
+      • It is not born able to draw — it learns by <span style="color:#b89a4a;">__(1)__</span>.<br>
+      • The builders gather a huge <span style="color:#b89a4a;">__(2)__</span> of images.<br>
+      • They often <span style="color:#b89a4a;">__(3)__</span> them automatically from the internet.<br>
+      • It does not memorise images; it works out <span style="color:#b89a4a;">__(4)__</span>.<br>
+      • You give it a <span style="color:#b89a4a;">__(5)__</span>, and it generates a new image.
+    </div>
+    <div style="margin-top:auto;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:12px 26px;font-size:23px;color:#2c5f7a;"><strong>Stretch →</strong> in one sentence, why does the speaker say "the fairness questions are far from settled"?</div>
+  </section>
+
+  <section data-label="Ex3 · Answer" data-screen-label="U5 L9 · Ex3 (A)" data-speaker-notes="Self-mark. Accept singular/plural and close synonyms. Read the completed notes aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 96px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Exercise 3 · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:10px 0 22px;">Completed notes</h2>
+    <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:16px;padding:30px 44px;font-size:31px;line-height:1.95;color:#1a1713;max-width:1660px;">
+      • …it learns by <strong>example</strong> (1).<br>
+      • The builders gather a huge <strong>dataset</strong> (2) of images.<br>
+      • They often <strong>scrape</strong> (3) them automatically from the internet.<br>
+      • It works out <strong>patterns</strong> (4).<br>
+      • You give it a <strong>prompt</strong> (5), and it generates a new image.
+    </div>
+  </section>
+
+  <section data-label="Ex4 · Creators" data-screen-label="U5 L9 · Ex4 (Q)" data-speaker-notes="Part 4 — match six creators to opinions A–H; two extra. Read twice. This is the longest match; remind them to hold answers lightly on the first play. Answers next. Scripts: 1 style copied, no permission/pay; 2 draft then redo by hand; 3 physical/public art is safe; 4 cautious — can't name the artist; 5 lets me enjoy making things; 6 learns like a student but artists should be paid." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:60px 88px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:38px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="120" label="Match"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exercise 4 · Part 4 · six creators · A–H · two extra</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:36px;line-height:1.0;margin:6px 0 12px;">Match each creator to the opinion they express</h2>
+    <div style="display:flex;gap:20px;flex:1;">
+      <div style="flex:1.3;background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 24px;font-size:23px;line-height:1.28;">
+        <div style="font-family:Archivo,sans-serif;font-weight:700;color:#0f7d76;margin-bottom:6px;">Opinions</div>
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <div><strong>A</strong> My style was copied with no permission or pay.</div>
+          <div><strong>B</strong> I use AI to start, then redo the work by hand.</div>
+          <div><strong>C</strong> My physical, public art is safe from AI.</div>
+          <div><strong>D</strong> I'm cautious — I can't say who the artist is.</div>
+          <div><strong>E</strong> It lets me enjoy making things for the first time.</div>
+          <div><strong>F</strong> AI learns like a student, but artists should be paid.</div>
+          <div style="color:#a2503a;"><strong>G</strong> AI art should be banned from competitions.</div>
+          <div style="color:#a2503a;"><strong>H</strong> Human art will disappear within ten years.</div>
+        </div>
+      </div>
+      <div style="flex:1;display:flex;flex-direction:column;gap:9px;font-size:25px;">
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 1 (webtoon artist) → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 2 (design student) → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 3 (muralist) → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 4 (curator) → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 5 (hobbyist) → <span style="color:#b89a4a;">___</span></div>
+        <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:12px 22px;">Speaker 6 (AI developer) → <span style="color:#b89a4a;">___</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section data-label="Ex4 · Answer" data-screen-label="U5 L9 · Ex4 (A)" data-speaker-notes="Self-mark. G and H are the extras. Note Speaker 6 concedes (F): learns like a student, BUT artists should be paid — a concession, exactly the L8 grammar. Read each match aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Exercise 4 · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:10px 0 24px;">Creator → opinion</h2>
+    <div style="display:flex;gap:14px;font-size:32px;font-family:Archivo,sans-serif;font-weight:700;">
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">1 → <span style="color:#2f6d49;">A</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">2 → <span style="color:#2f6d49;">B</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">3 → <span style="color:#2f6d49;">C</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">4 → <span style="color:#2f6d49;">D</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">5 → <span style="color:#2f6d49;">E</span></div>
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:24px 16px;text-align:center;color:#1a1713;">6 → <span style="color:#2f6d49;">F</span></div>
+    </div>
+    <p style="margin:28px 0 0;font-size:28px;color:#5a544c;font-style:italic;">Extras: <strong>G</strong> and <strong>H</strong>. Notice Speaker 6 <em>concedes</em> — "it learns like a student, <strong>but</strong> artists should be paid" — exactly the concession move from Lesson 8.</p>
+  </section>
+
+  <section data-label="Ex5 · Interview" data-screen-label="U5 L9 · Ex5 (Q)" data-speaker-notes="Part 5 — the painter-vs-developer interview. Read twice. Students choose the best answer (A/B/C). Answers next. Script: painter says art = intention; dev says program learns from examples like the painter did; both agree artists weren't asked/paid; dev suggests honest labelling; both accept a separate category as the middle ground." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:64px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:40px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="150" label="Answer"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:25px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exercise 5 · Part 5 · interview · choose A, B or C</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:36px;line-height:1.0;margin:6px 0 14px;">Painter vs developer</h2>
+    <div style="display:flex;flex-direction:column;gap:10px;font-size:24px;line-height:1.3;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:13px 24px;">1. The painter says art is mainly about… &nbsp; <strong>A</strong> beauty &nbsp; <strong>B</strong> intention &nbsp; <strong>C</strong> speed &nbsp; → <span style="color:#b89a4a;">__</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:13px 24px;">2. The developer says the program learns… &nbsp; <strong>A</strong> by memorising images &nbsp; <strong>B</strong> by studying examples, as the painter did &nbsp; <strong>C</strong> with no human input &nbsp; → <span style="color:#b89a4a;">__</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:13px 24px;">3. Both agree the fair criticism is that training artists were… &nbsp; <strong>A</strong> too slow &nbsp; <strong>B</strong> not asked or paid &nbsp; <strong>C</strong> not skilled &nbsp; → <span style="color:#b89a4a;">__</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:13px 24px;">4. To help a buyer or judge, the developer suggests… &nbsp; <strong>A</strong> banning AI &nbsp; <strong>B</strong> honest labelling &nbsp; <strong>C</strong> higher prices &nbsp; → <span style="color:#b89a4a;">__</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:10px;padding:13px 24px;">5. The middle ground they both accept is… &nbsp; <strong>A</strong> a separate category for AI art &nbsp; <strong>B</strong> no prizes at all &nbsp; <strong>C</strong> only human judges &nbsp; → <span style="color:#b89a4a;">__</span></div>
+    </div>
+    <div style="margin-top:auto;display:flex;gap:16px;padding-top:12px;">
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:12px 24px;font-size:23px;color:#2f6d49;"><strong>Support →</strong> listen for where they <em>agree</em> — Q3 and Q5 are agreement moments.</div>
+      <div style="flex:1;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:12px 24px;font-size:23px;color:#2c5f7a;"><strong>Stretch →</strong> whose argument did you find stronger, and why?</div>
+    </div>
+  </section>
+
+  <section data-label="Ex5 · Answer" data-screen-label="U5 L9 · Ex5 (A)" data-speaker-notes="Self-mark. All the 'both agree' answers land on the middle ground — the same shape as the reading in Lesson 6. Read each aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Exercise 5 · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:10px 0 22px;">Painter vs developer</h2>
+    <div style="display:flex;flex-direction:column;gap:11px;font-size:28px;line-height:1.35;color:#1a1713;">
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:14px 28px;">1 → <strong>B</strong> intention — "a person choosing to say something".</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:14px 28px;">2 → <strong>B</strong> by studying examples, as the painter did.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:14px 28px;">3 → <strong>B</strong> not asked or paid.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:14px 28px;">4 → <strong>B</strong> honest labelling (transparency).</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:14px 28px;">5 → <strong>A</strong> a separate category for AI art.</div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U5 L9 · Skill Bank entry" data-speaker-notes="Ninth Unit 5 Skill Bank entry — under Listening. Students add it to the running sheet. The writing essay begins next lesson; the listening arguments are more raw material for it." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Add to your Skill Bank</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:60px;line-height:1.02;margin:14px 0 32px;">Entry · Listening</h2>
+    <div style="display:flex;gap:26px;align-items:center;background:#14243d;color:#f4efe6;border-radius:18px;padding:40px 52px;max-width:1640px;">
+      <div style="font-family:Archivo,sans-serif;font-size:64px;font-weight:700;color:#e8b56a;min-width:96px;text-align:center;">L</div>
+      <div>
+        <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;margin-bottom:12px;">Read first, then listen for meaning</div>
+        <div style="font-size:32px;line-height:1.45;color:#dbe2ea;">Read → predict → meaning → check. The right answer usually rewords the idea; a wrong one just echoes a word you heard. In matching tasks, the extra options are there to tempt you.</div>
+      </div>
+    </div>
+  </section>
+
+  <section data-label="Exit Ticket · Next" data-screen-label="U5 L9 · Exit ticket" data-speaker-notes="Exit ticket — students note the listening trap they'll watch for, and one AI-art argument they heard that they'll use in the essay. Collect. Point forward to Lesson 10, the directed writing task (a speech). End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exit ticket · two lines</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.04;margin:14px 0 26px;max-width:1600px;">The trap you'll watch for — and one argument you'll reuse.</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;max-width:1600px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 38px;font-size:30px;line-height:1.4;">The listening trap I'll watch for is <span style="color:#b89a4a;">____________</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 38px;font-size:30px;line-height:1.4;">An AI-art argument I heard that I'll use in my essay: <span style="color:#b89a4a;">____________</span></div>
+    </div>
+    <div style="margin-top:18px;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 26px;font-size:24px;line-height:1.35;color:#2f6d49;"><strong>Before you go →</strong> tick today's <em>"I can…"</em> goals from the objectives — and tonight's packet task continues this.</div>
+    <div style="margin-top:auto;display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:30px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">Next lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:38px;font-weight:600;">Lesson 10 · Writing: a Speech</div>
+      <div style="margin-left:auto;font-size:30px;color:#c7cfdb;font-style:italic;">Should the school prize accept AI entries?</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

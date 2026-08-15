@@ -1,0 +1,120 @@
+{
+  "project": "IGCSE ESL — Mr Evans English (design decks)",
+  "purpose": "Source and wire real photographs into the <image-slot> placeholders in the slide decks. Same convention as the Year 8 Suspense decks; the ART DIRECTION is different (see below).",
+  "art_direction": {
+    "look": "Contemporary documentary photography of real, everyday PLACES WHERE PEOPLE GATHER. Warm, natural light. Honest, un-staged — not glossy stock. This course is about belonging and modern life, so the register is bright and human, NOT the dark/quiet suspense register.",
+    "geography": "Lead with Southeast / East Asia where the texts are set (Bangkok study cafés, Japanese/Thai konbini, SE-Asian malls, city street corners), then broaden per unit theme. Keep it globally recognisable to teenage students.",
+    "people": "No identifiable faces. Figures may be distant, from behind, in silhouette, blurred with motion, or implied by their things (an empty chair, a laptop, a cup). Nothing that reads as a named person; no children's faces.",
+    "content_limits": "Nothing that would be unsafe on a classroom projector: no alcohol focus, no logos as the subject, no distress imagery. Everyday, calm, inviting.",
+    "composition": "Full-bleed crops behind or beside text. Prefer clear negative space and one strong subject. Title/context slots are tall portrait panels (~640–760 × 1080)."
+  },
+  "licensing": {
+    "allowed_sources": ["Unsplash", "Pexels", "Wikimedia Commons — public domain or CC0 only", "national archives / no-known-restrictions"],
+    "forbidden": "Anything CC BY-NC, CC BY-SA, rights-managed, watermarked, or scraped from Google Images / Pinterest / brand marketing.",
+    "record": "For every file, append a row to assets/IMAGE-CREDITS.md: slot id, filename, source URL, licence, photographer/collection, date retrieved.",
+    "format": "JPEG, sRGB, long edge 2400px, quality ~80, under 600KB each. Filenames must equal the slot id (e.g. u1-opener-hero.jpg)."
+  },
+  "wiring": {
+    "how": "Each placeholder is <image-slot id=\"…\" placeholder=\"…\"></image-slot>. Save files to assets/images/<slot-id>.jpg and add src=\"assets/images/<slot-id>.jpg\" to the matching tag. Do not remove id/shape/fit, and do not change any other markup, styling or copy in the deck.",
+    "constraint": "Every slide is a fixed 1920×1080 box and must measure exactly 1080px tall — do not add or resize any element. Images fill existing containers via object-fit: cover only."
+  },
+  "slots": [
+    {"id": "u1-opener-hero", "deck": "Unit 1 Opener", "slide": "01 Title", "container": "~640×1080 vertical panel, right of the title", "orientation": "portrait",
+     "brief": "Unit cover: a warm, busy 'third place' — a study café at golden hour, a lit konbini at night, or a mall food court. Sense of belonging, people present but faces not identifiable.",
+     "search_terms": ["study cafe interior warm light", "konbini convenience store night japan", "mall food court people from above", "cafe window seat afternoon light"]},
+    {"id": "u1-opener-concept", "deck": "Unit 1 Opener", "slide": "The 'third place' idea", "container": "~620×700 panel", "orientation": "portrait or square",
+     "brief": "One quiet detail that says 'a place that is neither home nor school' — an empty café corner table with a laptop, a bench by a shop window, a single occupied seat.",
+     "search_terms": ["empty cafe corner table laptop", "bench outside shop street", "single chair cafe window"]},
+    {"id": "u1-opener-apply", "deck": "Unit 1 Opener", "slide": "Your third places", "container": "~700×560 panel", "orientation": "landscape",
+     "brief": "Contemporary, student-recognisable: teenagers (from behind / distant) gathering somewhere ordinary — outside a convenience store, on library steps, at a mall.",
+     "search_terms": ["teenagers convenience store evening back view", "students steps hanging out", "friends mall walking behind"]},
+
+    {"id": "u1-l1-hero", "deck": "L1 Welcome to Third Places", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Orientation mood: an ordinary, welcoming 'third place' where people gather — a bench outside a shop, a café corner, library steps. Warm daylight, inviting, faces not identifiable.", "search_terms": ["library steps students gather", "bench outside shop street", "cafe corner warm daylight", "people gathering public space asia"]},
+
+    {"id": "u1-l2-hero", "deck": "L2 Study Cafés (facts)", "slide": "01 Title", "container": "~640×1080 vertical panel", "orientation": "portrait",
+     "brief": "A study café: long desks, soft lamps, a power socket at every seat, students with headphones — quiet, focused. Faces not identifiable.", "search_terms": ["study cafe desks lamps students", "coworking study space warm", "library desk lamp laptop"]},
+    {"id": "u1-l2-wayin", "deck": "L2 Study Cafés (facts)", "slide": "Way In", "container": "~760×1080 vertical panel", "orientation": "portrait",
+     "brief": "Bangkok/Seoul café context: a calm café interior at study time; one drink, a notebook, exam-season quiet.", "search_terms": ["bangkok cafe interior study", "seoul study cafe", "coffee cup notebook desk"]},
+
+    {"id": "u1-l3-hero", "deck": "L3 Study Cafés (feeling)", "slide": "01 Title", "container": "~640×1080 vertical panel", "orientation": "portrait",
+     "brief": "'My Corner' mood: a small crooked corner table in warm, golden, dusty afternoon light. Belonging, atmosphere. No people or one distant figure.", "search_terms": ["cafe corner table golden afternoon light", "cozy cafe window warm light", "empty cafe seat sunlight"]},
+    {"id": "u1-l3-wayin", "deck": "L3 Study Cafés (feeling)", "slide": "Way In", "container": "~760×1080 vertical panel", "orientation": "portrait",
+     "brief": "Sensory detail — a chipped cup, worn wooden table, light through a café window. For teaching 'reading for feeling'.", "search_terms": ["chipped coffee cup wooden table", "cafe window light detail", "worn cafe table sunlight"]},
+
+    {"id": "u1-l4-hero", "deck": "L4 Describing a Place", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A characterful place worth describing — a corner café with a window seat, warm light, plants, a worn wooden table. Detail-rich (adjectives to notice), faces not identifiable.", "search_terms": ["corner cafe window seat warm light", "cozy cafe interior plants wooden", "characterful cafe details table"]},
+
+    {"id": "u1-l5-hero", "deck": "L5 The 24-Hour Konbini", "slide": "01 Title", "container": "~640×1080 vertical panel", "orientation": "portrait",
+     "brief": "A 24-hour convenience store (konbini / 7-Eleven) glowing at night, seen from the street; or a window counter with stools. Faces not identifiable.", "search_terms": ["convenience store night exterior glow", "konbini window counter stools", "7-eleven night street asia"]},
+    {"id": "u1-l5-wayin", "deck": "L5 The 24-Hour Konbini", "slide": "Way In", "container": "~760×1080 vertical panel", "orientation": "portrait",
+     "brief": "The konbini as living room: seats by the window, a microwave, snacks; small comforts that turn a stop into a stay.", "search_terms": ["konbini interior seating", "convenience store counter snacks", "japanese convenience store aisle night"]},
+
+    {"id": "u1-l6-hero", "deck": "L6 Listening — Where We Gather", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "People gathering in an everyday public place — a library reading room, a lit shop corner at night, friends on steps. Warm, documentary, sense of listening/conversation. Faces not identifiable.", "search_terms": ["library reading room people", "friends talking shop corner night", "teenagers steps conversation back view", "public space gathering warm"]},
+
+    {"id": "u1-l7-hero", "deck": "L7 Habits & Preferences", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A daily-routine feel at a gathering place — a regular's usual seat, a morning coffee ritual, someone settled into a familiar spot with their things. Warm, everyday. Faces not identifiable.", "search_terms": ["regular coffee morning ritual cup", "familiar cafe seat belongings", "person settled cafe usual spot", "daily routine cafe warm light"]},
+
+    {"id": "u1-l8-hero", "deck": "L8 Indoor Worlds", "slide": "01 Title", "container": "~640×1080 vertical panel", "orientation": "portrait",
+     "brief": "A big air-conditioned SE-Asian shopping mall — atrium, escalators, food court from above. Busy but faces not identifiable.", "search_terms": ["shopping mall atrium escalators asia", "mall food court from above", "modern mall interior crowd blurred"]},
+    {"id": "u1-l8-wayin", "deck": "L8 Indoor Worlds", "slide": "Way In", "container": "~760×1080 vertical panel", "orientation": "portrait",
+     "brief": "The mall as free social space: a bench by a fountain, teenagers gathered at a food-court table (from behind).", "search_terms": ["mall bench fountain", "food court table friends behind", "mall seating area people distant"]},
+
+    {"id": "u1-l9-hero", "deck": "L9 Writing a Review", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A place worth reviewing — an inviting independent café or study spot with real character: a menu/chalkboard, warm light, a good window seat, plants. Faces not identifiable.", "search_terms": ["independent cafe interior character", "cafe chalkboard menu warm", "study cafe window seat inviting", "cozy cafe review worthy interior"]},
+
+    {"id": "u1-l10-hero", "deck": "L10 The Disappearing Hangout", "slide": "01 Title", "container": "~640×1080 vertical panel", "orientation": "portrait",
+     "brief": "A closed-down corner shop/arcade: papered-over windows, a 'closing/opening soon' sign, an empty street corner. Quiet loss — but daylight, not sinister.", "search_terms": ["closed shop papered windows", "empty arcade closed", "shuttered corner shop street"]},
+    {"id": "u1-l10-wayin", "deck": "L10 The Disappearing Hangout", "slide": "Way In", "container": "~760×1080 vertical panel", "orientation": "portrait",
+     "brief": "Gentrification detail: a 'premium café opening soon' hoarding, a 'no loitering' sign, a bench removed. Everyday, understated.", "search_terms": ["premium coffee opening soon hoarding", "no loitering sign", "gentrification street corner cafe"]},
+
+    {"id": "u1-l11-hero", "deck": "L11 Argue & Describe", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A lively public place where people gather and talk — a busy square, market, community space, or steps full of people. Sense of belonging and debate. Warm, faces not identifiable.", "search_terms": ["busy public square people gather", "community space people talking", "market crowd warm daylight", "town steps people gathered"]},
+
+    {"id": "u2-opener-hero", "deck": "Unit 2 Opener", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Unit 2 cover: a striking natural landscape or living thing — a lush wetland at dawn, a migrating flock, a mountain valley. Alive, warm natural light, no identifiable faces.", "search_terms": ["lush wetland dawn birds", "migrating flock sky", "mountain valley green landscape", "river forest natural light"]},
+    {"id": "u2-opener-apply", "deck": "Unit 2 Opener", "slide": "Your world", "container": "~660×1080 vertical panel", "orientation": "portrait",
+     "brief": "A person (from behind / distant) in nature — planting, watching wildlife, walking a green space; or a close detail of a threatened local species/habitat. Contemporary, hopeful, faces not identifiable.", "search_terms": ["person planting tree back view", "birdwatcher distant nature", "hands holding seedling soil", "person walking green park path"]},
+    {"id": "u2-l1-hero", "deck": "U2 L1 Welcome", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Orientation mood: an inviting, alive natural place — a green wetland, a forest clearing, a tide pool teeming with life. Warm daylight, no identifiable faces.", "search_terms": ["green wetland reeds", "forest clearing sunlight", "tide pool life rocks", "lush nature teeming"]},
+    {"id": "u2-l2-hero", "deck": "U2 L2 Vocabulary Launch", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A rich natural scene packed with life — a coral reef, a rainforest layer, or a meadow full of insects and flowers. Suggests variety and abundance. No identifiable faces.", "search_terms": ["coral reef biodiversity", "rainforest layers green", "wildflower meadow insects", "tide pool many creatures"]},
+    {"id": "u2-l3-hero", "deck": "U2 L3 Rule-Breakers", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A strange, striking plant — a desert welwitschia, a giant titan arum bloom, or an otherworldly succulent. Extraordinary, a little uncanny. No identifiable faces.", "search_terms": ["welwitschia namib desert plant", "titan arum bloom", "resurrection plant", "unusual succulent close up"]},
+    {"id": "u2-l3-wayin", "deck": "U2 L3 Rule-Breakers", "slide": "Way In", "container": "~720×1080 vertical panel", "orientation": "portrait",
+     "brief": "An extraordinary survival adaptation in close-up — a desert plant storing water, a strange bloom, a resurrection plant curled dry then green. Uncanny, detailed. No identifiable faces.", "search_terms": ["desert plant adaptation close up", "cactus storing water stem", "strange flower macro", "dry plant reviving green"]},
+    {"id": "u2-l4-hero", "deck": "U2 L4 Animal Migrations", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A great animal migration — a huge flock of birds, a herd of wildebeest crossing a plain, or a whale breaching. Epic scale, movement. No identifiable faces.", "search_terms": ["wildebeest migration river crossing", "flock birds migration sky", "humpback whale breaching", "arctic tern flight"]},
+    {"id": "u2-l4-wayin", "deck": "U2 L4 Animal Migrations", "slide": "Way In", "container": "~720×1080 vertical panel", "orientation": "portrait",
+     "brief": "Migration in motion — a flock crossing the sky, wildebeest fording a river, or terns over the sea. Sense of a vast journey. No identifiable faces.", "search_terms": ["migrating flock sky motion", "wildebeest herd plain", "seabirds over ocean", "monarch butterflies cluster"]},
+    {"id": "u2-l5-hero", "deck": "U2 L5 Describing & Comparing", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Two contrasting landscapes side by side, or one scene with clear contrast — desert meeting green, mountain and valley, still and moving water. Invites comparison. No identifiable faces.", "search_terms": ["desert meets green landscape contrast", "mountain valley two zones", "still lake and rushing river", "arid and lush side by side"]},
+    {"id": "u2-l6-hero", "deck": "U2 L6 Bringing Nature Back", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A restored river or wetland full of life — clear water, reeds, a dragonfly, an otter or heron. Hopeful, healthy, warm light. No identifiable faces.", "search_terms": ["clean river reeds dragonfly", "otter river dawn", "restored wetland wildlife", "heron clear stream"]},
+    {"id": "u2-l6-wayin", "deck": "U2 L6 Bringing Nature Back", "slide": "Way In", "container": "~720×1080 vertical panel", "orientation": "portrait",
+     "brief": "A community caring for a river — volunteers planting reeds or clearing a bank (distant/from behind), or a clean river with reeds. Hopeful, everyday. No identifiable faces.", "search_terms": ["volunteers river clean up back view", "planting reeds riverbank", "community conservation group distant", "clear river reeds bank"]},
+    {"id": "u2-l7-hero", "deck": "U2 L7 City Environments", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A green rooftop farm above a city — vegetable beds on a roof with tower blocks behind. Green against grey concrete. No identifiable faces.", "search_terms": ["rooftop vegetable garden city skyline", "green roof urban farm", "rooftop farm tower blocks", "city rooftop garden beds"]},
+    {"id": "u2-l7-wayin", "deck": "U2 L7 City Environments", "slide": "Way In", "container": "~720×1080 vertical panel", "orientation": "portrait",
+     "brief": "A rooftop vegetable garden in a dense city — beds of greens and herbs with skyline behind, or hands tending a rooftop bed (from behind). Green among concrete. No identifiable faces.", "search_terms": ["rooftop garden herbs city", "hands tending rooftop bed", "urban rooftop greens skyline", "community rooftop farm"]},
+    {"id": "u2-l8-hero", "deck": "U2 L8 Reporting Objectively", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A field-report feel — a scientist's notebook and measurements by a river, a monitoring station, or a clipboard and sample jars. Neutral, factual. No identifiable faces.", "search_terms": ["water sampling river science", "field notebook nature research", "monitoring station river", "sample jars clipboard outdoors"]},
+    {"id": "u2-l9-hero", "deck": "U2 L9 Listening Skills", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A listening-in-nature feel — headphones and a notebook by a window onto greenery, or a person (from behind) listening at a nature reserve. Calm, focused. No identifiable faces.", "search_terms": ["headphones notebook window plants", "person listening nature reserve back view", "field recording nature", "quiet study greenery window"]},
+    {"id": "u2-l10-hero", "deck": "U2 L10 A Letter About Nature", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A natural place worth writing home about — a wetland at dawn, a forest, a wild coast, birds lifting off water. Alive, warm light, no identifiable faces.", "search_terms": ["wetland dawn birds lifting", "wild coast morning light", "forest mist golden", "reeds water birds flock"]},
+    {"id": "u2-l11-hero", "deck": "U2 L11 Conservation Report", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "A place a report might save — a neglected river or green space that could be restored, or a restored one thriving. Hopeful, civic. No identifiable faces.", "search_terms": ["urban river green space", "restored river town", "neglected waterway city", "community green space river"]},
+    {"id": "u3-opener-hero", "deck": "Unit 3 Opener", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Unit 3 cover: everyday wellbeing — someone walking or stretching in morning light, fresh food on a table, or a calm tidy space. Warm, human, healthy. No identifiable faces.", "search_terms": ["morning walk sunrise back view", "fresh vegetables table daylight", "person stretching window light", "calm tidy bedroom morning"]},
+    {"id": "u3-opener-apply", "deck": "Unit 3 Opener", "slide": "Capstone", "container": "~600×1080 vertical panel", "orientation": "portrait",
+     "brief": "Students collaborating on a project / making a simple wellbeing poster — hands, markers, sticky notes. Collaborative and positive. No identifiable faces.", "search_terms": ["students group project poster hands", "sticky notes brainstorm wall", "markers poster making desk", "teamwork planning table above"]},
+    {"id": "u3-l1-hero", "deck": "U3 L1 Welcome", "slide": "01 Title", "container": "~624×1080 vertical panel", "orientation": "portrait",
+     "brief": "Orientation mood: a calm, healthy everyday moment — morning light on a made bed, a walk, a glass of water and fruit. Warm, ordinary, inviting. No identifiable faces.", "search_terms": ["morning light bedroom made bed", "glass of water fruit table", "walking path morning light", "healthy breakfast daylight"]}
+  ],
+
+  "future": {
+    "note": "Only Unit 1 (pilot) slots are briefed here. Add the opener + per-lesson hero/wayin slots for units 2–12 and the 4 exam papers as those decks land — theme the art direction to each unit (Landscapes, Health, Cultures, Art & AI, Fashion, Sports, Space, Learning, Global Issues, Mystery, Adventure). Exam-technique decks may need few or no images."
+  }
+}

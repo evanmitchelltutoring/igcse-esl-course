@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #b07a1e; } a:hover { color: #8a5f13; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="E1 · Title" data-speaker-notes="This is a standalone exam-technique deck — not a thematic unit. It sharpens how students HANDLE the Reading paper: command words, skimming/scanning, matching traps, inference, and time allocation. Five short 12-minute clinics. Read the title, then the how-this-works slide." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#b07a1e;">Exam Technique · Paper 1</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:96px;line-height:.98;margin:0;letter-spacing:-.015em;">Reading Paper<br>Technique</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">You know how to read. This is how to beat the paper.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">5 clinics · 12 min each</span>
+        <span style="color:#8a8478;">Command words · scanning · matching · inference · timing</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#efe6d4;display:flex;align-items:center;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-weight:700;font-size:340px;line-height:1;color:#e0a13c;opacity:.85;">1</div>
+      <div style="position:absolute;bottom:70px;left:0;right:0;text-align:center;font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#8a6a2e;">Paper 1 · Reading</div>
+    </div>
+  </section>
+
+  <section data-label="How This Works" data-screen-label="E1 · How this works" data-speaker-notes="Set expectations. This is a technique clinic, not new content. Every clinic follows the same shape: the trap, the fix, and a timed practice on a real exam-style question. Students should have a pen and their answer sheet ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">How each clinic works</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:60px;line-height:1.02;margin:14px 0 34px;">The trap · the fix · a timed rep</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">1 · The trap</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">The mistake that quietly costs marks — named, so you can see it coming.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">2 · The fix</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">A concrete move you can repeat under pressure, every time.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">3 · A timed rep</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">Real exam-style practice against the clock — then mark it together.</div></div>
+    </div>
+    <div style="margin-top:34px;font-size:30px;line-height:1.4;color:#e6ddd0;font-style:italic;">Pen ready, answer sheet out. Technique only sticks when you rehearse it under time.</div>
+  </section>
+
+  <!-- CLINIC 1 -->
+  <section data-label="1 · Command Words" data-screen-label="E1 C1 · The trap" data-speaker-notes="Clinic 1: command words. The trap is answering the question you imagined, not the one on the page. 'Give two reasons' is not 'describe'; 'in your own words' forbids lifting. Read the trap, then the fix." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 1 · Command words</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:12px 0 26px;">The trap: answering the <span style="color:#b07a1e;">wrong question</span></h2>
+    <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:28px 38px;font-size:33px;line-height:1.4;color:#2c2822;">Under pressure, students answer the question they <em>expected</em>, not the one printed. They "describe" when it says "give two reasons", or copy a sentence when it says "in your own words" — and lose marks they clearly knew.</div>
+    <div style="margin-top:26px;background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 36px;flex:1;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#b07a1e;margin-bottom:14px;">Command words decide the shape of your answer</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px 30px;font-size:29px;line-height:1.4;color:#2c2822;">
+        <div><strong>Give / State</strong> — a short, exact fact. No explanation.</div>
+        <div><strong>Explain / Why</strong> — a reason, not just the fact.</div>
+        <div><strong>In your own words</strong> — you must reword; lifting scores zero.</div>
+        <div><strong>How does the writer…</strong> — name the method + its effect.</div>
+      </div>
+    </div>
+  </section>
+
+  <section data-label="1 · The Fix" data-screen-label="E1 C1 · The fix + rep" data-speaker-notes="The fix: underline the command word and the number of marks before you read the answer options. Then run the 90-second rep — students label what each question is really asking. Take answers, then move on." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="90" label="Try"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">The fix · underline before you answer</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.0;margin:12px 0 22px;">Circle the command word + the marks first</h2>
+    <div style="background:#eef6f0;border:1px solid #cfe6d6;border-radius:14px;padding:22px 32px;font-size:29px;line-height:1.45;color:#2c2822;margin-bottom:22px;">The marks tell you how many points to make: <strong>[2]</strong> means two separate details. Never write a paragraph where two words would score.</div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#b07a1e;margin-bottom:12px;">Rep · what is each one really asking?</div>
+    <div style="display:flex;flex-direction:column;gap:14px;font-size:29px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;">1. "Give <strong>two</strong> reasons the library nearly closed. [2]" → <span style="color:#b89a4a;">two facts / one? explain?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;">2. "<strong>In your own words</strong>, explain how Maria felt. [2]" → <span style="color:#b89a4a;">reword / lift?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;">3. "<strong>How does</strong> the writer show the town cared? [3]" → <span style="color:#b89a4a;">method + effect / just a fact?</span></div>
+    </div>
+    <div style="margin-top:auto;background:#f7f3ec;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;font-size:26px;color:#5a544c;"><strong>Answers:</strong> 1 · two separate facts, no explaining. 2 · reword — lifting scores zero. 3 · name the method (e.g. the detail of 200 people) <em>and</em> its effect.</div>
+  </section>
+
+  <!-- CLINIC 2 -->
+  <section data-label="2 · Skim & Scan" data-screen-label="E1 C2 · The trap + fix" data-speaker-notes="Clinic 2: skimming and scanning. The trap is reading every word from the top. The fix: skim for shape first (30 seconds), then scan for the exact key word the question gives you. Read both, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 2 · Skimming &amp; scanning</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Don't read every word — <span style="color:#b07a1e;">hunt</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Reading top-to-bottom, word by word, and running out of time before the last passage. The paper is not a race to read — it's a hunt for specific facts.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · two speeds</div><div style="font-size:30px;line-height:1.4;color:#2c2822;"><strong>Skim</strong> once for shape — what each paragraph is broadly about. Then <strong>scan</strong> for the exact word from the question (a name, a number, a place) and read only around it.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Key move: take the <em>unusual word</em> from the question ("<strong>midnight</strong>", "<strong>four hundred</strong>") and let your eye chase only that down the page.</div>
+  </section>
+
+  <section data-label="2 · Timed Rep" data-screen-label="E1 C2 · Scan rep" data-speaker-notes="Timed scan rep on 'The Library That Would Not Close'. Students race to find four facts by scanning, not reading. 2 minutes. Answers on screen after. Stress: they should not have read the whole text." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="120" label="Scan"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · scan, don't read · "The Library That Would Not Close"</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 16px;">Find four facts as fast as you can</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:20px 30px;font-size:19px;line-height:1.4;color:#2c2822;column-count:2;column-gap:40px;margin-bottom:16px;">
+      Riverside Public Library had served the town for sixty years, but last spring the council announced funding had run out and the building would shut by the end of June. Maria Torres, the head librarian, had worked there since she was twenty-two, and refused to accept the doors would lock for good. Within a week she organised a public meeting; over two hundred people crowded in. The council gave the group just ten weeks to prove the new model could work. By September, membership had passed four hundred, well above target. Maria now spends one afternoon a month mentoring librarians from three neighbouring towns.
+    </div>
+    <div style="display:flex;flex-direction:column;gap:11px;font-size:26px;line-height:1.3;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">1. How long had the library served the town? · 2. How many came to the meeting? · 3. How many weeks were they given? · 4. What membership did it pass by September?</div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> 1 · sixty years · 2 · over two hundred · 3 · ten weeks · 4 · four hundred. Did you scan for the numbers — or read the whole thing?</div>
+  </section>
+
+  <!-- CLINIC 3 -->
+  <section data-label="3 · Matching Traps" data-screen-label="E1 C3 · The trap + fix" data-speaker-notes="Clinic 3: multiple-matching. The trap is the distractor — an option that repeats a word from the text but twists the meaning. The fix: match on meaning, not on matching words. Read, then the rep on the four volunteers." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 3 · Matching questions</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Spot the <span style="color:#b07a1e;">trap option</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">A distractor <em>reuses a word</em> from the text but changes the meaning. "The friendships were the part I never expected" is not the same as "made friends easily" — one is a surprise, the other a skill.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · match meaning</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Read the whole account first, sum up its point in your own words, <em>then</em> find the option that means that. Never pick because a word looks familiar.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Cross off as you go: once an option is used, strike it out so a distractor can't tempt you twice.</div>
+  </section>
+
+  <section data-label="3 · Timed Rep" data-screen-label="E1 C3 · Match rep" data-speaker-notes="Matching rep on 'Four Volunteers, Four Journeys'. Students match each statement to a person, avoiding the trap. 2.5 minutes. Answers after — draw out why the distractors are tempting." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="150" label="Match"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · match meaning · "Four Volunteers, Four Journeys"</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 16px;">Who is it? Match on meaning, not words</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 24px;font-size:22px;line-height:1.4;color:#2c2822;"><strong>Mei</strong> — taught computer skills; her students were nervous, not slow. <strong>Carlos</strong> — beach clean-up; the friendships surprised him most.</div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 24px;font-size:22px;line-height:1.4;color:#2c2822;"><strong>Priya</strong> — tutors teens; learned encouragement beats correction. <strong>Tom</strong> — delivers groceries; the conversation mattered more than the food.</div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:11px;font-size:26px;line-height:1.3;color:#2c2822;">
+      <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">1. Who valued the relationships more than the task itself? <span style="color:#b89a4a;">___</span> &nbsp; (trap: two of them mention people!)</div>
+      <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">2. Who changed their teaching approach? <span style="color:#b89a4a;">___</span></div>
+      <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">3. Who had a wrong first assumption corrected? <span style="color:#b89a4a;">___</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> 1 · Carlos <em>and</em> Tom both value people — but Q1's "more than the task" points to <strong>Carlos</strong> (friendships) or <strong>Tom</strong> (conversation over groceries); read the exact wording. 2 · Priya. 3 · Mei (nervous, not slow).</div>
+  </section>
+
+  <!-- CLINIC 4 -->
+  <section data-label="4 · Inference" data-screen-label="E1 C4 · The trap + fix" data-speaker-notes="Clinic 4: inference vs explicit. The trap is treating an inference question as a find-the-fact question, or inventing an inference the text won't support. The fix: for 'how did X feel', find what they DO, and read the implication. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 4 · Inference vs explicit</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Some answers are <span style="color:#b07a1e;">shown</span>, not stated</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Hunting for a sentence that states the answer outright — when the paper wants you to <em>work it out</em> from what a character does. Or the opposite: inventing a feeling the text doesn't support.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · show me the evidence</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Find the <em>action</em> or detail, ask "so what does that tell me?", and check the words support it. "He asked her to sit next to him" implies approval — the evidence is right there.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Test yourself: could you point to the exact words behind your inference? If not, it's a guess — reject it.</div>
+  </section>
+
+  <section data-label="4 · Timed Rep" data-screen-label="E1 C4 · Inference rep" data-speaker-notes="Inference rep on 'First Day at the Newsdesk'. Students decide whether each answer is explicit or must be inferred, and give the evidence. 2.5 minutes. Answers after." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="150" label="Infer"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · explicit or inferred? · "First Day at the Newsdesk"</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 16px;">Answer — and quote the evidence</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:18px 30px;font-size:19px;line-height:1.42;color:#2c2822;margin-bottom:16px;">
+      Amara arrived forty minutes early on her first day of work experience. A reporter, Felix, handed her council documents and said, "Find me a story in there by lunch." She found a buried proposal to close the only free youth centre. When she showed Felix her notes, he read them without speaking, then said, "This is a real story." He did not say she had done well, exactly, but he asked her to sit at the desk next to his for the rest of the week — which she took as a much stronger compliment.
+    </div>
+    <div style="display:flex;flex-direction:column;gap:11px;font-size:26px;line-height:1.3;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">1. How early did Amara arrive? <span style="color:#b89a4a;">explicit / inferred?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">2. Was Amara keen to do well? <span style="color:#b89a4a;">explicit / inferred?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;">3. Did Felix think she had done well? <span style="color:#b89a4a;">explicit / inferred — evidence?</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> 1 · <strong>explicit</strong> — "forty minutes early". 2 · <strong>inferred</strong> — arriving early "to control" the day. 3 · <strong>inferred</strong> — he never says so, but "asked her to sit next to him… a much stronger compliment" is the evidence.</div>
+  </section>
+
+  <!-- CLINIC 5 -->
+  <section data-label="5 · Time Plan" data-screen-label="E1 C5 · The trap + fix" data-speaker-notes="Clinic 5: time allocation. The trap is spending too long on early low-mark questions and rushing the high-mark summary at the end. The fix: a battle plan — minutes per section, proportional to marks, with a hard stop. Read, then the rep builds their own plan." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 5 · Time allocation</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Build a <span style="color:#b07a1e;">battle plan</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Perfecting the easy 1-mark questions early, then rushing the big summary worth far more. Marks per minute collapse at the exact point they should peak.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · minutes follow marks</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Give each section time in proportion to its marks, set a <em>hard stop</em> for each, and if you're stuck, leave it and move on. A blank you return to beats a rushed paper.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Reserve the <strong>last 5 minutes</strong> to transfer answers and check nothing is blank — never for one more hard question.</div>
+  </section>
+
+  <section data-label="5 · Your Plan" data-screen-label="E1 C5 · Plan rep" data-speaker-notes="Rep: students fill in their own time plan for a ~60-minute reading paper. 2 minutes to draft, then compare. The model plan is on screen. This is the deck's takeaway — a plan they carry into the real paper." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="120" label="Plan"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · write your plan for a 60-minute paper</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 20px;">Minutes to each section — then a hard stop</h2>
+    <table style="width:100%;border-collapse:collapse;font-size:26px;">
+      <thead><tr><th style="font-family:Archivo,sans-serif;font-size:20px;letter-spacing:.06em;text-transform:uppercase;text-align:left;background:#14243d;color:#f4efe6;padding:12px 18px;">Section</th><th style="font-family:Archivo,sans-serif;font-size:20px;letter-spacing:.06em;text-transform:uppercase;text-align:left;background:#14243d;color:#f4efe6;padding:12px 18px;">Marks (approx)</th><th style="font-family:Archivo,sans-serif;font-size:20px;letter-spacing:.06em;text-transform:uppercase;text-align:left;background:#14243d;color:#f4efe6;padding:12px 18px;">Your minutes</th><th style="font-family:Archivo,sans-serif;font-size:20px;letter-spacing:.06em;text-transform:uppercase;text-align:left;background:#14243d;color:#f4efe6;padding:12px 18px;">Suggested</th></tr></thead>
+      <tbody>
+        <tr><td style="border:1px solid #ece3d3;padding:12px 18px;">Ex 1–2 · short answers</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~15</td><td style="border:1px solid #ece3d3;padding:12px 18px;color:#b89a4a;">______</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~15 min</td></tr>
+        <tr style="background:#faf7f0;"><td style="border:1px solid #ece3d3;padding:12px 18px;">Ex 3 · multiple matching</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~10</td><td style="border:1px solid #ece3d3;padding:12px 18px;color:#b89a4a;">______</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~12 min</td></tr>
+        <tr><td style="border:1px solid #ece3d3;padding:12px 18px;">Ex 4 · detail + inference</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~15</td><td style="border:1px solid #ece3d3;padding:12px 18px;color:#b89a4a;">______</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~18 min</td></tr>
+        <tr style="background:#faf7f0;"><td style="border:1px solid #ece3d3;padding:12px 18px;">Ex 5–6 · notes + summary</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~14</td><td style="border:1px solid #ece3d3;padding:12px 18px;color:#b89a4a;">______</td><td style="border:1px solid #ece3d3;padding:12px 18px;">~10 min</td></tr>
+        <tr><td style="border:1px solid #ece3d3;padding:12px 18px;font-weight:600;">Check &amp; transfer</td><td style="border:1px solid #ece3d3;padding:12px 18px;">—</td><td style="border:1px solid #ece3d3;padding:12px 18px;color:#b89a4a;">______</td><td style="border:1px solid #ece3d3;padding:12px 18px;font-weight:600;">last 5 min</td></tr>
+      </tbody>
+    </table>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Adjust to your real paper's timing</strong> — the principle holds: minutes follow marks, and the last five are for checking.</div>
+  </section>
+
+  <section data-label="Takeaways" data-screen-label="E1 · Takeaways" data-speaker-notes="Close the deck. Recap the five moves as a checklist students can run in the real exam. This deck pairs with the Writing, Listening and Speaking technique decks. End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">Take it into the exam</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:14px 0 32px;">Five moves for the Reading paper</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;font-size:31px;line-height:1.35;">
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">1</span><span>Circle the command word and the marks before you answer.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">2</span><span>Skim for shape, then scan for the exact word — don't read every line.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">3</span><span>In matching, match on meaning — and cross off options as you use them.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">4</span><span>For inference, point to the exact words — no evidence, no answer.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">5</span><span>Minutes follow marks; keep the last five for checking.</span></div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

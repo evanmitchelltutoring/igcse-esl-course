@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U10 Opener · Title" data-speaker-notes="Welcome students to Unit 10. This opener sets up the whole unit — the big question, the four strands, how we work, and the writing they build toward. Read the title and byline, then move to the big idea." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 10 · Unit Opener</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:114px;line-height:.98;margin:0;letter-spacing:-.015em;">A Changing<br>World</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">The problems are global. So is the power to act.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">11 lessons</span>
+        <span style="color:#8a8478;">Reading · Writing · Listening · Speaking · Use of English</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u10-opener-hero" src="assets/images/u10-opener-hero.jpg" credit="Photo CC BY 2.0, via Flickr" shape="rect" fit="cover" placeholder="Unit cover: young people acting on a global issue — a student clean-up, a small community garden, or hands planting a tree in a city. Hopeful, active, collective. No identifiable faces or brand logos."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="The Big Idea" data-screen-label="U10 Opener · Big idea" data-speaker-notes="The through-line. The world's biggest problems — climate, inequality, migration — feel too large for one person. This unit argues the opposite: change is connected, and young people have more influence than they were told." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">The big idea</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:72px;line-height:1.08;margin:20px 0 0;max-width:1600px;">The problems are huge — but we are all <span style="color:#e8b56a;">connected</span>, and small choices are where change begins.</h2>
+    <p style="font-size:36px;line-height:1.4;margin:40px 0 0;max-width:1480px;color:#dbe2ea;">This unit looks at a changing climate, a fairer world, people on the move, and working together. You'll weigh who should act, and what really makes a difference. Your job is to <strong>reason fairly — and find your own voice on it</strong>.</p>
+  </section>
+
+  <section data-label="Four Strands" data-screen-label="U10 Opener · Four strands" data-speaker-notes="Preview the four strands. Each has its own texts, vocabulary and tasks. Read each; ask students which issue feels closest to them." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">The four strands of this unit</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.0;margin:12px 0 30px;">Four faces of a changing world</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #0f7d76;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#0f7d76;">A Changing Climate</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Small choices, big systems, and where they meet.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #7a9fd4;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#3f62a0;">A Fairer World</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Inequality, access, and the gaps we can close.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #e0a13c;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#b07a1e;">People on the Move</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Migration, welcome, and starting over.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #9a7fbf;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#6b4e94;">Working Together</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Shared responsibility, and why cooperation works.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Your Goals" data-screen-label="U10 Opener · Goals" data-speaker-notes="What students will be able to DO by the end. These map onto the Cambridge skills without jargon. Reassure students every one is scaffolded." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">By the end of this unit, you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 30px;">What you'll be able to do</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Read</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">follow a balanced argument, complete notes, and read for the writer's attitude.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Write</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">write a lively magazine article and a balanced argument essay (S-E-R).</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Listen</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">catch a speaker's gist, detail, and how their view shifts.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Speak</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">weigh both sides of a global issue using hedging and careful reasoning.</span></div>
+    </div>
+  </section>
+
+  <section data-label="How We Work · Modes" data-screen-label="U10 Opener · Modes" data-speaker-notes="Re-introduce the three modes students know. The badge in the top-right corner of each slide tells them what to do: think and write, talk, or show me quickly." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">How we work · the three modes</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 34px;">Watch the corner of each slide</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#f4d98b;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">notebook</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Think on your own and write it down. Silent focus.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#a8c8dd;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">talk</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Turn to a partner and speak. Use the sentence stems.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#8fbf9f;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">show me</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Quick response — hands, fingers, or a vote. No writing.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Reading in Colour" data-screen-label="U10 Opener · Annotation" data-speaker-notes="Recap the annotation code — Meaning, Method, Response. In this unit, 'Method' often means how a writer stays fair while making a case. Students keep three colours ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Reading in three colours</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 32px;">How we mark up a text</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#dcebe9;border:1px solid #cfe0dd;border-left:8px solid #2f6d6a;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#2f6d6a;">● Meaning</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">What does it <em>say</em>? The claim and the evidence.</div></div>
+      <div style="background:#f4e2d4;border:1px solid #e6cdb6;border-left:8px solid #b4632e;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#b4632e;">● Method</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How is it argued? Both sides, hedging, a fair concession.</div></div>
+      <div style="background:#efe1ee;border:1px solid #ddc9db;border-left:8px solid #8a5a86;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#8a5a86;">● Response</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">Where do <em>you</em> stand? What would you add?</div></div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U10 Opener · Skill Bank" data-speaker-notes="The Skill Bank continues across the whole course. Students keep adding one strategy per lesson to a running revision sheet. It already holds entries from Units 1–9 — this unit adds more." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Your Skill Bank · keep building it</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.05;margin:18px 0 24px;max-width:1500px;">One strategy, every lesson — a revision sheet you build yourself.</h2>
+    <div style="display:flex;gap:20px;">
+      <div style="flex:1;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;color:#3d3830;">Every lesson ends with one <strong>Skill Bank</strong> card — a reading, writing, listening, grammar or speaking move you can reuse in the exam.</div>
+      <div style="flex:1;background:#14243d;color:#f4efe6;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;">By the end of Unit 10 you'll have added <strong>eleven more</strong> — on top of everything from Units 1–9.</div>
+    </div>
+  </section>
+
+  <section data-label="Vocabulary Families" data-screen-label="U10 Opener · Vocab preview" data-speaker-notes="Preview the four vocabulary families, one per strand. Students meet these fully in Lesson 2 — this is a taste. Say a few chorally." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Words you'll build · four families</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 28px;">A taste of the vocabulary</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#0f7d76;margin-bottom:12px;">A Changing Climate</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">emissions · mitigate · offset · scarcity · degradation</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#3f62a0;margin-bottom:12px;">A Fairer World</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">disparity · marginalised · equitable · inclusion · privilege</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#b07a1e;margin-bottom:12px;">People on the Move</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">refugee · integration · heritage · host community · resettle</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#6b4e94;margin-bottom:12px;">Working Together</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">solidarity · compromise · mutual · negotiate · treaty</div></div>
+    </div>
+  </section>
+
+  <section data-label="Capstone" data-screen-label="U10 Opener · Capstone" data-speaker-notes="Show students the destination: the unit builds toward a magazine article and an argument essay on 'Who should do more?', plus a class debate. Naming it now gives every lesson a purpose." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;padding:96px 80px 96px 110px;display:flex;flex-direction:column;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Where this unit is going</div>
+      <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:54px;line-height:1.05;margin:18px 0 22px;">"Who should do<br>more?"</h2>
+      <p style="font-size:34px;line-height:1.4;margin:0;max-width:780px;color:#dbe2ea;">You'll write a school-magazine article on an issue you care about, and an argument essay weighing who should act — using everything you build this unit: fair reasoning, hedging, and a measured conclusion.</p>
+      <div style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap;font-family:Archivo,sans-serif;font-size:24px;font-weight:600;">
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Weigh both sides</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Hedge fairly</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Reach a measured view</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#0f1c30;">
+      <image-slot id="u10-opener-apply" src="assets/images/u10-opener-apply.jpg" shape="rect" fit="cover" placeholder="An image of global cooperation or shared responsibility — hands from different people meeting over a shared task, or a river running through connected communities. Thoughtful, collective. No identifiable faces or logos."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="Start · Next" data-screen-label="U10 Opener · Start" data-speaker-notes="Close the opener and launch Lesson 1. One line to leave them with: this unit is about acting well on big problems — and arguing about them fairly in English. Move to Lesson 1." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Let's begin</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:70px;line-height:1.05;margin:18px 0 30px;max-width:1560px;">The problems are shared. So is the power to act. This unit gives you the words to use it.</h2>
+    <div style="display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:36px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">First lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;">Lesson 1 · Why This Unit</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

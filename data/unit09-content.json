@@ -1,0 +1,3086 @@
+{
+ "_about": "Real live content for Learning & Growth (lifelong-learning). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 9,
+  "slug": "lifelong-learning",
+  "title": "Learning & Growth",
+  "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Learning & Growth — why this unit",
+   "skill": "orientation",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "The language of learning & growth",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Teaching myself, one tab at a time",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "word_sort",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "The most useful thing you'll get wrong",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "The people who helped me learn",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "word_sort",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "You will never finish learning",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 7,
+   "title": "Grammar — gerunds vs. infinitives",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Grammar — present perfect continuous",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Voices on learning — listening block",
+   "skill": "listening",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing — directed informal email",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Writing — extended argumentative essay (P-R-R-E)",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 12,
+   "title": "Review, reflection & debate",
+   "skill": "review",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "self-taught": [
+   {
+    "word": "acquire",
+    "pos": "verb",
+    "def": "to gain a skill, habit, or piece of knowledge, usually through effort over time"
+   },
+   {
+    "word": "autonomous",
+    "pos": "adjective",
+    "def": "able to act and make decisions independently, without being directed by others"
+   },
+   {
+    "word": "motivation",
+    "pos": "noun",
+    "def": "the reason or desire that makes someone want to do something"
+   },
+   {
+    "word": "proficiency",
+    "pos": "noun",
+    "def": "a high level of skill or competence in something"
+   },
+   {
+    "word": "resourceful",
+    "pos": "adjective",
+    "def": "good at finding clever ways to solve problems with whatever is available"
+   },
+   {
+    "word": "self-directed",
+    "pos": "adjective",
+    "def": "controlled and organised by the learner themselves rather than by a teacher"
+   },
+   {
+    "word": "tutorial",
+    "pos": "noun",
+    "def": "a lesson or set of instructions, often online, that teaches one skill step by step"
+   }
+  ],
+  "changing-world": [
+   {
+    "word": "adaptable",
+    "pos": "adjective",
+    "def": "able to change easily to fit new conditions"
+   },
+   {
+    "word": "broaden",
+    "pos": "verb",
+    "def": "to make or become wider, or to include more things"
+   },
+   {
+    "word": "competent",
+    "pos": "adjective",
+    "def": "having enough skill or knowledge to do something well"
+   },
+   {
+    "word": "cope",
+    "pos": "verb",
+    "def": "to deal successfully with a difficult situation"
+   },
+   {
+    "word": "evolve",
+    "pos": "verb",
+    "def": "to develop gradually over time"
+   },
+   {
+    "word": "lifelong",
+    "pos": "adjective",
+    "def": "continuing for or lasting your whole life"
+   },
+   {
+    "word": "mindset",
+    "pos": "noun",
+    "def": "a fixed set of attitudes or way of thinking about something"
+   },
+   {
+    "word": "obsolete",
+    "pos": "adjective",
+    "def": "no longer used or useful because something newer has replaced it"
+   },
+   {
+    "word": "potential",
+    "pos": "noun",
+    "def": "qualities or abilities that may be developed and lead to future success"
+   },
+   {
+    "word": "relevant",
+    "pos": "adjective",
+    "def": "closely connected with and important to the current situation"
+   },
+   {
+    "word": "upskill",
+    "pos": "verb",
+    "def": "to learn new or better skills, especially for your work"
+   }
+  ],
+  "learning-from-mistakes": [
+   {
+    "word": "analyse",
+    "pos": "verb",
+    "def": "to examine something in detail to understand or explain it"
+   },
+   {
+    "word": "constructive",
+    "pos": "adjective",
+    "def": "helpful and intended to improve something, especially of criticism or feedback"
+   },
+   {
+    "word": "determination",
+    "pos": "noun",
+    "def": "firmness of purpose; the quality of deciding to do something and not giving up"
+   },
+   {
+    "word": "feedback",
+    "pos": "noun",
+    "def": "information about how well you are doing, given so you can improve"
+   },
+   {
+    "word": "overcome",
+    "pos": "verb",
+    "def": "to successfully deal with or control a problem or difficulty"
+   },
+   {
+    "word": "perseverance",
+    "pos": "noun",
+    "def": "continued effort to do something despite difficulty or delay in succeeding"
+   },
+   {
+    "word": "reflection",
+    "pos": "noun",
+    "def": "serious, careful thought about what you did and what you could do better"
+   },
+   {
+    "word": "self-discipline",
+    "pos": "noun",
+    "def": "the ability to make yourself do what you should, even when you don't feel like it"
+   }
+  ],
+  "mentors-communities": [
+   {
+    "word": "collaborate",
+    "pos": "verb",
+    "def": "to work together with others to achieve something"
+   },
+   {
+    "word": "encouragement",
+    "pos": "noun",
+    "def": "words or actions that give someone confidence or hope to continue"
+   },
+   {
+    "word": "engagement",
+    "pos": "noun",
+    "def": "the state of being involved and interested in an activity"
+   },
+   {
+    "word": "expertise",
+    "pos": "noun",
+    "def": "expert skill or knowledge in a particular area"
+   },
+   {
+    "word": "guidance",
+    "pos": "noun",
+    "def": "advice and help given to someone, especially by someone more experienced"
+   },
+   {
+    "word": "inspire",
+    "pos": "verb",
+    "def": "to make someone feel they want to do something or fill them with enthusiasm"
+   },
+   {
+    "word": "mentor",
+    "pos": "noun",
+    "def": "an experienced person who advises and helps a less experienced one over time"
+   },
+   {
+    "word": "network",
+    "pos": "noun",
+    "def": "a group of people who keep in contact to share information and help each other"
+   },
+   {
+    "word": "peer",
+    "pos": "noun",
+    "def": "a person of the same age, level, or status as you"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "Four People, Four Ways of Volunteering",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Grace (animal shelter)\nI help at an animal shelter every weekend because we are not allowed a pet where we live, and this is the next best thing I could possibly find. Cleaning out the kennels is hard, smelly work that nobody actually enjoys, and I come home each time covered in mud and fur from head to toe. I do not mind any of that in the slightest. The hardest part for me, by far, is saying goodbye: I grow so fond of a particular dog or cat, and then just when I have won their trust completely, they are finally rehomed and I never see them again. I tell myself a happy ending is the whole point of it, but it still aches every single time.\n\nB — Idris (visiting an elderly neighbour)\nIt was a charity advertisement on the side of a bus, of all unlikely things, that first persuaded me to sign up for a befriending scheme. Every week now I visit the same elderly gentleman for a chat, a cup of strong tea and usually a slow game of cards. I was genuinely unsure what on earth the two of us would find to talk about at the beginning, worried that the silences would be horribly awkward. I need not have worried at all. He has lived the most extraordinary life, full of stories, and honestly I come away feeling that I get far more out of those quiet afternoons than he possibly could. He has become a real friend.\n\nC — Tom (beach cleaning)\nI help to clean a local beach most weekends, usually with a small group of friends and a great stack of bin bags between us. I was genuinely shocked, when I first started, by just how much plastic washes up on even a short stretch of sand — bottles, tangled fishing line, tiny fragments worn smooth by the sea. I care a great deal about the environment, and that quiet anger slowly turned into action. These days I am the one who organises the whole rota, messaging everyone the night before, checking the tide times and making sure we always have enough bags and gloves to go round. It feels good to leave the beach cleaner than we found it.\n\nD — Yuki (library reading group)\nA librarian I knew asked, quite out of the blue one afternoon, whether I would help with the reading group for young children, and I am so very glad now that she did. I will admit I was nervous about reading aloud to a room full of small, wriggling children at first — I worried that I would be boring, or stumble clumsily over the words. I quickly learned to do all the silly voices instead, which they adore. What I love most of all, more than anything, is seeing their faces light up at the exciting part of a story, the way they gasp and lean right in. It makes the whole thing utterly worthwhile, every single week."
+  },
+  {
+   "title": "Four Students, Four Saturday Jobs",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Leena (weekend bakery)\nI started helping at a bakery on Saturdays because I have always loved baking at home, and the warm smell of fresh bread still makes the early start worth it. That start was a real shock at first — I had to be there before six, half asleep — and I was terribly nervous the first time I had to serve customers on my own, certain I would give the wrong change. That feeling soon passed. These days I am the one who shows new staff how everything works, from the till to the ovens, which I rather enjoy. Best of all, I am putting away most of what I earn to pay for a trip with my cousins next summer, and watching the total slowly grow keeps me going.\n\nB — Marcus (dog-walking)\nA neighbour first asked me to walk her dog while she recovered from an operation, and somehow word spread up and down the street until I had several regulars depending on me. I walk them by myself, which honestly suits me down to the ground, because I have never minded my own company and I like the quiet thinking time. Some of the larger dogs are far stronger than they look — one nearly pulled me into a pond in my first week — so it can be genuinely hard work in wind and rain. The reward is that it gets me outdoors every single day, in all weathers, and I am fitter now than I have ever been in my life.\n\nC — Aisha (tutoring younger children)\nOne of my teachers suggested I might help some younger pupils with their reading, and almost by accident I discovered I really enjoyed it. There is honestly nothing better than watching a child who has been struggling for weeks suddenly understand something, and seeing their face light up. I prepare little games and picture cards to make the sessions feel like fun rather than a chore. Word has got round among the parents at the primary school, and I now have far more families asking for my help than I could ever possibly fit into a single week. I have even had to start a waiting list, which still amazes me.\n\nD — Theo (family shop)\nMy grandparents run a small corner shop on the edge of town, and from the time I was quite young it was simply expected that I would help out at weekends, no questions asked. I find the till itself rather dull, if I am honest, and the hours can drag on a quiet afternoon. What has surprised me, though, is that I have learned to chat to all sorts of people — the regulars, the lost tourists, the older customers who come in mainly for a friendly word. The pay is small, smaller than my friends earn, but it is family, so I do not really mind in the end."
+  },
+  {
+   "title": "The World Keeps Changing (R4 backup — intervention B1)",
+   "topic": "changing-world",
+   "difficulty": null,
+   "exam_part": 4,
+   "instructions": "backup-intervention",
+   "body": "The world does not stand still. Jobs change. Machines that were new ten years ago are now old and useless. This can feel scary.\n\nBut there is good news. If learning never stops, then it is never too late to start. You are never stuck. A person who keeps learning can always find a new door to open.\n\nSo do not be afraid of change. Think of school as the first step of a long path, not the end of the road. Every new thing you learn makes the next thing easier. Keep moving, and the world will not leave you behind."
+  },
+  {
+   "title": "Four Young People Who Sold Something",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Bea (cakes and biscuits)\nI started baking to sell so that I could finally pay for a school trip abroad that I desperately wanted to go on but my family could not easily afford. Pricing my cakes made me ridiculously nervous at first — I had genuinely no idea what to charge, and worried that nobody would pay it. It turns out I need not have worried at all, because I now sell out completely every single Friday, often before the morning is even over. I put the money I make straight back into better ingredients — proper butter, good chocolate — which only makes them sell faster. Slowly, week by week, the savings tin for my trip is quietly filling up.\n\nB — Kwame (handmade jewellery)\nI taught myself to make jewellery entirely from videos online, watching them over and over late into the night until my clumsy fingers finally understood what to do. Finding any customers at all was painfully hard at the very beginning, and there were whole weeks when I sold nothing whatsoever. I almost gave up. Now I sell through a little online shop of my own, and I design every single piece myself — sketching ideas in a battered notebook before I ever pick up the wire and beads. That is the part I am proudest of by far: that nobody else in the world has exactly the same necklace, because each one came first out of my own head.\n\nC — Noor (second-hand clothes)\nI cannot stand waste of any kind, and what I really wanted was to give good clothes a proper second life rather than watch them be thrown away into landfill. That is what started the whole thing off. I was honestly amazed, once I began, at just how much people will happily pay for the right piece in good condition. I run a stall at the weekend markets, hanging everything carefully so it looks its very best, and I have become quite good at the friendly haggling over prices. I give a fixed part of everything I make to a local charity, because it never once felt right to me to keep every penny of it for myself.\n\nD — Finn (garden vegetables)\nMy grandfather grew vegetables on the same small patch all his long life, and he is, without any doubt, the whole reason I ever started; he taught me everything, from seed to harvest. The weather is my constant, nagging worry — too much rain and things rot, too little and they shrivel, and a single late frost can undo months of patient work overnight. I sell mostly to the neighbours, who knock on the door for fresh tomatoes and beans, and word has spread steadily along the street. Every single coin I make goes into a tin towards a new bike that I have had my eye on for the best part of a year now."
+  },
+  {
+   "title": "Four People Who Care for an Animal",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Yara (a rescue dog)\nI adopted a dog that had clearly been very badly frightened at some point in his past, and for the first few weeks he would not come anywhere near me, shrinking into the far corner of the room. Earning his trust was slow, patient, gentle work — sitting quietly on the floor every evening, never reaching out, simply letting him come to me in his own time. The first time he rested his head on my knee, I almost cried with happiness. Now we are completely inseparable, two halves of the same thing. I take him out for a long walk at first light every single morning, before the streets are even awake, and those quiet dawn walks have become my favourite part of the whole day.\n\nB — Theo (horses at a local stable)\nI muck out the stables every weekend in exchange for riding lessons, since my family could never have afforded to pay for them, and it is hard, dirty work that starts long before breakfast in the cold. My hands are forever covered in blisters. Strangely, though, being around the horses — their calm, their warmth, their great patient eyes — has done more to settle my quick temper than anything else I have ever tried; I am a noticeably calmer person than I was a year ago. One day, when I am finally good enough, I dream of competing properly at shows in a smart jacket, but for now I am simply, quietly happy in the yard.\n\nC — Ravi (injured wild birds)\nI found a bird with a broken wing lying in the road when I was small, cupped it carefully in my hands, and something about that helpless little creature changed everything for me. Now, years later, I volunteer at a wildlife centre most weekends, feeding and cleaning and slowly learning. I have learned far more patience there than I ever knew I had in me, because nothing about healing a wild thing can ever be rushed. The very best moment, every single time, the one that makes all the early mornings worth it, is opening my hands or the cage door and watching a bird I have nursed back to health lift off and return at last to the wild.\n\nD — Lena (her cat)\nMy cat came to me from my grandmother, who could no longer look after her, and from the very first day the two of us have been rarely more than a room apart. She keeps me steady company through every long, late evening of studying, curled in a warm heap on the corner of my desk, occasionally batting at my pen. I fuss endlessly, perhaps far too much, over exactly what she eats — only the one brand, served at just the right temperature, fussier than any chef — because nothing is ever quite good enough for her. And I will freely admit that I talk to her constantly, all day long, as though she understands every single word I say. Sometimes I am quite sure that she does."
+  },
+  {
+   "title": "Three People, Three Helpers (R3/R2 backup — intervention B1)",
+   "topic": "mentors-communities",
+   "difficulty": null,
+   "exam_part": 2,
+   "instructions": "backup-intervention",
+   "body": "We asked three students who helped them learn.\n\nA — PRIYA\nMy older brother helps me with maths every evening. He is patient and never laughs when I make a mistake. Because of him, I am no longer afraid of hard questions.\n\nB — LUCAS\nI joined an online group for young guitar players. When I get stuck, I post a question and someone always answers. I have never met these people, but they feel like friends.\n\nC — MEI\nMy grandmother is teaching me to cook. She has cooked for sixty years, so she knows everything. We do not use a phone or a book — she just shows me with her hands."
+  },
+  {
+   "title": "It's Okay to Get It Wrong (R2/W1/W2 backup — intervention B1)",
+   "topic": "learning-from-mistakes",
+   "difficulty": null,
+   "exam_part": 3,
+   "instructions": "backup-intervention",
+   "body": "Many people hate making mistakes. They feel embarrassed and try to forget them quickly. But mistakes can help us learn, if we use them well.\n\nFirst, do not hide your mistake. Look at it carefully and ask why it happened. If you know the reason, you are less likely to do it again.\n\nSecond, ask someone for help. A friend or teacher can see a problem that you cannot see yourself. Their advice may feel hard to hear, but it is useful.\n\nThird, make a plan. Decide what you will do differently next time. Then try again. Each mistake is a small step forward, not a sign that you are not good enough."
+  },
+  {
+   "title": "Teaching Myself, One Tab at a Time (Ex1 R1)",
+   "topic": "self-taught",
+   "difficulty": null,
+   "exam_part": 1,
+   "instructions": "main",
+   "body": "When Maya decided she wanted to make her own animated short films, she did not sign up for a class. There were no animation courses at her school, and the nearest studio was a two-hour bus ride away. Instead, she opened her laptop, typed 'how to animate for beginners' into a search bar, and pressed enter.\n\nThat single search led her to thousands of free tutorials. Some were excellent; many were not. At first the sheer number of choices was overwhelming. Maya quickly learned that being a self-directed learner meant more than just watching videos — it meant deciding which videos were worth her time. She became resourceful, testing a technique for ten minutes and abandoning it the moment it led nowhere.\n\nProgress was slow. Her first animation lasted four seconds and took a week to make. But every small success gave her the motivation to continue. She kept a simple notebook in which she wrote down what had gone wrong and what she would try next. Looking back, she says this habit of reflection mattered more than any single tutorial.\n\nWhat surprised Maya most was how much her curiosity grew the more she learned. A question about movement led her to study how real animals walk; a question about colour led her to read about light. One skill opened a door to another. Within a year she had acquired a level of proficiency that astonished her teachers — none of whom had taught her a thing.\n\nMaya is not unusual. Across the world, teenagers are teaching themselves skills that were once locked inside expensive institutions. The tools are now accessible to almost anyone with a phone and a little patience. Coding, cooking, music production, three languages at once — the only real entry requirement is the initiative to begin.\n\nOf course, learning alone has its dangers. Without a teacher to correct them, self-taught learners can practise their mistakes until those mistakes start to feel normal. Maya admits she spent months animating in a way she later had to unlearn. 'No one told me I was doing it wrong,' she says, 'because no one was watching.' She solved this by posting her work online and asking strangers for honest opinions — proof that even the most autonomous learner needs other people in the end.\n\nToday Maya mentors younger students who want to start. Her advice is never about software. 'Pick something tiny,' she tells them. 'Finish it. Then pick something slightly bigger.' Learning without a classroom, she insists, is less about talent than about the quiet decision to keep going when no one is making you."
+  },
+  {
+   "title": "The People Who Helped Me Learn",
+   "topic": "mentors-communities",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "main",
+   "body": "Learning rarely happens entirely alone. We asked four people how a community — online or face to face — changed the way they learn.\n\nA — TOMAS, 17\nI taught myself to code, but I would have given up without an online forum I joined. Whenever I got stuck, I posted a question and someone usually answered within minutes. What I valued most was the speed: I could keep moving instead of staring at the same error for hours. Over time I stopped only asking questions and started answering other beginners. Strangely, explaining things to other people taught me more than any tutorial ever did.\n\nB — AISHA, 16\nMy community is not online at all. Every Saturday I go to a sewing circle at the local hall, where most of the members are older than my grandmother. They have decades of expertise in their hands, and they pass it on without any fuss. There is no screen, no app — just someone leaning over and gently showing me where I went wrong. The encouragement from women who have been making clothes for fifty years is worth more to me than a hundred videos.\n\nC — LENA, 18\nI use a language-exchange app that pairs me with a student in another country. I help her with English; she helps me with Spanish. Neither of us is a teacher, so we are equals — just two learners helping each other. Because we both gain something, neither of us feels embarrassed about mistakes. I think learning with a peer who needs you as much as you need them removes most of the fear.\n\nD — SAM, 17\nHonestly, I nearly quit studying for my exams. What saved me was a small study group on a messaging app. We set goals together and checked on each other every evening. Knowing that four other people would notice if I disappeared kept me showing up. The subject mattered far less than the simple fact that I was no longer doing it alone. That kind of support is the only reason I'm still going.\n\nAll four describe something the same: a community does not just deliver information. It supplies the guidance, the encouragement and the steady accountability that keep a learner moving when motivation alone runs out."
+  },
+  {
+   "title": "The Most Useful Thing You'll Get Wrong (Ex3 R2)",
+   "topic": "learning-from-mistakes",
+   "difficulty": null,
+   "exam_part": 3,
+   "instructions": "main",
+   "body": "Most people treat a mistake as something to feel ashamed of and forget as quickly as possible. Yet the people who improve fastest do almost the opposite: they slow down, study the mistake, and squeeze every lesson out of it. For them, an error is not a verdict on their ability. It is information.\n\nConsider how a child learns to walk. They fall hundreds of times, but no one calls a falling baby a failure. Each stumble quietly adjusts their balance for the next attempt. Somewhere on the road to adulthood, many of us lose this attitude. We begin to see mistakes as proof that we are not clever enough, and so we hide them. The problem is that a mistake you hide is a mistake you cannot learn from.\n\nThe first step, then, is simply to look. When you get something wrong, resist the urge to move on. Instead, analyse it: ask exactly where your thinking went astray and why. A student who only notices that an answer was wrong learns very little; a student who works out the reason rarely repeats the error.\n\nThe second step is to invite other eyes. We are often blind to our own habits, and honest, constructive feedback can reveal a weakness we have walked past a hundred times. Feedback can sting, but the discomfort fades far faster than the cost of repeating the same mistake for years.\n\nThe third step is reflection. After feedback, take a quiet moment to ask what you will do differently. This is not vague worrying; it is a deliberate plan. Many successful learners keep a record of their errors precisely so that patterns become visible over time.\n\nNone of this is comfortable, which is why resilience matters so much. Studying your own mistakes means accepting, again and again, that you are not yet as good as you would like to be. That takes a certain determination — a willingness to be a beginner long after you wish you had finished. The reward is that each setback becomes a step rather than a wall.\n\nIt helps to remember that the alternative is worse. People who never risk being wrong never stretch beyond what they can already do. They protect a small, safe circle of skill and call it competence. Real growth lives just outside that circle, in the messy territory where things go wrong — and where, if you are paying attention, you learn the most.\n\nSo the next time you get something badly wrong, try to feel a flicker of curiosity rather than only frustration. Somewhere inside that mistake is the exact instruction you needed."
+  },
+  {
+   "title": "Learning to Bake from My Phone (R1/R2 backup — intervention B1)",
+   "topic": "self-taught",
+   "difficulty": null,
+   "exam_part": 1,
+   "instructions": "backup-intervention",
+   "body": "Daniel wanted to bake bread, but no one in his family knew how. So he decided to teach himself. Every weekend he watched a short video on his phone, then tried to copy it in the kitchen.\n\nHis first loaf was hard and flat. It looked nothing like the video. But Daniel did not give up. He watched the video again and noticed a step he had missed: he had not let the dough rest. The next week, he tried again.\n\nDaniel kept a small notebook. After each loaf, he wrote down what went wrong and what to change. Slowly, his bread got better. By the end of the year, his family asked him to bake every weekend.\n\nDaniel says the secret was simple. 'I did not need a teacher,' he explains. 'I needed to keep trying and to pay attention to my mistakes.' Now he is teaching his younger sister, one video at a time."
+  },
+  {
+   "title": "You Will Never Finish Learning — and That's the Point (Ex4 R4)",
+   "topic": "changing-world",
+   "difficulty": null,
+   "exam_part": 4,
+   "instructions": "main",
+   "body": "There was a time when education had a finish line. You learned a trade or a profession, crossed that line once, and coasted on the same knowledge for the rest of your working life. That world is gone, and it is not coming back.\n\nToday, skills have a shelf life. A tool that defines an entire industry can be born, dominate, and slide into the dustbin of the obsolete within a single decade. The ground beneath every career is quietly shifting, and standing still — once the safest thing you could do — has become the most dangerous.\n\nThis sounds exhausting, and it can be. But there is another way to see it. If learning never ends, then you are never too late, never finished, never trapped. The same churn that threatens the person who refuses to grow becomes an open door for the person who is willing to. Change does not only take things away; it hands out fresh chances to anyone prepared to reach for them.\n\nThe skill that matters most now is not any single skill at all. It is the ability to learn quickly, to adapt, and to begin again without shame. A versatile mind that can move between fields will always outlast a brilliant one frozen in place. We used to admire the expert who knew one thing completely. Increasingly, we will admire the learner who can become a beginner over and over without flinching.\n\nNone of this means your education was wasted. Think of it instead as a foundation rather than a finished house — something solid to build upon, not something to live inside forever. Every new thing you learn widens the ground you can stand on, and a wider foundation makes the next thing easier to add.\n\nThere will always be a voice that whispers you are too old, too busy, too far behind. Ignore it. The grandmother learning to code, the taxi driver studying law at midnight, the teenager teaching themselves a language one phone screen at a time — they have all made the same quiet decision. They have decided that the world may keep changing, but they are not going to let it leave them behind.\n\nSo do not mourn the finish line that no longer exists. Celebrate it. A race with no end is also a race you can never truly lose — as long as you keep moving."
+  },
+  {
+   "title": "The People Who Helped Me Learn",
+   "topic": "mentors-communities",
+   "difficulty": null,
+   "exam_part": 2,
+   "instructions": "Read about the people and answer the questions that follow.",
+   "body": "Learning rarely happens entirely alone. We asked four people how a community — online or face to face — changed the way they learn.\n\nA — TOMAS, 17\nI taught myself to code, but I would have given up without an online forum I joined. Whenever I got stuck, I posted a question and someone usually answered within minutes. What I valued most was the speed: I could keep moving instead of staring at the same error for hours. Over time I stopped only asking questions and started answering other beginners. Strangely, explaining things to other people taught me more than any tutorial ever did.\n\nB — AISHA, 16\nMy community is not online at all. Every Saturday I go to a sewing circle at the local hall, where most of the members are older than my grandmother. They have decades of expertise in their hands, and they pass it on without any fuss. There is no screen, no app — just someone leaning over and gently showing me where I went wrong. The encouragement from women who have been making clothes for fifty years is worth more to me than a hundred videos.\n\nC — LENA, 18\nI use a language-exchange app that pairs me with a student in another country. I help her with English; she helps me with Spanish. Neither of us is a teacher, so we are equals — just two learners helping each other. Because we both gain something, neither of us feels embarrassed about mistakes. I think learning with a peer who needs you as much as you need them removes most of the fear.\n\nD — SAM, 17\nHonestly, I nearly quit studying for my exams. What saved me was a small study group on a messaging app. We set goals together and checked on each other every evening. Knowing that four other people would notice if I disappeared kept me showing up. The subject mattered far less than the simple fact that I was no longer doing it alone. That kind of support is the only reason I'm still going.\n\nAll four describe something the same: a community does not just deliver information. It supplies the guidance, the encouragement and the steady accountability that keep a learner moving when motivation alone runs out."
+  },
+  {
+   "title": "It's Never Too Late",
+   "topic": "learning late",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "Four adults tell us about a skill they finally learned.\n\nA — HASSAN\nI learned to swim at forty-five. As a child I had been afraid of water after a bad experience, and the fear followed me into adulthood. Booking that first lesson was the bravest thing I have ever done. My teacher was endlessly patient and never once made me feel foolish. Now I swim every week, and the fear is simply gone.\n\nB — GRETA\nI taught myself to code using free videos online. I have a full-time job and two children, so I studied late at night when the house was quiet. Nobody pushed me; the discipline had to come entirely from me. It took two years, but last month I was offered a new job because of the skill — proof that the late nights were worth it.\n\nC — TOMAS\nI started learning the violin at sixty, just for the joy of it. I will never play in an orchestra, and I do not care. People assume you learn an instrument to perform, but I do it purely for the pleasure of the sound. My grandchildren laugh at the squeaks, but they also clap when I get something right.\n\nD — PRIYA\nI went back to study for a university degree in my fifties, sitting in classes beside students younger than my own daughter. At first I felt I did not belong. But I soon realised that my years of life experience were an advantage, not an embarrassment — I understood the books in a way the younger students could not."
+  },
+  {
+   "title": "Teaching Myself, One Tab at a Time",
+   "topic": "self-taught",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Read the article and answer the questions that follow.",
+   "body": "When Maya decided she wanted to make her own animated short films, she did not sign up for a class. There were no animation courses at her school, and the nearest studio was a two-hour bus ride away. Instead, she opened her laptop, typed 'how to animate for beginners' into a search bar, and pressed enter.\n\nThat single search led her to thousands of free tutorials. Some were excellent; many were not. At first the sheer number of choices was overwhelming. Maya quickly learned that being a self-directed learner meant more than just watching videos — it meant deciding which videos were worth her time. She became resourceful, testing a technique for ten minutes and abandoning it the moment it led nowhere.\n\nProgress was slow. Her first animation lasted four seconds and took a week to make. But every small success gave her the motivation to continue. She kept a simple notebook in which she wrote down what had gone wrong and what she would try next. Looking back, she says this habit of reflection mattered more than any single tutorial.\n\nWhat surprised Maya most was how much her curiosity grew the more she learned. A question about movement led her to study how real animals walk; a question about colour led her to read about light. One skill opened a door to another. Within a year she had acquired a level of proficiency that astonished her teachers — none of whom had taught her a thing.\n\nMaya is not unusual. Across the world, teenagers are teaching themselves skills that were once locked inside expensive institutions. The tools are now accessible to almost anyone with a phone and a little patience. Coding, cooking, music production, three languages at once — the only real entry requirement is the initiative to begin.\n\nOf course, learning alone has its dangers. Without a teacher to correct them, self-taught learners can practise their mistakes until those mistakes start to feel normal. Maya admits she spent months animating in a way she later had to unlearn. 'No one told me I was doing it wrong,' she says, 'because no one was watching.' She solved this by posting her work online and asking strangers for honest opinions — proof that even the most autonomous learner needs other people in the end.\n\nToday Maya mentors younger students who want to start. Her advice is never about software. 'Pick something tiny,' she tells them. 'Finish it. Then pick something slightly bigger.' Learning without a classroom, she insists, is less about talent than about the quiet decision to keep going when no one is making you."
+  },
+  {
+   "title": "The Most Useful Thing You'll Get Wrong",
+   "topic": "learning-from-mistakes",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "Read the article and complete the notes.",
+   "body": "Most people treat a mistake as something to feel ashamed of and forget as quickly as possible. Yet the people who improve fastest do almost the opposite: they slow down, study the mistake, and squeeze every lesson out of it. For them, an error is not a verdict on their ability. It is information.\n\nConsider how a child learns to walk. They fall hundreds of times, but no one calls a falling baby a failure. Each stumble quietly adjusts their balance for the next attempt. Somewhere on the road to adulthood, many of us lose this attitude. We begin to see mistakes as proof that we are not clever enough, and so we hide them. The problem is that a mistake you hide is a mistake you cannot learn from.\n\nThe first step, then, is simply to look. When you get something wrong, resist the urge to move on. Instead, analyse it: ask exactly where your thinking went astray and why. A student who only notices that an answer was wrong learns very little; a student who works out the reason rarely repeats the error.\n\nThe second step is to invite other eyes. We are often blind to our own habits, and honest, constructive feedback can reveal a weakness we have walked past a hundred times. Feedback can sting, but the discomfort fades far faster than the cost of repeating the same mistake for years.\n\nThe third step is reflection. After feedback, take a quiet moment to ask what you will do differently. This is not vague worrying; it is a deliberate plan. Many successful learners keep a record of their errors precisely so that patterns become visible over time.\n\nNone of this is comfortable, which is why resilience matters so much. Studying your own mistakes means accepting, again and again, that you are not yet as good as you would like to be. That takes a certain determination — a willingness to be a beginner long after you wish you had finished. The reward is that each setback becomes a step rather than a wall.\n\nIt helps to remember that the alternative is worse. People who never risk being wrong never stretch beyond what they can already do. They protect a small, safe circle of skill and call it competence. Real growth lives just outside that circle, in the messy territory where things go wrong — and where, if you are paying attention, you learn the most.\n\nSo the next time you get something badly wrong, try to feel a flicker of curiosity rather than only frustration. Somewhere inside that mistake is the exact instruction you needed."
+  },
+  {
+   "title": "Four Students, Four Ways to Revise",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Hugo (flashcards)\nI tried every revision method going — highlighting, copying things out, you name it — before I finally settled on flashcards, which are the only thing that ever truly stuck for me. I test myself on them on the bus to and from school every day, shuffling through the well-worn pack at every red light, which means I am revising without it ever quite feeling like work at all. I colour-code them strictly by subject so that I can grab the right pile in seconds. One important thing about me, which surprises a great many people: I absolutely cannot revise in silence — the quiet makes my restless mind wander straight off — so I always have music playing in the background to keep me anchored to the page.\n\nB — Asha (teaching others)\nI revise, above everything else, by explaining each tricky topic out loud to my long-suffering friends, as though I were the teacher standing at the front of the class. I quickly and rather humblingly realised that trying to teach something to someone else shows you, instantly and mercilessly, exactly what you do not actually understand yet yourself — the gaps you had quietly been skating over. I work best in the deep quiet of the school library, away from every distraction, and I plan absolutely everything with detailed, colour-blocked timetables that map out each hour before the exams. Some people find that far too rigid; I find it deeply calming, like knowing the whole long road ahead of me is already lit.\n\nC — Milo (past papers)\nFor me, when it really comes right down to it, only past papers actually work; all the reading and note-making in the world never made anything stick the way a single real question does. I panicked horribly before I ever started them, convinced from the first blank page that I was utterly certain to fail. But they turned out, in the end, to be the making of me. Now I time myself strictly, sitting at a cleared desk exactly as if I were already in the real exam hall — no breaks, no phone, no excuses — and afterwards I go back painstakingly over every single mistake until I genuinely understand where I went wrong. There is simply nowhere to hide from a past paper, and that is precisely why I trust them.\n\nD — Zoe (mind maps)\nI am a very visual learner, through and through, and long, grey lists of written notes simply never, ever stayed in my head no matter how many times I read them over; they just slid straight off again. Instead I draw great, big, colourful mind maps that link every idea to the next with curving branches and arrows and little doodles, so the whole shape of a subject sits in front of me at a single glance. I then stick them up all over my bedroom walls, covering every spare inch, so that the entire topic is quite literally surrounding me as I work and revise and even sleep. By the time exam day arrives I can close my eyes and simply picture exactly where each fact lives on my wall."
+  },
+  {
+   "title": "The Saturday I Didn't Want",
+   "topic": "volunteering / community",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the text and choose A, B or C.",
+   "body": "When my aunt first suggested I spend Saturday mornings at the repair café on Mill Street, I agreed only because saying no would have meant a longer conversation than the volunteering itself. I pictured a draughty hall, a few broken kettles, and an hour of pretending to be useful before I could leave. I did not expect to still be going four months later.\n\nThe café works simply. People bring things that no longer work — lamps, radios, a child's wooden train with a missing wheel — and volunteers help them mend the items rather than mending the items for them. That distinction took me a while to understand. On my first morning I picked up a stalled clock and had it ticking again within ten minutes, pleased with myself, only for Femi, who has run the place since it opened, to gently point out that the owner had wanted to learn. \"We're not a shop,\" he said, not unkindly. \"If we fix it for them, they come back next week with the same problem. If they fix it with us, they don't.\"\n\nI found that irritating at first. It is faster to do a thing yourself than to stand beside someone explaining it. But I noticed that the people who left having repaired something themselves behaved differently from the ones I had simply served. They lingered. They asked questions. One man, who had arrived convinced he was \"hopeless with anything electrical,\" went home with a working toaster and the quiet, surprised look of someone who had been told something untrue about himself for years.\n\nWhat changed my mind was not any single morning but the slow accumulation of them. I had assumed the café existed to save people money, and it does. But the money turned out to be the least interesting thing about it. What the regulars came back for was the feeling of being capable — and, I think, the company. Mill Street is not a wealthy area, and for some of the older visitors a Saturday at the café is the longest conversation they will have all week. Nobody says this aloud. It is simply understood, in the way the kettle is kept on and the chairs are never cleared away too quickly.\n\nI still cannot mend everything that comes through the door, and I have stopped pretending otherwise. When I am stuck now, I say so, and someone older shows me. That, it turns out, was the point all along."
+  },
+  {
+   "title": "Four People, Four Collections",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Omar (stamps)\nMy collection began with a heavy old album that my grandfather left me when he died, its pages already half full of his own careful, patient work. What I love most of all are the tiny histories that each little stamp quietly carries — a country that no longer exists on any modern map, a king long forgotten, a date from before my parents were even born. I trade with other collectors online, swapping doubles late at night with people I will never meet in person, and I keep every single stamp in careful, precise order in their plastic sleeves. In a strange and comforting way, sorting through them makes me feel close to my grandfather still, as though the two of us are quietly working on it together.\n\nB — Pia (shells)\nI genuinely cannot walk along any beach, anywhere in the world, without stopping to pick up shells; I simply cannot bring myself to pass a good one by, and my pockets are always heavy with sand by the end of the day. My friends find it all a little bit odd, I think, and they tease me gently about it. But to me each shell is a memory made solid — I can tell you exactly which holiday, which year, and which precise windy stretch of sand every single one of them came from, just by turning it over in my hand. My whole windowsill has become a map of every coast I have ever stood on, and I would not part with a single one of them.\n\nC — Cole (vinyl records)\nI hunt for records in dusty, half-forgotten second-hand shops, flicking through the racks for hours on end, and honestly the search itself is the very best part — better, very often, than actually finding the thing I came for. It is the thrill of the chase, the wild hope in every unflipped sleeve. The real trouble now, the one my whole family complain loudly about, is that I have completely and utterly run out of anywhere left to store them; they stand in leaning towers on the floor, under the bed, in the hall. I always play them properly, too, on a real turntable, because to me a record crackling slowly into life sounds warmer and more alive than anything from a phone ever could.\n\nD — Rin (old postcards)\nI found a single old postcard tucked inside a second-hand library book one wet afternoon, and I was instantly hooked by the faded message on the back — a few private words from one long-gone stranger to another, hinting at a whole life I would never know. It costs me almost nothing at all, which suits my empty pockets perfectly, since most are sold for mere pennies in junk shops and dusty boxes at fairs. I do not keep all of them out on show, by any means; I display only my very, very favourites, the ones carrying the most mysterious or beautiful messages, on the wall above my desk, where I can read them last thing at night and quietly wonder about the people who wrote them."
+  },
+  {
+   "title": "Four People, Four New Habits",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Ben (cycling to school)\nI started cycling to school mainly to save on bus fares, which had been quietly eating up all of my pocket money each week. I will freely admit that the first week left me completely exhausted, with aching legs and lungs that burned on every small hill. But my body adjusted far faster than I expected, and now I arrive much more awake and ready for my morning lessons than I ever used to on the stuffy, crowded bus. The best part is that I even managed to persuade a friend who lives nearby to cycle in with me, so on the cold, dark mornings we keep each other going and it never feels like a chore.\n\nB — Lara (giving up fizzy drinks)\nIt was a stern warning from my dentist, after one too many fillings, that finally made me give up fizzy drinks for good. I had been drinking several cans a day without ever really stopping to think about it. I missed them terribly for the first fortnight — there were moments I would have done almost anything for an ice-cold can — but the craving slowly faded away. Looking back now, I am genuinely shocked at just how much sugar I used to get through in a single day; the number frightens me a little. The unexpected bonus is that I have noticed I feel far less tired and sluggish in the long afternoons than I once did.\n\nC — Omar (a proper sleep routine)\nI kept embarrassingly falling asleep during my afternoon lessons, my head nodding while the teacher was speaking, so I knew at last that something had to change. I set myself a strict bedtime and stuck to it rigidly, even at the weekend. The hardest part by an enormous margin was leaving my phone to charge in another room overnight, instead of scrolling for hours in the dark; the first few nights felt almost impossible. It was completely worth it, though. I am so much more alert and focused in class now, I actually take part in discussions, and my marks have noticeably improved over the term. I cannot believe I did not do it years sooner.\n\nD — Chloe (cooking instead of takeaways)\nI simply got tired of spending so much of my hard-earned money on takeaway food that vanished in about ten minutes, so I decided I would learn to cook properly instead. I burned a fair few meals at the very start — there was one memorable, smoky evening with a forgotten pan of rice — much to the amusement of my entire family, who still tease me about it now. I kept practising, one recipe at a time. Today I cook for the whole family most evenings, and they genuinely look forward to it, which makes me quietly proud. Strangest of all, I have found the steady chopping and stirring surprisingly relaxing after a long, tiring day."
+  },
+  {
+   "title": "You Will Never Finish Learning — and That's the Point",
+   "topic": "changing-world",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the article and answer the multiple-choice questions that follow.",
+   "body": "There was a time when education had a finish line. You learned a trade or a profession, crossed that line once, and coasted on the same knowledge for the rest of your working life. That world is gone, and it is not coming back.\n\nToday, skills have a shelf life. A tool that defines an entire industry can be born, dominate, and slide into the dustbin of the obsolete within a single decade. The ground beneath every career is quietly shifting, and standing still — once the safest thing you could do — has become the most dangerous.\n\nThis sounds exhausting, and it can be. But there is another way to see it. If learning never ends, then you are never too late, never finished, never trapped. The same churn that threatens the person who refuses to grow becomes an open door for the person who is willing to. Change does not only take things away; it hands out fresh chances to anyone prepared to reach for them.\n\nThe skill that matters most now is not any single skill at all. It is the ability to learn quickly, to adapt, and to begin again without shame. A versatile mind that can move between fields will always outlast a brilliant one frozen in place. We used to admire the expert who knew one thing completely. Increasingly, we will admire the learner who can become a beginner over and over without flinching.\n\nNone of this means your education was wasted. Think of it instead as a foundation rather than a finished house — something solid to build upon, not something to live inside forever. Every new thing you learn widens the ground you can stand on, and a wider foundation makes the next thing easier to add.\n\nThere will always be a voice that whispers you are too old, too busy, too far behind. Ignore it. The grandmother learning to code, the taxi driver studying law at midnight, the teenager teaching themselves a language one phone screen at a time — they have all made the same quiet decision. They have decided that the world may keep changing, but they are not going to let it leave them behind.\n\nSo do not mourn the finish line that no longer exists. Celebrate it. A race with no end is also a race you can never truly lose — as long as you keep moving."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Voices on learning — short extracts (Ex1)",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": null,
+   "script_text": "EX1 — Short extracts (you will hear each extract; choose one answer per extract).\n\n[Extract 1] You will hear a girl talking about learning to draw. — GIRL: I never had art lessons. I just started copying pictures I liked, a little every day after school. People assume I'm naturally talented, but honestly, it was just hundreds of bad drawings before the good ones started showing up.\n\n[Extract 2] You will hear a boy talking about an online course. — BOY: The course had forty lessons, but the best part wasn't the videos. It was the comment section, where other learners answered my questions faster than any teacher could.\n\n[Extract 3] You will hear a woman talking to a group. — WOMAN: I'm sixty-two, and last year I learned to code. People laughed at first. But here's my message to all of you: it is never, ever too late to start something new.\n\n[Extract 4] You will hear a teacher giving advice. — TEACHER: When you get a question wrong, don't just write the right answer and move on. Write down why you got it wrong. That single habit will save you in the exam.\n\n[Extract 5] You will hear a boy talking about a study group. — BOY: On my own, I'd have given up weeks ago. The group doesn't make the work easier — it just makes sure I actually show up and do it.\n\n[Extract 6] You will hear a girl describing her routine. — GIRL: Every morning before school I practise Spanish for fifteen minutes using an app. It's not long, but doing it every single day is what counts.\n\n[Extract 7] You will hear a man talking about his job. — MAN: The software I trained on five years ago barely exists now. If I'd stopped learning when I left college, I'd be unemployable today. So I take one short online course every few months — forever, basically.\n\n[Extract 8] You will hear a girl talking about feedback. — GIRL: My swimming coach films me, then shows me the video. Seeing my own mistakes is uncomfortable, but it fixes them ten times faster than just being told."
+  },
+  {
+   "title": "Five short extracts on learning (Ex2) [U9 re-author]",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five short extracts. For each extract, answer the questions. You will hear each extract twice.",
+   "script_text": "EXTRACT 1\nHonestly, I downloaded the app because everyone in my class was using it — I didn't want to be the only one without it. At first I thought it would be just another flashcard thing, but what actually kept me coming back was the way it broke big topics into five-minute chunks. I won't pretend the reminders weren't annoying; I turned those off after a week. But the little progress bar? That's the part I genuinely can't stop checking.\n\nEXTRACT 2\nMy grandfather taught me to repair bicycles. People assume it was about saving money, and sure, that's a nice side effect — but that was never really the point for him. What he wanted was for me to understand how something works before I throw it away. We'd spend a whole Saturday on one wheel. I used to find it slow. Now I think the slowness was the whole lesson.\n\nEXTRACT 3\nGIRL: I've nearly finished that free coding course online — I just wish there was someone to actually ask when I get stuck. BOY: See, that's exactly why I'd never do one. No teacher, no deadlines, nothing making you turn up. GIRL: That's the thing though — I HAVE turned up, every day, on my own. I thought I'd quit by week two. I didn't. BOY: Fair. Maybe I've just never trusted myself to keep going without someone watching.\n\nEXTRACT 4\nI gave up the violin at twelve. I told everyone it was because I was too busy, which sounded better than the truth — I just couldn't stand being bad at it. Picking it up again last year, the difference was that nobody was grading me. I wasn't playing to pass anything. And weirdly, the moment it stopped being about marks, I started actually improving.\n\nEXTRACT 5\nI learned to cook entirely from videos, and the first few months were a disaster — smoke alarms, the lot. The breakthrough wasn't a better recipe. It was when I stopped pausing the video every ten seconds and just let it play while I caught up. Following along in real time, mistakes and all, taught me more than any perfectly-paused screenshot ever did."
+  },
+  {
+   "title": "Mr Okafor's free coding club (Ex5) [U9 re-author copy]",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear an interview with MR OKAFOR, who runs a free weekend coding club for teenagers.\n\nINTERVIEWER: Mr Okafor, why start a free club?\nMR OKAFOR: Because I noticed talent was everywhere, but opportunity wasn't. Plenty of bright kids simply couldn't afford courses. The club removes the price tag.\nINTERVIEWER: What do students struggle with most?\nMR OKAFOR: Not the coding, surprisingly. It's the fear of looking stupid. Many arrive convinced that everyone else already understands, so they stay silent. My first job is to make mistakes feel normal.\nINTERVIEWER: How do you do that?\nMR OKAFOR: I make my own mistakes in front of them, on purpose sometimes. When they see the teacher get an error and just shrug and fix it, something relaxes. The room changes.\nINTERVIEWER: Do students need to be naturally gifted?\nMR OKAFOR: I'd push back on that word. The ones who improve aren't the 'gifted' ones — they're the ones who keep showing up. Persistence beats talent in my experience, every time.\nINTERVIEWER: What happens to your students afterwards?\nMR OKAFOR: Some go into tech, but honestly that's not the point for me. What I care about is that they leave believing they can learn hard things. That belief follows them into everything else.\n\nINTERVIEWER: Some people say a free club like yours can't possibly match a paid course. Does that worry you? OKAFOR: It used to, I'll admit. I'd lie awake comparing us to the expensive programmes. These days? Not at all. What I've realised is that the thing we offer — kids teaching kids, no one afraid to ask a silly question — money can't actually buy that. So no. I sleep fine now. INTERVIEWER: And the waiting list — that must feel like a triumph. OKAFOR: You'd think so. Honestly, it mostly keeps me up worrying about the ones we're turning away."
+  },
+  {
+   "title": "A careers adviser on learning to learn (Ex3) [U9 re-author copy]",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear a talk by a careers adviser to a group of school students.\n\nADVISER: Good morning. I want to start with an uncomfortable truth: the job you eventually do may not exist yet. Many of you will work in roles that haven't been invented. That sounds frightening, but it carries a simple piece of advice — the single most valuable thing you can learn at school is how to learn.\n\nLet me explain what I mean. Facts are useful, but facts age. The capital cities won't change much, but the skills employers want shift constantly. Ten years ago, almost nobody listed 'video editing' or 'data analysis' on a CV for an ordinary office job. Today they're everywhere.\n\nSo how do you 'learn to learn'? Three habits. First, get comfortable being a beginner. The people who struggle most later in life are often the ones who were brilliant young and never had to feel clumsy again. Second, treat feedback as a gift, not an attack — the faster you hear what's wrong, the faster you improve. Third, build the habit of doing a little, often. Fifteen minutes a day beats five hours once a month, every single time.\n\nNone of this requires you to be the cleverest person in the room. It requires curiosity and a bit of stubbornness. Stay curious, stay willing to look foolish, and you will keep growing long after this classroom is a distant memory. Thank you.\n\n...and if I had to name the single most important habit, it wouldn't be reading widely or taking notes, useful as those are. It would be the habit of asking, at the end of each week, one simple question: what did I get wrong, and why? People expect me to say you need talent. I've stopped believing that. What you need is the stomach to look at your own mistakes honestly."
+  },
+  {
+   "title": "A teenager who taught herself video editing (Ex2)",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear an interview with NADIA, a teenager who taught herself video editing.\n\nINTERVIEWER: Nadia, how did you start?\nNADIA: Pure boredom, honestly. I wanted to make a birthday video for my best friend and I had no idea how. So I just searched online and followed the first tutorial I found.\nINTERVIEWER: And it worked?\nNADIA: The video was terrible! But my friend cried anyway, and that hooked me. After that I edited something almost every week.\nINTERVIEWER: Did you ever think about taking a proper course?\nNADIA: I looked into it, but the courses were expensive and, to be honest, slower than just teaching myself. I learn faster when I'm working on a real project I care about.\nINTERVIEWER: What's been the hardest part?\nNADIA: Staying motivated when no one is checking on me. There's no teacher, no deadline. Some weeks I really have to push myself to sit down and practise.\nINTERVIEWER: Any advice for beginners?\nNADIA: Don't wait until you feel ready. You learn by making bad things first. The bad things are not a problem — they're the lesson."
+  },
+  {
+   "title": "A careers adviser on learning to learn (Ex3)",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear a talk by a careers adviser to a group of school students.\n\nADVISER: Good morning. I want to start with an uncomfortable truth: the job you eventually do may not exist yet. Many of you will work in roles that haven't been invented. That sounds frightening, but it carries a simple piece of advice — the single most valuable thing you can learn at school is how to learn.\n\nLet me explain what I mean. Facts are useful, but facts age. The capital cities won't change much, but the skills employers want shift constantly. Ten years ago, almost nobody listed 'video editing' or 'data analysis' on a CV for an ordinary office job. Today they're everywhere.\n\nSo how do you 'learn to learn'? Three habits. First, get comfortable being a beginner. The people who struggle most later in life are often the ones who were brilliant young and never had to feel clumsy again. Second, treat feedback as a gift, not an attack — the faster you hear what's wrong, the faster you improve. Third, build the habit of doing a little, often. Fifteen minutes a day beats five hours once a month, every single time.\n\nNone of this requires you to be the cleverest person in the room. It requires curiosity and a bit of stubbornness. Stay curious, stay willing to look foolish, and you will keep growing long after this classroom is a distant memory. Thank you."
+  },
+  {
+   "title": "Six speakers on learning (Ex4 — matching)",
+   "accent": null,
+   "exam_part": 4,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear six people talk about learning. For each speaker, choose from the list (A–H) the statement that best matches what they say. There are TWO extra statements you do not need.\n\nOPTIONS — A: I learn best by teaching the subject to someone else. | B: I almost gave up but a community kept me going. | C: I had to unlearn bad habits I taught myself. | D: I only started learning this when I was much older. | E: I prefer learning a little every day to long sessions. | F: I learn fastest from honest feedback, even when it stings. | G: I think natural talent matters more than practice. | H: I gave up because it was too difficult.\n\nSPEAKER 1: I taught myself guitar from videos, which was great — until a real teacher pointed out I'd been holding the instrument wrong for two years. Fixing that took longer than learning it would have in the first place.\n\nSPEAKER 2: Honestly, I was ready to quit my language course. What saved me was an online group of learners who messaged every day. Without them I wouldn't have lasted a month.\n\nSPEAKER 3: I never thought I'd study again at fifty-five, but I enrolled in a history course last autumn. It turns out the brain keeps working just fine — I only wish I'd done it sooner.\n\nSPEAKER 4: The thing that improved my writing most was joining a workshop where people told me exactly what wasn't working. It was hard to hear, but every painful comment made the next draft better.\n\nSPEAKER 5: My trick is tiny and boring: twenty minutes every morning, no matter what. I used to do nothing all week then panic-study for hours. The daily version works far better.\n\nSPEAKER 6: Strangely, I only really understood maths once I started tutoring my younger cousin. Explaining each step out loud forced me to understand it properly myself."
+  },
+  {
+   "title": "Mr Okafor's free coding club (Ex5)",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": null,
+   "script_text": "You will hear an interview with MR OKAFOR, who runs a free weekend coding club for teenagers.\n\nINTERVIEWER: Mr Okafor, why start a free club?\nMR OKAFOR: Because I noticed talent was everywhere, but opportunity wasn't. Plenty of bright kids simply couldn't afford courses. The club removes the price tag.\nINTERVIEWER: What do students struggle with most?\nMR OKAFOR: Not the coding, surprisingly. It's the fear of looking stupid. Many arrive convinced that everyone else already understands, so they stay silent. My first job is to make mistakes feel normal.\nINTERVIEWER: How do you do that?\nMR OKAFOR: I make my own mistakes in front of them, on purpose sometimes. When they see the teacher get an error and just shrug and fix it, something relaxes. The room changes.\nINTERVIEWER: Do students need to be naturally gifted?\nMR OKAFOR: I'd push back on that word. The ones who improve aren't the 'gifted' ones — they're the ones who keep showing up. Persistence beats talent in my experience, every time.\nINTERVIEWER: What happens to your students afterwards?\nMR OKAFOR: Some go into tech, but honestly that's not the point for me. What I care about is that they leave believing they can learn hard things. That belief follows them into everything else."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "04fdaa49-2e9f-4acd-aa3c-7525406ff0ad",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "directed",
+   "register": "informal email to a friend",
+   "title": "Directed writing — informal email (a study spot I found)",
+   "subtopic": "study habits",
+   "difficulty": null,
+   "scenario": "You've found a great new place to study — a quiet corner of your local library, a café, or a community space — and it has really helped you. You want to tell a friend about it.",
+   "instruction": "Write an email to your friend. In your email you should: tell them about the study spot you've found and why you like it; explain how it has helped your studying; suggest they come and try it with you, and say when. Write 120-160 words in a friendly, informal tone.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "tell your friend about the study spot you've found and why you like it",
+    "explain how it has helped your studying",
+    "suggest they come and try it with you, and say when"
+   ],
+   "grammar_focus": [
+    "gerunds vs. infinitives (verb patterns)",
+    "present perfect continuous"
+   ],
+   "required_vocab": [
+    "accessible",
+    "motivation",
+    "self-directed",
+    "supportive",
+    "milestone"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Open warmly",
+      "examples": [
+       "Hi ___, I've been meaning to write for ages — how are you?",
+       "Hey ___! I just had to tell you about a study spot I've found."
+      ]
+     },
+     {
+      "fn": "Describe the spot",
+      "examples": [
+       "It's a quiet little library café where I go to study most afternoons.",
+       "I love working there — it's calm, and there's always a free table."
+      ]
+     },
+     {
+      "fn": "Say how it's helped (present perfect continuous)",
+      "examples": [
+       "I've been studying there every day, and my focus has really improved.",
+       "I've been getting so much more done since I started going."
+      ]
+     },
+     {
+      "fn": "Invite + when",
+      "examples": [
+       "You should come and try it — why don't we go together after school?",
+       "I'd love to show you the place — could you come this weekend?"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a warm email to a friend about a study spot you've found, and invite them.",
+     "points": [
+      {
+       "how": "Tell your friend about the spot — what it is, and why you like it. Keep it warm and chatty, like a real email. 'I've found this quiet café that's perfect for studying.' A gerund fits: 'I love working there.' Paint it so they can picture it.",
+       "point": "tell your friend about the study spot you've found and why you like it"
+      },
+      {
+       "how": "Explain how it's helped your studying — be specific. Present perfect continuous shows the ongoing effect: 'I've been getting so much more done there.' Not just 'it's good' — say what's actually changed for you.",
+       "point": "explain how it has helped your studying"
+      },
+      {
+       "how": "End by inviting them — warmly, and with a real plan. Don't just say 'you should come'. Suggest a when: 'Why don't we go together this Saturday?' Make it easy for them to say yes.",
+       "point": "suggest they come and try it with you, and say when"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Too formal — it's a message to a friend; keep it warm and natural (contractions are fine).",
+     "Forgetting to actually invite them and say when — that's the third content point.",
+     "Just listing facts with no enthusiasm — show why you love the spot."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It's a real email — a friendly greeting and a warm sign-off."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is warm and chatty, the way I'd write to a friend."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: the spot, how it's helped my studying, and an invite with a when."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a gerund/infinitive and a present perfect continuous ('I've been studying there')."
+     },
+     {
+      "ref": "W6",
+      "text": "It flows from the spot, to how it's helped, to the invite."
+     }
+    ],
+    "structure": [
+     {
+      "do": "greet your friend warmly and get to the news",
+      "stage": "Opening"
+     },
+     {
+      "do": "tell them about the study spot you've found and why you like it",
+      "stage": "The spot"
+     },
+     {
+      "do": "explain how it's helped your studying (present perfect continuous: 'I've been studying there...')",
+      "stage": "How it's helped"
+     },
+     {
+      "do": "suggest they come and try it with you, and say when — then a friendly sign-off",
+      "stage": "Invite"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Study & learning",
+       "words": [
+        "accessible",
+        "motivation",
+        "self-directed",
+        "supportive",
+        "milestone"
+       ],
+       "target_words": [
+        "accessible",
+        "motivation",
+        "supportive"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Hi Mia,\n\nGuess what? I've finally found the perfect place to study, and I had to tell you about it. It's a little corner at the back of our local library, right by the window. It's quiet, it's warm, and best of all it's free and totally accessible, so I can just walk in whenever I like.\n\nHonestly, it's done wonders for my studying. I've been working there every afternoon this week, and being surrounded by other focused people gives me so much motivation. The calm atmosphere makes it easy to be self-directed instead of getting distracted by my phone. I even passed a little milestone yesterday and finished an entire chapter of revision! The librarians are really supportive too, and they don't mind helping you find things.\n\nYou have to come and try it with me. How about Saturday morning? We could study for a bit and then grab lunch afterwards.\n\nLet me know!\n\nLove,\nLena",
+   "rubric": {
+    "note": "6+9 (Content /6 + Language /9)",
+    "total": 15,
+    "scheme": "cambridge_paper2",
+    "content": {
+     "max": 6
+    },
+    "language": {
+     "max": 9
+    }
+   },
+   "exam_refs": [
+    "W5"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-03T12:48:00.953791+00:00",
+   "status": "published",
+   "slug": "u9-directed-informal-email-reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "7bcb4ff3-6eae-4fc4-84f0-d205eb18d4e3",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "directed",
+   "register": "formal letter",
+   "title": "Directed writing — formal letter (library study spaces)",
+   "subtopic": "self-taught",
+   "difficulty": null,
+   "scenario": "Your local library has announced it will close its quiet study spaces, saying that very few teenagers use them. Many students rely on these spaces because they cannot study easily at home.",
+   "instruction": "Write a formal letter to the library manager addressing all three points: explain why the study spaces matter to students like you; respond to the claim that teenagers do not use them; suggest one change that would attract more young people. Write in a formal tone.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "explain why the study spaces matter to students like you",
+    "respond to the claim that teenagers do not use them",
+    "suggest one change that would attract more young people"
+   ],
+   "grammar_focus": [
+    "formal register and polite requests: I am writing to..., I would urge you to...",
+    "present perfect continuous for ongoing reliance: students have been relying on these spaces",
+    "gerunds and infinitives in verb patterns: rely on having a quiet space, decide to close"
+   ],
+   "required_vocab": [
+    "accessible",
+    "self-directed",
+    "supportive",
+    "reliable",
+    "facility"
+   ],
+   "scaffolds": {
+    "structure": [
+     "Formal greeting — 'Dear Sir/Madam,' or 'Dear Ms …,'",
+     "Opening: state your purpose clearly — 'I am writing to …'",
+     "Body 1: why the study spaces matter (content point 1)",
+     "Body 2: respond to the 'teenagers don't use them' claim (content point 2)",
+     "Body 3: suggest one change + the benefit it would bring (content point 3)",
+     "Polite close — 'I would be grateful if you would consider …'",
+     "Formal sign-off — 'Yours faithfully,' (unnamed) / 'Yours sincerely,' (named) + full name"
+    ],
+    "tier_hooks": {
+     "extension": {
+      "id": "u9.tier.ext.self-taught",
+      "challenge": "Add a fourth unprompted persuasive point and weave in one counter-argument you then politely answer, without losing formal register."
+     },
+     "intervention": {
+      "id": "u9.tier.int.formal-letter",
+      "support": "Paragraph skeleton with sentence-starters per body point + formal-vs-informal word swaps (get→obtain, ask for→request, put off→postpone)."
+     }
+    },
+    "planning_frame": "For EACH content point, note: (a) the point, (b) one supporting reason, (c) one concrete example or consequence. Three filled rows = three body paragraphs.",
+    "useful_language": {
+     "openers": [
+      "I am writing to express my concern about …",
+      "I understand that the library intends to …"
+     ],
+     "proposing": [
+      "I would therefore suggest that …",
+      "One change that could make a real difference would be …"
+     ],
+     "responding_to_a_claim": [
+      "While it may appear that …, in fact …",
+      "The suggestion that … does not reflect …"
+     ],
+     "topic_chunks_from_bank": [
+      "make study more accessible",
+      "a supportive environment",
+      "encourage engagement among young people"
+     ]
+    },
+    "model_answer_slot": {
+     "owner": "reserved",
+     "status": "RESERVED_PLACEHOLDER"
+    },
+    "register_guidance": {
+     "use": [
+      "full forms, not contractions ('do not', not 'don't')",
+      "polite modal verbs ('would', 'could', 'might')",
+      "impersonal/measured tone",
+      "topic vocabulary precisely"
+     ],
+     "avoid": [
+      "slang and abbreviations",
+      "an over-emotional or demanding tone",
+      "rhetorical questions aimed at the reader"
+     ]
+    },
+    "success_checklist": [
+     "All three content points clearly addressed",
+     "Formal greeting and matching sign-off",
+     "No contractions or slang",
+     "Each paragraph has one clear purpose",
+     "Polite, reasoned tone throughout"
+    ]
+   },
+   "model_answer": "Dear Sir or Madam,\n\nI am writing to express my concern about the planned closure of the library's quiet study spaces.\n\nFor many students, these spaces are essential. I have been relying on them for over a year, because studying at home is almost impossible. The library offers a calm, supportive and accessible environment where I can concentrate and work in a self-directed way.\n\nI understand the claim that few teenagers use these rooms. In my experience, however, this is not true: the spaces are often full during exam periods, and many of us depend on this reliable facility.\n\nRather than closing them, I would urge you to consider keeping them open later in the evening. This one change would attract far more young people and help them to keep learning.\n\nThank you for taking the time to consider my views.\n\nYours faithfully,\nJordan Lee",
+   "rubric": null,
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 1,
+   "created_at": "2026-06-02T10:43:37.272305+00:00",
+   "status": "published",
+   "slug": "7bcb4ff3-SUPERSEDED-u9reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "313ec662-afc2-4176-abb0-ee826f30dcf1",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "extended",
+   "register": "argumentative essay",
+   "title": "Extended writing — argumentative essay (lifelong learning, P-R-R-E)",
+   "subtopic": "changing-world",
+   "difficulty": null,
+   "scenario": "'Everyone should keep learning for life.'",
+   "instruction": "Write an essay giving your views on the statement: 'Everyone should keep learning for life.' Explain your opinion clearly and support it with reasons and examples, using the P-R-R-E frame for each body paragraph.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "a clear position on the motion 'everyone should keep learning for life'",
+    "two or three strong reasons, each built as Point -> Reason -> Result -> Example",
+    "a conclusion that restates your position with a forward-looking thought"
+   ],
+   "grammar_focus": {
+    "note": "Reinforces §7 grammar in authentic use (also wired into speaking S2).",
+    "frame": "P-R-R-E",
+    "gerunds_infinitives": "verb patterns: 'keep learning','decide to retrain','avoid falling behind','choose to adapt'.",
+    "present_perfect_continuous": "duration 'for life': 'people who have been learning throughout their lives','industries have been changing rapidly'."
+   },
+   "required_vocab": [
+    "skills can quickly become obsolete",
+    "adapt to a changing world",
+    "stay relevant",
+    "reach our potential",
+    "a growth mindset",
+    "lifelong learning"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "State position",
+      "examples": [
+       "In my view, …",
+       "I firmly believe that …"
+      ]
+     },
+     {
+      "fn": "Point",
+      "examples": [
+       "One important reason …",
+       "Firstly, …"
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "This is because …",
+       "The reason for this is …"
+      ]
+     },
+     {
+      "fn": "Result",
+      "examples": [
+       "As a result …",
+       "This means that …"
+      ]
+     },
+     {
+      "fn": "Example",
+      "examples": [
+       "For example, …",
+       "Consider …"
+      ]
+     },
+     {
+      "fn": "Conclude",
+      "examples": [
+       "For these reasons …",
+       "Ultimately, …"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write an argumentative essay on whether everyone should keep learning throughout their life.",
+     "points": [
+      {
+       "how": "State where you stand on the motion: should everyone keep learning for life? Reframe it in your words, then commit. 'I firmly believe learning should never stop.' A gerund opens it neatly: 'Learning is a lifelong habit, not a school phase.'",
+       "point": "a clear position on the motion 'everyone should keep learning for life'"
+      },
+      {
+       "how": "Give two or three strong reasons — and build each one fully. Point: state it. Reason: why it's true. Result: what follows. Example: make it real. Don't just list reasons; develop each so it stands up.",
+       "point": "two or three strong reasons, each built as Point -> Reason -> Result -> Example"
+      },
+      {
+       "how": "End by restating your position and looking ahead. Present perfect continuous captures the lifelong span: 'People have been learning their whole lives, and always will.' Don't just repeat — leave a thought about the future.",
+       "point": "a conclusion that restates your position with a forward-looking thought"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Paragraphs that drift off the P-R-R-E spine — keep all four moves (Point, Reason, Result, Example).",
+     "Missing the Example — every reason needs a concrete, specific case.",
+     "A conclusion that just repeats — restate the position with a new forward-looking thought.",
+     "No clear position in the introduction — state your stand up front."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a formal argumentative essay, in clear paragraphs."
+     },
+     {
+      "ref": "W4",
+      "text": "I built each reason as Point, Reason, Result, Example — not just a list."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal and academic, with no slang."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a gerund or infinitive, and a present perfect continuous for the lifelong span."
+     },
+     {
+      "ref": "W6",
+      "text": "My position is clear from the start and built to the end."
+     }
+    ],
+    "structure": [
+     {
+      "do": "hook + restate the issue + state your position clearly",
+      "stage": "Introduction"
+     },
+     {
+      "do": "P-R-R-E unit — your strongest reason (Point -> Reason -> Result -> Example)",
+      "stage": "Body 1"
+     },
+     {
+      "do": "P-R-R-E unit — your second reason",
+      "stage": "Body 2"
+     },
+     {
+      "do": "another P-R-R-E unit, or a brief opposing view answered",
+      "stage": "Body 3 (extension)"
+     },
+     {
+      "do": "restate your position + a forward-looking thought (no simple repeat)",
+      "stage": "Conclusion"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Lifelong-learning chunks",
+       "words": [
+        "skills can quickly become obsolete",
+        "adapt to a changing world",
+        "stay relevant",
+        "reach your potential",
+        "a growth mindset",
+        "lifelong learning"
+       ],
+       "target_words": [
+        "adapt to a changing world",
+        "stay relevant",
+        "lifelong learning"
+       ]
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "In a world that never stops changing, I firmly believe that everyone should keep learning for life.\n\nFirstly, lifelong learning helps us stay relevant at work. Because industries have been changing rapidly, old skills can quickly become obsolete. As a result, people who keep learning are far more likely to keep their jobs. My uncle, for example, decided to retrain in computing at forty and avoided falling behind his younger colleagues.\n\nSecondly, continuing to learn helps us adapt to a changing world and reach our potential. Learning new things builds a growth mindset, the belief that ability can improve with effort. This means we face challenges with confidence rather than fear. I have seen this in my grandmother, who chose to adapt by learning to use video calls and now speaks to relatives abroad every day.\n\nIn conclusion, learning should never stop. Those who have been learning throughout their lives will always be ready for whatever the future brings.",
+   "rubric": {
+    "note": "6+9 (Content /6 + Language /9)",
+    "total": 15,
+    "scheme": "cambridge_paper2",
+    "content": {
+     "max": 6
+    },
+    "language": {
+     "max": 9
+    }
+   },
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-03T12:48:11.127775+00:00",
+   "status": "published",
+   "slug": "u9-extended-essay-reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "a658eba7-d85f-4f5a-a41d-9845a557a0cc",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "extended",
+   "register": "argumentative essay",
+   "title": "Extended writing — argumentative essay (lifelong learning, P-R-R-E)",
+   "subtopic": "changing-world",
+   "difficulty": null,
+   "scenario": "'Everyone should keep learning for life.'",
+   "instruction": "Write an essay giving your views on the statement: 'Everyone should keep learning for life.' Explain your opinion clearly and support it with reasons and examples, using the P-R-R-E frame for each body paragraph.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "a clear position on the motion 'everyone should keep learning for life'",
+    "two or three strong reasons, each built as Point -> Reason -> Result -> Example",
+    "a conclusion that restates your position with a forward-looking thought"
+   ],
+   "grammar_focus": {
+    "note": "Reinforces §7 grammar in authentic use (also wired into speaking S2).",
+    "frame": "P-R-R-E",
+    "gerunds_infinitives": "verb patterns: 'keep learning','decide to retrain','avoid falling behind','choose to adapt'.",
+    "present_perfect_continuous": "duration 'for life': 'people who have been learning throughout their lives','industries have been changing rapidly'."
+   },
+   "required_vocab": [
+    "skills can quickly become obsolete",
+    "adapt to a changing world",
+    "stay relevant",
+    "reach our potential",
+    "a growth mindset",
+    "lifelong learning"
+   ],
+   "scaffolds": {
+    "frame": "P-R-R-E (Point → Reason → Result → Example)",
+    "tier_hooks": {
+     "extension": {
+      "id": "u9.tier.ext.argumentative",
+      "challenge": "Include a genuine counter-argument paragraph and rebut it, keeping every body paragraph on the P-R-R-E spine; more sophisticated hook + non-repetitive conclusion."
+     },
+     "intervention": {
+      "id": "u9.tier.int.changing-world",
+      "support": "Pre-fill ONE P-R-R-E row as a guided example, then ask the student to complete a second row using the same stems; print the four stage-stems beside the writing lines."
+     }
+    },
+    "frame_teaching": {
+     "what_it_is": "P-R-R-E builds ONE body paragraph as four moves: POINT (clear claim) → REASON it holds → RESULT/consequence → concrete EXAMPLE.",
+     "stage_template": {
+      "Point": "'One important reason … / Firstly, …' — state the claim in one sentence.",
+      "Reason": "'This is because … / The reason for this is …' — explain WHY.",
+      "Result": "'As a result … / This means that …' — the consequence.",
+      "Example": "'For example, … / Consider …' — a concrete, specific case."
+     },
+     "why_this_frame": "The unit's distinct argumentative move (different from U8's concede-and-rebut); trains consequential reasoning + exemplification, ideal for a 'should' motion.",
+     "worked_skeleton_NOT_model": "A labelled EMPTY P-R-R-E skeleton is provided to fill; a fully-written worked essay is a reserved owner slot, not supplied."
+    },
+    "planning_frame": "Choose 2–3 reasons. For each, fill a P-R-R-E row: Point / Reason / Result / Example. Each completed row = one body paragraph. Plan BEFORE writing.",
+    "essay_structure": [
+     "Introduction: hook + restate the issue + state YOUR position clearly",
+     "Body 1: P-R-R-E unit (strongest reason)",
+     "Body 2: P-R-R-E unit (second reason)",
+     "Body 3 (optional/extension): P-R-R-E unit OR a brief acknowledgement of the opposing view, answered",
+     "Conclusion: restate position + a final forward-looking thought"
+    ],
+    "useful_language": {
+     "concluding": [
+      "For these reasons …",
+      "Ultimately, …"
+     ],
+     "sequencing": [
+      "Firstly …",
+      "Furthermore …",
+      "Most importantly …"
+     ],
+     "result_links": [
+      "As a result …",
+      "Consequently …",
+      "This means that …"
+     ],
+     "stating_position": [
+      "In my view, …",
+      "I firmly believe that …"
+     ],
+     "topic_chunks_from_bank": [
+      "skills can quickly become obsolete",
+      "adapt to a changing world",
+      "stay relevant",
+      "reach your potential",
+      "a growth mindset",
+      "lifelong learning"
+     ]
+    },
+    "model_answer_slot": {
+     "owner": "reserved",
+     "status": "RESERVED_PLACEHOLDER"
+    },
+    "success_checklist": [
+     "Clear position stated in the introduction",
+     "Each body paragraph follows Point → Reason → Result → Example",
+     "At least one concrete, specific example per paragraph",
+     "Linking words signal the moves (because / as a result / for example)",
+     "Range of topic vocabulary used accurately",
+     "Conclusion restates the position without simply repeating it"
+    ]
+   },
+   "model_answer": "In a world that is changing faster than ever, the idea that we should keep learning throughout our lives has never been more important. I strongly agree that everyone should embrace lifelong learning.\n\nFirstly, continuing to learn helps us to stay relevant at work. In many industries, skills can quickly become obsolete as new technology appears. For example, someone who decided to stop learning after leaving school might struggle to adapt to a changing world, while a colleague who keeps developing new skills will remain far more useful. Workers who have been learning steadily throughout their careers are usually the ones who survive change.\n\nSecondly, learning is not only about employment; it also helps us to reach our potential as people. When we choose to take up a new hobby, language or skill, we often discover talents we never knew we had. A teenager who decides to learn an instrument, for instance, may gain patience and confidence that help them in every other subject. People who avoid trying anything new can feel stuck, whereas those with a growth mindset continue to develop at any age.\n\nOf course, some argue that learning should end once we have a steady job. They believe that further study is simply a waste of time and energy. However, this view ignores how quickly the world moves. Refusing to learn does not make life simpler; in the long run, it only leaves us behind.\n\nIn conclusion, lifelong learning is essential for both our careers and our happiness. If we keep an open, curious mind, we will always be ready for whatever the future brings.",
+   "rubric": null,
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-06-02T10:43:37.272305+00:00",
+   "status": "published",
+   "slug": "a658eba7-SUPERSEDED-u9reauth",
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "af807275-848e-41bc-b05f-96b51713e91a",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "discussion",
+   "title": "Speaking — Learning alone vs with others (S2)",
+   "subtopic": "mentors-communities",
+   "difficulty": null,
+   "topic": "Learning alone vs learning with others",
+   "intro": "Discussion & argument: weigh solo vs collaborative learning, building L0→L4.",
+   "card_points": null,
+   "discussion_questions": [
+    "Is there a skill that can only be learned from another person?",
+    "Could an online community ever fully replace a real teacher?",
+    "Do you learn more from an expert teacher, or from friends and peers learning alongside you?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "I learn best when I study with others (Point), because a peer can explain a tricky idea in a way that finally clicks (Reason), so we collaborate naturally and all improve together (Result) — in a study group last term, we solved problems none of us could crack alone (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether people learn better with others — mentors, peers, communities — or alone, and land a view.",
+     "discussion_how": [
+      {
+       "q": "Is there a skill that can only be learned from another person?",
+       "how": "Give a view, then an example to back it. 'Yes — skills like teamwork or leadership need other people to practise with.' One clear example proves your point. Show where another person is truly needed."
+      },
+      {
+       "q": "Could an online community ever fully replace a real teacher?",
+       "how": "Weigh both, then land on a view. 'A community offers great peer support, but a teacher gives focused guidance a forum can't.' Name what each does well, then say where you stand. A balanced answer is strongest here."
+      },
+      {
+       "q": "Do you learn more from an expert teacher, or from friends and peers learning alongside you?",
+       "how": "Pick a side, then give a reason. 'I learn more from peers — explaining things to each other makes it stick.' Don't sit in the middle; choose one, and say why. A reason turns an opinion into a real answer."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, we learn fastest alongside other people.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'When you collaborate, others spot what you miss, so you improve faster.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare studying alone with a study group where peers explain things to each other. Or contrast struggling solo with a mentor's quick guidance. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, learning alone builds focus and lets you go at your own pace.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Learning with others",
+       "words": [
+        "peer",
+        "collaborate",
+        "mentor",
+        "network"
+       ],
+       "target_words": [
+        "peer",
+        "collaborate"
+       ]
+      },
+      {
+       "label": "What they give",
+       "words": [
+        "guidance",
+        "support",
+        "expertise",
+        "constructive feedback"
+       ],
+       "target_words": [
+        "guidance"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "on balance",
+        "it depends",
+        "that said"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "On balance, I'd say learning with others is usually better — though I'll admit solo learning has real strengths, so it's not a clean win.\n\nLet me give the other side its due first. Alone, you go at your own pace and focus on exactly what you need. For memorising vocabulary or drilling a skill, being on your own is honestly ideal — nobody distracts you.\n\nBut for most things, learning with others wins. When you're stuck, a peer can explain it in a way that suddenly clicks, and you collaborate to crack problems none of you could solve alone. A good teacher adds guidance you can't give yourself — spotting the mistake you can't even see. And it's far harder to give up when others are learning alongside you.\n\nSo my position is simple: learn alone to practise, but learn with others to actually grow.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 4,
+   "created_at": "2026-06-03T12:49:01.008573+00:00",
+   "status": "published",
+   "slug": "u9-speaking-p3-supp-6a2dbd95-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "ac7e9524-80b6-4bd8-a55a-4f8d537088b5",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "discussion",
+   "title": "Speaking — Learning for life (S2, motion-aligned)",
+   "subtopic": "changing-world",
+   "difficulty": null,
+   "topic": "Learning for life",
+   "intro": "Discussion & argument aligned to the debate motion 'Everyone should keep learning for life', building L0→L4.",
+   "card_points": null,
+   "discussion_questions": [
+    "Is it ever too late to learn something new?",
+    "Whose responsibility is it to help adults keep learning — their own, their employer's, or the government's?",
+    "As the world changes faster, is continuing to learn becoming a necessity rather than a choice?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "I believe learning should be lifelong (Point), because the skills we need keep shifting as the world changes (Reason), so people who keep adapting stay useful and confident (Result) — someone who upskills every few years rarely gets left behind (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether people should keep learning throughout life in a fast-changing world — take a position and weigh it.",
+     "discussion_how": [
+      {
+       "q": "Is it ever too late to learn something new?",
+       "how": "Take a view, then give a reason. 'It's never too late — the brain keeps adapting at any age.' Think about what stops people, and whether it's real. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Whose responsibility is it to help adults keep learning — their own, their employer's, or the government's?",
+       "how": "Pick who's responsible, then justify it. 'Mostly employers — they benefit when workers upskill and stay versatile.' Don't just list the three; choose, and say why. A reasoned choice beats naming all of them."
+      },
+      {
+       "q": "As the world changes faster, is continuing to learn becoming a necessity rather than a choice?",
+       "how": "Take a view, with a reason. 'It's becoming a necessity — staying versatile is how people keep up now.' Say whether it's truly forced, or still a choice, then why. A clear reason makes your stand solid."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, learning should never really stop.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'The world keeps changing, so we have to adapt and keep learning to stay useful.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare someone who upskills every few years with someone whose skills slowly go out of date. Or point to how fast technology reshapes everyday jobs. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, people also need rest, and not every moment has to be productive.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "A changing world",
+       "words": [
+        "upskill",
+        "adapt",
+        "evolve",
+        "obsolete"
+       ],
+       "target_words": [
+        "adapt",
+        "upskill"
+       ]
+      },
+      {
+       "label": "Staying able",
+       "words": [
+        "versatile",
+        "resilience",
+        "relevant",
+        "lifelong"
+       ],
+       "target_words": [
+        "versatile",
+        "lifelong"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "on balance",
+        "it depends",
+        "that said"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "On balance, I strongly agree that learning should be lifelong — though I understand why some people push back.\n\nThe counterargument I take most seriously is that it isn't realistic for everyone. An adult with a full-time job and a family may not have the time or money to keep studying, and being told they 'should' can feel unfair.\n\nI'd rebut that in two ways. First, it's never too late — people retrain and upskill at every age; what they lack in speed they make up for in motivation. Second, the responsibility should be shared: employers benefit from skilled, versatile staff, so they should help with training, and governments gain from a capable population too.\n\nAnd the real reason I feel strongly is that the world is changing so fast — jobs are shifting under our feet. Learning to adapt has stopped being a nice extra and become a necessity. That's why I back the motion.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3",
+    "supplementary"
+   ],
+   "feedback_mode": null,
+   "display_order": 5,
+   "created_at": "2026-06-03T12:49:01.008573+00:00",
+   "status": "published",
+   "slug": "u9-speaking-p3-supp-c2e66d6f-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "5d257af2-7f02-4737-9a06-a9b542af9643",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "long-turn",
+   "title": "Speaking Part 2 — Long Turn (learning something new)",
+   "subtopic": "learning something new",
+   "difficulty": null,
+   "topic": "Learning something new",
+   "intro": "You will speak on your own for 1-2 minutes about the topic on the card. You have one minute to prepare. You may make notes — do not write out a script.",
+   "card_points": [
+    "a skill or subject you would like to learn",
+    "why this appeals to you",
+    "how you would go about learning it",
+    "whether it is better to learn alone or with others",
+    "whether people should keep learning throughout their lives"
+   ],
+   "discussion_questions": [
+    "Is the ability to teach yourself becoming more important than what you learn in a classroom?",
+    "Should schools spend more time teaching students how to learn, rather than facts to memorise?",
+    "Do people learn more from their successes or from their mistakes?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "I'd really like to learn another language (Point), because being able to talk with people anywhere would open so many doors (Reason), so I'd practise a little every day and use free apps to keep myself on track (Result) — taking that initiative is how I've picked up new skills before (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "The skill I'd most like to learn is ___.",
+       "I'd like to talk about learning ___."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "It appeals to me because ___, which means ___.",
+       "For example, ___."
+      ]
+     },
+     {
+      "fn": "Weigh a view (for the evaluative points)",
+      "examples": [
+       "Personally, I think it's better to ___, mainly because ___.",
+       "In my view, ___, though I can see the other side."
+      ]
+     },
+     {
+      "fn": "Reflective close",
+      "examples": [
+       "For me, learning this would mean ___.",
+       "More than anything, I'd value ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about a skill or subject you'd like to learn, then discuss learning with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Is the ability to teach yourself becoming more important than what you learn in a classroom?",
+       "how": "Take a view, then give a reason. 'Teaching yourself matters more now — information changes too fast for the classroom alone.' Weigh self-learning against formal lessons, then decide. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Should schools spend more time teaching students how to learn, rather than facts to memorise?",
+       "how": "Give a view, with a reason. 'Yes — knowing how to learn lasts longer than facts you'll forget.' Think about which serves students better over time. Back your view, and it lands."
+      },
+      {
+       "q": "Do people learn more from their successes or from their mistakes?",
+       "how": "Pick a side, then give an example. 'We learn more from mistakes — they show us exactly what to fix.' A quick real example makes your case. Don't sit in the middle; choose, then show why."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name what you'd like to learn, then set it up in a line. 'I'd love to learn to code, something I've been curious about for a while.' Don't just name it — give me a hook before you say why. A clear opening sets the talk up well.",
+       "point": "a skill or subject you would like to learn"
+      },
+      {
+       "how": "Give your real reason, and build it out. 'It appeals to me because I'd love to acquire a skill I can really use.' One genuine reason, developed, beats three thin ones. Say what draws you to it.",
+       "point": "why this appeals to you"
+      },
+      {
+       "how": "Get concrete — how exactly would you learn it? 'I'd start with free tutorials online, then practise a little each day.' Mention real steps: videos, a class, a mentor, daily practice. This is where you show initiative and a self-directed plan.",
+       "point": "how you would go about learning it"
+      },
+      {
+       "how": "Now an evaluative turn — take a view, with a reason. 'I learn best alone, mainly because I can adapt the pace to suit me.' You don't have to be certain; just commit to a view and back it. This shows you can weigh, not just describe.",
+       "point": "whether it is better to learn alone or with others"
+      },
+      {
+       "how": "Another view to take — should people keep learning for life? 'Yes — the world changes fast, so we have to keep learning to keep up.' Give a reason that matters to you. End the talk on this bigger thought.",
+       "point": "whether people should keep learning throughout their lives"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Skipping the evaluative turns (alone-vs-others; keep-learning-for-life) — take a clear view.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I took a clear view on the two evaluative points"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Learning & skill",
+       "words": [
+        "acquire",
+        "self-directed",
+        "proficiency",
+        "tutorial"
+       ],
+       "target_words": [
+        "acquire",
+        "self-directed"
+       ]
+      },
+      {
+       "label": "Approach & drive",
+       "words": [
+        "initiative",
+        "motivation",
+        "resourceful",
+        "step by step"
+       ],
+       "target_words": [
+        "initiative"
+       ]
+      },
+      {
+       "label": "Lifelong",
+       "words": [
+        "lifelong",
+        "adapt",
+        "keep developing",
+        "never finish"
+       ],
+       "target_words": [
+        "adapt"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "The skill I'd most like to learn is how to play the guitar. I've always loved music, and there's something about being able to make it yourself, rather than just listening, that really appeals to me. A guitar is portable too, so you can take it anywhere — to a friend's house, on a trip — which is part of the attraction.\n\nWhy does it appeal so much? I think it would let me relax and express myself at the same time. After a stressful week of studying, sitting down to play a few songs would be a brilliant way to switch off, and being able to play at a gathering with friends would be quite special too.\n\nAs for how I'd go about it, I'd start with the free lessons online, learn the basic chords first, and practise a little every day — that initiative matters most. Then I'd find a teacher or a friend who plays to correct me, because you acquire bad habits on your own, and being self-directed only takes you so far before you need real feedback.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part2"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-03T12:48:39.646273+00:00",
+   "status": "published",
+   "slug": "u9-speaking-part2-longturn-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "b339bdeb-a5c4-4f13-8466-fef1e2feb482",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "discussion",
+   "title": "Speaking Part 3 — Discussion (teaching yourself vs being taught)",
+   "subtopic": "self-taught",
+   "difficulty": null,
+   "topic": "Teaching yourself vs being taught",
+   "intro": "We'll now discuss some broader questions related to the topic.",
+   "card_points": null,
+   "discussion_questions": [
+    "Do you think people learn better by teaching themselves or by being taught? Why?",
+    "Are there some things you simply cannot teach yourself?",
+    "Has technology made teaching yourself easier — or just more overwhelming?",
+    "Should schools spend more time teaching students how to learn independently?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Teaching yourself builds real independence (Point), because you have to find your own answers instead of waiting to be told (Reason), so you slowly become a more self-directed learner (Result) — I taught myself to edit videos that way, and overcame each problem by trial and error (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether people learn better by teaching themselves or being taught — take a position and weigh it.",
+     "discussion_how": [
+      {
+       "q": "Do you think people learn better by teaching themselves or by being taught? Why?",
+       "how": "Take a clear side, then give a reason. 'I learn better teaching myself, because I can go at my own pace.' Don't sit in the middle — pick one, and say why. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Are there some things you simply cannot teach yourself?",
+       "how": "Give a view, then an example to prove it. 'Yes — some skills, like surgery, really need an expert to guide you.' One clear example makes the point land. Show where self-teaching reaches its limit."
+      },
+      {
+       "q": "Has technology made teaching yourself easier — or just more overwhelming?",
+       "how": "Weigh both, then land on a view. 'It's made learning easier, but the flood of choices can be overwhelming too.' Name the upside and the downside, then say where you stand. A balanced answer is strongest here."
+      },
+      {
+       "q": "Should schools spend more time teaching students how to learn independently?",
+       "how": "Give a view, with a reason. 'Yes — teaching students to be autonomous serves them for life, not just for exams.' Think about what lasts beyond school. Back your view, and it lands."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, teaching yourself builds the deepest understanding.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'When you teach yourself, you become more self-directed, so the learning really sticks.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare learning a song from a teacher with figuring it out yourself online. Or contrast a guided class with a hobby you picked up alone. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, a good teacher can help you overcome a problem you'd be stuck on alone.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Self-teaching",
+       "words": [
+        "self-directed",
+        "autonomous",
+        "resourceful",
+        "tutorial"
+       ],
+       "target_words": [
+        "self-directed",
+        "autonomous"
+       ]
+      },
+      {
+       "label": "Process & struggle",
+       "words": [
+        "setback",
+        "overcome",
+        "perseverance",
+        "proficiency"
+       ],
+       "target_words": [
+        "overcome"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "on balance",
+        "it depends",
+        "that said"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "On balance, teaching yourself and being taught both matter — but if I lean one way, the best learning combines them: a teacher for the foundations, self-teaching to go deeper.\n\nI can see the appeal of going it alone. You follow your own curiosity, work at your own pace, and become far more self-directed and autonomous — and what you work out yourself tends to stick.\n\nBut I'd push back on the idea that it's always enough. Anything where you need feedback on your own mistakes is hard alone — pronunciation in a language, technique in a sport — because you can't hear or see your own errors, and a teacher catches them instantly. You can't fully overcome that gap by yourself.\n\nThat's exactly why I think schools should teach us how to learn — how to find reliable sources and check our own work. Then all those online resources become genuinely useful, not just overwhelming.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part3"
+   ],
+   "feedback_mode": null,
+   "display_order": 3,
+   "created_at": "2026-06-03T12:48:50.911914+00:00",
+   "status": "published",
+   "slug": "u9-speaking-part3-discussion-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "c1358ba9-7a88-4770-8992-60f24c727e8b",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (learning & free time)",
+   "subtopic": "learning & free time",
+   "difficulty": null,
+   "topic": "Learning and free time",
+   "intro": "The examiner will ask you some questions about yourself. Answer naturally; these are short, familiar-topic questions to warm up.",
+   "card_points": null,
+   "discussion_questions": [
+    "Tell me about a subject you're studying at the moment.",
+    "What do you usually do to relax when you're not studying?",
+    "Have you taught yourself any hobby or skill outside school?",
+    "Do you prefer learning new things on your own or with other people? Why?",
+    "Is there something you'd like to learn in the future?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I taught myself to play the guitar (Point), because I wanted to acquire a new skill at my own pace (Reason), so I practised a little every evening (Result) — and the motivation to play a favourite song kept me going (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name something + a reason",
+      "examples": [
+       "The subject I enjoy most is ___, because ___.",
+       "One skill I taught myself is ___, by ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions on studying, hobbies and learning — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Tell me about a subject you're studying at the moment.",
+       "how": "Name the subject, then say something about it — don't stop at the name. 'I'm studying biology, and I love how it explains everyday things.' One reason or detail brings a flat answer to life. Say why you find it interesting, or hard."
+      },
+      {
+       "q": "What do you usually do to relax when you're not studying?",
+       "how": "Name what you do, then add why it relaxes you. 'I listen to music, mainly because it helps me switch off after a long day.' One activity plus one reason is plenty. A small detail makes it feel real."
+      },
+      {
+       "q": "Have you taught yourself any hobby or skill outside school?",
+       "how": "Say what it is, then how you picked it up. 'Yes — I taught myself to cook by watching videos online.' Even a simple skill counts; add how you learned it. If it's no, say what you'd like to teach yourself."
+      },
+      {
+       "q": "Do you prefer learning new things on your own or with other people? Why?",
+       "how": "State your preference, then justify it. 'On my own, mainly because I can go at my own pace.' There's no wrong answer — just give an honest reason. 'Mainly because...' is a handy way to start."
+      },
+      {
+       "q": "Is there something you'd like to learn in the future?",
+       "how": "Name it, then say why — your motivation makes it real. 'I'd love to learn another language, mainly because it would open up new cultures.' A clear reason makes a goal sound genuine. Even a small ambition works well here."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named something specific and said why"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Learning",
+       "words": [
+        "acquire",
+        "self-directed",
+        "tutorial",
+        "pick up"
+       ],
+       "target_words": [
+        "acquire"
+       ]
+      },
+      {
+       "label": "Why you enjoy it",
+       "words": [
+        "motivation",
+        "hobby",
+        "relax",
+        "curious"
+       ],
+       "target_words": [
+        "motivation"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "especially when",
+        "what I like is",
+        "to be honest"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "Part1"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-03T12:48:39.646273+00:00",
+   "status": "published",
+   "slug": "u9-speaking-part1-interview-reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "505c6e3f-8d83-4db0-a79c-023181d791d6",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "extended-response",
+   "title": "Speaking — Something you taught yourself (S1)",
+   "subtopic": "self-taught",
+   "difficulty": null,
+   "topic": "Something you taught yourself",
+   "intro": "Individual extended turn: talk about something you taught yourself, building L0→L4.",
+   "card_points": null,
+   "discussion_questions": [
+    "Would you recommend learning that way to a friend?",
+    "What advice would you give to someone just starting?"
+   ],
+   "scaffolds": {
+    "ladder": [
+     {
+      "task": "Have you ever learned something without a teacher? (yes/no, then name it)",
+      "level": "L0",
+      "purpose": "Activate",
+      "scaffold": {
+       "starters": [
+        "Yes, I once learned how to …",
+        "No, but I'd like to learn …"
+       ]
+      }
+     },
+     {
+      "task": "What did you learn, and how did you learn it?",
+      "level": "L1",
+      "purpose": "Short facts",
+      "scaffold": {
+       "starters": [
+        "I learned … by …",
+        "I used videos / an app / a friend to …"
+       ],
+       "key_language": [
+        "tutorial",
+        "online course",
+        "step by step"
+       ]
+      }
+     },
+     {
+      "task": "Why did you decide to learn it on your own rather than in a class?",
+      "level": "L2",
+      "purpose": "Give a reason",
+      "scaffold": {
+       "starters": [
+        "I taught myself because …",
+        "There was no class, so …"
+       ],
+       "key_language": [
+        "self-directed",
+        "accessible",
+        "motivation"
+       ]
+      }
+     },
+     {
+      "task": "Describe one difficulty you had and how you got past it. Speak for about a minute.",
+      "level": "L3",
+      "purpose": "Extend with an example",
+      "scaffold": {
+       "starters": [
+        "The hardest part was …",
+        "At first I couldn't …, but then …"
+       ],
+       "key_language": [
+        "setback",
+        "overcome",
+        "reflection",
+        "perseverance"
+       ]
+      }
+     },
+     {
+      "task": "Looking back, do you think teaching yourself was a good way to learn? Why or why not?",
+      "level": "L4",
+      "purpose": "Evaluate",
+      "scaffold": {
+       "starters": [
+        "On balance, …",
+        "It worked well because …, although …"
+       ],
+       "key_language": [
+        "autonomous",
+        "resourceful",
+        "proficiency"
+       ]
+      }
+     }
+    ],
+    "ladder_key": {
+     "L0": "Activate — warm-up, single-word / yes-no, lowest pressure",
+     "L1": "Short factual answers at sentence level",
+     "L2": "Connect ideas — give a reason",
+     "L3": "Extended turn — develop with an example",
+     "L4": "Discuss & argue — take and defend a position, handle a counter-view"
+    },
+    "model_response_slot": {
+     "owner": "reserved",
+     "status": "RESERVED_PLACEHOLDER"
+    }
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 91,
+   "created_at": "2026-06-02T10:57:36.450043+00:00",
+   "status": "published",
+   "slug": "505c6e3f-SUPERSEDED-u9reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "c2e66d6f-9d43-4c8a-8c2d-47918228b64d",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "discussion-and-argument",
+   "title": "Speaking — Learning for life (S2, motion-aligned)",
+   "subtopic": "changing-world",
+   "difficulty": null,
+   "topic": "Learning for life",
+   "intro": "Discussion & argument aligned to the debate motion 'Everyone should keep learning for life', building L0→L4.",
+   "card_points": null,
+   "discussion_questions": [
+    "Is it ever too late to learn something new?",
+    "Whose responsibility is it to help adults keep learning — their own, their employer's, or the government's?"
+   ],
+   "scaffolds": {
+    "ladder": [
+     {
+      "task": "Do you think learning should stop when you leave school? (yes/no)",
+      "level": "L0",
+      "purpose": "Activate",
+      "scaffold": {
+       "starters": [
+        "Yes.",
+        "No.",
+        "I'm not sure."
+       ]
+      }
+     },
+     {
+      "task": "Name one thing an adult might want to learn after they finish school.",
+      "level": "L1",
+      "purpose": "Short facts",
+      "scaffold": {
+       "starters": [
+        "An adult might learn …",
+        "Some people study …"
+       ],
+       "key_language": [
+        "upskill",
+        "broaden",
+        "relevant"
+       ]
+      }
+     },
+     {
+      "task": "Why might someone need to keep learning new skills throughout their working life?",
+      "level": "L2",
+      "purpose": "Give a reason",
+      "scaffold": {
+       "starters": [
+        "They need to keep learning because …",
+        "If they refuse to adapt, …"
+       ],
+       "key_language": [
+        "obsolete",
+        "adapt",
+        "evolve",
+        "cope"
+       ],
+       "grammar_focus": "gerund/infinitive (keep learning / refuse to adapt)"
+      }
+     },
+     {
+      "task": "Give an example of how the world has been changing in a way that forces people to keep learning.",
+      "level": "L3",
+      "purpose": "Extend with an example",
+      "scaffold": {
+       "starters": [
+        "The world has been changing because …",
+        "For example, technology has been …"
+       ],
+       "key_language": [
+        "innovation",
+        "versatile",
+        "potential"
+       ],
+       "grammar_focus": "present perfect continuous (has been changing)"
+      }
+     },
+     {
+      "task": "'Everyone should keep learning for life.' Do you agree? Defend your view and respond to someone who disagrees.",
+      "level": "L4",
+      "purpose": "Discuss & argue",
+      "scaffold": {
+       "note": "Mirrors the extended-writing motion — lets speaking and writing reinforce the same argument.",
+       "starters": [
+        "I strongly agree that …",
+        "Someone might object that …, but …"
+       ],
+       "key_language": [
+        "mindset",
+        "lifelong",
+        "resilience"
+       ]
+      }
+     }
+    ],
+    "ladder_key": {
+     "L0": "Activate — warm-up, single-word / yes-no, lowest pressure",
+     "L1": "Short factual answers at sentence level",
+     "L2": "Connect ideas — give a reason",
+     "L3": "Extended turn — develop with an example",
+     "L4": "Discuss & argue — take and defend a position, handle a counter-view"
+    },
+    "motion_link": "Everyone should keep learning for life",
+    "model_response_slot": {
+     "owner": "reserved",
+     "status": "RESERVED_PLACEHOLDER"
+    }
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": {
+    "gerunds_infinitives": "'keep learning','refuse to adapt','choose to retrain'",
+    "present_perfect_continuous": "central: 'people who have been learning all their lives','the world has been changing'"
+   },
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 93,
+   "created_at": "2026-06-02T10:57:36.450043+00:00",
+   "status": "published",
+   "slug": "c2e66d6f-SUPERSEDED-u9reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "6a2dbd95-379b-42e5-add2-7eacbee1ce38",
+   "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0",
+   "task_type": "discussion-and-argument",
+   "title": "Speaking — Learning alone vs with others (S2)",
+   "subtopic": "mentors-communities",
+   "difficulty": null,
+   "topic": "Learning alone vs learning with others",
+   "intro": "Discussion & argument: weigh solo vs collaborative learning, building L0→L4.",
+   "card_points": null,
+   "discussion_questions": [
+    "Is there a skill that can only be learned from another person?",
+    "Could an online community ever fully replace a real teacher?"
+   ],
+   "scaffolds": {
+    "ladder": [
+     {
+      "task": "Do you prefer studying alone or with other people? (one word is fine)",
+      "level": "L0",
+      "purpose": "Activate",
+      "scaffold": {
+       "starters": [
+        "Alone.",
+        "With others.",
+        "It depends."
+       ]
+      }
+     },
+     {
+      "task": "Name one good thing about studying with other people.",
+      "level": "L1",
+      "purpose": "Short facts",
+      "scaffold": {
+       "starters": [
+        "One good thing is …",
+        "You can ask …"
+       ],
+       "key_language": [
+        "peer",
+        "support",
+        "encouragement"
+       ]
+      }
+     },
+     {
+      "task": "Why do some people prefer to learn with a group or a mentor?",
+      "level": "L2",
+      "purpose": "Give a reason",
+      "scaffold": {
+       "starters": [
+        "Many people enjoy learning with others because …",
+        "They decide to join a group so that …"
+       ],
+       "key_language": [
+        "guidance",
+        "collaborate",
+        "expertise",
+        "network"
+       ],
+       "grammar_focus": "gerund/infinitive verb patterns (enjoy learning / decide to join)"
+      }
+     },
+     {
+      "task": "Talk about a group, club or online community you (or someone you know) have been part of. How has it helped?",
+      "level": "L3",
+      "purpose": "Extend with an example",
+      "scaffold": {
+       "starters": [
+        "I have been learning … with …",
+        "Since I joined, I have been …"
+       ],
+       "key_language": [
+        "engagement",
+        "supportive",
+        "inspire"
+       ],
+       "grammar_focus": "present perfect continuous (have been learning / have been studying)"
+      }
+     },
+     {
+      "task": "Some say the internet means we no longer need teachers or mentors at all. How far do you agree?",
+      "level": "L4",
+      "purpose": "Discuss & argue",
+      "scaffold": {
+       "starters": [
+        "I partly agree, because …",
+        "However, I would argue that …"
+       ],
+       "key_language": [
+        "autonomous",
+        "guidance",
+        "constructive feedback"
+       ]
+      }
+     }
+    ],
+    "ladder_key": {
+     "L0": "Activate — warm-up, single-word / yes-no, lowest pressure",
+     "L1": "Short factual answers at sentence level",
+     "L2": "Connect ideas — give a reason",
+     "L3": "Extended turn — develop with an example",
+     "L4": "Discuss & argue — take and defend a position, handle a counter-view"
+    },
+    "model_response_slot": {
+     "owner": "reserved",
+     "status": "RESERVED_PLACEHOLDER"
+    }
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": {
+    "gerunds_infinitives": "elicited by tasks: 'enjoy learning','prefer studying','decide to join','want to ask'",
+    "present_perfect_continuous": "elicited by L3/L4: 'I have been learning … with a group','people who have been studying together'"
+   },
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 92,
+   "created_at": "2026-06-02T10:57:36.450043+00:00",
+   "status": "published",
+   "slug": "6a2dbd95-SUPERSEDED-u9reauth",
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

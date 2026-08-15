@@ -1,0 +1,722 @@
+{
+ "_about": "Real live content for Writing Paper Technique (writing-paper-technique). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": "E2",
+  "slug": "writing-paper-technique",
+  "title": "Writing Paper Technique",
+  "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+  "kind": "exam-technique"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Directed Writing: Covering Every Content Point",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "writing_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Register and Tone: Matching Voice to Audience",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "word_sort",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "The 5-Minute Plan: Structuring Before You Write",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "Common Mark-Loss Patterns and How to Avoid Them",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "Structuring a Summary Response",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "writing_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "Proofreading Strategy: Catching Errors in the Final Minutes",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "reading_passages": [],
+ "listening_tracks": [],
+ "writing_tasks": [
+  {
+   "id": "fb08395b-00bb-4751-b518-0f410fd1c94a",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "article",
+   "register": "formal",
+   "title": "An article on extending the school library's opening hours",
+   "subtopic": "Directed writing - formal (Exercise 6 style)",
+   "difficulty": "core",
+   "scenario": "Your school is considering extending the library's opening hours into the evening. Write an article for the school magazine giving your views, based on the two ideas below: some students say they need quiet space to study after school, while others worry the library already closes too early for anyone with after-school clubs to use it.",
+   "instruction": "Your article should:\n- explain why extended hours would help students\n- address the concern about clubs finishing late\n- recommend that the school trial the change",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "explain the specific benefit of extra quiet study time after school",
+    "acknowledge and respond to the concern about students finishing clubs too late to use the library",
+    "make a clear, direct recommendation that the school trial extended hours"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Should the Library Stay Open Later?\n\nFor many students, the school library is the only quiet place to study once lessons end. At the moment it closes at four, which is often exactly when after-school clubs are still running - meaning students who play sport or attend rehearsals are locked out of the one space designed for concentrated work.\n\nSome staff have pointed out that keeping the library open later would mean covering extra staffing hours, and that few students would actually stay. This is a fair concern, but it overlooks a simple pattern: club activities themselves run until five or five-thirty, so a library that closes at four is already unusable for exactly the students who need it most once their club finishes.\n\nFor this reason, the school should trial extending library hours until six o'clock for a single term. If usage numbers are low, the trial can simply end - but if, as seems likely, students value the extra time, a small change to the timetable could make a genuine difference to how well students are able to work.",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points addressed with relevant, specific detail, not vague generalisation."
+    },
+    {
+     "exam_ref": "W4",
+     "criterion": "Development",
+     "descriptor": "Ideas are extended with reasons and consequences, including a considered response to the counter-view."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently formal, persuasive magazine-article tone with a clear title."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical structure (benefit -> counter-argument addressed -> recommendation) with effective linking."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate conditional and concessive structures (e.g. \"This is a fair concern, but...\") used with control."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points, formal register, structure, accuracy, word count",
+    "human": "nuanced feedback on persuasiveness and how convincingly the counter-argument is handled"
+   },
+   "display_order": 4,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "240f0eb7-e459-4d14-9dfe-ebad09896d2e",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "email",
+   "register": "informal",
+   "title": "An email to a friend about a cancelled trip",
+   "subtopic": "Directed writing - informal (Exercise 5 style)",
+   "difficulty": "core",
+   "scenario": "Your school's trip to the science museum has just been cancelled because of a transport problem. Write an email to your friend Sam, who was really looking forward to it.",
+   "instruction": "In your email:\n- tell Sam that the trip has been cancelled and explain why\n- say how you feel about it\n- suggest something the two of you could do instead",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "explain clearly that the trip is cancelled and give the transport reason",
+    "share a genuine personal reaction (disappointment, frustration, etc.)",
+    "propose one specific alternative activity and a concrete day/time to do it"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Hi Sam,\n\nI have some annoying news - the museum trip on Friday has been cancelled. Mr. Patel told us this morning that the coach company cancelled on us at the last minute because two of their drivers are off sick, and the school couldn't find another coach in time.\n\nI know you'd been looking forward to the robotics exhibit all term, so I'm guessing you're as gutted as I am. Honestly I was really disappointed too - we'd planned the whole day around it, and now Friday just feels like a normal school day again.\n\nSince we're both free that afternoon anyway, why don't we go to the science centre downtown instead? It's got a smaller robotics section but it's still worth seeing, and we could go straight after school on Friday if your mum can pick us up at five. Let me know what you think!\n\nSpeak soon,\nAlex",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points covered: cancellation + reason, genuine feeling, one specific alternative."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently warm, informal tone suited to a close friend (greeting, contractions, sign-off)."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Clear email format with logically ordered paragraphs (news, feelings, plan)."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate everyday vocabulary and simple/compound sentence control suited to an informal register."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points covered, informal register, basic accuracy, word count",
+    "human": "nuanced feedback on warmth, naturalness of tone and persuasiveness of the alternative plan"
+   },
+   "display_order": 1,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "08183e07-85b7-4d53-9ca0-00946c574386",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "letter",
+   "register": "informal",
+   "title": "A letter to a cousin about moving to a new city",
+   "subtopic": "Directed writing - informal (Exercise 5 style)",
+   "difficulty": "core",
+   "scenario": "Your family has just moved to a new city for your parent's job. Write a letter to your cousin Jamie, who you used to see every week, telling them about the move.",
+   "instruction": "In your letter:\n- explain why your family moved and how you feel about leaving your old home\n- describe one thing about the new city that has surprised you\n- ask Jamie for advice about making new friends at your new school",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "give the reason for the move and a genuine reaction to leaving the old home",
+    "describe one specific, concrete surprise about the new city",
+    "ask a real question inviting Jamie's advice on making friends"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Dear Jamie,\n\nI still can't believe I'm writing to you from a different city! We moved three weeks ago because Mum got a new job managing a hospital here, and honestly it's been strange - I really miss being able to just walk over to your house after school.\n\nOne thing that has genuinely surprised me is how much bigger the school is - my old school had about 400 students, but this one has almost 1,200, and the corridors are so busy between lessons that I got lost twice in my first week!\n\nSince you're so much better than me at meeting new people, I wanted to ask - how did you make friends so quickly when your family moved two years ago? I've got a few people to say hello to in class, but I don't know how to actually become proper friends with anyone yet. Any tips would really help.\n\nWrite back soon,\nPriya",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points covered with specific, relevant detail (not generic)."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Warm, personal, informal tone suited to a cousin the writer knows well."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Clear letter format; ideas flow logically from move, to city, to the question for Jamie."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate past-tense narration and comparative structures used naturally."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points covered, informal register, basic accuracy, word count",
+    "human": "nuanced feedback on genuineness of voice and whether the question to Jamie feels natural"
+   },
+   "display_order": 2,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "052f6c85-1302-4ad3-afab-1f42dc9fa971",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "email",
+   "register": "informal",
+   "title": "An email to a family member about joining a new club",
+   "subtopic": "Directed writing - informal (Exercise 5 style)",
+   "difficulty": "core",
+   "scenario": "You have just joined your school's photography club. Write an email to your older sibling, who is away at university, telling them about it.",
+   "instruction": "In your email:\n- explain why you decided to join the club\n- describe what happened at your first meeting\n- invite your sibling to look at some of your photos when they next visit",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "give a genuine reason for joining the club",
+    "describe one specific, concrete detail from the first meeting",
+    "make a direct, specific invitation tied to their next visit home"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Hi Ravi,\n\nGuess what - I finally joined the photography club! I'd been thinking about it since summer because I kept taking pictures on my phone and wanting to get better at framing them properly, and a few of my friends said the club actually teaches you that.\n\nThe first meeting was last Tuesday, and it was honestly better than I expected. Ms. Chen showed us how to use manual focus on the school's old cameras, and I took a photo of the courtyard at sunset that actually looks half-decent - I'll admit I was pretty proud of it.\n\nWhen you're back for the winter break, can I show you some of the photos I've taken so far? I'd really like your opinion since you always notice things I miss.\n\nMiss you loads,\nAnjali",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points covered with specific rather than vague detail."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Warm, informal tone appropriate to an older sibling; natural affectionate sign-off."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical paragraphing moving from reason to event to invitation."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate past-simple narrative tense and natural everyday vocabulary."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points covered, informal register, basic accuracy, word count",
+    "human": "nuanced feedback on how vivid and specific the first-meeting description is"
+   },
+   "display_order": 3,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "71ada61e-063f-4187-b5c6-552ad2ce5a10",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "report",
+   "register": "formal",
+   "title": "A report on introducing a school recycling scheme",
+   "subtopic": "Directed writing - formal (Exercise 6 style)",
+   "difficulty": "core",
+   "scenario": "Your school council asked students to investigate whether the school should introduce a proper recycling scheme. A survey found that most students throw away paper and plastic without separating it, and a nearby school's recycling scheme reportedly reduced their waste bill significantly. Write a report for the school council presenting your findings and a recommendation.",
+   "instruction": "Your report should:\n- summarise the current problem with waste at the school\n- explain what a recycling scheme could involve, step by step\n- recommend that the council introduce the scheme and say why",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "state the current problem clearly, using the survey finding about mixed waste",
+    "outline a practical scheme in clear, ordered steps (bins, labelling, education)",
+    "make an explicit recommendation supported by a reason such as cost or environmental benefit"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Report on Introducing a Recycling Scheme\n\nPurpose\nThis report presents findings on classroom waste and recommends whether the school should introduce a recycling scheme.\n\nFindings\nA recent student survey found that most classrooms currently have only a single bin, meaning paper, plastic and food waste are thrown away together. This makes it impossible for any of it to be recycled once collected. A nearby school introduced a colour-coded bin system last year and reported a significant reduction in its overall waste collection costs.\n\nProposed Scheme\nThe scheme could be introduced in three steps. First, each classroom would receive two labelled bins, one for paper and one for general waste. Second, a short assembly would explain what belongs in each bin, since confusion is the main reason mixed waste currently occurs. Third, a termly check by student volunteers would monitor whether bins are being used correctly and report any problems back to the council.\n\nRecommendation\nIt is recommended that the council approve this scheme from next term. Given the clear success of a similar scheme nearby, both the cost savings and the environmental benefit make this a low-risk, high-value change for the school to make.",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points addressed with relevant, practical detail."
+    },
+    {
+     "exam_ref": "W4",
+     "criterion": "Development",
+     "descriptor": "The proposed scheme is developed as a genuine step-by-step process, not just listed."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently formal, objective report tone with clear headed sections suited to a school council."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical sections (findings -> proposal -> recommendation) with effective linking."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate passive voice and sequencing language (first, second, third) used with control."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points, formal register, sectioning, accuracy, word count",
+    "human": "nuanced feedback on objectivity and strength of the final recommendation"
+   },
+   "display_order": 5,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "5d5670fc-6003-4e2b-9952-d53e89ebbf58",
+   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50",
+   "task_type": "letter",
+   "register": "formal",
+   "title": "A letter to a newspaper editor about student bus services",
+   "subtopic": "Directed writing - formal (Exercise 6 style)",
+   "difficulty": "core",
+   "scenario": "A local newspaper published an article saying that many students are late to school because the local bus service is unreliable, and some parents complained that there are not enough buses at peak times. Write a letter to the newspaper's editor giving your view and suggesting a solution.",
+   "instruction": "Your letter should:\n- explain the problem the article describes and why it matters for students\n- respond to the concern that adding more buses would be too costly\n- suggest a specific, realistic solution",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "explain the problem and its real consequence (lateness, lost learning time) for students",
+    "acknowledge the cost concern and respond to it directly rather than ignoring it",
+    "propose one specific, realistic solution such as a schedule change or a shared route"
+   ],
+   "grammar_focus": null,
+   "required_vocab": null,
+   "scaffolds": null,
+   "model_answer": "Dear Editor,\n\nI am writing in response to your recent article on unreliable school bus services in our area. As a student who relies on the bus every morning, I can confirm that the problem is real: on at least two mornings a week, the bus is either overcrowded or ten minutes late, and this often means arriving at school after the first lesson has already begun.\n\nSome readers have argued that adding more buses at peak times would be too expensive for the local council to justify. This is a reasonable concern, but a full new fleet is not the only option. A more affordable solution would be to stagger the two nearest school start times by fifteen minutes, spreading demand across two bus runs instead of concentrating it into one overcrowded service.\n\nI would urge the council to trial this staggered approach before assuming that only an expensive new fleet could solve the problem. It would cost very little to test, and it could make a real difference to students who are currently losing valuable learning time every week.\n\nYours faithfully,\nA concerned student",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points addressed with a specific, real consequence and a specific solution, not vague complaint."
+    },
+    {
+     "exam_ref": "W4",
+     "criterion": "Development",
+     "descriptor": "The cost objection is genuinely engaged with and countered, not simply dismissed."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently formal letter-to-the-editor register, with an appropriate formal closing."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical structure (problem -> counter-argument addressed -> solution) with effective linking."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate concessive and conditional structures used with control (e.g. \"This is a reasonable concern, but...\")."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "G1"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points, formal register, structure, accuracy, word count",
+    "human": "nuanced feedback on persuasiveness and realism of the proposed solution"
+   },
+   "display_order": 6,
+   "created_at": "2026-07-08T07:41:32.550171+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": []
+}

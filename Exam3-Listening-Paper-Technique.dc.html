@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <script src="./listening-audio.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #b07a1e; } a:hover { color: #8a5f13; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="E3 · Title" data-speaker-notes="Standalone exam-technique deck for the Listening paper. Each rep now has a recording — press play (it is spaced to play twice). The printed scripts remain in the speaker-notes as a backup. Five clinics: note-taking, gap-fill traps, prediction, transcription/spelling, and tracking long audio. Read the title, then how-this-works." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#b07a1e;">Exam Technique · Paper 3</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:92px;line-height:.98;margin:0;letter-spacing:-.015em;">Listening Paper<br>Technique</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">You only hear it twice. This is how to catch it.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">5 clinics · 12 min each</span>
+        <span style="color:#8a8478;">Note-taking · gap-fill traps · prediction · spelling · long audio</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#efe6d4;display:flex;align-items:center;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-weight:700;font-size:340px;line-height:1;color:#e0a13c;opacity:.85;">3</div>
+      <div style="position:absolute;bottom:70px;left:0;right:0;text-align:center;font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#8a6a2e;">Paper 3 · Listening</div>
+    </div>
+  </section>
+
+  <section data-label="How This Works" data-screen-label="E3 · How this works" data-speaker-notes="Set expectations. A technique clinic, not new content. Each rep has a recording — press play, twice, at a steady pace; the scripts remain in the speaker-notes as a backup. Every clinic: the trap, the fix, and a listen-and-do rep. Pens ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">How each clinic works</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:14px 0 30px;">The trap · the fix · a listen-and-do rep</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">1 · The trap</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">The listening habit that loses the mark in the moment.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">2 · The fix</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">A move you make in the pause and during playback.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">3 · A rep</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">Press play &mdash; the clip plays twice; you do it for real.</div></div>
+    </div>
+    <div style="margin-top:30px;background:rgba(232,181,106,.14);border:1px solid rgba(232,181,106,.4);border-radius:14px;padding:22px 34px;font-size:28px;line-height:1.4;color:#f4efe6;"><strong style="color:#e8b56a;">Teacher note:</strong> press play on each rep — the recording plays. Play it <strong>twice</strong> (use replay) at exam pace; a printed script is in each rep slide's speaker-notes as a backup.</div>
+  </section>
+
+  <!-- CLINIC 1 -->
+  <section data-label="1 · Note-Taking" data-screen-label="E3 C1 · The trap + fix" data-speaker-notes="Clinic 1: note-taking during playback. The trap is writing full words and missing the next sentence. The fix: abbreviate, use symbols, capture only content words. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 1 · Note-taking during playback</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Capture without <span style="color:#b07a1e;">losing the thread</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Writing a full sentence while the recording moves on — so you miss the next answer trying to finish the last. The audio does not wait.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · notes, not sentences</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Jot only content words — nouns, numbers, names. Abbreviate ("b/c", "→", "£"). You have two hearings: catch the gist first time, fill detail the second.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Leave a blank rather than freeze. A gap you return to on the second listen beats three missed answers.</div>
+  </section>
+
+  <section data-label="1 · Listen Rep" data-screen-label="E3 C1 · Note rep" data-speaker-notes="TEACHER SCRIPT — read each recording aloud twice, steady pace.&#10;[Recording 1] The library will close at three o'clock today, not the usual five, because the shelves are being replaced. Books due back today can be returned tomorrow without a fine.&#10;[Recording 2] Because the pitch is waterlogged, this afternoon's practice moves indoors to the sports hall. Bring trainers, not boots.&#10;[Recording 3] 'I thought the 42 left at ten past.' 'They changed it last week. It's twenty past now, so we've got ten minutes.'&#10;[Recording 4] The guided tour starts from the courtyard, not the main entrance as printed on your ticket. It leaves in fifteen minutes.&#10;Give students the second read, then reveal answers." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="60" label="Note"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · four short recordings · play it twice</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 14px;">Note only the content word that answers each</h2>
+    <div style="margin:0 0 16px;"><listening-audio label="Four short recordings" src="https://ygvslhxyglgfzqxyeubk.supabase.co/storage/v1/object/public/listening-audio/diagnostic/ex3-0d5eb4b5-4cd1-4706-97ec-d1296525aece.mp3" plays="2" gap="4" rate="0.95" script="Recording one. The library will close at three o'clock today, not the usual five, because the shelves are being replaced. Books due back today can be returned tomorrow without a fine. / Recording two. Because the pitch is waterlogged, this afternoon's practice moves indoors to the sports hall. Bring trainers, not boots. / Recording three. I thought the forty-two bus left at ten past. They changed it last week; it is twenty past now, so we have got ten minutes. / Recording four. The guided tour starts from the courtyard, not the main entrance as printed on your ticket. It leaves in fifteen minutes."></listening-audio></div>
+    <div style="display:flex;flex-direction:column;gap:13px;font-size:28px;line-height:1.32;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">1. What time does the library close today? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">2. What should players bring to the sports hall? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">3. What time does the number 42 bus now leave? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">4. Where does the guided tour start? <span style="color:#b89a4a;">______</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> 1 · three o'clock · 2 · trainers (not boots) · 3 · twenty past · 4 · the courtyard. Notice each one <em>corrects</em> an expected answer — that's the next clinic.</div>
+  </section>
+
+  <!-- CLINIC 2 -->
+  <section data-label="2 · Gap-Fill Traps" data-screen-label="E3 C2 · The trap + fix" data-speaker-notes="Clinic 2: gap-fill traps. The trap is writing the first number/word you hear — but speakers often correct themselves ('not five, three'). The fix: listen to the END of the sentence before committing. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 2 · Gap-fill traps</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">The obvious word is often <span style="color:#b07a1e;">wrong</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Writing the first number or word you hear. Speakers correct themselves: "the letter said eight thirty — but it's actually eight fifteen." The first figure is the decoy.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · wait for the correction</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Hear the <em>whole</em> sentence before you write. Listen for "not… but…", "actually", "changed to", "instead of" — the real answer usually comes after them.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Signal words that flag a correction coming: <strong>actually · in fact · rather than · now · instead · sorry, I mean</strong>.</div>
+  </section>
+
+  <section data-label="2 · Listen Rep" data-screen-label="E3 C2 · Gap-fill rep" data-speaker-notes="TEACHER SCRIPT — read aloud twice, steady pace.&#10;Good morning. A few details about Friday's trip to the science museum — one or two things have changed, so listen rather than relying on the letter. The coach leaves from the school car park at eight fifteen. That is fifteen minutes earlier than the letter said, because of roadworks. Bring a packed lunch — the cafe gets extremely busy at midday and we will not have time to queue. You do not need money for the entrance, which the school has already paid. We will be back at school by half past four — tell your family half past four, not four o'clock.&#10;Reveal answers after the second read." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="60" label="Fill"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · complete the notes · play it twice</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 14px;">Beware the first number you hear</h2>
+    <div style="margin:0 0 16px;"><listening-audio label="A talk about the school trip" src="https://ygvslhxyglgfzqxyeubk.supabase.co/storage/v1/object/public/listening-audio/diagnostic/ex3-526f378e-aca8-43d0-aa05-8f405cbb24e5.mp3" plays="2" gap="4" rate="0.95" script="Good morning. A few details about Friday's trip to the science museum. One or two things have changed, so listen carefully rather than relying on the letter. / The coach leaves from the school car park at eight fifteen. That is fifteen minutes earlier than the letter said, because of the roadworks. / Bring a packed lunch. The cafe gets extremely busy at midday and we will not have time to queue. / You do not need money for the entrance, which the school has already paid. / We will be back at school by half past four. Tell your family half past four, not four o'clock."></listening-audio></div>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:20px 30px;font-size:29px;line-height:2;color:#2c2822;">
+      Coach leaves the car park at <span style="color:#b89a4a;">__________</span><br>
+      Bring a <span style="color:#b89a4a;">__________</span> because the café is busy<br>
+      Money for the entrance? <span style="color:#b89a4a;">__________</span><br>
+      Back at school by <span style="color:#b89a4a;">__________</span>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> eight fifteen (<em>not</em> eight thirty) · packed lunch · not needed / already paid · half past four (<em>not</em> four o'clock). The letter's times were the traps.</div>
+  </section>
+
+  <!-- CLINIC 3 -->
+  <section data-label="3 · Prediction" data-screen-label="E3 C3 · The trap + fix" data-speaker-notes="Clinic 3: prediction before listening. The trap is sitting idle during the pause. The fix: use the pause to read the questions and predict the TYPE of answer each gap needs (a number, a name, a place). Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 3 · Prediction before listening</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Use the <span style="color:#b07a1e;">pause</span> — don't waste it</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Sitting idle in the pause before playback, then meeting every question cold — reading and listening at the same time, and doing neither well.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · predict the answer type</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">In the pause, read every question and mark what each gap needs: a <em>number</em>? a <em>place</em>? a <em>name</em>? a <em>time</em>? Then you're listening <em>for</em> something, not just listening.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">"Collected every ______" almost certainly needs a frequency (weekly, fortnightly). Predicting the type filters out the noise.</div>
+  </section>
+
+  <section data-label="3 · Listen Rep" data-screen-label="E3 C3 · Predict rep" data-speaker-notes="First, give students 30 seconds to PREDICT the answer type for each gap. THEN read the script aloud twice.&#10;TEACHER SCRIPT: I run the town's recycling scheme. We started in twenty nineteen with four streets; today it covers about twelve thousand homes. Paper and card go in the blue box. Glass, tins and plastic bottles go in the green bin. Food waste goes in the small brown caddy, collected every week — the other bins are collected fortnightly. The biggest mistake is greasy pizza boxes in with the paper; the grease ruins the whole batch. Eleven schools now run their own collections.&#10;Reveal answers after the second read." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="30" label="Predict"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · predict first, then listen · recycling scheme</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:10px 0 14px;">Mark the answer TYPE, then fill it</h2>
+    <div style="margin:0 0 14px;"><listening-audio label="A talk on the recycling scheme" src="https://ygvslhxyglgfzqxyeubk.supabase.co/storage/v1/object/public/listening-audio/diagnostic/ex3-7e8c0c2e-4dd4-4ca8-867d-eb65d5b6db3b.mp3" plays="2" gap="4" rate="0.95" script="Thanks for coming. I run the town's recycling scheme. / We started in twenty nineteen with just four streets; today it covers the whole town, about twelve thousand homes. / Paper and card go in the blue box. Glass, tins and plastic bottles go in the green bin. / Food waste goes in the small brown caddy, which is collected every week. The other bins are collected fortnightly. / The biggest mistake people make is putting greasy pizza boxes in with the paper. The grease ruins the whole batch. / Eleven schools now run their own collections."></listening-audio></div>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:18px 30px;font-size:27px;line-height:1.9;color:#2c2822;">
+      Scheme covers about <span style="color:#b89a4a;">______</span> homes &nbsp;<span style="color:#8a8478;font-size:22px;">(type: ____)</span><br>
+      Paper and card go in the <span style="color:#b89a4a;">______</span> box &nbsp;<span style="color:#8a8478;font-size:22px;">(type: ____)</span><br>
+      Food waste is collected <span style="color:#b89a4a;">______</span> &nbsp;<span style="color:#8a8478;font-size:22px;">(type: ____)</span><br>
+      The biggest mistake is <span style="color:#b89a4a;">______</span> in with the paper
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Answers:</strong> twelve thousand (number) · blue (colour) · every week / weekly (frequency) · greasy pizza boxes. Predicting "number / colour / frequency" told your ear exactly what to grab.</div>
+  </section>
+
+  <!-- CLINIC 4 -->
+  <section data-label="4 · Spelling" data-screen-label="E3 C4 · The trap + fix" data-speaker-notes="Clinic 4: transcription and spelling. The trap is losing a correct answer to a misspelling, or mishearing a spelled-out name. The fix: write spelled-out names letter by letter, and double-check plurals and homophones. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 4 · Transcription &amp; spelling</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">A right answer, <span style="color:#b07a1e;">spelled wrong</span>, scores zero</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Hearing the answer correctly but writing it wrong — a misspelled key word, a missing plural -s, or a homophone (there/their). If the word is unclear, the mark is lost.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · transcribe carefully</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">When a name is spelled out, write it letter by letter as you hear it ("R-A-M-A-N"). Check plurals, capital letters, and easy-to-confuse spellings on the second listen.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Number words trip people too: <strong>fourteen</strong> vs <strong>forty</strong>, <strong>fifteen</strong> vs <strong>fifty</strong>. Listen for the stress.</div>
+  </section>
+
+  <section data-label="4 · Listen Rep" data-screen-label="E3 C4 · Spelling rep" data-speaker-notes="TEACHER SCRIPT — read aloud twice, steady pace, spelling out the name clearly.&#10;Speaker: I am Priya Raman — that is R-A-M-A-N — and I started my first job in a hotel kitchen when I was fourteen, washing up. Now I manage forty staff across three sites. The one thing I learned there was to notice when someone is struggling before they say so.&#10;Reveal answers after the second read, stressing fourteen vs forty." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="60" label="Write"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · transcribe exactly · play it twice</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 14px;">Spell it right — the mark depends on it</h2>
+    <div style="margin:0 0 14px;"><listening-audio label="Six speakers: my first job" src="https://ygvslhxyglgfzqxyeubk.supabase.co/storage/v1/object/public/listening-audio/diagnostic/ex3-b6905f61-0979-4478-9d7d-a5dd485debae.mp3" plays="2" gap="4" rate="0.9" script="I am Priya Raman. That is R, A, M, A, N. / I started my first job in a hotel kitchen when I was fourteen, washing up. / Now I manage forty staff across three sites. / The one thing I learned there was to notice when someone is struggling before they say so."></listening-audio></div>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:20px 30px;font-size:29px;line-height:2;color:#2c2822;">
+      The speaker's surname is <span style="color:#b89a4a;">__________</span> &nbsp;<span style="color:#8a8478;font-size:22px;">(spelled aloud)</span><br>
+      Her first job was in a <span style="color:#b89a4a;">__________</span><br>
+      She started at age <span style="color:#b89a4a;">__________</span><br>
+      She now manages <span style="color:#b89a4a;">__________</span> staff
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> Raman · hotel kitchen · fourteen (14, not 40) · forty (40, not 14). The name mark needs the exact spelling; the number marks need the right one of the pair.</div>
+  </section>
+
+  <!-- CLINIC 5 -->
+  <section data-label="5 · Long Audio" data-screen-label="E3 C5 · The trap + fix" data-speaker-notes="Clinic 5: tracking multi-part questions across a long passage. The trap is losing your place — answering Q3 with Q4's information. The fix: follow the questions in order, know they track the recording's order, and use the speaker's signposts. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 5 · Long audio, many questions</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Don't <span style="color:#b07a1e;">lose your place</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">In a long interview, falling behind — still writing Q3 while the speaker answers Q4, then filling Q3 with the wrong information.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · questions follow the audio</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Questions come in the recording's order. Keep a finger on the current question; when the topic shifts, move down. Use the interviewer's new question as your signpost.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">If you miss one, leave it blank and jump to the next — chasing a lost answer costs you the two that follow.</div>
+  </section>
+
+  <section data-label="5 · Listen Rep" data-screen-label="E3 C5 · Long-audio rep" data-speaker-notes="TEACHER SCRIPT — read aloud twice, steady pace, as an interview (two voices if you can).&#10;INT: With me is Nadia, who runs a sea-turtle rescue centre. How did it begin? NADIA: Almost by accident — I was a diving instructor and kept finding turtles tangled in fishing line. INT: The most common injury? NADIA: People assume plastic bags, but by far the most common is old fishing line and netting — about seven in ten of the animals we admit. INT: How long do they stay? NADIA: A minor wound, three weeks; a turtle that has lost a flipper can be with us eighteen months. INT: What would you say to someone who wants to help? NADIA: Do not send money first — pick up the line you see on a beach.&#10;Questions track the interview's order. Reveal answers after the second read." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="60" label="Track"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · follow in order · sea-turtle rescue interview</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 14px;">Keep pace — the questions track the answers</h2>
+    <div style="margin:0 0 14px;"><listening-audio label="Interview with a sea-turtle rescuer" src="https://ygvslhxyglgfzqxyeubk.supabase.co/storage/v1/object/public/listening-audio/diagnostic/ex3-6fc9ebf7-0393-40c0-acb5-0213acc4a102.mp3" plays="2" gap="4" rate="0.95" script="With me today is Nadia, who runs a sea-turtle rescue centre. Nadia, how did this begin? / Almost by accident. I was a diving instructor, and I kept finding turtles tangled in fishing line. / What is the most common injury you see? / People assume it is plastic bags, and those do cause harm. But by far the most common is old fishing line and netting. That is perhaps seven in ten of the animals we admit. / How long does a turtle stay with you? / A minor wound might be three weeks. A turtle that has lost a flipper can be with us eighteen months. / What would you say to someone who wants to help? / Do not send money first. Pick up the line you see on a beach."></listening-audio></div>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:27px;line-height:1.32;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:13px 26px;">1. What was Nadia's job before the rescue centre? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:13px 26px;">2. What is the most common injury? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:13px 26px;">3. How long might a turtle that lost a flipper stay? <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:13px 26px;">4. Her advice to someone who wants to help? <span style="color:#b89a4a;">______</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> 1 · diving instructor · 2 · old fishing line / netting (~7 in 10) · 3 · eighteen months · 4 · pick up the line on the beach (don't just send money). Each interviewer question was your signpost to move down.</div>
+  </section>
+
+  <section data-label="Takeaways" data-screen-label="E3 · Takeaways" data-speaker-notes="Close the deck. Recap the five moves as a checklist. This deck pairs with the Reading, Writing and Speaking technique decks. End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">Take it into the exam</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:14px 0 32px;">Five moves for the Listening paper</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;font-size:31px;line-height:1.35;">
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">1</span><span>Note content words only — abbreviate, and use both hearings.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">2</span><span>Wait for the correction — the first number is often the trap.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">3</span><span>Use the pause to predict each answer's type.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">4</span><span>Transcribe names letter by letter; check plurals and fourteen/forty.</span></div>
+      <div style="display:flex;gap:22px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 30px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:42px;">5</span><span>Questions follow the audio's order — miss one, leave it, move on.</span></div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

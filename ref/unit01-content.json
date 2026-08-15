@@ -1,0 +1,110 @@
+{
+  "_about": "Deep content dump for the PILOT unit. This is the real, live content of igcse-esl Unit 1 as it exists on the site (pulled from the DB 2026-08-12). Build the Unit-1 opener deck + 11 lesson decks + book audit + exam packet to MIRROR this content — same texts, same vocabulary, same level (Cambridge IGCSE ESL, roughly B1–B2 / CEFR). Do not invent a different syllabus. For units 2–12 and the 4 exam papers, the distilled spine lives in source-packs/uNN-data.js and source-packs/exam-*-data.js; pull their live content the same way when you reach them.",
+  "unit": {
+    "order": 1,
+    "slug": "leisure-and-lifestyle",
+    "title": "Leisure & Belonging",
+    "byline": "Third places — where we belong",
+    "unit_id": "bce7d817-c57e-4702-8a71-f0bc8750f55c",
+    "through_line": "A 'third place' is a public place — not home, not school — where you feel you belong. The unit moves through four settings: Study Cafés, the 24-Hour Konbini, Indoor Worlds (malls), and The Disappearing Hangout (gentrification/exclusion).",
+    "skills_covered": ["reading for facts", "reading for feeling/implication", "vocabulary", "grammar (describing places; habits & preferences)", "listening (note-taking)", "speaking (describe + discuss)", "writing (a review; an argument)"]
+  },
+  "lessons": [
+    {"order": 1,  "title": "Welcome to Third Places",                    "skill": "orientation", "minutes": 15, "blocks": ["text","teaching_page","vocab_set","word_sort","speaking_task","reflection"]},
+    {"order": 2,  "title": "Study Cafés — Reading for the Facts",         "skill": "reading",  "minutes": 25, "reading": "The Café That Never Asks You to Leave", "blocks": ["text","reading","reading_questions","coached_question","listening(read-aloud)"]},
+    {"order": 3,  "title": "Study Cafés — Reading for Feeling",           "skill": "reading",  "minutes": 25, "reading": "My Corner", "blocks": ["text","reading","reading_questions","coached_question","listening(read-aloud)"]},
+    {"order": 4,  "title": "Describing a Place — Grammar & Speaking",     "skill": "grammar",  "minutes": 30, "blocks": ["text","teaching_page","grammar_exercise","coached_question","speaking_task"]},
+    {"order": 5,  "title": "The 24-Hour Konbini — Words & Notes",        "skill": "reading",  "minutes": 25, "reading": "The Shop That Became a Living Room", "blocks": ["text","reading","reading_questions","vocab_set","coached_question","listening(read-aloud)"]},
+    {"order": 6,  "title": "Listening — Where We Gather",                 "skill": "listening","minutes": 25, "blocks": ["text","listening","listening_questions","coached_question"]},
+    {"order": 7,  "title": "Habits & Preferences — Grammar & Speaking",   "skill": "grammar",  "minutes": 30, "blocks": ["text","teaching_page","grammar_exercise","coached_question","speaking_task"]},
+    {"order": 8,  "title": "Indoor Worlds — Reading & Summarising",       "skill": "reading",  "minutes": 30, "reading": "The Indoor City", "blocks": ["text","reading","reading_questions","vocab_set","listening (talk)","coached_question"]},
+    {"order": 9,  "title": "Writing a Review",                            "skill": "writing",  "minutes": 35, "blocks": ["text","writing_task"]},
+    {"order": 10, "title": "The Disappearing Hangout — Reading & Listening","skill": "reading","minutes": 30, "reading": "The Corner That Closed", "blocks": ["text","reading","reading_questions","vocab_set","word_sort","listening","listening_questions"]},
+    {"order": 11, "title": "Argue & Describe — The Final Pieces",         "skill": "speaking", "minutes": 40, "blocks": ["text","speaking_task","writing_task"]}
+  ],
+  "reading_passages": [
+    {"title": "The Café That Never Asks You to Leave", "used_in_lesson": 2, "difficulty": "core", "topic": "Study Cafés (Seoul/Bangkok study-café culture; pay-by-time; loyalty model; a mild for/against close)",
+     "body": "In Seoul, a \"study café\" looks nothing like an ordinary coffee shop. There are no sofas and no background chatter — just long desks, soft lamps, a power socket at every seat, and rows of students with headphones on. The idea spread quickly across Asia, and today similar cafés are common in Bangkok, where they fill up fastest during exam season.\n\nThe appeal is simple: space. Many students live in small flats with noisy younger siblings, and school libraries close early. A study café stays open late — some in Bangkok do not lock their doors until midnight — and charges by time rather than by drink. A typical rate is around 60 baht an hour, often with free refills of water, tea or weak coffee.\n\nLalita, 17, comes three or four times a week. \"At home I get distracted within ten minutes,\" she says. \"Here everyone is working, so I work too. It's quieter than the library, and nobody rushes you.\" That last point matters. In an ordinary café there is often an unwritten rule — one drink buys you about two hours before a waiter starts hovering. Study cafés remove that pressure completely.\n\nFor owners, the model is steady rather than spectacular. \"Students don't spend much on each visit,\" explains one Bangkok café owner, \"but they come back again and again, and they bring their friends.\" Roughly seven in ten of his customers are under twenty. He keeps the prices low and the wifi fast, and trusts that loyalty will do the rest.\n\nNot everyone is convinced the trend is healthy. Some teachers worry that paying to study turns concentration into something only wealthier students can afford. Others point out that, for a teenager with nowhere quiet to go, 60 baht for a calm afternoon may be the cheapest, kindest deal in the city."},
+    {"title": "My Corner", "used_in_lesson": 3, "difficulty": "extended", "topic": "Study Cafés — a first-person 'reading for feeling' text (atmosphere, belonging; contrast morning/afternoon)",
+     "body": "There is a small, slightly crooked table in the back-left corner of the café on Soi 7, and for almost a year now it has been mine.\n\nIn the morning the place is pale and sleepy. Thin grey light leans through the window, the espresso machine clears its throat, and the only sound is the soft tick of someone's laptop keys. By four o'clock everything has changed. The narrow room fills with the warm smell of toasted bread, the low hum of a dozen overlapping conversations, and a golden, dusty light that makes even the chipped cups look beautiful. I like it best then.\n\nMy corner has a wobble in one leg and a long pale scar across the wood, where someone years ago pressed too hard with a pen. The seat is too low and the cushion has gone flat. None of that matters. From there I can see the door, the street, and the old woman who sells flower garlands on the pavement opposite — and nobody can see my screen.\n\nI come here to read, to wait, to do nothing in particular. The owner no longer asks what I want; he simply nods, and a few minutes later a small, strong, sweetened coffee appears at my elbow. I have never told him my name. He has never told me his. And yet, sliding into that uneven chair with the afternoon noise rising around me, I feel something I never feel at home or at school: I feel, completely and quietly, that I belong here."},
+    {"title": "The Shop That Became a Living Room", "used_in_lesson": 5, "difficulty": "core", "topic": "The 24-Hour Konbini (Japan/Thailand convenience stores as social space; access, cost, ritual; for/against)",
+     "body": "In Japan they are called konbini; in Thailand, most people just say \"the 7-Eleven.\" Whatever the name, the 24-hour convenience store has quietly turned into something its designers never planned: an unofficial social space for young people.\n\nThe reasons start with access. A konbini never closes. While cafés shut and libraries lock their doors, the convenience store stays lit and open through the night, which makes it the one place teenagers can always go. Many branches now add a few seats, a counter by the window, a microwave, an ATM, even a printer — small comforts that turn a quick stop into a place to stay.\n\nThen there is the cost. For a teenager with very little money, the konbini is almost uniquely welcoming: a drink costs small change, and nobody expects you to spend more. \"We can sit for an hour with one bottle of tea,\" says Ken, 16, who meets his friends at the same store most evenings. \"No one tells us to leave. At a café you feel the pressure to keep buying.\" That freedom from pressure is the quiet heart of the konbini's appeal.\n\nIt has even produced its own habits. In parts of Japan, gathering outside the konbini after school is common enough to be unremarkable — a small daily ritual of standing around, sharing snacks, and talking. The setting is completely ordinary, and that is exactly why it works: there is no dress code, no booking, and no reason you need to be there except that your friends are.\n\nNot everyone sees it warmly. Some adults view groups of teenagers outside a shop as a nuisance, or worry they are \"loitering\" rather than buying. A few stores have removed their seating or played music to discourage young people from staying too long. Yet for many shop owners the calculation is simple: today's teenager drinking cheap tea is tomorrow's regular customer, and a steady stream of young people keeps the store busy and alive.\n\nWhat the konbini offers, in the end, is not really products. It is permission — to be somewhere warm, lit and free, with the people you choose, at an hour when nowhere else will have you."},
+    {"title": "The Indoor City", "used_in_lesson": 8, "difficulty": "core", "topic": "Indoor Worlds — malls as free social space (climate, free entry, social pull; mall owners divided). Good summary-skill text (three ordered reasons).",
+     "body": "In the hot, rainy cities of Southeast Asia, the shopping mall has become far more than a place to buy things. For many young people it is the default place to spend a free afternoon — and most of them arrive with no intention of shopping at all.\n\nThe first reason is the climate. When the temperature outside climbs past thirty-five degrees, or the afternoon rain arrives without warning, an air-conditioned mall is simply the most comfortable place to be. It costs nothing to walk in, and nobody is turned away at the door.\n\nThat free entry is the second attraction. A café expects you to buy something; a library expects silence; a mall expects neither. A teenager can sit on a bench, watch the crowds, meet friends by the fountain, and stay for hours without spending a single coin. For students with little money, few other spaces are so generous.\n\nThe third and strongest pull is social. Malls have quietly become meeting points — somewhere to see friends, be seen, and feel part of the busy life of the city. The shops are almost a backdrop. Groups gather in food courts not for the food but for the table, the air-conditioning, and each other.\n\nMalls themselves are divided about this. Crowds of teenagers spending little can crowd out paying customers, and some centres have tried to discourage them — removing seating, or playing music they hope young people will dislike. Yet many owners take the longer view: today's window-shopping teenager is tomorrow's paying adult, and a mall full of life attracts everyone. An empty mall attracts no one.\n\nSo the indoor city endures — not because young people love shopping, but because, in a hot and expensive world, it offers something increasingly rare: a free, cool, welcoming place simply to be."},
+    {"title": "The Corner That Closed", "used_in_lesson": 10, "difficulty": "core", "topic": "The Disappearing Hangout — gentrification/exclusion (an arcade closes; rent doubles; 'no loitering'; a quiet, cumulative loss). Strong for inference + writer's-attitude work.",
+     "body": "For three years, the small arcade on the corner of Maple Road was where Arif and his friends met after school. It was nothing special — a dozen old machines, a drinks fridge, a torn sofa — but it was warm, it was cheap, and nobody minded if you stayed for hours.\n\nLast month, it closed. The rent had doubled, the owner explained, and a coffee chain had offered to take the space. Now the windows are papered over, and a sign promises a \"premium café — opening soon.\"\n\nArif and his friends have nowhere obvious to go. The new café, when it opens, will sell coffees none of them can really afford. The mall is a bus ride away. \"We're not asking for much,\" Arif says. \"Just somewhere we're allowed to exist without buying something every twenty minutes.\"\n\nHis story is becoming common. Across many cities, the cheap, in-between places where young people gathered — arcades, old cafés, corner shops with a bench outside — are slowly disappearing, replaced by businesses designed for people with money to spend. The spaces that remain often quietly discourage teenagers from lingering.\n\nNone of this is dramatic. No one decided to push young people out. It happens one closed shop, one rent rise, one \"no loitering\" sign at a time. But the result, added up, is a city with fewer and fewer places where being young and having no money is simply allowed."}
+  ],
+  "vocabulary": {
+    "_note": "45 words, grouped by the unit's four subtopics. 'say it before you meet it' — teach chorally with the pronunciation before the reading. The pack's teachable core-24 is in source-packs/u1-data.js (VOCAB).",
+    "Study Cafés": [
+      {"word": "affordable", "pos": "adjective", "def": "cheap enough that most people can pay for it"},
+      {"word": "ambience", "pos": "noun", "def": "the character and atmosphere of a place, especially its style"},
+      {"word": "atmosphere", "pos": "noun", "def": "the mood or feeling a place gives you"},
+      {"word": "belonging", "pos": "noun", "def": "the feeling of being accepted as part of a group"},
+      {"word": "cosy", "pos": "adjective", "def": "small, warm and comfortable in a pleasant way"},
+      {"word": "leisure", "pos": "noun", "def": "free time when you are not working or studying"},
+      {"word": "linger", "pos": "verb", "def": "to stay somewhere longer than necessary because you enjoy it"},
+      {"word": "lively", "pos": "adjective", "def": "full of energy, movement and activity"},
+      {"word": "refuge", "pos": "noun", "def": "a place that gives shelter or escape from something unpleasant"},
+      {"word": "regular", "pos": "noun", "def": "a customer who comes to the same place very often"},
+      {"word": "spacious", "pos": "adjective", "def": "having a lot of room"},
+      {"word": "unwind", "pos": "verb", "def": "to relax after a period of work or stress"}
+    ],
+    "The 24-Hour Konbini": [
+      {"word": "accessible", "pos": "adjective", "def": "easy to reach, use, or understand"},
+      {"word": "casual", "pos": "adjective", "def": "relaxed and informal; not planned or serious"},
+      {"word": "community", "pos": "noun", "def": "a group of people who share a place, interests or identity"},
+      {"word": "convenience", "pos": "noun", "def": "the quality of being easy to use, or a thing that makes life easier"},
+      {"word": "convenient", "pos": "adjective", "def": "easy to use or get to because it saves time or effort"},
+      {"word": "gather", "pos": "verb", "def": "to come together in one place as a group"},
+      {"word": "hangout", "pos": "noun", "def": "a place where people often go to relax and spend time together"},
+      {"word": "hub", "pos": "noun", "def": "a central place where a lot of activity happens"},
+      {"word": "mundane", "pos": "adjective", "def": "ordinary and dull; part of everyday life"},
+      {"word": "ritual", "pos": "noun", "def": "something you do regularly in the same way, often with meaning"},
+      {"word": "round-the-clock", "pos": "adjective", "def": "happening all day and all night, without stopping"}
+    ],
+    "Indoor Worlds": [
+      {"word": "air-conditioned", "pos": "adjective", "def": "having a system that keeps the air cool and comfortable"},
+      {"word": "amenity", "pos": "noun", "def": "a useful or pleasant feature or facility of a place"},
+      {"word": "bustling", "pos": "adjective", "def": "full of busy, energetic activity"},
+      {"word": "complex", "pos": "noun", "def": "a group of connected buildings used for one purpose"},
+      {"word": "footfall", "pos": "noun", "def": "the number of people who enter a shop or area in a period of time"},
+      {"word": "inclusive", "pos": "adjective", "def": "open to and welcoming of everyone"},
+      {"word": "loiter", "pos": "verb", "def": "to stand or wait around a place with no clear purpose"},
+      {"word": "patronise", "pos": "verb", "def": "to be a regular customer of a business"},
+      {"word": "recreation", "pos": "noun", "def": "activity done for enjoyment when you're not working or studying"},
+      {"word": "sanctuary", "pos": "noun", "def": "a peaceful place of safety and escape"},
+      {"word": "sprawling", "pos": "adjective", "def": "spreading out over a large area in an irregular way"}
+    ],
+    "The Disappearing Hangout": [
+      {"word": "commercialise", "pos": "verb", "def": "to turn something into an activity whose main aim is making money"},
+      {"word": "communal", "pos": "adjective", "def": "shared by, or for the use of, a group or community"},
+      {"word": "communal space", "pos": "noun", "def": "an area shared by and open to a whole community"},
+      {"word": "decline", "pos": "noun", "def": "a gradual decrease or fall in number, quality or importance"},
+      {"word": "deter", "pos": "verb", "def": "to discourage someone from doing something, often by making it unpleasant"},
+      {"word": "displacement", "pos": "noun", "def": "the forced movement of people away from their home"},
+      {"word": "exclusion", "pos": "noun", "def": "the act of keeping someone out of a place or group"},
+      {"word": "gentrification", "pos": "noun", "def": "the process where a poorer area changes as wealthier people move in, pushing out original residents"},
+      {"word": "identity", "pos": "noun", "def": "who a person is, and the qualities that make them themselves"},
+      {"word": "marginalise", "pos": "verb", "def": "to treat a person or group as unimportant and push them to the edge of society"},
+      {"word": "surveillance", "pos": "noun", "def": "close watching of people, especially by cameras or officials"}
+    ]
+  },
+  "writing_model_review": {
+    "task": "Write a review of a place where people gather (120–150 words).",
+    "header": "A Grade-A review (study café)",
+    "model": "Tucked down a side street, The Long Table is the kind of café where nobody asks you to leave. You pay by the hour, not by the cup, so its warm, low-lit ambience invites you to linger over one drink for a whole afternoon. What makes it special is the quiet — it's a genuine sanctuary during exam season. My only criticism is that seats near the window fill fast, so arrive early. It's perfect for any student who needs somewhere calm to unwind and study. I'd recommend it to anyone.",
+    "self_check": [
+      "name the place and give a clear verdict.",
+      "describe the atmosphere using 2+ unit words.",
+      "give one honest criticism, not only praise.",
+      "organise my review in three clear paragraphs.",
+      "end with a recommendation and check my spelling."
+    ]
+  },
+  "retrieval_rounds": "5 spaced-recall rounds keyed to the four subtopics + a mixed exam-warm-up round — full Q/A text in source-packs/u1-data.js (retrieval[]).",
+  "capstone_project": "My Third Place (group). Spec + rubric bands in source-packs/u1-data.js (also live in course_projects on the site).",
+  "exam_packet_source": {
+    "_note": "For the take-home + in-class exam pair, build from a Unit-1-appropriate reading text. 'The Indoor City' or 'The Corner That Closed' both work well (clear paragraphs, inference + writer's-attitude potential). Mirror the Cambridge 0510/0511 Reading paper shape (skim for gist, scan for detail, note-completion/summary, understanding of writer's attitude)."
+  }
+}

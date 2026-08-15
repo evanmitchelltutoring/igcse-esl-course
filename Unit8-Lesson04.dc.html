@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U8 L4 · Title" data-speaker-notes="Second reading — the 'what it costs' side. The text weighs money, danger and the environment against the value of space. Exam skill: Reading Part 2, separating a detail from an opinion. Read the title, then Do-Now." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 8 · Lesson 4 · Reading</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:82px;line-height:.98;margin:0;letter-spacing:-.015em;">Counting<br>the Cost</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">Money, danger, and the price we can't see.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">Reading · Part 2 skills</span>
+        <span style="color:#8a8478;">20 minutes</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u8-l4-hero" src="assets/images/u8-l4-hero.jpg" shape="rect" fit="cover" placeholder="The cost of space: an image suggesting expense and risk — a stack of budget figures beside a rocket, or space debris/old satellites orbiting Earth. Serious, sober. No identifiable faces or real mission logos."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="Do-Now" data-screen-label="U8 L4 · Do-Now (Q)" data-speaker-notes="Activate. Students list the costs of space they can think of before reading. Silent 60 seconds. The text adds three they may miss: opportunity cost, danger, environment. Spiral prompt reuses Lesson 2's 'what it costs' words." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Do-Now · 60 seconds, on your own</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.04;margin:18px 0 30px;max-width:1620px;">List every <span style="color:#3f62a0;">cost</span> of space you can think of — not just money.</h2>
+    <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:34px 44px;font-size:33px;line-height:1.6;color:#5a544c;max-width:1560px;">Costs: <span style="color:#b89a4a;">______, ______, ______</span>. The text may add ones you missed.</div>
+    <div style="margin-top:22px;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:14px 26px;font-size:24px;line-height:1.35;color:#2c5f7a;"><strong>Bring it back · Unit 8 L2:</strong> use a "what it costs" word — <em>funding, opportunity cost, hazard, setback</em>.</div>
+  </section>
+
+  <section data-label="Objectives" data-screen-label="U8 L4 · Objectives" data-speaker-notes="Read all three. Objective 2 is the exam skill — Part 2, telling a fact/detail from the writer's opinion. Point to the success criteria." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Today you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.02;margin:16px 0 34px;">Three things by the end of the lesson</h2>
+    <div style="display:flex;flex-direction:column;gap:18px;">
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">1</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Name the three kinds of cost the text describes.</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I can say money, danger and the environment.</div></div></div>
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">2</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Tell a fact from an opinion in the text (Part 2).</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I spot the words that signal a claim, not a fact.</div></div></div>
+      <div style="display:flex;gap:26px;align-items:stretch;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:26px 34px;"><div style="font-family:Archivo,sans-serif;font-size:52px;font-weight:700;color:#e8b56a;min-width:56px;">3</div><div><div style="font-size:36px;line-height:1.3;font-weight:600;">Say which cost worries you most, and why.</div><div style="font-size:27px;line-height:1.4;margin-top:8px;color:#a9c0bd;">Success: I speak for 30 seconds with a reason.</div></div></div>
+    </div>
+    <div style="margin-top:auto;font-size:30px;line-height:1.4;color:#e6ddd0;font-style:italic;">Why it matters: this is the case against — the side your article must answer fairly.</div>
+  </section>
+
+  <section data-label="Reading Skill" data-screen-label="U8 L4 · Coached skill" data-speaker-notes="The coached skill: fact vs opinion. Teach the signals — a fact can be checked; an opinion carries words like argue, claim, worry, should. Copy the box. Two minutes." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exam skill · before we read</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:54px;line-height:1.02;margin:14px 0 22px;">Part 2: is it a <span style="color:#0f7d76;">fact</span> or an <span style="color:#3f62a0;">opinion</span>?</h2>
+    <div style="background:#14243d;color:#f4efe6;border-radius:16px;padding:26px 40px;font-size:32px;line-height:1.4;">A balanced text mixes what can be checked with what people believe. Part 2 questions often test whether you can tell them apart.</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:26px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #0f7d76;border-radius:14px;padding:26px 30px;"><div style="font-family:Archivo,sans-serif;font-size:30px;font-weight:700;color:#0f7d76;">A fact can be checked</div><div style="font-size:27px;line-height:1.4;margin-top:12px;color:#2c2822;"><em>A single mission can cost billions.</em> — you could look it up. Facts give numbers, dates, events.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-top:6px solid #3f62a0;border-radius:14px;padding:26px 30px;"><div style="font-family:Archivo,sans-serif;font-size:30px;font-weight:700;color:#3f62a0;">An opinion is a claim</div><div style="font-size:27px;line-height:1.4;margin-top:12px;color:#2c2822;">Watch for signal words: <em>argue, claim, believe, worry, should, it is not fair</em>. These mark a view.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Reading" data-screen-label="U8 L4 · Reading passage" data-speaker-notes="The text. Read aloud once at a steady pace, then a silent re-read with pencils marking the three costs. Ask students to underline one opinion signal word as they go. Word-check follows." style="width:1920px;height:1080px;box-sizing:border-box;background:#fbfaf6;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:50px 84px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;border-bottom:2px solid #e0d8c8;padding-bottom:12px;margin-bottom:14px;">
+      <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:40px;margin:0;">Counting the cost</h2>
+      <div style="font-family:Archivo,sans-serif;font-size:23px;font-weight:600;color:#0f7d76;letter-spacing:.06em;text-transform:uppercase;">Mark the three costs</div>
+    </div>
+    <div style="columns:2;column-gap:56px;font-size:19px;line-height:1.36;color:#2c2822;text-align:justify;">
+      <p style="margin:0 0 9px;">Every rocket that climbs into the sky carries an invisible price tag. Space programmes are among the most expensive projects any government can undertake, and the question of whether that <strong>expenditure</strong> is justified has been argued for decades.</p>
+      <p style="margin:0 0 9px;">The most obvious cost is money. A single crewed mission can swallow billions, and the budget for a long-term project such as a Mars base would stretch across many years. Critics point to what economists call the <strong>opportunity cost</strong>: every sum allocated to a launch pad is a sum not spent on hospitals, schools or clean water. When public money is involved, they argue, the taxpayer has a right to ask whether such spending is wise — or whether it simply <strong>squanders</strong> resources that are urgently needed at home.</p>
+      <p style="margin:0 0 9px;">Supporters answer that the figures are smaller than they appear. In most countries, space agencies receive only a tiny fraction of national budgets, far less than is spent on defence. They also argue that the money is not fired into the sky and lost; it is paid to engineers, factories and universities on Earth.</p>
+      <p style="margin:0 0 9px;">Money, however, is not the only cost. Spaceflight is dangerous. Astronauts face <strong>hazards</strong> that most workers never imagine: extreme radiation, the failure of life-support systems, and months of isolation. The history of exploration is marked by tragic <strong>setbacks</strong> in which crews have lost their lives. Each such disaster forces agencies to pause, investigate and rebuild.</p>
+      <p style="margin:0;">There is also a cost that is easy to overlook: the environment. Rocket launches release gases high into the atmosphere, and the growing number of satellites has filled orbit with debris that threatens future missions. As launches become more frequent, some scientists question whether the current pace is sustainable at all.</p>
+    </div>
+  </section>
+
+  <section data-label="Word Check" data-screen-label="U8 L4 · Word check (Q)" data-speaker-notes="After the first read, clear the tricky words, then run the 'find the word' hunt aloud — students point to the word in the passage. Answers on the next slide." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:76px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#8fbf9f;"></span>show me</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Tricky words · clear the blockers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:46px;line-height:1.0;margin:12px 0 18px;">Four words from the text</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px 18px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 20px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#0f7d76;">expenditure</div><div style="font-size:24px;line-height:1.3;margin-top:6px;color:#3d3830;">the amount of money spent on something</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 20px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#0f7d76;">opportunity cost</div><div style="font-size:24px;line-height:1.3;margin-top:6px;color:#3d3830;">what you give up to choose one thing over another</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 20px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#0f7d76;">hazard</div><div style="font-size:24px;line-height:1.3;margin-top:6px;color:#3d3830;">something that could be dangerous or cause harm</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 20px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#0f7d76;">squander</div><div style="font-size:24px;line-height:1.3;margin-top:6px;color:#3d3830;">to waste money, time or chances carelessly</div></div>
+    </div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#0f7d76;margin:26px 0 12px;">Find the word that means… <span style="text-transform:none;letter-spacing:0;font-weight:500;color:#8a8478;">· scan the passage</span></div>
+    <div style="display:flex;flex-direction:column;gap:13px;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;font-size:29px;line-height:1.35;color:#2c2822;">1. "<em>to waste resources carelessly</em>" &nbsp;→&nbsp; <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;font-size:29px;line-height:1.35;color:#2c2822;">2. "<em>a danger or source of harm</em>" &nbsp;→&nbsp; <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:16px 26px;font-size:29px;line-height:1.35;color:#2c2822;">3. "<em>the money spent on something</em>" &nbsp;→&nbsp; <span style="color:#b89a4a;">______</span></div>
+    </div>
+  </section>
+
+  <section data-label="Word Check · Answer" data-screen-label="U8 L4 · Word check (A)" data-speaker-notes="Self-mark. Read each corrected item aloud, pointing to the word in the passage so the meaning is anchored in context." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Find the word · answers</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:46px;line-height:1.0;margin:12px 0 26px;">Which word in the text means…</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:16px 28px;font-size:29px;line-height:1.35;color:#1a1713;">1. "<em>to waste resources carelessly</em>" &nbsp;→&nbsp; <strong>squander</strong></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:16px 28px;font-size:29px;line-height:1.35;color:#1a1713;">2. "<em>a danger or source of harm</em>" &nbsp;→&nbsp; <strong>hazard</strong></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:16px 28px;font-size:29px;line-height:1.35;color:#1a1713;">3. "<em>the money spent on something</em>" &nbsp;→&nbsp; <strong>expenditure</strong></div>
+    </div>
+  </section>
+
+  <section data-label="Fact or Opinion" data-screen-label="U8 L4 · Fact/Opinion (Q)" data-speaker-notes="Part 2 practice. Students mark each line F (fact, checkable) or O (opinion, a claim) and underline the signal word. Run the timer, 4 minutes. Support/Stretch below. Answers next." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:16px;"><lesson-timer seconds="240" label="Mark"></lesson-timer><div style="display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div></div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Part 2 · fact or opinion?</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 18px;">Mark each F or O — underline the signal word</h2>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:28px;line-height:1.32;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">1. A single crewed mission can cost billions. <span style="color:#b89a4a;">F / O</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">2. Critics argue the money simply squanders resources. <span style="color:#b89a4a;">F / O</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">3. Space agencies receive only a small fraction of national budgets. <span style="color:#b89a4a;">F / O</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">4. Some scientists worry the current pace is not sustainable. <span style="color:#b89a4a;">F / O</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;">5. Rocket launches release gases into the atmosphere. <span style="color:#b89a4a;">F / O</span></div>
+    </div>
+    <div style="margin-top:auto;display:flex;gap:16px;padding-top:14px;">
+      <div style="flex:1;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 24px;font-size:24px;color:#2f6d49;"><strong>Support →</strong> if you can check it (a number, an event), it's a fact.</div>
+      <div style="flex:1;background:#eef4f8;border:1px solid #bcd6e6;border-radius:12px;padding:14px 24px;font-size:24px;color:#2c5f7a;"><strong>Stretch →</strong> rewrite one opinion as a neutral fact.</div>
+    </div>
+  </section>
+
+  <section data-label="Fact or Opinion · Answer" data-screen-label="U8 L4 · Fact/Opinion (A)" data-speaker-notes="Self-mark. Read each aloud, naming the signal word that gives an opinion away (argue, worry). Stress: the writer reports both sides fairly — that's the model for the article." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#3e7d59;">Answer · mark your own</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:12px 0 22px;">Fact or opinion?</h2>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:27px;line-height:1.32;color:#1a1713;">
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:13px 26px;">1. <strong>F</strong> — a checkable figure.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:13px 26px;">2. <strong>O</strong> — signal word <em>argue</em>; "squanders" is a judgement.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:13px 26px;">3. <strong>F</strong> — a checkable proportion.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:13px 26px;">4. <strong>O</strong> — signal word <em>worry</em>; it's a concern, not a fact.</div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #8fbf9f;border-radius:12px;padding:13px 26px;">5. <strong>F</strong> — a checkable event.</div>
+    </div>
+  </section>
+
+  <section data-label="Vocab in context" data-screen-label="U8 L4 · Vocab set" data-speaker-notes="Consolidate the 'what it costs' words from the text, in context. Read each, class fills the word aloud. These power the case against space in the article. Then speaking." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#8fbf9f;"></span>show me</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Words from the text · in context</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:48px;line-height:1.0;margin:12px 0 24px;">Four "what it costs" words, working</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:14px;padding:22px 30px;display:flex;gap:24px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;color:#0f7d76;min-width:270px;">expenditure</div><div style="font-size:29px;line-height:1.4;color:#2c2822;">Critics ask whether the <em>expenditure</em> is justified.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:14px;padding:22px 30px;display:flex;gap:24px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;color:#0f7d76;min-width:270px;">opportunity cost</div><div style="font-size:29px;line-height:1.4;color:#2c2822;">The <em>opportunity cost</em> is a hospital not built.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:14px;padding:22px 30px;display:flex;gap:24px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;color:#0f7d76;min-width:270px;">hazard</div><div style="font-size:29px;line-height:1.4;color:#2c2822;">Radiation is a serious <em>hazard</em> for astronauts.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:6px solid #0f7d76;border-radius:14px;padding:22px 30px;display:flex;gap:24px;align-items:baseline;"><div style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;color:#0f7d76;min-width:270px;">setback</div><div style="font-size:29px;line-height:1.4;color:#2c2822;">A failed launch is a costly <em>setback</em>.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Speaking Task" data-screen-label="U8 L4 · Speaking (timed)" data-speaker-notes="Output. Students say which cost worries them most, using a what-it-costs word. Run the timers: Think 45s, Pair 2 min. Cold-call two. Meets Objective 3." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:76px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#a9c0bd;"><span style="width:15px;height:15px;border-radius:50%;background:#a8c8dd;"></span>talk</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Speaking · your turn</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:50px;line-height:1.02;margin:12px 0 22px;">Which cost worries you most?</h2>
+    <div style="display:flex;gap:18px;margin-bottom:22px;align-items:stretch;">
+      <div style="flex:1;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 24px;display:flex;flex-direction:column;gap:14px;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#e8b56a;">Think · silent</div><lesson-timer seconds="45" label="Think"></lesson-timer></div>
+      <div style="flex:1;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 24px;display:flex;flex-direction:column;gap:14px;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#e8b56a;">Pair · both speak</div><lesson-timer seconds="120" label="Pair"></lesson-timer></div>
+      <div style="flex:1;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:20px 24px;"><div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:700;color:#e8b56a;">Cold-call</div><div style="font-size:25px;line-height:1.4;margin-top:8px;color:#cfd6e2;">Give the class your cost and one word from the text.</div></div>
+    </div>
+    <div style="background:#f4efe6;color:#1a1713;border-radius:16px;padding:24px 36px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#0f7d76;margin-bottom:10px;">Use the stem — one what-it-costs word</div>
+      <div style="font-size:31px;line-height:1.7;color:#2c2822;">The cost that worries me most is <span style="color:#b89a4a;">______</span>, because <span style="color:#b89a4a;">______</span>. To me the <span style="color:#b89a4a;">______</span> is too high.</div>
+    </div>
+  </section>
+
+  <section data-label="Reflection" data-screen-label="U8 L4 · Reflection" data-speaker-notes="Short reflection, not marked. Students weigh this reading against Lesson 3's case for reaching. One aloud." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Reflect · one sentence each</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.02;margin:14px 0 34px;">Wonder against cost…</h2>
+    <div style="display:flex;flex-direction:column;gap:20px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 36px;font-size:32px;line-height:1.5;">After both readings, the side I lean towards now is <span style="color:#b89a4a;">______</span>.</div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 36px;font-size:32px;line-height:1.5;">The cost a supporter of space must answer is <span style="color:#b89a4a;">______</span>.</div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U8 L4 · Skill Bank entry" data-speaker-notes="Fourth Unit 8 Skill Bank entry — under Reading. Students add it to the running sheet. Lesson 5 is the next reading, What Space Gives Back." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Add to your Skill Bank</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:60px;line-height:1.02;margin:14px 0 32px;">Entry · Reading</h2>
+    <div style="display:flex;gap:26px;align-items:center;background:#14243d;color:#f4efe6;border-radius:18px;padding:40px 52px;max-width:1640px;">
+      <div style="font-family:Archivo,sans-serif;font-size:64px;font-weight:700;color:#e8b56a;min-width:96px;text-align:center;">R</div>
+      <div>
+        <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;margin-bottom:12px;">Tell a fact from an opinion</div>
+        <div style="font-size:32px;line-height:1.45;color:#dbe2ea;">A fact can be checked (a number, a date, an event). An opinion is a claim — watch for <em>argue, claim, worry, should, it is not fair</em>. Balanced texts mix both.</div>
+      </div>
+    </div>
+  </section>
+
+  <section data-label="Exit Ticket · Next" data-screen-label="U8 L4 · Exit ticket" data-speaker-notes="Exit ticket — students name the cost hardest to answer and why. Collect or read aloud. Point forward to Lesson 5, What Space Gives Back. End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;display:flex;align-items:center;gap:11px;font-family:Archivo,sans-serif;font-size:25px;font-weight:600;color:#5a544c;"><span style="width:15px;height:15px;border-radius:50%;background:#f4d98b;"></span>notebook</div>
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Exit ticket · your words</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:52px;line-height:1.04;margin:14px 0 28px;max-width:1600px;">Which cost is hardest for a supporter to answer — and why?</h2>
+    <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:36px 46px;font-size:33px;line-height:1.5;max-width:1600px;">The hardest cost to answer is <span style="color:#b89a4a;">__________</span>, because <span style="color:#b89a4a;">__________</span>.</div>
+    <div style="margin-top:22px;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:14px 26px;font-size:24px;line-height:1.35;color:#2f6d49;"><strong>Before you go →</strong> tick today's <em>"I can…"</em> goals from the objectives — and tonight's packet reading task continues this.</div>
+    <div style="margin-top:auto;display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:32px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">Next lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:40px;font-weight:600;">Lesson 5 · What Space Gives Back</div>
+      <div style="margin-left:auto;font-size:30px;color:#c7cfdb;font-style:italic;">The answer supporters reach for.</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

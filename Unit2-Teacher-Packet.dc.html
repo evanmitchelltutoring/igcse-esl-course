@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./doc-page.js"></script>
+  <style>
+    doc-page:not(:defined) { visibility: hidden; }
+    body { margin: 0; }
+    .h-eyebrow { font-family: Archivo, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: #0f7d76; }
+    .sec { font-family: Archivo, sans-serif; font-weight: 700; color: #14243d; font-size: 26px; margin: 34px 0 6px; border-bottom: 3px solid #0f7d76; padding-bottom: 8px; break-after: avoid; }
+    .subsec { font-family: Archivo, sans-serif; font-weight: 600; color: #14243d; font-size: 19px; margin: 22px 0 8px; break-after: avoid; }
+    .box { border: 1px solid #e7decd; border-radius: 12px; padding: 16px 20px; margin: 12px 0; break-inside: avoid; }
+    .tint { background: #f7f3ec; }
+    .line { border-bottom: 1.5px solid #cdc3b2; height: 26px; }
+    table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+    th { font-family: Archivo, sans-serif; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; text-align: left; background: #14243d; color: #f4efe6; padding: 9px 12px; }
+    td { border: 1px solid #ece3d3; padding: 9px 12px; vertical-align: top; }
+    tbody tr:nth-child(even) td { background: #faf7f0; }
+    .wordcell { font-family: Archivo, sans-serif; font-weight: 600; color: #14243d; white-space: nowrap; }
+    .chip { display: inline-block; font-family: Archivo, sans-serif; font-weight: 600; font-size: 15px; background: #eef3f2; color: #0f7d76; border: 1px solid #cfe0dd; border-radius: 999px; padding: 5px 14px; margin: 3px; }
+    ol, ul { margin: 8px 0; padding-left: 26px; }
+    li { orphans: 3; widows: 3; margin: 5px 0; }
+    .ans { color: #b9b0a1; letter-spacing: 2px; }
+    .gap { display: inline-block; min-width: 130px; border-bottom: 1.6px solid #8a8478; height: 20px; vertical-align: middle; margin: 0 3px; }
+    .key { border-left: 3px solid #b3261e; background: #fdf4f3; border-radius: 0 8px 8px 0; padding: 11px 18px; margin: 10px 0; font-size: 15px; color: #7a1a15; line-height: 1.5; break-inside: avoid; }
+    .keylabel { font-family: Archivo, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: #b3261e; display: block; margin-bottom: 4px; }
+    .watch { border-left: 3px solid #c9871f; background: #fdf7ec; border-radius: 0 8px 8px 0; padding: 11px 18px; margin: 10px 0; font-size: 15px; color: #6b4a12; line-height: 1.5; break-inside: avoid; }
+    .watchlabel { font-family: Archivo, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: #c9871f; display: block; margin-bottom: 4px; }
+  </style>
+</helmet>
+<doc-page margin="0.7in">
+
+  <div slot="header" style="font-family:Archivo,sans-serif;font-size:12px;font-weight:600;color:#8a8478;display:flex;justify-content:space-between;border-bottom:1px solid #e0d7c6;padding-bottom:6px;">
+    <span>IGCSE ESL · Unit 2 — Landscapes &amp; Living Things</span>
+    <span>Teacher Copy</span>
+  </div>
+  <div slot="footer" style="font-family:Archivo,sans-serif;font-size:11px;color:#a49b8c;text-align:center;border-top:1px solid #e0d7c6;padding-top:6px;">Mr Evans English · Cambridge IGCSE English as a Second Language (0510)</div>
+
+  <div style="font-family:'Source Serif 4',Georgia,serif;color:#1a1713;font-size:16px;line-height:1.5;">
+
+    <div style="border:2px solid #14243d;border-radius:14px;padding:30px 32px;margin-bottom:8px;background:#14243d;color:#f4efe6;">
+      <div style="font-family:Archivo,sans-serif;font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Cambridge IGCSE ESL · Teacher Copy</div>
+      <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.04;margin:10px 0 6px;">Unit 2 · Landscapes &amp; Living Things</h1>
+      <div style="font-size:19px;font-style:italic;color:#cfd6e2;">How nature survives — and how we protect it.</div>
+      <div style="margin-top:18px;display:flex;gap:22px;font-family:Archivo,sans-serif;font-size:13px;color:#a9c0bd;">
+        <span>Name: ____________________</span><span>Class: ____________</span><span>Teacher: ____________</span>
+      </div>
+    </div>
+
+    <p style="margin:14px 0;">This is the Student Packet plus everything you need to teach and mark Unit 2: <strong>answer keys</strong> (red callouts) after every task, a <strong>“Watch for”</strong> misconception box, per-lesson <strong>pacing</strong>, a <strong>Support / Stretch</strong> line, the writing <strong>mark scheme</strong>, and the <strong>assessment-objective map</strong>. Print the Student Packet for students; keep this copy for yourself.</p>
+
+    <div class="key"><span class="keylabel">Before you print AO tags — confirm</span>The AO wording below follows Cambridge IGCSE ESL 0510 / 0511 (9-1 = 0991 / 0993). Confirm the exact syllabus code and current AO wording against the live syllabus before printing tags in student-facing materials.</div>
+
+    <div class="box tint">
+      <span class="h-eyebrow">Three routines to remember</span>
+      <ul style="margin:8px 0 0;">
+        <li><strong>Annotate in three colours:</strong> <span style="background:#dcebe9;border-left:3px solid #2f6d6a;padding:1px 7px;border-radius:0 3px 3px 0;">Meaning</span> · <span style="background:#f4e2d4;border-left:3px solid #b4632e;padding:1px 7px;border-radius:0 3px 3px 0;">Method</span> · <span style="background:#efe1ee;border-left:3px solid #8a5a86;padding:1px 7px;border-radius:0 3px 3px 0;">Response</span>.</li>
+        <li><strong>Say it before you meet it:</strong> new words are said aloud, with the pronunciation, before you read them.</li>
+        <li><strong>The Skill Bank:</strong> one page in your notebook that grows every lesson — your own revision sheet.</li>
+      </ul>
+    </div>
+
+    <!-- VOCABULARY -->
+    <h2 class="sec">1 · Vocabulary reference</h2>
+    <p style="margin:6px 0;">The unit's words, grouped in four families. Say them, then use them in your writing and speaking.</p>
+    <div class="subsec" style="margin-top:12px;">Plants &amp; Landscapes</div>
+    <div style="column-count:2;column-gap:28px;font-size:15px;">
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">adapt</span> — to change in order to survive better</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">barren</span> — too poor to grow plants; bare and lifeless</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">drought</span> — a long period with little or no rain</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">ecosystem</span> — living things + the environment they depend on</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">lush</span> — growing thickly and healthily; rich and green</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">thrive</span> — to grow strongly and do very well</div>
+    </div>
+    <div class="subsec">Animal Migration</div>
+    <div style="column-count:2;column-gap:28px;font-size:15px;">
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">migration</span> — the seasonal movement of animals between regions</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">instinct</span> — a natural behaviour you don't have to learn</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">navigate</span> — to find the way across difficult land or water</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">predator</span> — an animal that hunts and eats other animals</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">flock</span> — a large group of birds moving together</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">vast</span> — extremely large in size, amount or extent</div>
+    </div>
+    <div class="subsec">City Environments</div>
+    <div style="column-count:2;column-gap:28px;font-size:15px;">
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">urban</span> — relating to a town or city (opposite: rural)</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">sustainable</span> — able to continue without damaging the environment</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">renewable</span> — able to be replaced naturally, such as sun or wind</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">emission</span> — a harmful gas or substance sent into the air</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">congestion</span> — overcrowding, especially with traffic</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">infrastructure</span> — the basic systems a place needs (roads, water)</div>
+    </div>
+    <div class="subsec">Conservation</div>
+    <div style="column-count:2;column-gap:28px;font-size:15px;">
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">conservation</span> — the protection of nature and its resources</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">endangered</span> — at serious risk of dying out completely</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">restoration</span> — returning something to its healthy condition</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">preserve</span> — to keep something safe for the future</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">habitat</span> — the natural home of an animal or plant</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">species</span> — a group of living things that can breed together</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">neglect</span> — to fail to care for something properly</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">fragile</span> — easily damaged, broken or harmed</div>
+    </div>
+
+    <!-- RETRIEVAL -->
+    
+    <div class="subsec">Word families — learn one, gain three</div>
+    <p style="margin:4px 0;font-size:15px;">One root grows into several words. Learn the family and you always have the right form for a sentence.</p>
+    <div style="column-count:2;column-gap:28px;"><div style="break-inside:avoid;margin:5px 0;font-size:15px;"><span class="wordcell">sustain</span> → <span class="wordcell">sustainable</span> → <span class="wordcell">sustainability</span></div><div style="break-inside:avoid;margin:5px 0;font-size:15px;"><span class="wordcell">conserve</span> → <span class="wordcell">conservation</span> → <span class="wordcell">conservationist</span></div><div style="break-inside:avoid;margin:5px 0;font-size:15px;"><span class="wordcell">migrate</span> → <span class="wordcell">migration</span> → <span class="wordcell">migratory</span></div></div>
+    <div class="box tint" style="margin-top:12px;">
+      <span class="h-eyebrow">First-language bridge</span>
+      <p style="margin:6px 0 0;font-size:15px;">In your first language, note what these key ideas mean — it helps them stick: <strong>habitat</strong> · <strong>ecosystem</strong> · <strong>conservation</strong>.</p>
+    </div>
+
+    <h2 class="sec">2 · Do-Now retrieval starters</h2>
+    <p style="margin:6px 0;">Your teacher sets these at the start of lessons. Answer from memory, then mark in class.</p>
+    <div class="box"><div class="subsec" style="margin-top:0;">Round 1 · Plants &amp; Landscapes</div><ol>
+      <li>What does <em>lush</em> mean? <span class="ans">__________</span></li>
+      <li>Land too poor to grow plants is ___. <span class="ans">__________</span></li>
+      <li>A community of living things + their environment is an ___. <span class="ans">__________</span></li>
+      <li>What does <em>adapt</em> mean? <span class="line" style="display:block;"></span></li>
+      <li>A long period with little or no rain is a ___. <span class="ans">__________</span></li></ol></div>
+    <div class="box"><div class="subsec" style="margin-top:0;">Round 2 · Animal Migration</div><ol>
+      <li>The seasonal movement of animals between regions is ___. <span class="ans">__________</span></li>
+      <li>A natural, unlearned behaviour is an ___. <span class="ans">__________</span></li>
+      <li>What does <em>navigate</em> mean? <span class="line" style="display:block;"></span></li>
+      <li>An animal that hunts others is a ___. <span class="ans">__________</span></li>
+      <li>What does <em>vast</em> mean? <span class="ans">__________</span></li></ol></div>
+    <div class="box"><div class="subsec" style="margin-top:0;">Round 3 · City Environments</div><ol>
+      <li>Energy replaced naturally (sun, wind) is ___. <span class="ans">__________</span></li>
+      <li>What does <em>sustainable</em> mean? <span class="line" style="display:block;"></span></li>
+      <li>Overcrowding with traffic is ___. <span class="ans">__________</span></li>
+      <li>Relating to a town or city is ___. <span class="ans">__________</span></li>
+      <li>A harmful gas sent into the air is an ___. <span class="ans">__________</span></li></ol></div>
+    <div class="box"><div class="subsec" style="margin-top:0;">Round 4 · Conservation</div><ol>
+      <li>The protection of nature is ___. <span class="ans">__________</span></li>
+      <li>A species at serious risk of dying out is ___. <span class="ans">__________</span></li>
+      <li>What does <em>preserve</em> mean? <span class="line" style="display:block;"></span></li>
+      <li>Returning something to a healthy state is ___. <span class="ans">__________</span></li>
+      <li>To fail to care for something is to ___ it. <span class="ans">__________</span></li></ol></div>
+    <div class="box"><div class="subsec" style="margin-top:0;">Round 5 · Mixed recall (exam warm-up)</div><ol>
+      <li>Give a word for the natural home of a species. <span class="ans">__________</span></li>
+      <li>What is an <em>ecosystem</em>? (one sentence) <span class="line" style="display:block;"></span></li>
+      <li>Use <em>threaten</em> in a short sentence. <span class="line" style="display:block;"></span></li>
+      <li>Opposite of <em>urban</em>? <span class="ans">__________</span></li>
+      <li>Name one way humans harm habitats. <span class="ans">__________</span></li></ol></div>
+    <div class="key"><span class="keylabel">Answer key · retrieval</span><strong>R1</strong> lush = growing thickly/green · barren · ecosystem · adapt = change to survive better · drought. &nbsp; <strong>R2</strong> migration · instinct · navigate = find the way across difficult land/water · predator · vast = extremely large. &nbsp; <strong>R3</strong> renewable · sustainable = continue without damaging the environment · congestion · urban · emission. &nbsp; <strong>R4</strong> conservation · endangered · preserve = keep safe for the future · restoration · neglect. &nbsp; <strong>R5</strong> habitat · ecosystem = living things + the environment they depend on · (accept any correct sentence with <em>threaten</em>) · rural · pollution / building / emissions / neglect.</div>
+
+    <!-- SELF-TEST -->
+    <h2 class="sec">3 · Vocabulary self-test</h2>
+    <div class="subsec">3a · Gap-fill</div>
+    <p style="margin:6px 0;">Fill each numbered gap with a word from the bank. Use each word once.</p>
+    <div class="box tint">
+      <div style="margin-bottom:10px;"><span class="chip">species</span><span class="chip">habitat</span><span class="chip">lush</span><span class="chip">barren</span><span class="chip">drought</span><span class="chip">navigate</span><span class="chip">instinct</span><span class="chip">survive</span><span class="chip">pollution</span><span class="chip">endangered</span><span class="chip">conservation</span><span class="chip">preserve</span></div>
+      <p style="margin:0;line-height:2.4;">Our planet is home to millions of <strong>(1)</strong> <span class="gap"></span> of plants and animals, each living in its own <strong>(2)</strong> <span class="gap"></span>. Some places are <strong>(3)</strong> <span class="gap"></span>, green and full of life; others are <strong>(4)</strong> <span class="gap"></span> and lifeless after a long <strong>(5)</strong> <span class="gap"></span>. Many animals <strong>(6)</strong> <span class="gap"></span> huge distances each year, guided by <strong>(7)</strong> <span class="gap"></span>, simply to <strong>(8)</strong> <span class="gap"></span>. But human <strong>(9)</strong> <span class="gap"></span> now threatens many habitats, and some species become <strong>(10)</strong> <span class="gap"></span>. Through <strong>(11)</strong> <span class="gap"></span>, people work to protect and <strong>(12)</strong> <span class="gap"></span> the natural world.</p>
+    </div>
+    <div class="key"><span class="keylabel">Answer key · 3a gap-fill</span>1 species · 2 habitat · 3 lush · 4 barren · 5 drought · 6 navigate · 7 instinct · 8 survive · 9 pollution · 10 endangered · 11 conservation · 12 preserve.</div>
+    <div class="subsec">3b · Match the word to its meaning</div>
+    <table><thead><tr><th style="width:34%;">Word</th><th>Meaning</th></tr></thead><tbody>
+      <tr><td class="wordcell">A · adapt</td><td>1 · easily damaged or harmed</td></tr>
+      <tr><td class="wordcell">B · ecosystem</td><td>2 · to change in order to survive better</td></tr>
+      <tr><td class="wordcell">C · fragile</td><td>3 · returning something to its healthy condition</td></tr>
+      <tr><td class="wordcell">D · predator</td><td>4 · living things + the environment they depend on</td></tr>
+      <tr><td class="wordcell">E · sustainable</td><td>5 · relating to a town or city</td></tr>
+      <tr><td class="wordcell">F · restoration</td><td>6 · an animal that hunts and eats other animals</td></tr>
+      <tr><td class="wordcell">G · urban</td><td>7 · to be likely to cause harm to something</td></tr>
+      <tr><td class="wordcell">H · threaten</td><td>8 · able to continue without damaging the environment</td></tr>
+    </tbody></table>
+    <div class="key"><span class="keylabel">Answer key · 3b match</span>A–2 · B–4 · C–1 · D–6 · E–8 · F–3 · G–5 · H–7.</div>
+    <div class="subsec">3c · Use it yourself</div>
+    <p style="margin:6px 0;">Write one sentence of your own for each word.</p>
+    <ol>
+      <li><strong>endurance</strong> <span class="line" style="display:block;"></span></li>
+      <li><strong>sustainable</strong> <span class="line" style="display:block;"></span></li>
+      <li><strong>extinction</strong> <span class="line" style="display:block;"></span></li>
+      <li><strong>cultivate</strong> <span class="line" style="display:block;"></span></li>
+      <li><strong>recover</strong> <span class="line" style="display:block;"></span></li>
+    </ol>
+
+    <!-- READING -->
+    <h2 class="sec" style="break-before:page;">4 · Reading tasks</h2>
+    <p style="margin:6px 0;">Use the text on the board (or your exam copy). Annotate in three colours, then answer.</p>
+    <div class="box"><div class="subsec" style="margin-top:0;">4a · "The Plants That Break the Rules" — reading for detail</div><ol>
+      <li>Which plant produces only two leaves in its whole life? <span class="ans">__________</span></li>
+      <li>Why does the titan arum smell of rotting meat? <span class="line" style="display:block;"></span></li>
+      <li>Which plant can come back to life after a drought? <span class="ans">__________</span></li>
+      <li>What is unusual about how the dancing plant behaves? <span class="line" style="display:block;"></span></li>
+      <li>What do all four plants have in common? <span class="line" style="display:block;"></span></li></ol></div>
+    <div class="key"><span class="keylabel">Answer key · 4a</span>1 the welwitschia. &nbsp; 2 to attract the flies and beetles that carry its pollen. &nbsp; 3 the resurrection plant. &nbsp; 4 its side-leaves twitch and rotate in response to warmth, light and music. &nbsp; 5 a refusal to be ordinary — each found an unusual way to survive (writer's overall point; accept close paraphrase).</div>
+    <div class="box"><div class="subsec" style="margin-top:0;">4b · "Four Great Journeys" — matching (A–D)</div>
+      <p style="margin:4px 0;font-size:15px;">A tern · B monarch butterfly · C humpback whale · D wildebeest. You may use each letter more than once.</p><ol>
+      <li>Makes its journey without eating? <span class="ans">___</span></li>
+      <li>Migration completed across several generations? <span class="ans">___</span></li>
+      <li>Travels in a huge group with no leader? <span class="ans">___</span></li>
+      <li>Sees more daylight than any other animal? <span class="ans">___</span></li>
+      <li>Faces danger from crocodiles at rivers? <span class="ans">___</span></li>
+      <li>Whose song spreads across whole oceans? <span class="ans">___</span></li></ol></div>
+    <div class="key"><span class="keylabel">Answer key · 4b matching</span>1 C (humpback whale — lives off summer fat) · 2 B (monarch butterfly — great-grandchildren arrive) · 3 D (wildebeest — a million, no leader) · 4 A (Arctic tern — summer at both ends) · 5 D (wildebeest — crocodiles at the rivers) · 6 C (humpback whale — song ocean to ocean). Letters repeat, as in a real paper.</div>
+    <div class="box"><div class="subsec" style="margin-top:0;">4c · "The River That Came Back to Life" — note completion (1–4 words)</div>
+      <div style="font-size:15px;line-height:2;">30 years ago the river was like an open <span class="ans">______</span> · waste came from <span class="ans">______</span> upstream · the movement began with a retired <span class="ans">______</span> · the group was called the <span class="ans">______</span> · two factories agreed to install <span class="ans">______</span> · the group planted <span class="ans">______</span> · after 50 years an <span class="ans">______</span> returned.</div></div>
+    <div class="key"><span class="keylabel">Answer key · 4c note completion</span>open <strong>drain</strong> · <strong>factories</strong> (upstream) · a retired <strong>teacher</strong> (Pamela Osei) · the <strong>River Watch</strong> · install <strong>filters</strong> · planted <strong>reeds</strong> · an <strong>otter</strong>. Accept the text's wording; hold answers to 1–4 words.</div>
+    <div class="box"><div class="subsec" style="margin-top:0;">4d · "The Man Who Grows Forests on Rooftops" — multiple choice</div><p style="margin:4px 0;font-size:15px;">Choose the best answer: A, B, C or D.</p><ol style="font-size:15px;">
+      <li>Why did building owners hesitate at first?<br><span style="color:#5a544c;">A</span> they thought it was illegal &nbsp; <span style="color:#5a544c;">B</span> they worried about weight, leaks and cost &nbsp; <span style="color:#5a544c;">C</span> they wanted paying tenants &nbsp; <span style="color:#5a544c;">D</span> they preferred concrete &nbsp; <span class="ans">(&nbsp;&nbsp;)</span></li>
+      <li>What surprised people about the planted rooftop?<br><span style="color:#5a544c;">A</span> it looked beautiful &nbsp; <span style="color:#5a544c;">B</span> it made good financial sense &nbsp; <span style="color:#5a544c;">C</span> it grew more food than expected &nbsp; <span style="color:#5a544c;">D</span> it attracted tourists &nbsp; <span class="ans">(&nbsp;&nbsp;)</span></li>
+      <li>What does Owusu call "the real harvest"?<br><span style="color:#5a544c;">A</span> the vegetables grown &nbsp; <span style="color:#5a544c;">B</span> the money saved &nbsp; <span style="color:#5a544c;">C</span> the change in how people think &nbsp; <span style="color:#5a544c;">D</span> the forty roofs &nbsp; <span class="ans">(&nbsp;&nbsp;)</span></li></ol></div>
+    <div class="key"><span class="keylabel">Answer key · 4d multiple choice</span>1 <strong>B</strong> — “Many feared the weight of the soil, or leaks, or the cost.” &nbsp; 2 <strong>B</strong> — “What had looked like charity turned out to make hard financial sense.” &nbsp; 3 <strong>C</strong> — “That shift in the mind is the real harvest.”</div>
+
+    <!-- GRAMMAR -->
+    <h2 class="sec" style="break-before:page;">5 · Grammar (Use of English)</h2>
+    <div class="subsec">5a · Relative clauses (which / whose)</div>
+    <ol>
+      <li>The titan arum, <span class="ans">____</span>, smells of rotting meat.</li>
+      <li>The resurrection plant, <span class="ans">____</span> curls into a ball, survives drought.</li>
+      <li>The welwitschia, <span class="ans">____</span> two leaves never fall, is a living fossil.</li>
+    </ol>
+    <div class="subsec">5b · Comparatives &amp; superlatives</div>
+    <ol>
+      <li>large → <span class="ans">________</span> → <span class="ans">________</span></li>
+      <li>good → <span class="ans">________</span> → <span class="ans">________</span></li>
+      <li>The pond is not <span class="ans">___</span> vast <span class="ans">___</span> the ocean.</li>
+      <li>The desert is dry, <span class="ans">______</span> the rainforest is wet. <span style="color:#8a8478;">(contrast linker)</span></li>
+    </ol>
+    <div class="subsec">5c · The passive</div>
+    <p style="margin:4px 0;font-size:15px;">Rewrite in the passive.</p>
+    <ol>
+      <li>Factories polluted the river. <span class="line" style="display:block;"></span></li>
+      <li>The group planted reeds. <span class="line" style="display:block;"></span></li>
+      <li>Volunteers test the water every week. <span class="line" style="display:block;"></span></li>
+    </ol>
+    <div class="subsec">5d · Present perfect</div>
+    <ol>
+      <li>More than forty roofs <span class="ans">________</span> (become) gardens.</li>
+      <li>Bees and birds <span class="ans">________</span> (return) to the district.</li>
+      <li>Owusu <span class="ans">________</span> (change) how people think.</li>
+    </ol>
+    <div class="key"><span class="keylabel">Answer key · grammar</span><strong>5a</strong> 1 accept any correct <em>which</em>-clause (e.g. “which is the world's largest flower”) · 2 which · 3 whose. &nbsp; <strong>5b</strong> 1 larger / largest · 2 better / best · 3 not <strong>as</strong> vast <strong>as</strong> · 4 whereas / while. &nbsp; <strong>5c</strong> 1 The river was polluted by factories. · 2 Reeds were planted (by the group). · 3 The water is tested (by volunteers) every week. &nbsp; <strong>5d</strong> 1 have become · 2 have returned · 3 has changed.</div>
+
+    <!-- WRITING -->
+    <h2 class="sec" style="break-before:page;">6 · Writing</h2>
+    <div class="subsec">6a · An informal letter (120–150 words)</div>
+    <div class="box tint" style="font-size:15px;"><strong>Shape:</strong> Where &amp; what → What you saw → Why it matters (+ call to action). &nbsp; <strong>Stems:</strong> "You won't believe the ___ I visited…" · "The ___ were so ___ that ___." · "But it's in danger: ___ threatens ___." · "I think we should ___. Write back soon!"</div>
+    <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
+    <div class="subsec">6b · A conservation report (120–160 words, formal)</div>
+    <div class="box tint" style="font-size:15px;"><strong>Sections:</strong> Current problems → What could be done (passive steps) → Recommendation. &nbsp; <strong>Stems:</strong> "For years the river has been ___." · "Several steps could be ___." · "First, the water should be ___." · "It is recommended that ___."</div>
+    <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
+
+    <!-- HOMEWORK -->
+    <h2 class="sec">7 · Homework menu</h2>
+    <table><thead><tr><th style="width:30%;">Task</th><th>What to do</th></tr></thead><tbody>
+      <tr><td class="wordcell">Nature near you</td><td>List 3 living things near you; note one fact about each.</td></tr>
+      <tr><td class="wordcell">Vocabulary</td><td>Learn the unit words; write 5 in sentences of your own.</td></tr>
+      <tr><td class="wordcell">Letter</td><td>Write a 120–150 word letter about a natural place worth protecting.</td></tr>
+      <tr><td class="wordcell">Research</td><td>Find one endangered species. Note its habitat, threat, and one way to help.</td></tr>
+      <tr><td class="wordcell">The debate</td><td>Prepare your view: "Whose job is it to protect nature — governments or everyone?"</td></tr>
+    </tbody></table>
+
+    <!-- SELF-CHECK -->
+    <h2 class="sec">8 · "I can…" self-check</h2>
+    <p style="margin:6px 0;">Tick honestly. Anything unticked is your next step.</p>
+    <div class="box"><div style="line-height:2.1;font-size:16px;">
+      <div>☐ explain what a habitat and an ecosystem are, with an example.</div>
+      <div>☐ use the four word-families accurately in speaking and writing.</div>
+      <div>☐ read for detail, match items, complete notes, and choose the best answer.</div>
+      <div>☐ add information with relative clauses (which / whose).</div>
+      <div>☐ compare with comparatives, superlatives and <em>as…as</em>.</div>
+      <div>☐ use the passive for an objective report.</div>
+      <div>☐ use the present perfect to talk about change.</div>
+      <div>☐ write a friendly letter and a formal report about protecting nature.</div>
+      <div>☐ describe a natural place, and make clear why it matters.</div>
+      <div>☐ give a clear recommendation or call to action, and check my spelling.</div>
+    </div></div>
+
+    <h2 class="sec" style="break-before:page;">9 · Teacher furniture</h2>
+
+    <div class="subsec">9a · Pacing (starter → main → plenary)</div>
+    <table><thead><tr><th style="width:30%;">Lesson</th><th>Shape</th></tr></thead><tbody>
+      <tr><td class="wordcell">1 Welcome (15′)</td><td>Do-Now hook → the idea of habitat/ecosystem → speaking + reflection.</td></tr>
+      <tr><td class="wordcell">2 Vocabulary (25′)</td><td>Retrieval → four families choral → gap-fill + match → productive use.</td></tr>
+      <tr><td class="wordcell">3 Rule-Breakers (30′)</td><td>Retrieval → vocab → read + model scan → 5 short-answer Qs → relative clauses.</td></tr>
+      <tr><td class="wordcell">4 Great Journeys (30′)</td><td>Retrieval → read → how matching works + model → 6 matching Qs → comparatives.</td></tr>
+      <tr><td class="wordcell">5 Comparatives (30′)</td><td>Retrieval → forms + as…as teach → 3 keyed practices → speaking.</td></tr>
+      <tr><td class="wordcell">6 The River (30′)</td><td>Retrieval → read → note-completion → past simple → big-think speaking.</td></tr>
+      <tr><td class="wordcell">7 Rooftops (30′)</td><td>Retrieval → read → how MCQ works + model → 3 MCQs → present perfect.</td></tr>
+      <tr><td class="wordcell">8 Reporting (30′)</td><td>Retrieval → passive + report language → 3 keyed practices → report-a-fact speaking.</td></tr>
+      <tr><td class="wordcell">9 Listening (30′)</td><td>Five task types → 3 exercises (notes / match / MCQ) → reflection.</td></tr>
+      <tr><td class="wordcell">10 Letter (35′)</td><td>Task → 3-part shape → model → toolkit → plan → draft → peer review.</td></tr>
+      <tr><td class="wordcell">11 Report + Review (40′)</td><td>Task → report shape → model → plan &amp; draft → Skill Bank complete → capstone launch.</td></tr>
+    </tbody></table>
+
+    <div class="subsec">9b · “Watch for” — misconceptions specific to this unit</div>
+    <div class="watch"><span class="watchlabel">Matching (L4)</span>Students assume the answers run in text order, or that each letter is used once. Model that letters <em>repeat</em> and that you scan by key idea, not sequence.</div>
+    <div class="watch"><span class="watchlabel">Note completion (L6)</span>Over-long answers. Enforce the 1–4-word limit and require the text's own words; lifting a whole clause loses the mark.</div>
+    <div class="watch"><span class="watchlabel">Comparatives (L5)</span>Double comparatives (“more bigger”) and “as … than”. Drill one form per adjective and fix <em>as…as</em> vs <em>than</em>.</div>
+    <div class="watch"><span class="watchlabel">The passive (L8)</span>Dropping <em>be</em> (“The river polluted”) or forcing a <em>by</em>-agent when it isn't needed. Show that the agent is optional in a report.</div>
+    <div class="watch"><span class="watchlabel">Present perfect (L7)</span>Using past simple for a change that still matters (“bees returned” → “bees have returned”). Contrast finished time vs result-now.</div>
+    <div class="watch"><span class="watchlabel">Register (L10–11)</span>Mixing letter and report voice — slang in the report, or a stiff report tone in the friendly letter. Sort three sample lines by register first.</div>
+
+    <div class="subsec">9c · Support / Stretch</div>
+    <div class="box tint"><strong>Support</strong> — give the frames: “My favourite living thing is ___. It lives in ___. It needs ___ to survive. One danger is ___. We can help by ___.” Word bank: <em>habitat · species · thrive · fragile · survive · adapt · protect · endangered</em>.<br><strong>Stretch</strong> — counter-argument (“Although…, I believe…” that cities can help wildlife); two data sentences on a species' decline and recovery; a two-minute talk, “The species I would fight to save,” using 5 unit words and one comparison.</div>
+
+    <div class="subsec">9d · Mark scheme — Nature Writing (letter / report)</div>
+    <table style="font-size:13px;"><thead><tr><th style="width:16%;">Criterion</th><th>Strong (top band)</th><th>Secure (mid band)</th><th>Developing</th></tr></thead><tbody>
+      <tr><td class="wordcell">Content &amp; ideas</td><td>Fully answers the task; accurate, vivid detail; clear purpose.</td><td>Answers the task; some detail and a clear purpose.</td><td>Basic answer; little detail.</td></tr>
+      <tr><td class="wordcell">Vocabulary</td><td>Wide, precise; 3+ unit words used naturally.</td><td>Good; 2 unit words correct.</td><td>Simple; 1 unit word or some errors.</td></tr>
+      <tr><td class="wordcell">Grammar &amp; accuracy</td><td>Varied sentences; very few errors.</td><td>Mostly accurate; errors don't block meaning.</td><td>Frequent errors; sometimes unclear.</td></tr>
+      <tr><td class="wordcell">Organisation</td><td>Clear paragraphs; strong opening &amp; close.</td><td>Clear paragraphs; some linking.</td><td>Some structure; basic linking.</td></tr>
+      <tr><td class="wordcell">Purpose &amp; register</td><td>Clearly informs/persuades; correct tone for letter or report.</td><td>Mostly correct purpose and tone.</td><td>Some sense of purpose.</td></tr>
+    </tbody></table>
+    <p style="font-size:13px;color:#6b6357;margin:6px 0 0;">EAL note: reward communication that succeeds despite minor slips; do not over-penalise L1-influenced error where meaning is clear.</p>
+
+    <div class="subsec">9e · Assessment-objective map (confirm against the live 0510 / 0511 syllabus)</div>
+    <table style="font-size:13px;"><thead><tr><th style="width:22%;">Skill / AO</th><th>Where it is assessed in Unit 2</th></tr></thead><tbody>
+      <tr><td class="wordcell">R1 select &amp; organise</td><td>4a short-answer, 4c note completion.</td></tr>
+      <tr><td class="wordcell">R2 stated &amp; implied</td><td>4b matching, 4d multiple choice, writer's-attitude work.</td></tr>
+      <tr><td class="wordcell">W1–W3 write</td><td>§6 letter &amp; report (audience/purpose, organisation, accuracy).</td></tr>
+      <tr><td class="wordcell">Listening</td><td>L9 — notes, speaker-matching, interview MCQ.</td></tr>
+      <tr><td class="wordcell">Speaking</td><td>L1, L3–8 tasks; capstone presentation (range, accuracy, development, fluency, interaction).</td></tr>
+    </tbody></table>
+
+  </div>
+</doc-page>
+</x-dc>
+</body>
+</html>

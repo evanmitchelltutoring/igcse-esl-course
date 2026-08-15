@@ -1,0 +1,2044 @@
+{
+ "_about": "Real live content for Sports & Competition (sports-and-games). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 7,
+  "slug": "sports-and-games",
+  "title": "Sports & Competition",
+  "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Sports & Competition — why this unit",
+   "skill": "orientation",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "The language of sport & competition",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "What counts as a sport?",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "word_sort",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "The business behind the team",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "word_sort",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "Bodies pushed hard",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "The roaring dark",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 7,
+   "title": "Reasoning about the unreal + adding detail",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Voices on sport — listening block",
+   "skill": "listening",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Writing — directed report",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing — extended argumentative essay",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Talking about sport — speaking focus",
+   "skill": "speaking",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 12,
+   "title": "Review, reflection & debate",
+   "skill": "review",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "professionalism-and-money": [
+   {
+    "word": "academy",
+    "pos": "noun",
+    "def": "a junior squad/programme that develops young talent"
+   },
+   {
+    "word": "contract",
+    "pos": "noun",
+    "def": "a legal agreement, e.g. between a player and a team"
+   },
+   {
+    "word": "earnings",
+    "pos": "noun (pl)",
+    "def": "money earned from work or competition"
+   },
+   {
+    "word": "franchise",
+    "pos": "noun",
+    "def": "a team granted a permanent place in a league"
+   },
+   {
+    "word": "prize pool",
+    "pos": "noun phrase",
+    "def": "the total money shared between winners of a competition"
+   },
+   {
+    "word": "professional",
+    "pos": "adjective/noun",
+    "def": "doing an activity as a paid job, to a high standard"
+   },
+   {
+    "word": "revenue",
+    "pos": "noun",
+    "def": "money a business or event brings in"
+   },
+   {
+    "word": "roster",
+    "pos": "noun",
+    "def": "the official list of players in a team"
+   },
+   {
+    "word": "sponsorship",
+    "pos": "noun",
+    "def": "money/support a company gives in return for advertising"
+   }
+  ],
+  "spectator-culture": [
+   {
+    "word": "arena",
+    "pos": "noun",
+    "def": "a large building/space for sports and shows"
+   },
+   {
+    "word": "broadcast",
+    "pos": "verb/noun",
+    "def": "to send out a programme on TV/radio/online"
+   },
+   {
+    "word": "concurrent",
+    "pos": "adjective",
+    "def": "happening at the same time"
+   },
+   {
+    "word": "fan base",
+    "pos": "noun phrase",
+    "def": "the regular supporters of a team/player"
+   },
+   {
+    "word": "grassroots",
+    "pos": "adjective/noun",
+    "def": "at the ordinary, local level, not the professional top"
+   },
+   {
+    "word": "merchandise",
+    "pos": "noun",
+    "def": "goods (shirts, etc.) sold to fans"
+   },
+   {
+    "word": "phenomenon",
+    "pos": "noun",
+    "def": "a remarkable thing/event that attracts attention; plural phenomena"
+   },
+   {
+    "word": "sold-out",
+    "pos": "adjective",
+    "def": "with every ticket bought"
+   },
+   {
+    "word": "spectator",
+    "pos": "noun",
+    "def": "a person who watches an event"
+   },
+   {
+    "word": "streaming",
+    "pos": "noun",
+    "def": "watching/broadcasting live video over the internet"
+   }
+  ],
+  "body-and-athleticism": [
+   {
+    "word": "athlete",
+    "pos": "noun",
+    "def": "a person trained to compete in physical sport"
+   },
+   {
+    "word": "cognitive",
+    "pos": "adjective",
+    "def": "relating to thinking, learning and mental processing"
+   },
+   {
+    "word": "fine motor (control/skill)",
+    "pos": "noun phrase",
+    "def": "precise control of small muscle movements"
+   },
+   {
+    "word": "physiotherapy",
+    "pos": "noun",
+    "def": "treatment of injury through movement and exercise"
+   },
+   {
+    "word": "reaction time",
+    "pos": "noun phrase",
+    "def": "how quickly someone responds to what they see or hear"
+   },
+   {
+    "word": "reflex",
+    "pos": "noun",
+    "def": "an automatic, very fast physical response"
+   },
+   {
+    "word": "repetitive strain (injury)",
+    "pos": "noun phrase",
+    "def": "damage caused by the same movement repeated over time"
+   },
+   {
+    "word": "stamina",
+    "pos": "noun",
+    "def": "the physical or mental strength to keep going for a long time"
+   }
+  ],
+  "what-counts-as-a-sport": [
+   {
+    "word": "classify",
+    "pos": "verb",
+    "def": "to put into groups by type"
+   },
+   {
+    "word": "criterion",
+    "pos": "noun",
+    "def": "one of the standards used to judge or decide something"
+   },
+   {
+    "word": "define",
+    "pos": "verb",
+    "def": "to state exactly what something means"
+   },
+   {
+    "word": "dispute",
+    "pos": "verb/noun",
+    "def": "to argue against / a disagreement"
+   },
+   {
+    "word": "exertion",
+    "pos": "noun",
+    "def": "physical or mental effort"
+   },
+   {
+    "word": "governing body",
+    "pos": "noun phrase",
+    "def": "the organisation that makes and enforces the rules of a sport"
+   },
+   {
+    "word": "qualify (as)",
+    "pos": "verb",
+    "def": "to meet the conditions to be counted as something"
+   },
+   {
+    "word": "skill-based",
+    "pos": "adjective",
+    "def": "depending on ability rather than luck"
+   }
+  ],
+  "argument-chunk": [
+   {
+    "word": "on balance",
+    "pos": "chunk (prep phrase)",
+    "def": "signals a weighed-up conclusion"
+   },
+   {
+    "word": "the evidence suggests",
+    "pos": "chunk (fixed frame)",
+    "def": "bases a claim on facts, not opinion"
+   },
+   {
+    "word": "there is a strong case that",
+    "pos": "chunk (fixed frame)",
+    "def": "introduces a well-supported claim"
+   },
+   {
+    "word": "weigh up",
+    "pos": "chunk (phrasal verb)",
+    "def": "to consider both sides before deciding"
+   },
+   {
+    "word": "while critics argue",
+    "pos": "chunk (subordinator frame)",
+    "def": "concedes an opposing view before rebutting"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "Athlete or Not: Both Sides (Ex3 backup — summary)",
+   "topic": "body-and-athleticism",
+   "difficulty": null,
+   "exam_part": 3,
+   "instructions": "backup",
+   "body": "Few arguments in modern sport are as stubborn as this one: is a professional gamer an athlete? The case can be made convincingly on both sides, which is exactly why it refuses to settle.\n\nThe case for. Supporters point first to training. Top players practise for many hours daily, follow structured routines, and are coached, analysed and managed like any sportsperson. They point next to the body: elite players have unusually fast reactions and remarkable fine motor control, and they suffer genuine, sometimes career-ending, injuries from overuse. Finally, they note that \"athlete\" has never meant only runners and lifters — archers, shooters and racing drivers all carry the title with far less large-scale exertion than a marathon demands.\n\nThe case against. Critics begin with the body too, but draw the opposite conclusion. An athlete, they argue, must show significant physical exertion — lungs working, muscles straining — and clicking a mouse, however fast, does not qualify. They add that calling everyone who competes skilfully an \"athlete\" empties the word of meaning: chess players are brilliant and disciplined, yet few call them athletes. For these critics, skill and training are necessary but not sufficient; without the physical test, the label is a stretch.\n\nWhy it sticks. The deadlock survives because both sides are partly right. Gamers clearly train their bodies and minds hard, and clearly get hurt doing it — that much is not in dispute. But it is equally true that the physical demand, while real, is narrow: fingers, eyes and concentration, not the whole working body. Whether that narrow demand \"counts\" is not a fact to be discovered but a decision about what we want the word to mean.\n\nPerhaps that is the honest conclusion. \"Athlete\" is not a locked box waiting to be opened; it is a label societies hand out, and gradually redraw. The argument over gamers is really an argument about ourselves — about how widely we are willing to stretch an old and respected word."
+  },
+  {
+   "title": "Is gaming a sport? (intervention — simplified)",
+   "topic": "what-counts-as-a-sport",
+   "difficulty": null,
+   "exam_part": 1,
+   "instructions": "intervention-struggling",
+   "body": "Is gaming a sport? People who decide this look at four things. First, is there real competition? Esports has leagues, rules and referees, so yes. Second, is there a group in charge — a governing body? More and more countries now have one. Third, does it need skill? Top players train for hours every day, so few say no. The fourth thing is the hard one: physical effort. Some people say sitting at a screen is not the same as running or swimming. Others say fast hand movements are still physical. This is the part people argue about most. So esports passes three tests easily. The fourth is not so clear. That is why people still do not agree."
+  },
+  {
+   "title": "The Moving Line (Ex1 backup)",
+   "topic": "what-counts-as-a-sport",
+   "difficulty": null,
+   "exam_part": 1,
+   "instructions": "backup",
+   "body": "The list of Olympic sports is not fixed. It changes, and the story of how it changes tells us something useful about the esports debate.\n\nTake sport climbing. For decades it was seen as an outdoor pastime — a thing adventurous people did on cliffs, not a contest for medals. Critics said it was too individual, too hard to judge, too far from the running tracks and swimming pools of \"proper\" sport. Yet in 2021 climbers competed for Olympic medals for the first time, watched by millions.\n\nSkateboarding followed a similar path. Once dismissed as a street hobby for teenagers — even banned in many towns — it too became an Olympic event, bringing a younger, global audience with it.\n\nWhat changed? Not the activities themselves, but the attitudes around them. Both built international federations, agreed common rules and judging systems, and showed they could fill arenas and screens. The criteria that officials apply — organised competition, governing bodies, skill, a real following — were gradually met. Once they were, the old objection that these were \"not real sports\" began to sound dated.\n\nSupporters of esports point to exactly this history. Every new sport, they argue, faces the same scepticism, and the line for what \"counts\" has always moved with the times. Critics reply that climbing and skateboarding, whatever their image, still demand obvious physical effort — the one test esports finds hardest to pass.\n\nThe comparison, then, cuts both ways. It shows that doubt is normal and often fades. But it also reminds us that, so far, every activity that has crossed the line has done so with the body clearly involved."
+  },
+  {
+   "title": "One Season with Vector (Ex2 backup)",
+   "topic": "professionalism-and-money",
+   "difficulty": null,
+   "exam_part": 2,
+   "instructions": "backup",
+   "body": "To see how an esports organisation really works, it helps to follow a single team — call them Vector — through one season.\n\nWhere the money came from. Vector's largest income was sponsorship: three brands paid to appear on the team's shirts and streams. Prize money came second, after the team reached two tournament finals. Subscriptions from fans watching the players' practice streams made up a steady third stream, and a small online shop selling shirts and hoodies added the rest.\n\nWhere the money went. Player salaries were the biggest cost by far. Travel to overseas events came next — flights and hotels for a squad of nine. The team also rented a shared training house, paid its support staff, and set aside a budget for new equipment each season.\n\nThe people. Vector fielded five players, but employed nine staff around them. A head coach set strategy; an analyst studied rivals; a manager ran the day-to-day; a part-time physiotherapist treated wrist and back strain; and a psychologist worked with players during losing streaks. A junior academy of four younger players trained separately, hoping to be promoted.\n\nHow the season ended. Vector finished mid-table — respectable, but not enough to keep everyone. Two players were released when their contracts ended, one retired at twenty-five, and one academy player was promoted to the main roster. The organisation broke even financially, which, the manager admitted, was a better result than many rivals managed.\n\nThe picture that emerges is neither glamorous nor amateur. It is a small, fragile business — real salaries and real staff on one side, short careers and tight budgets on the other."
+  },
+  {
+   "title": "Don't Mistake the Roar (Ex4 backup — language & effect)",
+   "topic": "spectator-culture",
+   "difficulty": null,
+   "exam_part": 4,
+   "instructions": "backup",
+   "body": "Let me grant the obvious first. The arenas are full. The viewing figures are enormous. The crowds, phones aloft, make a noise that could shake the fillings from your teeth. I have seen the footage, and I do not dispute a single number.\n\nAnd yet.\n\nA full stadium proves that something is popular. It does not, on its own, prove that something is a sport. Concerts fill arenas. So do religious gatherings, political rallies and, once upon a time, public executions. Vast, roaring crowds are evidence of spectacle — nothing more, nothing less. To leap from \"millions are watching\" to \"therefore it is a sport\" is to mistake the size of the audience for the nature of the contest.\n\nThe enthusiasts know this, I suspect, which is why they reach so often for the language of feeling. Listen to how they describe it: the goosebumps, the tears, the floor that shakes. All true, I'm sure. But emotion is not an argument. A film can move me to tears; that does not make cinema a sport. The heart is easily stirred, and easily mistaken for the head.\n\nWhat the crowd settles is whether esports is entertainment, and on that question the verdict is plainly yes. Whether it is sport is a different matter entirely — one that turns on criteria the cheering conveniently skips past. The louder the celebration of the audience, the quieter, I notice, the discussion of the one awkward test the activity still struggles to pass.\n\nSo enjoy the show. Fill the stadiums. Stream it to the moon. Just don't mistake the roar of a crowd for the answer to a question it was never asked."
+  },
+  {
+   "title": "What Counts as a Sport?",
+   "topic": "what-counts-as-a-sport",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "main",
+   "body": "When officials decide whether an activity deserves to be called a sport, they rarely rely on instinct. Most governing bodies weigh four broad criteria: physical exertion, skill, organised competition, and a recognised governing body. An activity that satisfies all four has a strong claim; one that misses several does not.\n\nEsports — competitive video gaming played for prizes in front of an audience — is often measured against exactly these tests, and the results are revealing.\n\nTake organised competition. Here esports stands on firm ground. Professional titles run structured leagues, seasons, play-offs and world championships, with rules enforced by referees and anti-cheating systems as strict as any in traditional sport.\n\nGoverning bodies, too, increasingly exist. National esports federations have formed in dozens of countries, and international associations now represent the sport's interests, much as football or athletics organisations do.\n\nSkill is rarely disputed. Top players train for hours every day to sharpen decision-making, teamwork and precision under pressure. Few who have watched a high-level match would call it easy.\n\nThe one criterion that remains contested is physical exertion. Critics argue that sitting at a screen, however intense the concentration, cannot compare to the bodily effort of running or swimming. Supporters reply that exertion comes in many forms — the rapid, repeated hand movements and split-second reactions of elite players are physical, even if they do not leave a player breathless.\n\nThis is the heart of the debate. If physical exertion is treated as the single decisive test, esports struggles. If it is one factor among four, esports scores well on the rest.\n\nFor now, the question stays open. Some bodies have embraced esports; others hold back, unconvinced that a contest decided by fingertips belongs in the same category as one decided by whole bodies. What is clear is that the four criteria, not personal taste, are where the argument is fought."
+  },
+  {
+   "title": "The Business Behind the Team",
+   "topic": "professionalism-and-money",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "main",
+   "body": "A successful esports organisation looks less like a group of friends gaming and more like a small sports business. Behind the five players on stage sits a structure built to find talent, fund it and keep it winning.\n\nMoney arrives from several directions. The largest share for most teams is sponsorship — brands pay to place their logos on jerseys and streams. A second source is prize money, won at tournaments and shared between the organisation and its players. A third, fast-growing source is streaming revenue, earned when players broadcast their practice to online audiences who subscribe or donate. Ticket sales from live events add a smaller amount, and selling merchandise such as jerseys and hoodies brings in the rest.\n\nThe people involved go far beyond the players. Each team employs a head coach, who designs strategy and reviews matches. An analyst studies opponents and prepares data on their habits. A team manager handles travel, contracts and daily life, while many organisations now add a sports psychologist to protect players' focus and confidence. Larger teams also run an academy — a junior squad where promising young players develop before joining the main roster.\n\nYet the career is far from secure. Professional play is unusually short: most competitors retire in their mid-twenties, when reaction speeds begin to slow. Rosters change constantly, and a player who underperforms for a few weeks may be dropped. Few earn the headline salaries reported in the news; for every star, many more get by on modest pay and uncertain contracts. Burnout, caused by long practice hours and relentless pressure, ends careers early.\n\nThis mix of real money and real risk is part of why supporters insist esports should be taken seriously. The structures — salaries, coaching staff, academies, enforced rules — mirror those of any professional sport. Critics counter that money alone proves nothing: plenty of activities pay well without being called sports. Still, the professional machinery surrounding top teams is difficult to dismiss as mere play."
+  },
+  {
+   "title": "Bodies Pushed Hard",
+   "topic": "body-and-athleticism",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "main",
+   "body": "Ask whether professional gamers are athletes and you will start an argument. Look closely at what their bodies actually do, however, and the question becomes harder to dismiss.\n\nThe clearest physical demand is speed. Top players register reaction times far faster than the average adult, responding to events on screen in fractions of a second. In some games they perform several hundred deliberate actions every minute — a rate of precise hand and finger movement that few activities require. Holding that accuracy for hours, match after match, calls for fine motor control and intense concentration rather than brute strength.\n\nThis precision comes at a cost. Years of rapid, repeated movements can cause repetitive strain injuries in the wrists and hands, ending careers as surely as a torn muscle ends a runner's. Long hours seated bring back and neck problems, and constant focus on a bright screen tires the eyes. The body is not driven to exhaustion the way a sprinter's is, but it is pushed hard in its own narrow way.\n\nTeams have responded much as traditional clubs do. Many now employ sports scientists to measure performance and recovery. Physiotherapists treat and prevent the strain injuries that threaten careers. Nutritionists plan meals to keep energy and focus steady through long sessions, and some organisations enforce fitness routines, arguing that a fitter body supports a sharper mind. Sleep, once ignored, is now managed carefully.\n\nWhether all this makes a gamer an athlete depends on what the word means. If an athlete is someone whose body must be trained, protected and pushed to compete at the highest level, professional players have a case. If the word demands large-scale physical exertion — the heaving lungs of a swimmer or cyclist — then the case is weaker.\n\nWhat is not in doubt is that the body matters. The teams paying for physiotherapists and sports scientists are not doing it for show; they do it because, at the top level, the gap between winning and losing can come down to how well a player's hands, eyes and mind hold up under pressure. The argument over the word \"athlete\" continues, but the physical reality behind it is no longer easy to wave away."
+  },
+  {
+   "title": "The Roaring Dark",
+   "topic": "spectator-culture",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "main",
+   "body": "The arena is dark, and then it isn't. Eighteen thousand phone lights bloom at once, a galaxy held in human hands, and the noise that follows hits the chest like a physical thing. On stage, five players sit in a pool of light, hunched over keyboards, utterly still while everything around them erupts. They are about to play a video game. The crowd is about to lose its mind.\n\nIf you still picture esports as a hobby for lonely teenagers in darkened bedrooms, this is the scene that should give you pause.\n\nTickets to events like this sell out in minutes. The biggest finals fill stadiums built for football and basketball, and for every fan inside, hundreds of thousands more are watching at home. A single championship can draw millions of concurrent viewers — more, on some nights, than the traditional sports finals shown at the same hour. The audience is not imaginary. It is measurable, vast and growing.\n\nAnd it behaves exactly as sports crowds always have. People paint their faces in team colours. They gasp as one, groan as one, surge to their feet as one. They queue for merchandise and they weep when their heroes lose. Strip away the screens and the controllers, and what remains is the oldest spectacle in the world: thousands of strangers bound together for a few hours by the fortunes of a team they have chosen to love.\n\nSo here is the question the doubters must answer. If a contest fills arenas, sells out broadcasts and moves a crowd to tears, on what grounds is it not a spectator sport? The audience has already decided. The only people still arguing, it sometimes seems, are the ones who have never sat in that roaring dark and felt the floor shake.\n\nNone of this proves that esports demands the body of an Olympic sprinter. But spectacle was never only about the athletes. It was always, also, about us — the watchers, the believers, the ones who show up. And by that measure, esports arrived a long time ago."
+  },
+  {
+   "title": "Four People, Four New Activities",
+   "topic": "free-time activities",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Four people (A–D) describe an activity they took up this year. Answer the questions by choosing A, B, C or D.",
+   "body": "A — Maya (open-water swimming)\nI'd always swum in pools, but a friend dared me to try the lake last spring. The first morning was so cold I almost turned back at the water's edge — I'm glad I didn't. I go three times a week now, always before school, and it has completely changed how I feel for the rest of the day. I still won't go in alone, though; I always swim with the same small group.\n\nB — Daniel (community choir)\nI joined the choir mostly because my grandmother kept asking me to. I expected to hate it. What surprised me was how kind everyone was to a nervous teenager who couldn't read music. I'm not a strong singer and I never will be, but I haven't missed a Tuesday since October. Honestly, I go for the people more than for the singing.\n\nC — Priya (bicycle repair)\nI started fixing bikes at a weekend workshop, and now I help others do the same. People arrive convinced they're useless with tools, and an hour later they cycle home on a bike they mended themselves. My one piece of advice to anyone starting out: don't be afraid of making mistakes. You learn far more from getting something wrong than from getting it right first time.\n\nD — Tomas (cooking)\nI signed up for a cooking class because I was tired of eating the same three meals. It was much harder than I'd imagined — I burnt almost everything for the first month. But I kept going, and slowly the disasters became rarer. I cook alone, late at night, and I prefer it that way; it's the one hour of the day that is completely mine."
+  },
+  {
+   "title": "The Hidden Work Behind a Marathon",
+   "topic": "marathon training",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "Read the article about marathon running, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "A marathon is a race of 42 kilometres, and to a spectator it can look simple: runners set off, and hours later the fastest one crosses the line. Behind that finish, however, lies months of careful preparation that almost no one sees.\n\nMost serious runners train for at least sixteen weeks before a race. The training is built around a single idea: the body adapts to stress only if it is also given time to recover. So a typical week mixes hard sessions with easy ones. The longest run of the week, often done on a Sunday, slowly increases in distance until the runner can cover about 32 kilometres comfortably. They rarely run the full marathon distance in training, because the risk of injury would be too great.\n\nFood matters almost as much as running. In the final days before the race, runners eat extra carbohydrate so that their muscles store as much energy as possible. This practice is known as \"carb-loading\". During the race itself, runners take sips of sports drink at stations along the route to replace the salt and water they lose through sweat.\n\nThe mind, too, must be trained. Around the 30-kilometre mark, many runners hit what they call \"the wall\" — a sudden, crushing tiredness as the body runs low on stored energy. Experienced runners prepare for this moment by breaking the race into small parts and focusing only on reaching the next station, never on the distance still to come.\n\nOn race day, the goal of most runners is not to win but simply to finish, and perhaps to beat their own previous time. The clock they race against is, in the end, their own."
+  },
+  {
+   "title": "The Rise of Esports in School Competitions",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "When people hear the word \"sport,\" they usually picture running, jumping, or throwing a ball. But a growing number of schools around the world are now recognising a very different kind of competition: esports, where students compete against each other in video games as part of an official school team.\n\nSupporters argue that esports teach many of the same skills as traditional sports: teamwork, quick decision-making under pressure, and the discipline of regular practice. Some schools have set up esports clubs with the same structure as their basketball or football teams, complete with coaches, practice schedules, and matches against other schools.\n\nCritics, however, worry that calling video games a \"sport\" stretches the definition too far, and that schools should be spending their limited resources on activities that get students moving physically rather than sitting at a screen. Some also point out that esports players can face real physical strain, including eye fatigue and repetitive stress injuries in their hands and wrists, problems not usually associated with sport at all.\n\nDespite the debate, esports scholarships at universities have grown rapidly in recent years, suggesting that whatever we choose to call it, competitive gaming is here to stay in the world of school and university competition."
+  },
+  {
+   "title": "Four People, Four Sports",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Priya (rock climbing)\nI took up climbing very specifically to face my crippling fear of heights, which had embarrassed me on family holidays for years. I was absolutely terrified on that very first climb, frozen halfway up the wall with my legs shaking, certain I would never dare let go. But something about it kept tugging me back the following week, and the week after that. Now I climb most weekends at the local centre, and what I love most of all is the problem-solving side: every single route is a puzzle you have to read and then solve with your hands and feet, working out the sequence move by careful move. My fear has not vanished, but I have learned to climb straight through it.\n\nB — Daniel (running)\nMy doctor told me, fairly bluntly, that I needed a great deal more exercise, so somewhat reluctantly I started running. Honestly, I hated every single minute of it for the first few weeks; I was slow, breathless, and convinced that everyone was staring at me. Bit by bit, though, it got easier, and then it quietly got addictive. These days I run marathons to raise money for charity, pinning the name of the cause to my shirt and thinking of it whenever my tired legs beg me to stop. I always run alone, early in the morning, but the people I am raising the money for are exactly what keeps me lacing up my shoes on the days I would much rather stay in bed.\n\nC — Mei (table tennis)\nI joined the table-tennis club mainly to make some new friends after moving to a new school, where I had been eating my lunch alone and feeling thoroughly miserable. I surprised myself completely with how quickly I improved once I started playing every day; it turned out I had a real knack for it. Now I actually compete for the school team at weekend tournaments, travelling to other schools with a bag full of bats and a nervous, fluttering stomach. I practise most evenings against my older brother out in the garage, who still, infuriatingly, usually beats me, though the matches are getting closer. Best of all, that lonely first term feels like a very long time ago now.\n\nD — Sam (swimming)\nI grew up right beside the sea, so swimming has always been in my blood; I honestly cannot remember a time before I could swim. For me it is the only time my busy mind truly switches off completely — underwater, with nothing but the muffled sound of my own breathing, every worry simply dissolves away. I am up at five most mornings to train hard before school, ploughing up and down the empty pool while the town still sleeps around me. Recently I have started helping to coach the youngest children at my club on Saturdays, and watching a nervous little one finally let go of the side and float reminds me of everything I love about the water."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Sports & Competition — Listening Ex1 (eight short recordings)",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": null,
+   "script_text": "1 (coach): People imagine these players just sit and have fun. The reality is six-hour practice blocks, every match reviewed frame by frame, and anyone who stops improving is cut. It's relentless.\n2 (parent): I used to nag my daughter to get off the computer. Then I watched her compete — the focus, the teamwork, how she handled losing. I've completely changed my mind about it.\n3 (journalist): Here's a figure that surprised even me: last year's biggest gaming final drew more live viewers than the basketball final shown the same night. This isn't a niche any more.\n4 (sceptic): I'm not saying it isn't skilful. I'm saying a sport should make your body really work. Tapping a keyboard, however fast, just isn't the same.\n5 (player): I'm twenty-four, and here that's old. My reactions aren't what they were at nineteen. Most of us are planning what's next long before we'd like to.\n6 (fan): When the lights dropped and eighteen thousand people raised their phones, I got goosebumps. I've been to football matches quieter than that room.\n7 (official): We have national federations, anti-cheating rules, a proper governing structure. The pieces that make something a recognised sport — most are already in place.\n8 (physiotherapist): People laugh when I say I treat sports injuries in gamers. Then I show them the wrist scans. Years of repeated movement do real damage — and it ends careers."
+  },
+  {
+   "title": "Sports & Competition — Listening Ex2 (five short extracts)",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": null,
+   "script_text": "1: Our biggest income isn't tickets or prize money — surprisingly, it's the sponsors whose logos sit on the shirts.\n2: The academy takes players as young as fourteen, but they don't reach the main roster until they've proven themselves for at least a year.\n3: I won't pretend the money's glamorous for most of us. Those famous salaries? They go to a tiny handful at the very top.\n4: Beyond the five players we travel with a coach, an analyst and — these days — a psychologist. Support staff is half the team.\n5: Streaming changed everything. Players now earn from broadcasting their practice — money that simply didn't exist ten years ago."
+  },
+  {
+   "title": "Sports & Competition — Listening Ex3 (sports scientist monologue)",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Good afternoon. People often ask whether I truly believe professional gamers are athletes. My honest answer is that the question matters less than what I actually measure in the lab.\n\nStart with speed. When I test top players, their reaction times are consistently faster than the average adult's — sometimes dramatically. But more striking is the rate of action: in some games a player makes several hundred precise movements a minute, and sustains it for hours. That isn't strength, yet it is a real physical skill — and, like any skill, it can be trained, and it can be lost.\n\nNow the cost. The injury I see most is repetitive strain in the wrists and hands. It builds quietly over years, and by the time a player notices, the damage can be career-ending. I also see a lot of back and neck trouble — not from impact, but from sitting badly for long stretches. Eye strain, too, is common.\n\nSo what do we do? Three things, mainly. First, we take posture and movement breaks seriously — a body held still for ten hours is a body in trouble. Second, we treat the hands before they fail, never after; prevention is everything. And third — this surprises people — we manage sleep and nutrition as carefully as any traditional club, because a tired brain reacts slowly, and here slow means losing.\n\nAm I treating athletes? I'll let you decide on the word. But I'm certainly treating bodies pushed hard, in a narrow and demanding way — and the clubs that pay me are not doing it for show."
+  },
+  {
+   "title": "Sports & Competition — Listening Ex4 (six speakers, match to statements)",
+   "accent": null,
+   "exam_part": 4,
+   "form": 1,
+   "instructions": null,
+   "script_text": "1: I genuinely don't care what we call it. Watch a top player for five minutes and the skill speaks for itself. 'Sport' is just a label.\n2: For me it comes down to the body. Until I see real physical effort, I can't put it in the same box as athletics.\n3: The thing that convinced me was the crowd. Millions watching, stadiums full — at that point, who's still arguing it isn't a spectator sport?\n4: These are businesses now — salaries, coaches, academies, rules. That structure alone tells you it deserves to be treated seriously.\n5: I think it's generational. My grandfather laughed at it; I don't. Give it twenty years and the question answers itself.\n6: What excites me isn't the Olympics — it's what recognition would do for kids in ordinary schools, just starting out."
+  },
+  {
+   "title": "Sports & Competition — Listening Ex5 (interview: Maya, federation lead)",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": null,
+   "script_text": "INTERVIEWER: Maya, your federation has pushed hard for Olympic recognition. Are you confident it'll happen?\nMAYA: Confident? I'd say... realistic. The conversations are further along than people think. But I've learned not to celebrate before the finish line.\nINTERVIEWER: Some traditionalists say gaming simply doesn't belong at the Olympics. How do you respond?\nMAYA: I understand the instinct, I really do. But I'd gently point out that skateboarding and climbing met exactly the same scepticism — and look where they are now. The line for what counts as a sport has always moved.\nINTERVIEWER: Critics focus on physical exertion. Isn't that fair?\nMAYA: It's the strongest argument against us, and I won't dismiss it. What I'd say is that it's one test among several — and on every other test, we're already there.\nINTERVIEWER: If recognition came tomorrow, what would change?\nMAYA: Honestly? At the very top, less than you'd imagine. The real difference would be lower down — a teenager in a small town suddenly seeing a clear path. That's what I get up for.\nINTERVIEWER: And if it doesn't happen in your lifetime?\nMAYA: Then I'll have helped lay the track for whoever comes next. I'd be at peace with that."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "2f03af0a-0dc2-48be-bd7b-5638175661ed",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "directed",
+   "register": "formal",
+   "title": "Esports club survey report",
+   "subtopic": "what-counts-as-a-sport",
+   "difficulty": null,
+   "scenario": "Your school's student council surveyed students about starting a competitive esports club. The head teacher has asked you to write a report presenting the survey findings and giving a recommendation. (150-200 words)",
+   "instruction": "Write a report of 150-200 words for the head teacher. Present the survey findings clearly under your own headings, analyse what they show, and end with a reasoned recommendation. Use a formal, impersonal tone.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "state the purpose of the report and where the information came from",
+    "report the findings — student interest, possible benefits, and concerns raised",
+    "analyse the findings and give a clear recommendation"
+   ],
+   "grammar_focus": [
+    "non-defining relative clauses",
+    "impersonal/passive register"
+   ],
+   "required_vocab": [
+    "criterion",
+    "legitimate",
+    "governing body",
+    "recognition"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Introduce purpose",
+      "examples": [
+       "The purpose of this report is to…"
+      ]
+     },
+     {
+      "fn": "Report findings",
+      "examples": [
+       "The findings indicate that…",
+       "A significant number of students reported that…",
+       "While some raised concerns about ___, the majority felt that…"
+      ]
+     },
+     {
+      "fn": "Recommend",
+      "examples": [
+       "It is therefore recommended that…"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a formal report for school leadership on whether to start an esports club.",
+     "points": [
+      {
+       "how": "Open by saying what the report is for and where the facts came from. Keep it impersonal — 'This report examines...', not 'I want to tell you...'. Name your source: a survey of 80 students, say. This sets up everything that follows.",
+       "point": "state the purpose of the report and where the information came from"
+      },
+      {
+       "how": "Lay out what you found, neutrally — interest, benefits, concerns. Don't argue yet; just report. Non-defining relative clauses add detail cleanly: 'The club, which would meet twice a week, drew strong interest.' Group findings so they're easy to follow.",
+       "point": "report the findings — student interest, possible benefits, and concerns raised"
+      },
+      {
+       "how": "Now weigh what the findings mean, then recommend. This is the step beyond reporting — what do the numbers suggest? End with a clear recommendation: 'It is recommended that the school trial the club for one term.' Stay impersonal, but be decisive.",
+       "point": "analyse the findings and give a clear recommendation"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Drifting into first-person opinion — keep it impersonal ('It was found that...').",
+     "No clear recommendation — end with a justified recommendation.",
+     "Letter conventions leaking in — this is a report, not a letter.",
+     "Data with no analysis — say what the findings mean."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It's laid out as a report — title, headings, sections."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is impersonal — no 'I think', just the findings and analysis."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: the purpose and source, the findings, and a recommendation."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a non-defining relative clause with commas, like 'the club, which meets weekly, ...'."
+     },
+     {
+      "ref": "W6",
+      "text": "Each section follows logically, from purpose to recommendation."
+     }
+    ],
+    "structure": [
+     {
+      "do": "state the purpose and the source of the information (impersonal register)",
+      "stage": "Introduction"
+     },
+     {
+      "do": "report findings under sub-headings: student interest / possible benefits / concerns raised",
+      "stage": "Findings"
+     },
+     {
+      "do": "analyse what the findings mean — don't just list data",
+      "stage": "Analysis"
+     },
+     {
+      "do": "give a clear, justified recommendation",
+      "stage": "Recommendation"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Recognition language",
+       "words": [
+        "criterion",
+        "legitimate",
+        "governing body",
+        "recognition"
+       ],
+       "target_words": [
+        "criterion",
+        "legitimate",
+        "governing body",
+        "recognition"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Purpose and method\nThis report presents the findings of a survey carried out among students at our school, in order to assess support for forming an esports club. Sixty students were questioned, and their responses were recorded anonymously.\n\nFindings\nInterest was high: most respondents said they would join a club if one were available. Several benefits were identified, the most common of which was teamwork, followed by stress relief. A number of concerns were also raised. These centred mainly on screen time and on whether gaming should be regarded as a legitimate school activity at all.\n\nAnalysis and recommendation\nTaken together, the results suggest that student interest easily meets the criterion for a viable club. The concerns raised, which should not be dismissed, can be managed through clear limits on playing hours and adult supervision. It is therefore recommended that the school establish an esports club, overseen by a staff governing body, on a trial basis. If the trial were successful, fuller recognition could follow.",
+   "rubric": null,
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 1,
+   "created_at": "2026-06-01T10:43:52.592186+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "4fbc64e0-aed7-4930-9e63-4e93003a9fcb",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "extended",
+   "register": "formal",
+   "title": "Argumentative essay: esports as a real sport",
+   "subtopic": "what-counts-as-a-sport",
+   "difficulty": null,
+   "scenario": "\"Esports should be recognised as a real sport.\" How far do you agree? Write an argumentative essay giving your view, supported by reasons. (150-200 words)",
+   "instruction": "Write an argumentative essay of 150-200 words. State your position clearly, support it with reasons, concede and then rebut at least one opposing argument, and end with a conclusion that lands your verdict.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "a clear position on whether esports is a real sport",
+    "at least one argument you concede then rebut",
+    "your strongest arguments, reasoned with hypotheticals where useful",
+    "a conclusion that lands your verdict"
+   ],
+   "grammar_focus": [
+    "second conditional",
+    "non-defining relative clauses"
+   ],
+   "required_vocab": [
+    "criterion",
+    "legitimate",
+    "governing body",
+    "spectator",
+    "recognition",
+    "physical exertion",
+    "athlete"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Make the case",
+      "examples": [
+       "There is a strong case that esports qualifies as a sport, because…"
+      ]
+     },
+     {
+      "fn": "Concede & rebut",
+      "examples": [
+       "While critics argue it lacks physical exertion, this is only one of several tests…"
+      ]
+     },
+     {
+      "fn": "Hypothesise (2nd conditional)",
+      "examples": [
+       "If esports were granted recognition, then ___ would ___ — which suggests ___."
+      ]
+     },
+     {
+      "fn": "Conclude",
+      "examples": [
+       "On balance, I believe…"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a formal argumentative essay on whether esports should count as a real sport.",
+     "points": [
+      {
+       "how": "State your position clearly in the introduction — is esports a real sport, or not? Reframe the question first, then commit. 'While esports lacks tradition, it meets every real test of a sport.' Don't hedge — pick a side.",
+       "point": "a clear position on whether esports is a real sport"
+      },
+      {
+       "how": "Take a real opposing point and concede it fairly — not a weak one. 'It is true that esports involves no physical contact.' Then rebut: show why it doesn't settle the question. A fair concession makes you look reasonable, then your rebuttal is more convincing.",
+       "point": "at least one argument you concede then rebut"
+      },
+      {
+       "how": "Build your strongest arguments — your own case, fully reasoned. Second conditionals let you reason with hypotheticals: 'If esports were recognised, it would gain proper funding and rules.' Use them to show consequences, not to pad. Back each point with a reason or example.",
+       "point": "your strongest arguments, reasoned with hypotheticals where useful"
+      },
+      {
+       "how": "End by giving your verdict clearly — not a vague 'it depends'. Pull your arguments together and answer the question outright: is it a real sport? Leave no doubt where you've ended up.",
+       "point": "a conclusion that lands your verdict"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "No clear position (fence-sitting) — commit to a stance.",
+     "Points with no rebuttal — at least one concede-and-rebut.",
+     "Second-conditional slips (was->were; will->would) — 'If it were... it would...'.",
+     "Conclusion that adds a NEW argument — land the verdict instead."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a formal argumentative essay, in clear paragraphs."
+     },
+     {
+      "ref": "W4",
+      "text": "I conceded a real opposing point, then rebutted it — not just my own side."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal and reasoned — no slang or casual asides."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a second conditional, like 'if esports were recognised, it would...'."
+     },
+     {
+      "ref": "W6",
+      "text": "It moves from my position, through concession and arguments, to a clear verdict."
+     }
+    ],
+    "structure": [
+     {
+      "do": "understand the issue and state a clear position",
+      "stage": "Introduction"
+     },
+     {
+      "do": "make 2-3 points; at least one concede-and-rebut (criteria as the backbone)",
+      "stage": "Body"
+     },
+     {
+      "do": "reason with hypotheticals — second conditional (Hypothesis-Consequence-Verdict)",
+      "stage": "Reasoning"
+     },
+     {
+      "do": "return to your position and land the verdict (no new argument)",
+      "stage": "Conclusion"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Key terms",
+       "words": [
+        "criterion",
+        "legitimate",
+        "governing body",
+        "spectator",
+        "recognition",
+        "physical exertion",
+        "athlete"
+       ],
+       "target_words": [
+        "criterion",
+        "legitimate",
+        "recognition",
+        "athlete"
+       ]
+      },
+      {
+       "label": "Argument chunks",
+       "words": [
+        "there is a strong case that…",
+        "while critics argue ___, the evidence suggests…",
+        "on balance"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Is competitive gaming a real sport, or merely a game played seriously? In my view, esports has become a legitimate sport, even if it does not resemble a traditional one.\n\nIt is worth granting the strongest objection honestly. Critics argue that a real sport demands physical exertion, and by that single criterion esports falls short: a player's body is not tested the way a runner's is. To dismiss this would be unfair.\n\nYet physical effort is only one criterion among several. Esports has professional players who train for years, a governing body that enforces the rules, and a vast spectator audience, which now numbers in the millions. If we judged every activity by muscle alone, we would have to exclude chess and shooting, which already enjoy recognition.\n\nThe deeper point is skill under pressure. A top player, whose reactions are tested hundreds of times a minute, is an athlete of a narrow but real kind.\n\nOn balance, esports meets enough of the tests that matter. The label may still feel new, but the recognition it is winning is, I would argue, fully deserved.",
+   "rubric": null,
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-06-01T10:43:52.592186+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "b5886530-cbd1-4744-8928-aa0d36a8e4e3",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "discussion",
+   "title": "Should schools fund esports like football?",
+   "subtopic": "professionalism-and-money",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Should schools spend money on esports the way they spend on football?",
+   "card_points": null,
+   "discussion_questions": [
+    "Should schools spend limited budgets on esports, or are there better priorities?",
+    "Could funding esports include students who normally sit out traditional sport — or just shift the same kids to screens?",
+    "If a school funded esports properly, what would it need to get right for it to be worth it?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "If a school funded esports properly, then it would reach students who never felt at home on a sports field (Point), because not everyone shines at running or kicking a ball (Reason), so a well-run club could widen who feels included (Result) — a quiet student might find their team there for the first time (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Hypothesise (second conditional)",
+      "examples": [
+       "If a school spent ___ on esports, then it would ___.",
+       "If we funded it by ___, ___ would ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "When you weigh it up, ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether schools should fund esports like traditional sport — take a position, weigh it, and land a view.",
+     "discussion_how": [
+      {
+       "q": "Should schools spend limited budgets on esports, or are there better priorities?",
+       "how": "Take a view, then back it with a reason. 'I'd fund it modestly — the benefits in focus and teamwork justify a small share.' Weigh it against other needs, then decide. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Could funding esports include students who normally sit out traditional sport — or just shift the same kids to screens?",
+       "how": "Weigh the two — who it includes against the screen-time worry. 'It could reach students who avoid the sports field, but schools must watch the screen hours.' Name the upside and the risk, then say where you land. Balance answers this."
+      },
+      {
+       "q": "If a school funded esports properly, what would it need to get right for it to be worth it?",
+       "how": "This one invites a second conditional — answer in 'if… then… would…'. 'If a school funded it properly, then it would need good coaching, clear limits, and a real link to skills.' Name what must go right. The 'if… would…' shape makes your thinking clear."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, schools should fund esports, but carefully.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'Esports builds teamwork and focus, so the funding serves real learning, not just play.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare the cost of a football pitch with a room of computers that doubles for other lessons. Or point to a school where an esports club gave quiet students a place to belong. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, with tight budgets, basics like books and safe pitches may be higher priorities.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I used a second conditional to explore a consequence (if... funded... would...)"
+     },
+     {
+      "ref": "S2",
+      "text": "I made a balance turn and still landed on a view"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Funding & priorities",
+       "words": [
+        "funding",
+        "sustainable",
+        "priorities",
+        "facilities"
+       ],
+       "target_words": [
+        "funding",
+        "priorities"
+       ]
+      },
+      {
+       "label": "Inclusion & reach",
+       "words": [
+        "grassroots",
+        "participation",
+        "inclusive",
+        "fan base"
+       ],
+       "target_words": [
+        "inclusive",
+        "participation"
+       ]
+      },
+      {
+       "label": "Argue / hedge",
+       "words": [
+        "weigh up",
+        "on balance",
+        "recognition"
+       ],
+       "target_words": [
+        "weigh up"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "Should schools fund esports the way they fund football? My position is a careful yes — but only if it is done well.\n\nI want to grant the strongest objection first, because it is fair. School budgets are tight, and spending on screens when facilities need repairs can look like the wrong priority. To pretend that money is unlimited would be dishonest.\n\nBut granting that actually strengthens my case. Proper funding could reach the very students who quietly sit out traditional sport — boosting participation and offering a genuinely inclusive route into a team. That is not a waste; that is the whole point of school sport.\n\nSo I would reassert my position, with a condition: fund it, but fund it seriously — proper coaching, clear time limits, and a place to play. Weigh it up honestly, and esports earns its budget rather than stealing it.",
+   "required_vocab": [
+    "grassroots",
+    "participation",
+    "funding",
+    "sustainable",
+    "inclusive",
+    "facilities",
+    "priorities",
+    "recognition",
+    "fan base",
+    "weigh up"
+   ],
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 4,
+   "created_at": "2026-06-01T10:43:29.076293+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "964c03b9-ab48-490d-ac92-5e9b46cdefa2",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (sports & games)",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": null,
+   "intro": null,
+   "card_points": null,
+   "discussion_questions": [
+    "Do you enjoy playing or watching sports? Which ones?",
+    "Do you prefer playing sports yourself or watching others? Why?",
+    "Is there a sport or game you'd like to try one day?",
+    "Are sports or games popular with people your age where you live?",
+    "Did you play any games or sports when you were younger?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I really enjoy playing football (Point), because it keeps me fit and I love the teamwork (Reason), so I always feel great afterwards (Result) — last weekend our team won a close game and it made my whole day (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name a sport/game + a reason",
+      "examples": [
+       "The sport I enjoy most is ___, because ___.",
+       "One game I'd love to try is ___, as ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions on sports and games — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Do you enjoy playing or watching sports? Which ones?",
+       "how": "Don't stop at 'yes'. Name what you play or watch, and why you enjoy it. 'I love playing basketball, mainly because it's fast and you compete as a team.' One sport plus one reason turns a flat answer into a real one."
+      },
+      {
+       "q": "Do you prefer playing sports yourself or watching others? Why?",
+       "how": "State your preference, then justify it briefly. 'Playing, mainly because I'd rather be active than sit and watch.' You don't need a long answer — one honest reason is enough. 'Mainly because...' is a handy way to start."
+      },
+      {
+       "q": "Is there a sport or game you'd like to try one day?",
+       "how": "Name one, then say why it appeals to you. 'I'd love to try rock climbing, because it looks like a real test of skill.' Don't just say 'yes' — add what draws you to it. A reason makes it sound genuine."
+      },
+      {
+       "q": "Are sports or games popular with people your age where you live?",
+       "how": "Give a view, with a reason — and you can keep it general. 'Yes — most of my friends play something, or follow a team.' You're just saying what you notice, not speaking for everyone. A reason makes even a general answer solid."
+      },
+      {
+       "q": "Did you play any games or sports when you were younger?",
+       "how": "Answer yes or no, then give a quick example. 'Yes — I used to play in the street with my cousins every evening.' Even a small memory makes the answer come alive. If it's no, say what you did instead."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named a sport or game and why I enjoy it"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Sports & games",
+       "words": [
+        "team sport",
+        "match",
+        "fan",
+        "compete"
+       ],
+       "target_words": [
+        "compete"
+       ]
+      },
+      {
+       "label": "Why you enjoy it",
+       "words": [
+        "exciting",
+        "skill",
+        "fitness",
+        "relaxing"
+       ],
+       "target_words": [
+        "skill"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "especially when",
+        "to be honest",
+        "what I like is"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-06T17:03:26.939394+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "92fb97a7-4e9d-486c-b542-1cb3b75ff0a3",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "long-turn",
+   "title": "Describe a sport or game you enjoy",
+   "subtopic": "spectator-culture",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Describe a sport or game you enjoy watching or playing, and explain what makes it exciting.",
+   "card_points": [
+    "what it is and how you watch or play it",
+    "two reasons it's exciting (atmosphere and skill)",
+    "a memorable moment",
+    "why it matters to you"
+   ],
+   "discussion_questions": null,
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "What I love most about basketball is the atmosphere (Point), because when the crowd roars after a big play, everyone feels it together (Reason), so even watching at home you get swept up in it (Result) — I'll never forget a match that came down to the final shot, with the whole room holding its breath (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "The sport I enjoy most is ___.",
+       "I'd like to talk about a game I really love — ___."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "It's exciting because ___, which means ___.",
+       "For example, ___."
+      ]
+     },
+     {
+      "fn": "A memorable moment",
+      "examples": [
+       "I'll never forget the time ___.",
+       "One moment that stays with me is when ___."
+      ]
+     },
+     {
+      "fn": "Reflective close",
+      "examples": [
+       "For me, it's more than a game — it's ___.",
+       "What it really gives me is ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about a sport or game you enjoy, then discuss sport with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Is it more important to win, or to take part and enjoy yourself?",
+       "how": "Take a clear view, then back it with a reason. 'Taking part matters more — winning fades, but the fun and friendships last.' Think about what sport is really for. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Is competitive sport good for young people, or can it put too much pressure on them?",
+       "how": "Weigh both sides, then land on a view. 'It builds confidence and teamwork — but too much pressure to win can take the joy out.' Show you see the upside and the risk, then say where you stand. A balanced answer is strongest here."
+      },
+      {
+       "q": "Should everyone play a sport, or is it fine to prefer other hobbies?",
+       "how": "Give a view, with a reason. 'Sport's great, but reading or music can give the same benefits — it's fine to choose.' Respect that people differ; back your view with why. A fair, reasoned answer beats a one-sided one."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name it, then set the scene — how do you watch or play it? 'I follow tennis on TV as a spectator, but I also play with my brother at weekends.' Online, at a stadium, in the park? Give me the picture before you tell me why you love it.",
+       "point": "what it is and how you watch or play it"
+      },
+      {
+       "how": "Give two different reasons it grips you — the card points you to two good ones. First, the atmosphere: the noise, the tension, a thrilling moment shared by a whole crowd. Second, the skill: top players make it look easy, but it's deeply skill-based. Build each reason out; don't just name them.",
+       "point": "two reasons it's exciting (atmosphere and skill)"
+      },
+      {
+       "how": "Pick one unforgettable moment and bring it to life — past tense here. 'I'll never forget when our team scored in the final seconds.' One vivid moment beats a general 'it was exciting'. Make me feel like I was there.",
+       "point": "a memorable moment"
+      },
+      {
+       "how": "Close on why it matters — more than just a game. 'It's where I switch off, and where I feel part of something.' Say what the sport gives you: friendship, focus, escape. End on something honest, so the talk lands.",
+       "point": "why it matters to you"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing facts about the sport with no personal feeling — the card asks why it matters to YOU.",
+     "Forgetting the memorable moment — one vivid past-tense story lifts the talk.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I brought one memorable moment to life in the past tense"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Watching & atmosphere",
+       "words": [
+        "spectator",
+        "atmosphere",
+        "fan base",
+        "sold-out",
+        "to support a team"
+       ],
+       "target_words": [
+        "spectator",
+        "atmosphere"
+       ]
+      },
+      {
+       "label": "The game itself",
+       "words": [
+        "skill-based",
+        "reflexes",
+        "competition",
+        "thrilling"
+       ],
+       "target_words": [
+        "skill-based",
+        "thrilling"
+       ]
+      },
+      {
+       "label": "React / reflect",
+       "words": [
+        "unforgettable",
+        "more than just a game"
+       ],
+       "target_words": [
+        "unforgettable"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "The sport I enjoy most is basketball — both playing it after school and watching it on a screen at the weekend.\n\nIf you have never seen it, two teams of five try to throw a ball through a high hoop, moving it quickly up and down a wooden court. I usually play with friends at a court near my home.\n\nTwo things make it exciting for me. The first is the atmosphere: when a game is close, the crowd — or even just my friends — get loud, and you can feel the tension in the air. The second is the skill. A good player reads the whole court in a second and makes a pass nobody expected. That still amazes me.\n\nMy most memorable moment was scoring the winning basket in a school match, right at the final whistle. My team lifted me up. I will never forget it.\n\nWhy does it matter to me? Honestly, it is where I feel most myself — quick, focused, and part of a team. Off the court I can be shy; on it, I am not.",
+   "required_vocab": [
+    "spectator",
+    "atmosphere",
+    "skill-based",
+    "reflexes",
+    "fan base",
+    "thrilling",
+    "competition",
+    "to support a team",
+    "sold-out",
+    "unforgettable"
+   ],
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-06-01T10:43:29.076293+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "58cff91e-ac74-484b-aada-04c16123a2dc",
+   "unit_id": "89810eda-f539-45af-95ac-ed2343922aed",
+   "task_type": "discussion",
+   "title": "Can esports ever be a real sport?",
+   "subtopic": "what-counts-as-a-sport",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Some people say esports can never be a real sport. What do you think?",
+   "card_points": null,
+   "discussion_questions": [
+    "What, in the end, makes something 'a sport' — and who gets to decide?",
+    "What would esports gain, and what might it lose, by becoming a mainstream sport?",
+    "Who should pay to support competitive gaming — schools, families, sponsors, or no one?",
+    "Would Olympic status genuinely change how people see esports, or just make official what fans already believe?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "If esports were judged purely on skill and dedication, then it would already qualify as a sport (Point), because top players train as hard as any athlete (Reason), so the line between 'game' and 'sport' starts to blur (Result) — chess, after all, is widely accepted despite being almost entirely mental (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Hypothesise (second conditional)",
+      "examples": [
+       "If esports were ___, then it would ___.",
+       "If we judged it by ___, ___ would ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether esports counts as a real sport — take a position, weigh it, and land on a clear view.",
+     "discussion_how": [
+      {
+       "q": "What, in the end, makes something 'a sport' — and who gets to decide?",
+       "how": "Start by naming a criterion or two — what must something have to be a sport? 'For me, the key criterion is skill under pressure, not just physical effort.' Define it, then say who you think decides. A clear definition anchors your whole answer."
+      },
+      {
+       "q": "What would esports gain, and what might it lose, by becoming a mainstream sport?",
+       "how": "Weigh the gain against the loss — name both. 'It would gain recognition and funding, but might lose the open, player-led spirit it has now.' Show both sides clearly, then say if it's worth it. Balance is what answers this."
+      },
+      {
+       "q": "Who should pay to support competitive gaming — schools, families, sponsors, or no one?",
+       "how": "Pick who should pay, then justify it. 'Sponsors make most sense — they already profit from the audience.' Don't just list the options; choose, and say why. A reasoned choice beats naming all four."
+      },
+      {
+       "q": "Would Olympic status genuinely change how people see esports, or just make official what fans already believe?",
+       "how": "Give a view — and a hypothetical fits well here. 'If esports joined the Olympics, it would gain instant legitimacy in many people's eyes.' Then say whether that's real change or just a label. Imagining the outcome makes your point vivid."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, esports is a real sport — or at least very close.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'Top players train for hours daily, so the skill and dedication match any sport.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare a chess grandmaster, already respected, with a top gamer doing something similar. Or contrast the physical effort of football with the mental effort of gaming. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, many feel a sport must be physical, and that's a fair criterion to hold.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I used a second conditional to explore a hypothetical (if... were... would...)"
+     },
+     {
+      "ref": "S2",
+      "text": "I made a balance turn and still landed on a view"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Is it a sport?",
+       "words": [
+        "criterion",
+        "physical exertion",
+        "legitimate",
+        "athlete",
+        "skill-based"
+       ],
+       "target_words": [
+        "criterion",
+        "legitimate"
+       ]
+      },
+      {
+       "label": "Recognition & bodies",
+       "words": [
+        "governing body",
+        "recognition",
+        "mainstream"
+       ],
+       "target_words": [
+        "recognition"
+       ]
+      },
+      {
+       "label": "Argue / hedge",
+       "words": [
+        "on balance",
+        "while critics argue",
+        "the evidence suggests"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "Can esports ever be a real sport? My honest view is that it already is one — and the evidence suggests I am right.\n\nLook at what we can actually measure. There are professional players who train for years, a governing body that sets the rules, and audiences in the millions. By most of the criteria we use for sport, esports already passes.\n\nNow let me speculate about the one test it seems to fail — physical exertion. If we decided that sweating was the only thing that counted, then yes, esports would fall outside. But we would also have to throw out darts, chess, and shooting, which we already accept.\n\nOn balance, then, \"sport\" is not a fixed club with one locked door. The line has always moved, and esports has done enough to be let in. The real question is no longer whether it counts, but how long the old definitions can hold.",
+   "required_vocab": [
+    "criterion",
+    "physical exertion",
+    "legitimate",
+    "governing body",
+    "skill-based",
+    "athlete",
+    "recognition",
+    "on balance",
+    "while critics argue",
+    "the evidence suggests"
+   ],
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 3,
+   "created_at": "2026-06-01T10:43:29.076293+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}

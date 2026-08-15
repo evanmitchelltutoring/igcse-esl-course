@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./doc-page.js"></script>
+  <style>
+    doc-page:not(:defined) { visibility: hidden; }
+    body { margin: 0; }
+    .h-eyebrow { font-family: Archivo, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: #0f7d76; }
+    .sec { font-family: Archivo, sans-serif; font-weight: 700; color: #14243d; font-size: 26px; margin: 34px 0 6px; border-bottom: 3px solid #0f7d76; padding-bottom: 8px; break-after: avoid; }
+    .subsec { font-family: Archivo, sans-serif; font-weight: 600; color: #14243d; font-size: 19px; margin: 22px 0 8px; break-after: avoid; }
+    .box { border: 1px solid #e7decd; border-radius: 12px; padding: 16px 20px; margin: 12px 0; break-inside: avoid; }
+    .tint { background: #f7f3ec; }
+    .line { border-bottom: 1.5px solid #cdc3b2; height: 26px; }
+    table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+    th { font-family: Archivo, sans-serif; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; text-align: left; background: #14243d; color: #f4efe6; padding: 9px 12px; }
+    td { border: 1px solid #ece3d3; padding: 9px 12px; vertical-align: top; }
+    tbody tr:nth-child(even) td { background: #faf7f0; }
+    .wordcell { font-family: Archivo, sans-serif; font-weight: 600; color: #14243d; white-space: nowrap; }
+    .chip { display: inline-block; font-family: Archivo, sans-serif; font-weight: 600; font-size: 15px; background: #eef3f2; color: #0f7d76; border: 1px solid #cfe0dd; border-radius: 999px; padding: 5px 14px; margin: 3px; }
+    ol, ul { margin: 8px 0; padding-left: 26px; }
+    li { orphans: 3; widows: 3; margin: 5px 0; }
+    .ans { color: #b9b0a1; letter-spacing: 2px; }
+    .gap { display: inline-block; min-width: 130px; border-bottom: 1.6px solid #8a8478; height: 20px; vertical-align: middle; margin: 0 3px; }
+    .key { border-left: 3px solid #b3261e; background: #fdf4f3; border-radius: 0 8px 8px 0; padding: 11px 18px; margin: 10px 0; font-size: 15px; color: #7a1a15; line-height: 1.5; break-inside: avoid; }
+    .keylabel { font-family: Archivo, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: #b3261e; display: block; margin-bottom: 4px; }
+    .watch { border-left: 3px solid #c9871f; background: #fdf7ec; border-radius: 0 8px 8px 0; padding: 11px 18px; margin: 10px 0; font-size: 15px; color: #6b4a12; line-height: 1.5; break-inside: avoid; }
+    .watchlabel { font-family: Archivo, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: #c9871f; display: block; margin-bottom: 4px; }
+  </style>
+</helmet>
+<doc-page margin="0.7in">
+
+  <div slot="header" style="font-family:Archivo,sans-serif;font-size:12px;font-weight:600;color:#8a8478;display:flex;justify-content:space-between;border-bottom:1px solid #e0d7c6;padding-bottom:6px;">
+    <span>IGCSE ESL · Unit 5 — Art &amp; AI</span>
+    <span>Teacher Copy</span>
+  </div>
+  <div slot="footer" style="font-family:Archivo,sans-serif;font-size:11px;color:#a49b8c;text-align:center;border-top:1px solid #e0d7c6;padding-top:6px;">Mr Evans English · Cambridge IGCSE English as a Second Language (0510)</div>
+
+  <div style="font-family:'Source Serif 4',Georgia,serif;color:#1a1713;font-size:16px;line-height:1.5;">
+
+    <div style="border:2px solid #14243d;border-radius:14px;padding:30px 32px;margin-bottom:8px;background:#14243d;color:#f4efe6;">
+      <div style="font-family:Archivo,sans-serif;font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Cambridge IGCSE ESL · Teacher Copy</div>
+      <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.04;margin:10px 0 6px;">Unit 5 · Art &amp; AI</h1>
+      <div style="font-size:19px;font-style:italic;color:#cfd6e2;">Can a machine make art — and should it?</div>
+    </div>
+
+    <p style="margin:14px 0;">This is the Student Packet plus everything you need to teach and mark Unit 5: <strong>answer keys</strong> (red callouts) after every task, a <strong>"Watch for"</strong> misconception box, per-lesson <strong>pacing</strong>, a <strong>Support / Stretch</strong> line, the writing <strong>mark scheme</strong>, and the <strong>assessment-objective map</strong>. Print the Student Packet for students; keep this copy for yourself.</p>
+
+    <div class="key"><span class="keylabel">Before you print AO tags — confirm</span>The AO wording below follows Cambridge IGCSE ESL 0510 / 0511 (9-1 = 0991 / 0993). Confirm the exact syllabus code and current AO wording against the live syllabus before printing tags in student-facing materials.</div>
+
+    <!-- VOCABULARY -->
+    <h2 class="sec">1 · Vocabulary reference</h2>
+    <p style="margin:6px 0;">Four families plus academic argument chunks. See the Student Packet for the full lists, word families and first-language bridge; keys begin at §2.</p>
+    <div style="column-count:2;column-gap:28px;font-size:15px;">
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">Made by a Machine</span> — algorithm, artificial, dataset, generate, mimic, output, prompt, novelty</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">Whose Hand, Whose Eye?</span> — authentic, craft, evoke, express, genuine, intention, intuition, soulless</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">The Style Thief</span> — attribution, compensation, consent, derivative, distinctive, imitate, infringe, scrape</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">Real Art, Real Prize?</span> — controversy, credibility, disqualify, judgement, legitimate, merit, recognition, transparency</div>
+      <div style="break-inside:avoid;margin:4px 0;"><span class="wordcell">Argument chunks</span> — it could be argued that, there is no denying that, this calls into question, the heart of the matter is</div>
+    </div>
+
+    <!-- RETRIEVAL -->
+    <h2 class="sec">2 · Do-Now retrieval starters</h2>
+    <p style="margin:6px 0;">Five rounds, as in the Student Packet. Answer from memory; self-mark in class.</p>
+    <div class="key"><span class="keylabel">Answer key · retrieval</span><strong>R1</strong> algorithm · dataset · generate (produce or create) · mimic · prompt. &nbsp; <strong>R2</strong> intention · authentic · evoke (bring a feeling/memory to mind) · soulless · intuition. &nbsp; <strong>R3</strong> consent · attribution · derivative (copied from / based on something else; not original) · scrape · infringe. &nbsp; <strong>R4</strong> controversy · credibility · legitimate (reasonable and acceptable; lawful) · merit · transparency. &nbsp; <strong>R5</strong> any concession chunk (e.g. <em>there is no denying that</em>) · intellectual property = legal ownership of something you created with your mind · (accept any correct sentence with <em>mimic</em>) · derivative · a dataset / images / examples to learn from.</div>
+
+    <!-- SELF-TEST -->
+    <h2 class="sec">3 · Vocabulary self-test</h2>
+    <div class="subsec">3a · Gap-fill</div>
+    <p style="margin:6px 0;">Bank: algorithm · dataset · prompt · generate · mimic · consent · derivative · intention · authentic · merit · transparency · controversy. (Full paragraph in the Student Packet.)</p>
+    <div class="key"><span class="keylabel">Answer key · 3a gap-fill</span>1 algorithm · 2 dataset · 3 prompt · 4 generate · 5 mimic · 6 consent · 7 derivative · 8 intention · 9 authentic · 10 merit · 11 transparency · 12 controversy.</div>
+    <div class="subsec">3b · Match the word to its meaning</div>
+    <div class="key"><span class="keylabel">Answer key · 3b match</span>A–2 (soulless) · B–4 (distinctive) · C–1 (infringe) · D–3 (compensation) · E–6 (evoke) · F–5 (recognition) · G–8 (disqualify) · H–7 (judgement).</div>
+    <div class="subsec">3c · Use it yourself</div>
+    <div class="key"><span class="keylabel">Answer key · 3c</span>Accept any grammatically correct sentence that shows the meaning (not just the word copied). Check part of speech: <em>imitate</em> as a verb, <em>authentic</em> as an adjective, <em>intention</em> / <em>merit</em> / <em>transparency</em> as nouns.</div>
+
+    <!-- READING -->
+    <h2 class="sec" style="break-before:page;">4 · Reading tasks</h2>
+    <div class="subsec">4a · "A Picture in Ten Seconds" — short answers (Part 1)</div>
+    <div class="key"><span class="keylabel">Answer key · 4a</span>1 about <strong>ten seconds</strong>. &nbsp; 2 a <strong>dataset</strong>. &nbsp; 3 it <strong>uses the patterns it has learned to generate something new</strong> that fits the words. &nbsp; 4 because a seemingly original picture <strong>might be built from the work of thousands of artists who were never asked</strong>. &nbsp; 5 a <strong>passing novelty</strong> — fun for now, not real art. Mark for precision; over-long answers with wrong extra detail can cancel.</div>
+    <div class="subsec">4b · "The Thing a Machine Cannot Feel" — language &amp; effect (Part 2)</div>
+    <div class="key"><span class="keylabel">Answer key · 4b</span>1 the <strong>"twenty years"</strong> stresses the long, costly human effort behind real skill; repeating it <strong>weighs that effort against the machine's ten seconds</strong>. &nbsp; 2 that the machine has <strong>no memories, no life, no relationships</strong> to draw on — <strong>no feeling behind the work</strong>. &nbsp; 3 accept e.g. <strong>"I will not pretend the camera did not terrify painters once"</strong> / "New tools have always frightened…". &nbsp; 4 because the pictures <strong>"come from nowhere"</strong> — made by something that <strong>wanted nothing, remembered nothing, risked nothing</strong>. Full credit needs the device/word AND its effect.</div>
+    <div class="subsec">4c · "Where Does an AI Learn to Draw?" — note completion (Part 3)</div>
+    <div class="key"><span class="keylabel">Answer key · 4c</span>Collected by software that will <strong>scrape</strong> them (from the internet) · it learns <strong>patterns</strong> (not single pictures) · three fairness words: <strong>attribution</strong> · <strong>consent</strong> · <strong>compensation</strong> · companies' defence: it learns like a <strong>(human) student</strong> studying the masters. Accept 1–3 words / short paraphrase.</div>
+    <div class="subsec">4d · "Should a Machine Win an Art Prize?" — summary (Part 4)</div>
+    <div class="key"><span class="keylabel">Answer key · 4d</span><strong>Supporters (any 2):</strong> judge on artistic merit alone; humans are still involved (prompting, selecting, editing); it is simply the newest medium, as photography once was. &nbsp; <strong>Opponents (any 2):</strong> unfair — trained on human work that went unpaid; it undermines art's value and artists' income; it damages the prize's credibility. &nbsp; <strong>Middle ground:</strong> not a ban but <strong>transparency / labelling</strong> (some competitions add a separate AI category). &nbsp; <strong>Overall:</strong> a cautious view — accept the work but label it honestly; the deeper questions of consent and payment are not settled. Reward own-words summary; penalise lifted sentences and over-length.</div>
+
+    <!-- GRAMMAR -->
+    <h2 class="sec" style="break-before:page;">5 · Grammar (Use of English)</h2>
+    <div class="subsec">5a · Modals of speculation &amp; deduction &nbsp;&nbsp; 5b · Concession linkers</div>
+    <div class="key"><span class="keylabel">Answer key · grammar</span><strong>5a</strong> 1 <strong>must</strong> · 2 <strong>could / might</strong> · 3 <strong>can't</strong> · 4 <strong>must</strong> · 5 <em>It <strong>must have been</strong> edited.</em> &nbsp; <strong>5b</strong> 1 <strong>Although / While / Even though</strong> · 2 <strong>however</strong> · 3 <strong>Despite</strong> · 4 <em><strong>While</strong> AI can copy a style, it cannot invent one from nothing.</em> &nbsp; Fuller Spot-the-Error / Transform / Gap-fill banks and keys are in the lesson decks (L7, L8).</div>
+
+    <!-- WRITING -->
+    <h2 class="sec" style="break-before:page;">6 · Writing</h2>
+    <div class="subsec">6a · Speech "Should our art prize accept AI entries?" (Hook+stance → Grant → Counter → Stand → Call to action)</div>
+    <div class="box tint" style="font-size:15px;"><strong>Stems:</strong> "Ask yourself this…" · "There is no denying that…" · "But in reality…" · "So when you vote…" Concession linker + 3 target words; address the audience directly.</div>
+    <div class="subsec">6b · Argumentative essay "A machine can never truly make art." (Stance → Concession → Reasoning → Own argument → Conclusion)</div>
+    <div class="box tint" style="font-size:15px;"><strong>Grade certainty:</strong> could / might → must / can't. Concession linkers + 5 target words; resolve the stance, don't merely repeat it.</div>
+
+    <!-- HOMEWORK -->
+    <h2 class="sec">7 · Homework menu</h2>
+    <table><thead><tr><th style="width:30%;">Task</th><th>What to do</th></tr></thead><tbody>
+      <tr><td class="wordcell">AI hunt</td><td>Find one AI-made image; note what gives it away — or what doesn't.</td></tr>
+      <tr><td class="wordcell">Vocabulary</td><td>Learn the unit words; write 5 sentences, one per family.</td></tr>
+      <tr><td class="wordcell">The speech</td><td>Draft the 150–200 word assembly speech using a concession linker.</td></tr>
+      <tr><td class="wordcell">The essay</td><td>Plan the argumentative essay: stance, concession, reasoning, own point, conclusion.</td></tr>
+      <tr><td class="wordcell">The debate</td><td>Prepare both sides of: "AI-generated work should be considered real art."</td></tr>
+    </tbody></table>
+
+    <!-- SELF-CHECK -->
+    <h2 class="sec">8 · "I can…" self-check</h2>
+    <div class="box"><div style="line-height:2.0;font-size:15px;">
+      <div>☐ explain how an AI is trained &amp; makes a picture · ☐ use the four word-families · ☐ read a persuasive text for argument, method &amp; effect · ☐ short-answer, note-completion &amp; summary · ☐ weigh attribution/consent/compensation · ☐ modals of speculation (must/might/could/can't) · ☐ concession linkers · ☐ persuasive speech (grant then counter) · ☐ balanced argumentative essay · ☐ concede &amp; rebut in a debate.</div>
+    </div></div>
+
+    <h2 class="sec" style="break-before:page;">9 · Teacher furniture</h2>
+
+    <div class="subsec">9a · Pacing (starter → main → plenary)</div>
+    <table><thead><tr><th style="width:30%;">Lesson</th><th>Shape</th></tr></thead><tbody>
+      <tr><td class="wordcell">1 Orientation (45′)</td><td>Hook "can a machine make art?" → four strands → goals → six phrases → speaking + reflection.</td></tr>
+      <tr><td class="wordcell">2 Vocabulary (45′)</td><td>Retrieval → word-family strategy → four families choral → word sort + collocation → productive use.</td></tr>
+      <tr><td class="wordcell">3 Made by a Machine (50′)</td><td>Retrieval → Part 1 skill + "read the surface" → read → Word-check → short answers → speaking.</td></tr>
+      <tr><td class="wordcell">4 Whose Hand (55′)</td><td>Retrieval → language-&amp;-effect skill → read → Word-check → effect Qs → word sort → speaking.</td></tr>
+      <tr><td class="wordcell">5 Style Thief (55′)</td><td>Retrieval → Part 3 note skill → read → Word-check → note completion → vocab → listening Qs.</td></tr>
+      <tr><td class="wordcell">6 Real Art, Real Prize? (55′)</td><td>Retrieval → Part 4 summary skill (sort→select→reword) → read → Word-check → summary → speaking.</td></tr>
+      <tr><td class="wordcell">7 Modals of Speculation (45′)</td><td>Retrieval → teaching (grade certainty) → worked example → Spot / Transform / Gap-fill (Q→A).</td></tr>
+      <tr><td class="wordcell">8 Concession Linkers (45′)</td><td>Retrieval → teaching → worked example → Spot / Transform / Gap-fill (Q→A) → reflection.</td></tr>
+      <tr><td class="wordcell">9 Listening Block (50′)</td><td>Toolkit → five exercises (8 clips / match-to-summary / gapped notes / six creators / interview).</td></tr>
+      <tr><td class="wordcell">10 Writing: Speech (45′)</td><td>Decode task → weak→strong → plan → model → timed write → deliver aloud.</td></tr>
+      <tr><td class="wordcell">11 Essay part 1 (50′)</td><td>Decode task → G-C-S / E-S-V frames → plan + frame-build → topic sentences.</td></tr>
+      <tr><td class="wordcell">12 Essay part 2 (50′)</td><td>Draft → peer review → redraft → unit reflection &amp; close.</td></tr>
+    </tbody></table>
+
+    <div class="subsec">9b · "Watch for" — misconceptions specific to this unit</div>
+    <div class="watch"><span class="watchlabel">Modals of speculation (L7)</span>Using <em>must</em> for a mere guess, or a wrong past form ("must went / must to be"). Drill the certainty ladder (<em>must</em> = sure yes, <em>can't</em> = sure no, <em>might/could</em> = maybe) and <em>must/might/can't + have + participle</em> for the past.</div>
+    <div class="watch"><span class="watchlabel">Concession linkers (L8)</span>Doubling ("<em>Although</em>… <em>but</em>…") and comma splices with <em>however</em>. One concession word per clause; <em>however</em> takes a semicolon or full stop, not a comma.</div>
+    <div class="watch"><span class="watchlabel">Summary (L6)</span>Copying sentences wholesale and running over length. Require own words, points only (no examples/repetition), and strict word count.</div>
+    <div class="watch"><span class="watchlabel">Language &amp; effect (L4)</span>Naming a device with no effect ("it's a short sentence"). Require the effect on the reader AND the word/technique that creates it.</div>
+    <div class="watch"><span class="watchlabel">Speech vs essay (L10 vs L11–12)</span>A speech that reads like an essay (no audience) or an essay that turns chatty. Speech = direct address + call to action; essay = formal, balanced, resolves the stance.</div>
+    <div class="watch"><span class="watchlabel">Debate (L11–12 prep)</span>Arguing both sides of an assigned motion. Commit to one side; concede a real opposing point only to rebut it.</div>
+
+    <div class="subsec">9c · Support / Stretch</div>
+    <div class="box tint"><strong>Support</strong> — give the frames: "It <em>must</em> have ___ because ___." · "<em>Although</em> ___, ___." · "There is no denying that ___, but ___." Word bank: <em>generate · dataset · imitate · consent · authentic · merit · legitimate</em>. Provide the speech/essay skeleton pre-labelled so students only fill content.<br><strong>Stretch</strong> — chain a concession and a graded-certainty claim in one sentence ("While the image is striking, it could only be recombining what it has seen"); rebut the strongest opposing point, not the weakest; deliver the speech from notes, not a script.</div>
+
+    <div class="subsec">9d · Mark scheme — Art &amp; AI writing (speech / argumentative essay)</div>
+    <table style="font-size:13px;"><thead><tr><th style="width:16%;">Criterion</th><th>Strong (top band)</th><th>Secure (mid band)</th><th>Developing</th></tr></thead><tbody>
+      <tr><td class="wordcell">Content &amp; argument</td><td>All beats covered; stance clear; concession granted then countered; a strong independent point.</td><td>All beats covered; some development; concession present.</td><td>A beat missed or one-sided; no real concession.</td></tr>
+      <tr><td class="wordcell">Reasoning</td><td>Certainty graded (could/might → must/can't); claims reasoned, not asserted.</td><td>Some graded certainty; mostly reasoned.</td><td>Flat assertion; little reasoning.</td></tr>
+      <tr><td class="wordcell">Vocabulary</td><td>Wide, precise; 5+ target words &amp; argument chunks used naturally.</td><td>Good; 4 target words; some chunks.</td><td>Simple; few target words; chunks bolted on.</td></tr>
+      <tr><td class="wordcell">Grammar &amp; accuracy</td><td>Accurate modals &amp; concession linkers; very few errors.</td><td>Mostly accurate; errors don't block meaning.</td><td>Frequent errors; sometimes unclear.</td></tr>
+      <tr><td class="wordcell">Register &amp; organisation</td><td>Right register (spoken-persuasive / written-formal); clear shape; resolves/lands.</td><td>Mostly right register; clear structure.</td><td>Register slips; basic structure.</td></tr>
+    </tbody></table>
+    <p style="font-size:13px;color:#6b6357;margin:6px 0 0;">EAL note: reward communication that succeeds despite minor slips; do not over-penalise L1-influenced error where meaning is clear. Speech 150–200 words; essay 120–160 words.</p>
+
+    <div class="subsec">9e · Assessment-objective map (confirm against the live 0510 / 0511 syllabus)</div>
+    <table style="font-size:13px;"><thead><tr><th style="width:22%;">Skill / AO</th><th>Where it is assessed in Unit 5</th></tr></thead><tbody>
+      <tr><td class="wordcell">R1 select &amp; organise</td><td>4a short answers, 4c note completion, 4d summary.</td></tr>
+      <tr><td class="wordcell">R2 stated &amp; implied</td><td>4b language &amp; effect (writer's method and attitude).</td></tr>
+      <tr><td class="wordcell">W1–W3 write</td><td>§6 speech &amp; argumentative essay (audience/purpose, argument, register, accuracy).</td></tr>
+      <tr><td class="wordcell">Listening</td><td>L3–L6 read-alouds, L9 block — 8 clips, match-to-summary, gapped notes, six creators, interview.</td></tr>
+      <tr><td class="wordcell">Speaking</td><td>L1–L6 tasks, debate — long turn, concede &amp; rebut, justify (range, accuracy, development, fluency, interaction).</td></tr>
+    </tbody></table>
+
+  </div>
+</doc-page>
+</x-dc>
+</body>
+</html>

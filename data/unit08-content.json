@@ -1,0 +1,2015 @@
+{
+ "_about": "Real live content for Space & Ambition (space-and-science). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 8,
+  "slug": "space-and-science",
+  "title": "Space & Ambition",
+  "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Space & Ambition — why this unit",
+   "skill": "orientation",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "The language of space & ambition",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Why we look up",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "word_sort",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "Counting the cost",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "word_sort",
+    "intervention_hook",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "What space gives back",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "The next horizon — and should we go?",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "checkpoint",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 7,
+   "title": "Grammar for predicting and prioritising",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "checkpoint"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Listening — voices on space",
+   "skill": "listening",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Write a review",
+   "skill": "review",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "checkpoint"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Plan the argument",
+   "skill": "writing",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "checkpoint"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Write the article, then reflect",
+   "skill": "review",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook",
+    "checkpoint"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "what-we-get-back": [
+   {
+    "word": "advancement",
+    "pos": "noun",
+    "def": "progress or improvement in something"
+   },
+   {
+    "word": "application",
+    "pos": "noun",
+    "def": "a practical use for an idea or piece of technology"
+   },
+   {
+    "word": "beneficial",
+    "pos": "adjective",
+    "def": "helpful or useful; producing a good result"
+   },
+   {
+    "word": "breakthrough",
+    "pos": "noun",
+    "def": "an important discovery or development that solves a problem"
+   },
+   {
+    "word": "by-product",
+    "pos": "noun",
+    "def": "something produced as a result of making something else"
+   },
+   {
+    "word": "forecast",
+    "pos": "noun",
+    "def": "a statement about what is likely to happen in the future"
+   },
+   {
+    "word": "innovation",
+    "pos": "noun",
+    "def": "a new idea, method, or invention"
+   },
+   {
+    "word": "navigation",
+    "pos": "noun",
+    "def": "the process of finding the way from one place to another"
+   },
+   {
+    "word": "satellite",
+    "pos": "noun",
+    "def": "a machine sent into space to orbit the Earth and send back information"
+   },
+   {
+    "word": "spin-off",
+    "pos": "noun",
+    "def": "a useful product or benefit that develops from something else, often by accident"
+   }
+  ],
+  "what-it-costs": [
+   {
+    "word": "allocate",
+    "pos": "verb",
+    "def": "to officially give money, time, or resources for a particular purpose"
+   },
+   {
+    "word": "budget",
+    "pos": "noun",
+    "def": "a plan of how much money will be earned and spent"
+   },
+   {
+    "word": "costly",
+    "pos": "adjective",
+    "def": "expensive, or causing a lot of harm or loss"
+   },
+   {
+    "word": "expenditure",
+    "pos": "noun",
+    "def": "the amount of money that is spent on something"
+   },
+   {
+    "word": "funding",
+    "pos": "noun",
+    "def": "money provided to pay for an activity or project"
+   },
+   {
+    "word": "hazard",
+    "pos": "noun",
+    "def": "something that could be dangerous or cause harm"
+   },
+   {
+    "word": "opportunity cost",
+    "pos": "noun phrase",
+    "def": "what you give up when you choose to spend money or time on one thing rather than another"
+   },
+   {
+    "word": "risk",
+    "pos": "noun",
+    "def": "the chance that something bad or dangerous may happen"
+   },
+   {
+    "word": "setback",
+    "pos": "noun",
+    "def": "a problem that delays or stops progress"
+   },
+   {
+    "word": "squander",
+    "pos": "verb",
+    "def": "to waste money, time, or chances in a careless way"
+   },
+   {
+    "word": "taxpayer",
+    "pos": "noun",
+    "def": "a person who pays tax, especially income tax"
+   }
+  ],
+  "why-we-reach": [
+   {
+    "word": "ambition",
+    "pos": "noun",
+    "def": "a strong wish to achieve something difficult or important"
+   },
+   {
+    "word": "aspire",
+    "pos": "verb",
+    "def": "to have a strong wish to achieve something"
+   },
+   {
+    "word": "boundless",
+    "pos": "adjective",
+    "def": "having no limits; extremely great"
+   },
+   {
+    "word": "curiosity",
+    "pos": "noun",
+    "def": "a strong desire to learn or know about something"
+   },
+   {
+    "word": "fascination",
+    "pos": "noun",
+    "def": "a very strong attraction to or interest in something"
+   },
+   {
+    "word": "inspiration",
+    "pos": "noun",
+    "def": "something that makes you want to act, create, or achieve"
+   },
+   {
+    "word": "legacy",
+    "pos": "noun",
+    "def": "something handed down from the past, especially the lasting effect of someone's work"
+   },
+   {
+    "word": "milestone",
+    "pos": "noun",
+    "def": "an important event or stage in the development of something"
+   },
+   {
+    "word": "pioneering",
+    "pos": "adjective",
+    "def": "being the first to do or try something new and important"
+   },
+   {
+    "word": "prestige",
+    "pos": "noun",
+    "def": "respect and admiration given because of high quality or achievement"
+   },
+   {
+    "word": "wonder",
+    "pos": "noun",
+    "def": "a feeling of surprise and admiration at something beautiful or amazing"
+   }
+  ],
+  "where-next": [
+   {
+    "word": "colonise",
+    "pos": "verb",
+    "def": "to send people to live in and control a new place"
+   },
+   {
+    "word": "commercial",
+    "pos": "adjective",
+    "def": "connected with buying and selling things to make a profit"
+   },
+   {
+    "word": "feasible",
+    "pos": "adjective",
+    "def": "possible to do"
+   },
+   {
+    "word": "habitable",
+    "pos": "adjective",
+    "def": "suitable or good enough for people to live in"
+   },
+   {
+    "word": "inevitable",
+    "pos": "adjective",
+    "def": "certain to happen; unavoidable"
+   },
+   {
+    "word": "prioritise",
+    "pos": "verb",
+    "def": "to treat something as more important than other things"
+   },
+   {
+    "word": "speculation",
+    "pos": "noun",
+    "def": "ideas or guesses about something that are not based on firm facts"
+   },
+   {
+    "word": "venture",
+    "pos": "noun",
+    "def": "a new activity, usually in business, that involves risk"
+   },
+   {
+    "word": "visionary",
+    "pos": "noun",
+    "def": "a person with clear, original ideas about what the future could be"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "Why do we explore space? (R1 backup — intervention B1)",
+   "topic": null,
+   "difficulty": null,
+   "exam_part": 1,
+   "instructions": "backup-intervention",
+   "body": "People have always looked up at the stars. Long ago, farmers used the stars to know when to plant their crops. Sailors used them to find their way at sea. But people did not only look at the sky to be useful. They looked because they felt wonder. The sky made them curious. They wanted to know what was out there.\n\nThis curiosity took people into space. In 1969, astronauts landed on the Moon for the first time. Millions of people watched it on television. Many young people felt inspired. They thought, 'If we can reach the Moon, we can do anything.' Some of them decided to become scientists and engineers.\n\nCuriosity is not the only reason. In the past, going into space also made a country look strong and important. A successful space mission brought the country respect.\n\nToday, private companies also send rockets into space. Some people are not happy about this. They think space should be about adventure, not business. Other people say these companies make space travel cheaper, so one day more people will be able to go.\n\nSpace travel is expensive and dangerous. Missions sometimes fail. But people do not stop. They keep asking the same questions: Are we alone? Could we live on another planet? Our curiosity will always make us look up."
+  },
+  {
+   "title": "How much does space cost? (R2 backup — intervention B1)",
+   "topic": null,
+   "difficulty": null,
+   "exam_part": 2,
+   "instructions": "backup-intervention",
+   "body": "Going into space costs a lot of money. A space mission can cost billions. Some people think this money should be used for other things, like hospitals and schools. They say it is not fair to spend so much when people on Earth need help.\n\nOther people do not agree. They say space agencies get only a small part of a country's money. They also say the money is not wasted. It is paid to workers, factories and universities. These people keep their jobs and learn new skills.\n\nSpace is also dangerous. Astronauts can be hurt by radiation. Their machines can break. They are far from home for many months, and this is hard for their minds and bodies. Sometimes accidents happen and people die. After an accident, agencies must stop and check everything. This takes a long time and costs more money.\n\nThere is one more problem. Rockets send gases into the air. There are also many old satellites and pieces of metal in space. These can hit new spacecraft. Some scientists worry that too many launches will harm the planet.\n\nSo space costs money, it is risky, and it can harm the environment. People who support space must show that the good things are worth these costs."
+  },
+  {
+   "title": "What should we do in space next? (R-SUPP backup — intervention B1)",
+   "topic": null,
+   "difficulty": null,
+   "exam_part": 4,
+   "instructions": "backup-intervention",
+   "body": "People do not agree about what we should do in space next. Here are three different ideas.\n\n[A] An engineer says we should be realistic. She thinks we can build a base on the Moon in about twenty years. But she says a city on Mars is much harder and will take a very long time. We should aim high, but we should be honest.\n\n[B] An economist says we should be careful with money. He thinks the government should not pay for space dreams. If private companies want to spend their own money, that is fine. But normal people should not pay for it with their taxes.\n\n[C] Another expert worries about fairness. She asks: who will get the good things from space? She is afraid that only rich people will be able to go. She says we need rules before companies start to make money in space.\n\nThese three people do not agree. But together they show the real choice. The hardest questions are not about machines. They are about money, fairness and what we think is important."
+  },
+  {
+   "title": "The next horizon",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "main-language-effect",
+   "body": "Stand outside on a clear night and look up. That scatter of cold light has pulled at human beings for a hundred thousand years, and now, for the first time, the door to it is creaking open.\n\nWe are told this is the dawn of a new age. Rockets that once cost a fortune and burned up after a single flight now land themselves, upright, like dancers taking a bow. Companies speak of cities on Mars as casually as their grandparents spoke of crossing an ocean. The message is everywhere, glossy and confident: the future is up there, and it is almost within reach.\n\nBut step back from the advertising, and a harder question waits. Who, exactly, is this future for?\n\nFor now, a seat beyond the atmosphere costs more than most people will earn in a lifetime. The 'space for everyone' we are promised looks, on closer inspection, remarkably like space for a fortunate few — a glittering departure lounge with a velvet rope, and the rest of us pressed against the glass. The same restless energy that could lift humanity outward could just as easily carry our oldest habits with it: our greed, our carelessness, our talent for leaving others behind.\n\nAnd yet it would be a thin, grey kind of caution that refused to dream at all. There is something in us that needs the horizon. Strip it away and we shrink. The child who watches a rocket climb and decides, then and there, to become an engineer is not wasting her time; she is doing exactly what our species has always done — reaching past the edge of the known because the reaching itself makes us larger.\n\nSo perhaps the real choice is not whether to go, but how. Will we treat space as a new frontier to be fenced and sold, or as a shared inheritance to be governed with care? Will the view from out there teach us anything about the small blue world we are standing on?\n\nThe stars are not going anywhere. The question is what kind of people we will be by the time we reach them."
+  },
+  {
+   "title": "Counting the cost",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "main",
+   "body": "Every rocket that climbs into the sky carries an invisible price tag. Space programmes are among the most expensive projects any government can undertake, and the question of whether that expenditure is justified has been argued for decades.\n\nThe most obvious cost is money. A single crewed mission can swallow billions, and the budget for a long-term project such as a Mars base would stretch across many years and many governments. Critics point to what economists call the opportunity cost: every sum allocated to a launch pad is a sum not spent on hospitals, schools or clean water. When public money is involved, they argue, the taxpayer has a right to ask whether such spending is wise — or whether it simply squanders resources that are urgently needed at home.\n\nSupporters answer that the figures are smaller than they appear. In most countries, space agencies receive only a tiny fraction of national budgets, far less than is spent on defence. They also argue that the money is not fired into the sky and lost; it is paid to engineers, factories and universities on Earth, creating skilled jobs and knowledge that remain long after a mission ends.\n\nMoney, however, is not the only cost. Spaceflight is dangerous. Astronauts face hazards that most workers never imagine: extreme radiation, the failure of life-support systems, and months of isolation that can damage mental as well as physical health. The history of exploration is marked by tragic setbacks in which crews have lost their lives. Each such disaster forces agencies to pause, investigate and rebuild — a process that is both costly and slow.\n\nThere is also a cost that is easy to overlook: the environment. Rocket launches release gases high into the atmosphere, and the growing number of satellites has filled orbit with debris that threatens future missions. As launches become more frequent, some scientists question whether the current pace is sustainable at all.\n\nNone of this means that the spending is automatically wrong. Many worthwhile activities are expensive and risky. But it does mean that the case for space cannot rest on wonder alone. Those who defend it must show that the benefits — to science, to industry, and to ordinary life — are real enough to justify the bills, the dangers and the damage. That is a harder argument to win than simply pointing at the stars."
+  },
+  {
+   "title": "What space gives back to Earth",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "main",
+   "body": "When people argue that space exploration is a waste of money, supporters often reply with a single word: spin-offs. A spin-off is a useful product or technology that was developed for space but ends up benefiting ordinary life on Earth — and the list is longer than most people realise.\n\nThe clearest examples come from the sky itself. Thousands of satellites now orbit the planet, and we depend on them every day. Weather forecasts that once relied on guesswork are now built from satellite images, giving farmers and emergency services days of warning before a storm. Satellite navigation guides ships, aircraft and the phone in almost every pocket. Without this orbiting infrastructure, much of modern communication would simply stop.\n\nOther benefits are less visible but just as real. The harsh demands of spaceflight — where equipment must be light, reliable and able to survive without repair — have driven innovation in materials, medicine and energy. Technologies first designed to keep astronauts alive have found applications in hospitals, from water-purification systems to better ways of monitoring patients. Several everyday objects, including scratch-resistant lenses and certain cordless tools, began life as a by-product of space research rather than as its goal.\n\nSupporters argue that this pattern is not accidental. Difficult problems, they say, force engineers to think in new ways, and the breakthroughs that result rarely stay locked inside the space programme. A government that funds exploration, in this view, is really funding a kind of advanced research laboratory whose discoveries spread across the whole economy.\n\nCritics are not fully convinced. They accept that spin-offs exist, but they question whether space is the cheapest way to produce them. If the real goal is better medicine or cleaner energy, they ask, why not fund medicine and energy directly, rather than hoping for useful accidents along the way? The benefits, they argue, are used after the event to justify spending that was decided for other reasons.\n\nWhat is clear is that space exploration does not happen in isolation from life on Earth. The satellites overhead, the forecasts on the news and the tools in our hospitals are reminders that looking outward has, again and again, changed the way we live down here."
+  },
+  {
+   "title": "How space helps us on Earth (R3 backup — intervention B1)",
+   "topic": null,
+   "difficulty": null,
+   "exam_part": 3,
+   "instructions": "backup-intervention",
+   "body": "Space exploration helps us on Earth in many ways. These helpful things are called spin-offs.\n\nThe best examples are satellites. Many satellites go around the Earth. They help us in two big ways. First, they take pictures of the weather, so we get good weather forecasts. Second, they help with navigation, so ships, planes and phones can find the way.\n\nSpace also helps doctors. To keep astronauts safe, scientists made new machines and new materials. Some of these are now used in hospitals to help sick people. Some normal things, like strong glasses that do not scratch, also came from space science.\n\nBut some people do not agree that space is the best way to get these things. They say that if we want better medicine, we should spend the money on medicine directly. They think space is too expensive for this.\n\nBoth sides agree on one thing. Space exploration changes life on Earth. The satellites, the weather forecasts and the hospital machines all show this."
+  },
+  {
+   "title": "Where next — and should we go?",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "supplementary",
+   "body": "As rockets become cheaper and more reliable, attention is turning from what space exploration has done to what it should do next. Four very different voices capture the debate.\n\n[A] The engineer. For Dr Vance, a propulsion engineer, the question is mainly practical. A permanent base on the Moon, she argues, is now technically feasible within twenty years; a self-sustaining colony on Mars is far harder and may take a century. She warns against confusing ambition with reality. We should aim high, she says, but we must be honest about what is possible and fund the steady, unglamorous work that gets us there.\n\n[B] The economist. Professor Liu takes a colder view. He does not doubt that humans could expand into space, but he asks whether they should prioritise it. Public money, he points out, is limited, and every venture into orbit competes with pressing needs on Earth. He is more comfortable with commercial projects: if private investors wish to gamble their own money on space tourism or asteroid mining, that is their right, but taxpayers should not be asked to fund dreams.\n\n[C] The ethicist. Dr Adeyemi is troubled less by cost than by fairness. If space becomes a place to exploit for profit — mining the Moon, selling tickets to orbit — who will benefit? She fears a future in which space is accessible only to the wealthy, repeating on a grand scale the inequalities of Earth. Before we rush outward, she argues, we must decide what rules will govern this new frontier, and who they will protect.\n\n[D] The entrepreneur. Few share the optimism of Sofia Reyes, who runs a launch company. To her, human expansion into space is not only desirable but inevitable. She describes herself as a visionary and dismisses caution as a failure of nerve. Lower costs, she insists, will soon make space travel accessible to ordinary people, and the rewards — energy, resources, even new places to live — will be beyond anything we can imagine.\n\nThese four voices rarely agree, yet together they map the real choice. The future of space is not a single road but a set of decisions about money, safety, fairness and nerve. The technology, increasingly, is the easy part. The harder questions are about what we value — and those belong not only to engineers and entrepreneurs, but to everyone."
+  },
+  {
+   "title": "Looking up (R4 language & effect backup — intervention B1)",
+   "topic": null,
+   "difficulty": null,
+   "exam_part": 4,
+   "instructions": "backup-intervention",
+   "body": "Look up at the sky at night. The stars have made people wonder for thousands of years. Now, for the first time, we can almost reach them.\n\nPeople say this is a new age. Rockets used to be very expensive and were used only once. Now some rockets can land by themselves, slowly and gently, like a bird coming down to rest. Companies even talk about building cities on Mars.\n\nBut there is a big question. Who is this future for? At the moment, a trip to space costs more money than most people earn in their whole lives. So 'space for everyone' may really mean space for a few rich people, while everyone else watches from far away.\n\nEven so, it is good to dream. People have always wanted to explore. When a child watches a rocket and decides to become an engineer, that is not a waste. That is what humans do.\n\nSo the real question is not whether we go, but how. Will space be fair, or only for the rich? The stars will wait. What kind of people will we be when we reach them?"
+  },
+  {
+   "title": "The Long Journey to Mars",
+   "topic": "mars mission",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article about travelling to Mars, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "Sending humans to Mars is one of the great ambitions of our time, but it is far harder than most people imagine. The planet is, on average, about 225 million kilometres from Earth, and the two worlds are constantly moving. Engineers cannot simply aim at where Mars is today; they must aim at where it will be when the spacecraft arrives, roughly seven months later.\n\nThe first great challenge is fuel. A rocket large enough to escape Earth must carry an enormous amount of fuel, and most of that weight is burned in the first few minutes of flight. To save weight, engineers plan to send supplies ahead of the crew on separate, uncrewed flights. The astronauts would then arrive to find food and equipment already waiting on the surface.\n\nThe second challenge is radiation. In space, far from the protection of Earth's magnetic field, the crew would be exposed to harmful rays from the Sun and from deep space. Too much radiation can damage the body's cells and raise the risk of cancer. Designers are testing shields made of water and even of plastic, because surprisingly these light materials block radiation better than metal does.\n\nThe third challenge is the human mind. A round trip could last almost three years, and for much of that time the crew would be trapped together in a small space, millions of kilometres from home. Loneliness, boredom and arguments are real dangers. Space agencies now run long isolation experiments on Earth, sealing volunteers inside a fake spacecraft for months to learn how people cope.\n\nDespite all this, scientists remain hopeful. Every problem, they argue, is one that careful engineering and patient testing can solve. The journey to Mars may take decades to prepare, but most experts believe it is a question of when, not if."
+  },
+  {
+   "title": "A Visit to the Science Museum",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": null,
+   "body": "On Saturday, our school organised a trip to the city science museum. We took a bus early in the morning and arrived just as the doors opened. The museum had three floors, each one full of interesting exhibits about space, machines, and the human body.\n\nMy favourite part was the space room, where there was a real piece of moon rock inside a glass case. There was also a large model of the solar system hanging from the ceiling, showing all eight planets in order from the sun. A guide explained how long it takes each planet to travel around the sun.\n\nAfter lunch, we watched a short film in the museum's special dome theatre. The film showed what it might be like to travel to Mars. By the end of the day, many students said they wanted to become scientists or astronauts when they grow up."
+  },
+  {
+   "title": "Why do we look up?",
+   "topic": null,
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "main",
+   "body": "For as long as people have existed, they have gazed at the night sky and wondered what lies beyond it. Long before rockets or telescopes, farmers used the stars to mark the seasons and sailors used them to find their way home. Yet our interest in space has never been purely practical. Something about the darkness overhead has always stirred a deep sense of wonder — a feeling that there is more to discover than we can ever see from the ground.\n\nThat curiosity eventually carried human beings off the planet altogether. The first Moon landing in 1969 was a milestone that millions watched on television, holding their breath as a person stepped onto another world for the first time. For many who saw it, the moment was less about science than about inspiration: if humans could reach the Moon, what else might they achieve? Teachers reported that children who had never thought about engineering suddenly wanted to build spacecraft. A whole generation grew up aspiring to careers that had barely existed a decade earlier.\n\nOf course, curiosity is not the only reason nations spend enormous sums on space. During the twentieth century, sending astronauts beyond Earth became a way of demonstrating power. A successful launch brought a country prestige, suggesting to the world that its scientists and engineers were among the best. Some historians argue that the race to the Moon was driven as much by competition between rival nations as by any genuine wish to expand human knowledge. The ambition was real, but so was the desire to be seen as a leader.\n\nToday the picture is more complicated. Governments still run space programmes, but private companies now design and launch their own rockets, sometimes carrying paying passengers. Critics complain that this turns a noble adventure into a business, and that the wonder of the early years has been replaced by advertising. Supporters reply that competition has made spaceflight cheaper and that lower costs will eventually allow far more ordinary people to take part.\n\nWhatever one thinks of these changes, the underlying impulse seems unlikely to fade. Space exploration is expensive, dangerous and often disappointing; missions fail, budgets are cut, and progress can feel painfully slow. And yet, again and again, people return to the same questions. Are we alone? Could we live somewhere else? What is out there, just beyond the reach of our most powerful instruments?\n\nPerhaps the honest answer is that we explore space for the same reason our ancestors studied the stars: not only because it is useful, but because we cannot help ourselves. The pioneering spirit that once pushed explorers across oceans now points upward. Long after the headlines fade, that restless curiosity — humanity's oldest and most stubborn ambition — will still be looking up."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Voices on space — short extracts (Ex1)",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": null,
+   "script_text": "[Extract 1] Honestly, I don't care about the science that much. For me it's just the feeling — looking up and knowing how much is out there that we'll never even see. That's why I keep coming back.\n[Extract 2] People assume space programmes eat up huge slices of the budget, but in our country it's well under one per cent of government spending. Defence costs many times more.\n[Extract 3] The satellite that gives you your weather app and the one that lets your phone find the nearest café — same basic technology, and it was first built for space.\n[Extract 4] A holiday in orbit? Sure — if you've got a spare fortune. They keep promising it'll be for everyone 'soon', but I'll believe that when I see it.\n[Extract 5] When I watched the old Moon-landing footage with my grandfather, he cried. I didn't understand it then. I think I do now — it wasn't about the Moon, really.\n[Extract 6] After the launch failed, the whole programme stopped for nearly two years while engineers found out what went wrong.\n[Extract 7] I get asked if space is a waste of money. My answer's always the same: look around your hospital. Half the monitoring kit in here traces back to keeping astronauts alive.\n[Extract 8] The plan isn't Mars first. It's a permanent Moon base by the 2030s, and only then do we talk seriously about Mars."
+  },
+  {
+   "title": "A short interview (Ex2)",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": null,
+   "script_text": "PRESENTER: I'm here at the new 'Reaching Out' exhibition with its curator, Tom. Tom, what's the big draw? CURATOR: The centrepiece is a full-size model of a Mars rover that visitors can actually drive across a simulated surface. PRESENTER: And it's free for schools, I hear? CURATOR: Free for school groups on weekday mornings, yes. Families pay a small entry fee at weekends. PRESENTER: What do you most want visitors to take away? CURATOR: Not facts, really — a feeling. We want them to leave more curious than when they came in. PRESENTER: Any plans to take it on tour? CURATOR: We're hoping to move it to three other cities next year, if the funding comes through."
+  },
+  {
+   "title": "A space monologue (Ex3)",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": null,
+   "script_text": "People always ask me the same first question: what does Earth look like from up there? And honestly, no photograph prepares you for it. You see the whole planet, with no borders drawn on it, and something shifts in how you think. But I want to talk about something less glamorous: the work. Most of my day on the station wasn't floating around enjoying the view. It was repairs, experiments, and exercise — two hours of exercise every single day, because without it your muscles and bones simply waste away. The hardest part wasn't the danger; it was the distance. You can't just call home whenever you like, and you miss small things — rain, the smell of cut grass. The isolation tests you more than any technical problem. People ask whether it's worth the cost. I won't pretend the money is small. But the experiments we ran — on materials, on medicine, on how the body ages — those results are used in laboratories all over the world now. We weren't tourists. We were a research station that happened to be in orbit. And if you're young and listening: the field needs engineers far more than it needs heroes. That's where the real future is."
+  },
+  {
+   "title": "Six speakers on space (Ex4 — matching)",
+   "accent": null,
+   "exam_part": 4,
+   "form": 1,
+   "instructions": null,
+   "script_text": "[Speaker 1] I just think before we spend another penny up there, we should fix the mess down here — poverty, the climate. Space can wait.\n[Speaker 2] Let the billionaires fund their rockets with their own money. I don't mind that. I mind when it's my taxes.\n[Speaker 3] Honestly? It's going to happen whether we like it or not. Humans always push outward. You can't stop it.\n[Speaker 4] My worry is who gets left behind. If only the rich can go, we've just exported inequality into orbit.\n[Speaker 5] I'm not against it, I just want realistic promises. A Moon base, fine. Cities on Mars by next decade? That's a fantasy.\n[Speaker 6] Every time I show kids the rover footage, three of them decide to become engineers. That alone is worth it."
+  },
+  {
+   "title": "An interview on space (Ex5)",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": null,
+   "script_text": "INTERVIEWER: Professor Hart, critics say space spending is money we can't afford. Are they right? GUEST: Partly. They're right that the sums are large. They're wrong, I think, to call it wasted. Almost all of it is spent here on Earth — on wages, on factories, on universities. INTERVIEWER: So it creates jobs. GUEST: It creates highly skilled jobs, which is not the same thing. Those skills don't disappear when a mission ends; they move into other industries. INTERVIEWER: But couldn't that money do more good spent directly on, say, hospitals? GUEST: It's a fair question, and my honest answer is: sometimes, yes. I don't think every space project is justified. What I object to is the idea that it's automatically a waste. We have to judge each programme on what it delivers. INTERVIEWER: What would you cut? GUEST: Prestige projects — flags and footprints with no science behind them. What I'd protect is the unglamorous research, because that's where the real returns come from. INTERVIEWER: And space tourism? GUEST: Let the market pay for it. If people want to spend their own fortunes on a few minutes of weightlessness, that's their choice — just not on the public purse."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "616b8c03-82f5-4ab6-9fa5-b2e4120dac39",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "directed",
+   "register": "Semi-formal review register (lively but organised); audience: peers on the school website; purpose: describe + evaluate + recommend",
+   "title": "Review: a space exhibition or documentary",
+   "subtopic": "where-next / what-we-get-back",
+   "difficulty": null,
+   "scenario": "Your school website has a section where students review films, exhibitions and events. You recently visited a space exhibition OR watched a documentary about space. Write a review for the website. In your review you should: describe what you saw; explain what was especially good or disappointing, and why; and say whether you would recommend it, and who would enjoy it most. Write about 150-200 words.",
+   "instruction": "Write a review of about 150-200 words for the school website. Describe what you saw, explain what was especially good or disappointing and why, and say whether you would recommend it and who would enjoy it most.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "what it was, where and when you saw it (scene)",
+    "specific things you saw and your reaction — one high point and one weaker point (detail)",
+    "a clear recommendation and who would enjoy it (verdict)"
+   ],
+   "grammar_focus": [
+    "future forms for predictions"
+   ],
+   "required_vocab": [
+    "immersive",
+    "breathtaking",
+    "hands-on",
+    "cramped",
+    "underwhelming"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Scene",
+      "examples": [
+       "Last month I visited ...",
+       "I recently watched ...",
+       "If you have ever wondered ..., this is for you."
+      ]
+     },
+     {
+      "fn": "Detail",
+      "examples": [
+       "The highlight was ...",
+       "What stood out most was ...",
+       "Less impressive was ...",
+       "Visitors will find ..."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "I would strongly recommend ...",
+       "It is well worth a visit if ...",
+       "Anyone interested in ... should ..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a lively review for the school website of a space exhibition or documentary you saw.",
+     "points": [
+      {
+       "how": "Set the scene fast: what was it, and where and when did you see it? One or two lines — a documentary at home, an exhibition downtown. Open with a hook, not 'I am going to review...'. Make the reader want to read on.",
+       "point": "what it was, where and when you saw it (scene)"
+      },
+      {
+       "how": "Now the specifics — what stood out, and how you reacted. Give one real high point and one weaker point; an honest review isn't all praise. A light future form fits here: 'Visitors will love the planet room.' Show, don't just rate it out of ten.",
+       "point": "specific things you saw and your reaction — one high point and one weaker point (detail)"
+      },
+      {
+       "how": "End with a clear verdict — would you recommend it, and to whom? 'If you like hands-on science, go.' Name the audience: families, space fans, the curious. Don't trail off; leave the reader with a decision.",
+       "point": "a clear recommendation and who would enjoy it (verdict)"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Only describing with no evaluation — judge, don't just describe.",
+     "No clear recommendation — end with a recommendation and who it's for.",
+     "Register too casual or too academic — keep it semi-formal and lively."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a review — describing, then judging, for the school site."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is lively but organised — semi-formal, not a chatty text or a stiff essay."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: what it was, the high and low points, and my verdict."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a light future form, like 'visitors will find...'."
+     },
+     {
+      "ref": "W6",
+      "text": "It flows from the scene, to the detail, to the verdict."
+     }
+    ],
+    "structure": [
+     {
+      "do": "set up what it was, where/when, in 1-2 sentences; hook the reader",
+      "stage": "Scene"
+     },
+     {
+      "do": "describe specific things you saw and your reaction — one high point, one weaker point (rich noun phrases, evaluative adjectives)",
+      "stage": "Detail"
+     },
+     {
+      "do": "give a clear recommendation and say who would enjoy it",
+      "stage": "Verdict"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Evaluative adjectives",
+       "words": [
+        "immersive",
+        "breathtaking",
+        "hands-on",
+        "cramped",
+        "underwhelming"
+       ],
+       "target_words": [
+        "immersive",
+        "breathtaking",
+        "underwhelming"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Walking on the Moon: A Review of the City Space Exhibition\n\nLast weekend I visited \"Walking on the Moon\", a new space exhibition at the City Science Centre, and I am still thinking about it.\n\nThe moment you step inside, the lights dim and a vast curved screen surrounds you with footage of the Earth seen from orbit. It is a genuinely immersive opening, and the silence in the room told me everyone felt it. My favourite section was the hands-on lunar lab, where you can lift a \"moon rock\", steer a model rover and feel how heavy a real spacesuit is. Watching the planets drift overhead in the planetarium dome was simply breathtaking.\n\nNot everything worked, however. The final room, which explained the future of space travel, was cramped and badly signposted, so visitors bunched together and the information panels were hard to read. After such a thrilling start, this part felt a little underwhelming.\n\nEven so, I would strongly recommend it. Anyone curious about science will love it, and I think younger visitors especially will leave inspired. Book early, because it is going to be popular.",
+   "rubric": null,
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 1,
+   "created_at": "2026-06-02T03:11:15.025137+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "b7a5a8ec-e346-4f03-bd49-96de0e5340a8",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "extended",
+   "register": "Formal magazine article; audience: general readership; purpose: argue a position with a fairly-stated counter",
+   "title": "Article: is space exploration worth the cost?",
+   "subtopic": "what-it-costs / where-next",
+   "difficulty": null,
+   "scenario": "Some people believe that the money spent on space exploration would be better spent solving problems here on Earth. To what extent do you agree? Write an article for a magazine giving your views. Write about 250-350 words.",
+   "instruction": "Write an article of about 250-350 words for a magazine. Give your own view on whether space exploration is worth the cost, state the strongest opposing view fairly and then answer it, support your position with reasons and a prediction, and end with a conclusion that looks forward.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "a clear position, stated and held throughout",
+    "the strongest opposing view, fairly stated (grant) then answered (counter)",
+    "your own reasons reinforcing your stand, including a prediction",
+    "a conclusion that confirms your position, looking forward"
+   ],
+   "grammar_focus": [
+    "future forms for predictions",
+    "modals of necessity & obligation"
+   ],
+   "required_vocab": [
+    "opportunity cost",
+    "prioritise",
+    "beneficial"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "State position",
+      "examples": [
+       "It is often argued that ...",
+       "In my view, ...",
+       "I firmly believe that ..."
+      ]
+     },
+     {
+      "fn": "Grant",
+      "examples": [
+       "It is true that ...",
+       "Admittedly, ...",
+       "I accept that the money could fund hospitals and schools ..."
+      ]
+     },
+     {
+      "fn": "Counter",
+      "examples": [
+       "However, ...",
+       "Even so, ...",
+       "What this overlooks is ..."
+      ]
+     },
+     {
+      "fn": "Stand (reason + prediction)",
+      "examples": [
+       "Nevertheless, I maintain that ...",
+       "On balance, ...",
+       "this will lead to ...",
+       "by 2050 we are going to see ..."
+      ]
+     },
+     {
+      "fn": "Conclude",
+      "examples": [
+       "Overall, ...",
+       "If we ..., we will ..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a formal article arguing whether space exploration is worth the cost.",
+     "points": [
+      {
+       "how": "State your position clearly in the introduction, and hold it to the end. Don't drift to the other side halfway through. 'Space spending is worth it — if it's managed with care.' The reader should always know where you stand.",
+       "point": "a clear position, stated and held throughout"
+      },
+      {
+       "how": "Grant the other side's strongest point, fairly: 'It is true that this money could fund hospitals or schools.' Mean it. Then counter: show why it doesn't settle the matter — space spending gives plenty back. A fair grant makes your counter convincing.",
+       "point": "the strongest opposing view, fairly stated (grant) then answered (counter)"
+      },
+      {
+       "how": "Now your own reasons, with a look forward. Make a prediction using a future form: 'By 2050, space tools will reach every home.' And argue priorities with a necessity modal: 'We must spend wisely, not stop.' These two grammar points are required here.",
+       "point": "your own reasons reinforcing your stand, including a prediction"
+      },
+      {
+       "how": "End by confirming your stand and pointing forward. Don't just repeat the intro — leave the reader with where this is heading. 'Handled with care, space spending will benefit us for generations.' Land it on the future.",
+       "point": "a conclusion that confirms your position, looking forward"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Listing pros and cons with no position — commit to a Stand.",
+     "Grant with no Counter (drifting to the other side) — always answer the concession.",
+     "Stringing memorised phrases without development — develop each point (Point-Reason-Result-Example).",
+     "Drifting off the motion — stay on the question."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a formal article, in clear argued paragraphs."
+     },
+     {
+      "ref": "W4",
+      "text": "I granted the strongest opposing point, then answered it — not drifted to it."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal — measured and reasoned, not chatty."
+     },
+     {
+      "ref": "G1",
+      "text": "I used both: a future-form prediction ('will...') and a necessity modal ('must...')."
+     },
+     {
+      "ref": "W6",
+      "text": "I held one clear position from the introduction to the conclusion."
+     }
+    ],
+    "structure": [
+     {
+      "do": "rephrase the issue and state your position clearly (preview your Stand)",
+      "stage": "Introduction"
+     },
+     {
+      "do": "fairly acknowledge the strongest opposing point",
+      "stage": "Grant"
+     },
+     {
+      "do": "explain why that point does not settle it / is outweighed; develop with Point-Reason-Result-Example",
+      "stage": "Counter"
+     },
+     {
+      "do": "restate and reinforce your position with a further reason and a prediction",
+      "stage": "Stand"
+     },
+     {
+      "do": "confirm your stand, looking forward",
+      "stage": "Conclusion"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Argument vocab",
+       "words": [
+        "opportunity cost",
+        "prioritise",
+        "beneficial"
+       ],
+       "target_words": [
+        "opportunity cost",
+        "prioritise",
+        "beneficial"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Reaching for the Stars, Forgetting the Ground?\n\nEvery time a rocket roars into the sky, somebody asks the same question: should that money have stayed on Earth? With hunger, poverty and disease still unsolved, the argument feels powerful. Yet I believe space exploration is worth its cost, and that we must continue to fund it.\n\nLet me be fair to the other side first, because it deserves a proper hearing. Critics point to the opportunity cost: every billion spent on a space telescope is a billion not spent on hospitals or clean water. They argue that governments should prioritise the suffering directly in front of them rather than distant planets. This is a serious moral point, and I do not dismiss it.\n\nHowever, the choice is not as simple as \"space or Earth\". The two are deeply connected. Satellites born from space research now track storms, guide farmers and warn us of droughts long before they strike. Technologies developed for astronauts have proved beneficial in ordinary life, from water-purification systems to advances in medicine. In other words, much of what we spend \"up there\" returns to us \"down here\".\n\nThere is also a longer view. Our planet faces growing pressures, and we ought to understand our place in the universe before those pressures overwhelm us. I predict that within a few decades space science will give us tools to protect Earth that we cannot yet imagine, just as the inventors of early satellites never pictured the smartphone.\n\nIn conclusion, while I understand why some would rather spend every coin at home, I am convinced that exploring space is not a distraction from Earth's problems but part of solving them. We should continue to look upward, because the knowledge we gather there will, in time, make life better for everyone here.",
+   "rubric": null,
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-06-02T03:11:15.025137+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "fff3460e-6317-47e7-889e-a47439b07fe4",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "long-turn",
+   "title": "Speaking: something in space that fascinates you",
+   "subtopic": "why-we-reach",
+   "difficulty": null,
+   "topic": "why-we-reach",
+   "intro": "Talk for a minute or two about something in space or science that fascinates you. Explain what it is and why it captures your imagination.",
+   "card_points": [
+    "what it is",
+    "when or why you became interested",
+    "how it makes you feel",
+    "whether you'd like to learn more about it"
+   ],
+   "discussion_questions": [
+    "Some people would say space has no real effect on our daily lives. Would you agree?",
+    "If you could explore one place in space yourself, where would you go, and why?",
+    "Has anything you've learned about space changed how you think about Earth?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "What fascinates me most is how vast the universe is (Point), because the more we discover, the more questions appear (Reason), so it fills me with a real sense of wonder (Result) — the first time I saw photos of distant galaxies, my curiosity just took over (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "The thing in space that fascinates me most is ___.",
+       "I'd like to talk about ___."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "It fascinates me because ___, which means ___.",
+       "For example, ___."
+      ]
+     },
+     {
+      "fn": "Express a reaction",
+      "examples": [
+       "It fills me with ___, mainly because ___.",
+       "What strikes me most is ___."
+      ]
+     },
+     {
+      "fn": "Reflective close",
+      "examples": [
+       "More than anything, I'd love to discover ___.",
+       "For me, it's a reminder that ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about something in space that fascinates you, then discuss space with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Some people would say space has no real effect on our daily lives. Would you agree?",
+       "how": "Take a view, then back it with a reason. 'I'd disagree — satellites we rely on every day come straight from space research.' Think of real links: phones, weather, GPS. A concrete reason turns an opinion into a real answer."
+      },
+      {
+       "q": "If you could explore one place in space yourself, where would you go, and why?",
+       "how": "Choose one place, then say why it draws you. 'The Moon — it's close, and standing where so few have stood would be unreal.' Pick somewhere specific, and give a genuine reason. A clear choice beats a vague 'anywhere'."
+      },
+      {
+       "q": "Has anything you've learned about space changed how you think about Earth?",
+       "how": "Reflect, then give an example. 'Yes — seeing Earth as one small planet makes its problems feel shared.' Think how space shifts your view of home. One real example makes the reflection land."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name what fascinates you, then add one vivid detail — paint a quick picture. 'I'm fascinated by black holes — regions so dense not even light escapes.' Don't just name it; give one striking fact. That detail pulls the listener in.",
+       "point": "what it is"
+      },
+      {
+       "how": "Tell me the spark — when or why it caught you. 'A documentary I watched as a child first sparked my curiosity.' A video, a class, a clear night sky — name the moment. A real starting point makes the interest believable.",
+       "point": "when or why you became interested"
+      },
+      {
+       "how": "Now your real reaction — and build it out. 'It fills me with wonder, and a little fear at how vast it all is.' Name the feeling — wonder, awe, curiosity — then say why. Honest feeling makes the talk come alive.",
+       "point": "how it makes you feel"
+      },
+      {
+       "how": "Reach further — what would you still love to discover? 'I'd love to understand what happens inside a black hole.' Name what you'd explore, or a question you'd want answered. Ending on curiosity leaves the talk open and alive.",
+       "point": "whether you'd like to learn more about it"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing facts about it with no personal feeling — the card asks how it makes YOU feel.",
+     "Forgetting the spark — name when or why you became interested.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named my real reaction and why"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Describe it",
+       "words": [
+        "fascinating",
+        "mysterious",
+        "enormous",
+        "vast"
+       ],
+       "target_words": [
+        "fascinating"
+       ]
+      },
+      {
+       "label": "Your reaction",
+       "words": [
+        "curiosity",
+        "wonder",
+        "awe",
+        "inspiring"
+       ],
+       "target_words": [
+        "curiosity",
+        "wonder"
+       ]
+      },
+      {
+       "label": "Reflect / reach further",
+       "words": [
+        "discover",
+        "explore",
+        "aspire",
+        "what's out there"
+       ],
+       "target_words": [
+        "discover"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "The thing in space that fascinates me most is black holes. They're fascinating because they break the very rules we usually trust — they are so dense that not even light can escape, which still feels impossible to me however many times I read it.\n\nMy curiosity really began a few years ago, when a documentary showed a black hole slowly pulling an entire star apart. I remember sitting there with my mouth open. I'd thought of space as empty and quiet, and suddenly it seemed violent and alive.\n\nHow does it make me feel? Honestly, a mix of wonder and a little fear. Wonder, because there is so much out there we have yet to discover; fear, because it reminds me how small we are, and how much we may never reach.\n\nAnd yes, I would love to learn more — especially what actually happens inside one, beyond the point where our science stops. That's the question I'd most like to see answered in my lifetime. For me, that unanswered mystery is exactly what keeps me reading.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 2,
+   "created_at": "2026-06-02T03:17:04.388061+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "15b364ec-6fb7-416a-8346-3d1fe4ce27e9",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "discussion",
+   "title": "Speaking: is space exploration worth the cost?",
+   "subtopic": "what-it-costs",
+   "difficulty": null,
+   "topic": "what-it-costs",
+   "intro": "Some people believe the money spent on space exploration would be better spent solving problems here on Earth. How far do you agree?",
+   "card_points": null,
+   "discussion_questions": [
+    "Couldn't that same money do more good if we spent it on hospitals or schools?",
+    "Who do you think should pay for space exploration — governments, companies, or both?",
+    "Is there a point where the cost would be too high to justify? Where?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "I believe space exploration is worth the cost (Point), because the discoveries it drives are beneficial to everyone in the long run (Reason), so the spending is rarely wasted (Result) — in the future, space technology will keep improving life on Earth, which is why governments must keep funding it wisely (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Predict & urge (future forms / necessity modals)",
+      "examples": [
+       "In the future, space technology will probably ___.",
+       "Governments must ___, and we should ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether space exploration is worth its cost — take a position, weigh it, and land a view.",
+     "discussion_how": [
+      {
+       "q": "Couldn't that same money do more good if we spent it on hospitals or schools?",
+       "how": "Weigh the trade-off honestly, then respond. 'It's a fair point — but space research often funds medicine and technology that help those same hospitals.' Acknowledge the opportunity cost, then show the other side. A thoughtful response beats a flat 'no'."
+      },
+      {
+       "q": "Who do you think should pay for space exploration — governments, companies, or both?",
+       "how": "Pick who should pay, then justify it — a necessity modal fits well. 'Governments must lead, but companies should share the cost where they profit.' Don't just list the options; choose, and say why. 'Must' and 'should' make your stance firm."
+      },
+      {
+       "q": "Is there a point where the cost would be too high to justify? Where?",
+       "how": "Name a limit, then give your reasoning. 'Yes — if missions risked lives with little gain, the cost would be too high.' Set a clear threshold, and say why it's the line. A concrete limit answers this far better than 'it depends'."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, space exploration is worth every penny.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'Space research drives technology we all use, so the spending pays us back.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare the cost of one space mission with what it returns: satellites, medicine, weather forecasting. Or weigh the opportunity cost — what else that money could do. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, when people lack basics, it's fair to ask if we should prioritise needs at home first.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I made a prediction or an urging using a future form or a modal (will / must / should)"
+     },
+     {
+      "ref": "S2",
+      "text": "I made a balance turn and still landed on a view"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Cost & priorities",
+       "words": [
+        "opportunity cost",
+        "prioritise",
+        "expenditure",
+        "budget"
+       ],
+       "target_words": [
+        "opportunity cost",
+        "prioritise"
+       ]
+      },
+      {
+       "label": "What we get back",
+       "words": [
+        "beneficial",
+        "spin-off",
+        "by-product",
+        "innovation"
+       ],
+       "target_words": [
+        "beneficial"
+       ]
+      },
+      {
+       "label": "Argue / hedge",
+       "words": [
+        "on balance",
+        "worth it",
+        "it depends"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "On balance, I do think space exploration is worth the cost — but only if we spend wisely. I won't pretend the sums aren't enormous, and people are right to raise the opportunity cost: every amount spent on a rocket is an amount not spent on hospitals or schools that need it now.\n\nStill, I'd push back on the idea that the money simply disappears into the sky. Space research has been hugely beneficial to ordinary life — better weather forecasts, faster communication, even medical scanners first built for astronauts. So a great deal of it returns to us right here on Earth.\n\nMy honest view is that we mustn't treat it as space versus people; we should prioritise wisely and fund both. And I'd predict that the discoveries we make now will keep paying us back for decades. The key is balance, not stopping altogether.",
+   "required_vocab": null,
+   "grammar_focus": [
+    "modals of necessity/obligation",
+    "future forms (predictions)"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 3,
+   "created_at": "2026-06-02T03:17:04.388061+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "1f6abef8-42c2-434b-ab8d-be19e73b7863",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (space & science)",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": null,
+   "intro": null,
+   "card_points": null,
+   "discussion_questions": [
+    "Are you interested in space and astronomy? Why, or why not?",
+    "Did you learn about space at school, or from films, videos, or books?",
+    "Would you like to travel into space one day, if you had the chance?",
+    "Is space exploration something people talk about much where you live?",
+    "When you were younger, did you ever want to be an astronaut or a scientist?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I find space fascinating (Point), because there's still so much we don't understand about it (Reason), so every new discovery feels exciting (Result) — I remember the curiosity I felt seeing the first photos of a black hole (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name something + a reason",
+      "examples": [
+       "What fascinates me most is ___, because ___.",
+       "I first got into it through ___, when ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions on space and science — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Are you interested in space and astronomy? Why, or why not?",
+       "how": "Don't stop at 'yes' or 'no'. Say why — what draws you in, or doesn't. 'Yes — the sheer scale of space fills me with curiosity.' One honest reason turns a flat answer into a real one. A 'no' with a reason is fine too."
+      },
+      {
+       "q": "Did you learn about space at school, or from films, videos, or books?",
+       "how": "Say where you picked it up — and add a detail. 'Mostly from documentaries, mainly because they make it easy to picture.' School, films, books — any source counts. One example makes the answer come alive."
+      },
+      {
+       "q": "Would you like to travel into space one day, if you had the chance?",
+       "how": "Answer yes or no, then give your reason. 'I'd love to — just to discover what Earth looks like from up there.' Even an imagined reason works. If it's no, say what puts you off."
+      },
+      {
+       "q": "Is space exploration something people talk about much where you live?",
+       "how": "Give a view, and you can keep it general. 'Not really — most people are busy with daily life, though big launches get attention.' You're just saying what you notice, not speaking for everyone. A reason makes even a general answer solid."
+      },
+      {
+       "q": "When you were younger, did you ever want to be an astronaut or a scientist?",
+       "how": "Answer yes or no, then a quick memory. 'Yes — I went through a phase of loving dinosaurs and space.' Even a small childhood detail makes it warm and real. If it's no, say what you did dream of."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named something specific and said why"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Space & interest",
+       "words": [
+        "astronomy",
+        "explore",
+        "curiosity",
+        "fascinating"
+       ],
+       "target_words": [
+        "curiosity"
+       ]
+      },
+      {
+       "label": "Learning about it",
+       "words": [
+        "documentary",
+        "discover",
+        "inspire",
+        "wonder"
+       ],
+       "target_words": [
+        "discover"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "what fascinates me is",
+        "to be honest",
+        "especially"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-07T02:09:02.137368+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "319261f7-0efe-420b-b2b4-0a5f35ca9227",
+   "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9",
+   "task_type": "discussion",
+   "title": "Speaking: should space travel be for everyone?",
+   "subtopic": "where-next",
+   "difficulty": null,
+   "topic": "where-next",
+   "intro": "In the future, do you think space travel should be available to everyone, or will it only ever be for the wealthy? What, if anything, should be done about that?",
+   "card_points": null,
+   "discussion_questions": [
+    "If only wealthy people can afford it now, is that so different from how air travel began?",
+    "Should there be rules about who is allowed to travel to space? Who would set them?",
+    "Some say we should fix problems on Earth before sending tourists to space. What do you think?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "I believe space travel should eventually be open to everyone (Point), because something this important shouldn't stay a luxury for the few (Reason), so widening access is the fairer path (Result) — in the future, prices will probably fall, but governments must make sure safety and fairness come first (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Predict & urge (future forms / necessity modals)",
+      "examples": [
+       "In the future, space travel will probably ___.",
+       "There must be ___, and we should ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether space travel should be open to everyone or only the wealthy — take a position and weigh it.",
+     "discussion_how": [
+      {
+       "q": "If only wealthy people can afford it now, is that so different from how air travel began?",
+       "how": "Draw the parallel, then give your view on it. 'It's similar — air travel was once only for the rich, and now it's accessible to millions.' Use the comparison, but say whether you think space will follow the same path. A reasoned parallel makes a strong answer."
+      },
+      {
+       "q": "Should there be rules about who is allowed to travel to space? Who would set them?",
+       "how": "Give a view on rules, then say who should set them — a necessity modal fits. 'Yes — there must be safety rules, and an international body should oversee them.' Don't dodge the 'who'; name it. 'Must' and 'should' make your stance firm."
+      },
+      {
+       "q": "Some say we should fix problems on Earth before sending tourists to space. What do you think?",
+       "how": "Take a view, then give a reason. 'Both can happen at once — space tourism funds research that helps Earth too.' Weigh the priorities honestly, then land somewhere. A clear reason beats refusing to choose."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, space travel should be open to everyone in time, not just the rich.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'Space belongs to all of us, so access shouldn't depend on wealth — fairness has to matter.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare today's costly space flights with early air travel, once a luxury, now affordable for many. A clear parallel shows how access can widen over time. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'That said, early high prices may be what funds the technology that makes it affordable later.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I made a prediction or an urging using a future form or a modal (will / must / should)"
+     },
+     {
+      "ref": "S2",
+      "text": "I made a balance turn and still landed on a view"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Access & fairness",
+       "words": [
+        "accessible",
+        "fair",
+        "inequality",
+        "exclusive"
+       ],
+       "target_words": [
+        "accessible",
+        "fair"
+       ]
+      },
+      {
+       "label": "Future of it",
+       "words": [
+        "affordable",
+        "commercial",
+        "feasible",
+        "mainstream"
+       ],
+       "target_words": [
+        "affordable"
+       ]
+      },
+      {
+       "label": "Argue / hedge",
+       "words": [
+        "on balance",
+        "arguably",
+        "it depends"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "On balance, I believe space travel should one day be open to everyone, not kept as a luxury for the wealthy few. Right now the price is so high that only a tiny number of people will ever go, and that feels deeply unfair, because space belongs to all of us.\n\nThat said, I can see the other side. The technology is still new, and it isn't safe or affordable yet — and the high early prices may be what funds the research that brings costs down later. Air travel began the same way: once only for the rich, now accessible to millions.\n\nSo my honest position is this: making it fair shouldn't mean stopping the wealthy from going; it should mean working towards a future where far more people can. Governments must keep safety and fairness in view — and I do predict that, in time, the doors will open wider.",
+   "required_vocab": null,
+   "grammar_focus": [
+    "future forms (predictions)",
+    "modals of necessity/obligation"
+   ],
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "mode": "human-led"
+   },
+   "display_order": 4,
+   "created_at": "2026-06-02T03:17:04.388061+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}

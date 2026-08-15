@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U3 Opener · Title" data-speaker-notes="Welcome students to Unit 3. This opener sets up the whole unit — the big idea, the four areas of wellbeing, how we'll work, and the campaign they'll build at the end. Read the title and byline, then move to the big idea." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 3 · Unit Opener</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:112px;line-height:.98;margin:0;letter-spacing:-.015em;">Health &amp;<br>Wellbeing</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">Body, mind, and the balance between.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">11 lessons</span>
+        <span style="color:#8a8478;">Reading · Writing · Listening · Speaking · Use of English</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u3-opener-hero" src="assets/images/u3-opener-hero.jpg" shape="rect" fit="cover" placeholder="Unit cover: everyday wellbeing — someone walking/stretching in morning light, fresh food on a table, a calm tidy space. Warm, human, healthy. Faces not identifiable."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="The Big Idea" data-screen-label="U3 Opener · Big idea" data-speaker-notes="The through-line for the whole unit. Wellbeing isn't one big change — it's small, steady choices across four areas of life. Stress the word 'balance': no single area is the whole answer. Students will return to this idea in every lesson." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">The big idea</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:78px;line-height:1.08;margin:20px 0 0;max-width:1560px;">Wellbeing isn't one big change. It's <span style="color:#e8b56a;">small, steady choices</span> — across the body <em>and</em> the mind.</h2>
+    <p style="font-size:36px;line-height:1.4;margin:40px 0 0;max-width:1440px;color:#dbe2ea;">This unit follows four everyday areas of a healthy life. None of them is the whole answer on its own. The skill — in English and in life — is the <strong>balance between</strong> them.</p>
+  </section>
+
+  <section data-label="Four Areas" data-screen-label="U3 Opener · Four strands" data-speaker-notes="Preview the four strands the unit moves through. Each has its own texts, vocabulary and tasks. Read each one; ask students which they think they most need to work on — a quick show of hands warms them up." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">The four areas of this unit</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.0;margin:12px 0 30px;">Four ways to stay well</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #0f7d76;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#0f7d76;">Move Your Way</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">How the body stays strong — exercise that actually fits a student's life.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #e0a13c;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#b07a1e;">Fuel &amp; Focus</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">What we eat and drink — and how it changes energy and attention.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #7a9fd4;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#3f62a0;">Mind &amp; Mood</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Stress, comparison and resilience — looking after mental wellbeing.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #9a7fbf;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#6b4e94;">Rest &amp; Recovery</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Why sleep and rest matter — and how to protect them.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Your Goals" data-screen-label="U3 Opener · Goals" data-speaker-notes="What students will be able to DO by the end. These are the unit's promises, in student language. Read them; they map onto the Cambridge skills without the jargon. Reassure students that every one is scaffolded." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">By the end of this unit, you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 30px;">What you'll be able to do</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;">Read</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">follow an argument about health, and tell fact apart from opinion.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;">Write</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">persuade a reader with reasons, examples and a clear structure.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;">Listen</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">catch detail and attitude in talks and interviews about wellbeing.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;">Speak</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">give advice and explain cause and effect using new structures.</span></div>
+    </div>
+  </section>
+
+  <section data-label="How We Work · Modes" data-screen-label="U3 Opener · Modes" data-speaker-notes="Re-introduce the three modes students already know from earlier units. The badge in the top-right corner of each slide tells them what to do: think and write, talk, or show me quickly. Consistency across units means no time lost explaining routines." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">How we work · the three modes</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 34px;">Watch the corner of each slide</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#f4d98b;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">notebook</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Think on your own and write it down. Silent focus.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#a8c8dd;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">talk</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Turn to a partner and speak. Use the sentence stems.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#8fbf9f;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">show me</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Quick response — hands, fingers, or a vote. No writing.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Reading in Colour" data-screen-label="U3 Opener · Annotation" data-speaker-notes="Recap the annotation code used across the course: Meaning, Method, Response. In a health unit, 'Method' includes how writers use statistics and expert voices to persuade — flag that this unit leans on it. Students keep three colours ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Reading in three colours</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 32px;">How we mark up a text</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#dcebe9;border:1px solid #cfe0dd;border-left:8px solid #2f6d6a;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#2f6d6a;">● Meaning</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">What does it <em>say</em>? The facts and the main point.</div></div>
+      <div style="background:#f4e2d4;border:1px solid #e6cdb6;border-left:8px solid #b4632e;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#b4632e;">● Method</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How is it <em>said</em>? Numbers, experts, strong words.</div></div>
+      <div style="background:#efe1ee;border:1px solid #ddc9db;border-left:8px solid #8a5a86;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#8a5a86;">● Response</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How do <em>you</em> react? Agree, doubt, or want to know more.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U3 Opener · Skill Bank" data-speaker-notes="The Skill Bank continues across the whole course. Students keep adding one strategy per lesson to a running revision sheet. Remind them it already holds entries from Units 1 and 2 — this unit adds reading, listening, writing and speaking strategies for health texts." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Your Skill Bank · keep building it</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.05;margin:18px 0 24px;max-width:1500px;">One strategy, every lesson — a revision sheet you build yourself.</h2>
+    <div style="display:flex;gap:20px;">
+      <div style="flex:1;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;color:#3d3830;">Every lesson ends with one <strong>Skill Bank</strong> card — a reading, writing, listening or speaking move you can reuse in the exam.</div>
+      <div style="flex:1;background:#14243d;color:#f4efe6;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;">By the end of Unit 3 you'll have added <strong>nine more</strong> — on top of everything from Units 1 and 2.</div>
+    </div>
+  </section>
+
+  <section data-label="Vocabulary Families" data-screen-label="U3 Opener · Vocab preview" data-speaker-notes="Preview the four vocabulary families, one per area. Students meet these fully in Lesson 2 — this is just a taste so the words feel familiar. Say a few chorally to set the 'say it before you meet it' habit." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Words you'll build · four families</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 28px;">A taste of the vocabulary</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#0f7d76;margin-bottom:12px;">Move Your Way</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">energetic · flexibility · posture · strengthen · intense</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#b07a1e;margin-bottom:12px;">Fuel &amp; Focus</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">nutritious · hydrate · consume · moderation · processed</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#3f62a0;margin-bottom:12px;">Mind &amp; Mood</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">resilience · mindful · anxiety · burnout · supportive</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#6b4e94;margin-bottom:12px;">Rest &amp; Recovery</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">recovery · drowsy · restore · refreshed · consistent</div></div>
+    </div>
+  </section>
+
+  <section data-label="Capstone" data-screen-label="U3 Opener · Capstone" data-speaker-notes="Show students the destination: the whole unit builds toward this campaign. Naming it now gives every lesson a purpose — the reading, vocabulary and writing all feed into it. Keep it light; details come in the review lesson." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;padding:96px 80px 96px 110px;display:flex;flex-direction:column;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Where this unit is going</div>
+      <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:74px;line-height:1.03;margin:18px 0 22px;">A Wellbeing<br>Campaign</h2>
+      <p style="font-size:34px;line-height:1.4;margin:0;max-width:760px;color:#dbe2ea;">In small groups, you'll design a short campaign — a poster or a few slides — to help students your age build <strong>one</strong> healthy habit. You'll present it to the class.</p>
+      <div style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap;font-family:Archivo,sans-serif;font-size:24px;font-weight:600;">
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Pick a habit</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Why it matters</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Real tips</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">A slogan</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#0f1c30;">
+      <image-slot id="u3-opener-apply" src="assets/images/u3-opener-apply.jpg" credit="© Dean Hochman / Flickr, CC BY" shape="rect" fit="cover" placeholder="Students working together on a project / a simple wellbeing poster or campaign; hands, markers, sticky notes. Collaborative and positive. Faces not identifiable."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="Start · Next" data-screen-label="U3 Opener · Start" data-speaker-notes="Close the opener and launch Lesson 1. One line to leave them with: wellbeing is built from small choices, and this unit gives them the words to talk about it. Move to Lesson 1." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Let's begin</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:72px;line-height:1.05;margin:18px 0 30px;max-width:1560px;">Small choices, made often, add up to a healthier life — and this unit gives you the words to talk about them.</h2>
+    <div style="display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:36px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">First lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;">Lesson 1 · Welcome to Healthy Living</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

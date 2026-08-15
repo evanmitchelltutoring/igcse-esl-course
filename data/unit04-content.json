@@ -1,0 +1,2403 @@
+{
+ "_about": "Real live content for Cultures & Connections (around-the-world). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 4,
+  "slug": "around-the-world",
+  "title": "Cultures & Connections",
+  "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Orientation: Visiting or Belonging?",
+   "skill": "orientation",
+   "minutes": 10,
+   "blocks": [
+    "owner_voice_slots",
+    "hook",
+    "teaching_page",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary Launch: Words for Belonging",
+   "skill": "vocabulary",
+   "minutes": 15,
+   "blocks": [
+    "owner_voice_slots",
+    "hook",
+    "teaching_page",
+    "text",
+    "vocab_set",
+    "guided_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Reading: The Tourist Gaze",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "text",
+    "guided_practice",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Forty-Eight Hours in a City I Never Met"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Forty-Eight Hours in a City I Never Met"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Reading: Living Elsewhere (Reading for Feeling)",
+   "skill": "reading",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "instruction",
+    "guided_practice",
+    "independent_practice",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "The Month I Stopped Translating"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Month I Stopped Translating"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Reading: Code-Switching",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "guided_practice",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Two Languages, One Self: An Interview with Lina"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Two Languages, One Self: An Interview with Lina"
+   ]
+  },
+  {
+   "order": 6,
+   "title": "Reading: What Stays With You",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "before_reading",
+    "reading",
+    "reading_questions",
+    "listening",
+    "independent_practice",
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Coming Home Changed: The Shock Nobody Warns You About"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Coming Home Changed: The Shock Nobody Warns You About"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "Grammar: Present Perfect",
+   "skill": "grammar",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "hook",
+    "instruction",
+    "worked_example",
+    "guided_practice",
+    "independent_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Grammar: Defining Relative Clauses",
+   "skill": "grammar",
+   "minutes": 30,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "hook",
+    "instruction",
+    "worked_example",
+    "think_aloud",
+    "guided_practice",
+    "independent_practice",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Listening: Voices of Travel and Return",
+   "skill": "listening",
+   "minutes": 35,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "listening",
+    "listening_questions",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Travel Moments: Eight Short Recordings",
+    "Why I Travelled: Five Short Extracts",
+    "Understanding Culture Shock: A Short Talk",
+    "What Stayed With Me: Six Returning Travellers",
+    "Coming Back: An Interview with a Returnee"
+   ]
+  },
+  {
+   "order": 10,
+   "title": "Directed Writing: The Article",
+   "skill": "writing",
+   "minutes": 40,
+   "blocks": [
+    "owner_voice_slots",
+    "text",
+    "writing_task",
+    "worked_example",
+    "guided_practice",
+    "independent_practice",
+    "self_review",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Extended Writing: A Place That Shaped You",
+   "skill": "writing",
+   "minutes": 40,
+   "blocks": [
+    "owner_voice_slots",
+    "text",
+    "writing_task",
+    "instruction",
+    "guided_practice",
+    "independent_practice",
+    "self_review",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "Code-Switching": [
+   {
+    "word": "accent",
+    "pos": "noun",
+    "def": "the way someone pronounces words, often showing where they are from"
+   },
+   {
+    "word": "adjust",
+    "pos": "verb",
+    "def": "to change slightly in order to fit a new situation"
+   },
+   {
+    "word": "bilingual",
+    "pos": "adjective",
+    "def": "able to speak two languages well"
+   },
+   {
+    "word": "code-switching",
+    "pos": "noun",
+    "def": "changing the way you speak or behave to fit different groups or settings"
+   },
+   {
+    "word": "custom",
+    "pos": "noun",
+    "def": "a traditional way of behaving that is common in a society"
+   },
+   {
+    "word": "dialect",
+    "pos": "noun",
+    "def": "a form of a language spoken in a particular region or group"
+   },
+   {
+    "word": "fluent",
+    "pos": "adjective",
+    "def": "able to speak or write a language smoothly and easily"
+   },
+   {
+    "word": "in-between",
+    "pos": "adjective",
+    "def": "belonging fully to neither one side nor the other"
+   },
+   {
+    "word": "instinctively",
+    "pos": "adverb",
+    "def": "without thinking, by natural habit or feeling"
+   },
+   {
+    "word": "misunderstanding",
+    "pos": "noun",
+    "def": "a failure to understand something correctly"
+   }
+  ],
+  "Living Elsewhere": [
+   {
+    "word": "acquaintance",
+    "pos": "noun",
+    "def": "a person you know slightly, but who is not a close friend"
+   },
+   {
+    "word": "friction",
+    "pos": "noun",
+    "def": "disagreement or tension between people"
+   },
+   {
+    "word": "gradually",
+    "pos": "adverb",
+    "def": "slowly, in small stages over time"
+   },
+   {
+    "word": "household",
+    "pos": "noun",
+    "def": "all the people who live together in one home"
+   },
+   {
+    "word": "inconvenience",
+    "pos": "noun",
+    "def": "trouble or difficulty that causes minor problems"
+   },
+   {
+    "word": "routine",
+    "pos": "noun",
+    "def": "a regular, fixed way of doing things"
+   },
+   {
+    "word": "settle in",
+    "pos": "phrasal verb",
+    "def": "to become comfortable in a new home, job or situation"
+   },
+   {
+    "word": "unfamiliar",
+    "pos": "adjective",
+    "def": "not known or recognised; strange to you"
+   }
+  ],
+  "What Stays With You": [
+   {
+    "word": "cherish",
+    "pos": "verb",
+    "def": "to care for and value something deeply"
+   },
+   {
+    "word": "enduring",
+    "pos": "adjective",
+    "def": "lasting for a long time; not fading"
+   },
+   {
+    "word": "home",
+    "pos": "noun",
+    "def": "the place where you feel you belong, which may not be where you were born"
+   },
+   {
+    "word": "homesick",
+    "pos": "adjective",
+    "def": "sad because you are away from home and miss it"
+   },
+   {
+    "word": "memento",
+    "pos": "noun",
+    "def": "an object kept because it reminds you of a person, place or event"
+   },
+   {
+    "word": "nostalgia",
+    "pos": "noun",
+    "def": "a warm, slightly sad feeling for the past or for a place left behind"
+   },
+   {
+    "word": "perspective",
+    "pos": "noun",
+    "def": "a particular way of seeing or thinking about something"
+   },
+   {
+    "word": "reflect",
+    "pos": "verb",
+    "def": "to think carefully about something, especially the past"
+   },
+   {
+    "word": "resonate",
+    "pos": "verb",
+    "def": "to have a deep, lasting effect or meaning for someone"
+   },
+   {
+    "word": "roots",
+    "pos": "noun",
+    "def": "the place, family or culture a person comes from and feels connected to"
+   },
+   {
+    "word": "transform",
+    "pos": "verb",
+    "def": "to change completely, usually for the better"
+   }
+  ],
+  "The Tourist Gaze": [
+   {
+    "word": "crowded",
+    "pos": "adjective",
+    "def": "full of people, leaving little space"
+   },
+   {
+    "word": "fleeting",
+    "pos": "adjective",
+    "def": "lasting only a very short time"
+   },
+   {
+    "word": "itinerary",
+    "pos": "noun",
+    "def": "a planned route or schedule for a journey"
+   },
+   {
+    "word": "landmark",
+    "pos": "noun",
+    "def": "a famous or easily recognised feature of a place"
+   },
+   {
+    "word": "observe",
+    "pos": "verb",
+    "def": "to watch something carefully in order to notice details"
+   },
+   {
+    "word": "perception",
+    "pos": "noun",
+    "def": "the way something is noticed, understood or interpreted"
+   },
+   {
+    "word": "picturesque",
+    "pos": "adjective",
+    "def": "visually attractive, especially in a charming or old-fashioned way"
+   },
+   {
+    "word": "souvenir",
+    "pos": "noun",
+    "def": "an object kept as a reminder of a place that was visited"
+   },
+   {
+    "word": "superficial",
+    "pos": "adjective",
+    "def": "only on the surface; not deep"
+   },
+   {
+    "word": "vantage point",
+    "pos": "noun",
+    "def": "a position that gives a good or wide view"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "The Story of Chocolate",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Chocolate comes from the beans of the cacao tree, a small tree that grows only in the hot, wet regions near the equator. Thousands of years ago, ancient peoples in Central America — the Maya and the Aztecs among them — were the very first to use it. They roasted and ground the beans into a thick, bitter drink, flavoured with spices and chilli, very different indeed from the sweet chocolate we know and love today. To them it was precious, and even sacred.\n\nIn fact, the beans were once so valuable that they were used as money, exchanged for goods at market just like coins; a person could quite literally buy their dinner with a small handful of them. When European explorers reached the Americas, they carried cacao back across the ocean to Europe, where, after a good deal of experimenting, people began adding sugar and milk to soften and sweeten its naturally bitter taste. Slowly but surely it became fashionable among the rich.\n\nFor a very long time, chocolate was only ever a drink, sipped from delicate cups by the wealthy. It was not until the 1800s that clever inventors finally worked out how to make the first solid chocolate bar that you could hold, snap and eat — the direct ancestor of every bar sold in shops today. Almost overnight, chocolate went from a rare and costly luxury to a treat that nearly anyone could afford to enjoy. Today, in a strange twist of history, most of the cacao in the world is grown far from where it first began, in the warm countries of West Africa, before being shipped all over the globe."
+  },
+  {
+   "title": "Slow Travel: The Case for Staying Put (Backup)",
+   "topic": "The Tourist Gaze",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Backup passage (alternate, same skill: skimming & scanning). Read the blog post and answer the questions.",
+   "body": "My first trips were races. I would land in a city, sprint between landmarks, and leave with a full camera and an empty memory. I could tell you which famous buildings I had stood in front of, but almost nothing about the places themselves — what people ate, how they spoke to each other, what the streets felt like after dark. Last year I tried the opposite. I chose one small town and stayed for two weeks, and I did almost nothing.\n\nOr rather, I did very ordinary things. I bought my coffee from the same stall each morning until the owner knew my order and started preparing it the moment he saw me. I learned which bakery sold out by nine, and which stayed open late. I got lost, found my way, and got lost again on the same three streets until they were no longer a map but a memory. I had conversations that went nowhere in particular, the kind a tourist on a schedule never has time for.\n\nNothing about the town would make a guidebook. There was no famous tower, no must-see view, nothing I felt obliged to photograph. And yet I can still describe the sound of its market on a Saturday and the smell of rain on its stone. I cannot say that about any of the ten capitals I once rushed through in a single frantic summer.\n\nSlow travel is not lazy, whatever its critics say. It is a different bet: that you learn more about a place from one quiet fortnight than from a fortnight of queues and ticket stubs. You trade breadth for depth, and the trade is worth it. I am no longer collecting countries the way I once collected stamps. I am trying, for once, to actually arrive — to be somewhere fully, instead of everywhere briefly."
+  },
+  {
+   "title": "Four People, Four Memorable Journeys",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Ana (an overnight train)\nI had always, always wanted to take a proper overnight train, sleeping as the dark country rolled by outside the window, and finally last spring I did. My single biggest worry beforehand was sleeping straight through my stop and waking up hundreds of miles away in completely the wrong city. Instead of sleeping, though, I stayed up half the night talking to the strangers in my carriage — a student, an old farmer, a woman with a guitar — and somehow, by morning, they had quietly become real friends. Together, bleary-eyed and laughing, we watched the sun rise slowly over the misty hills, and I knew I would never forget it. I still message two of them even now.\n\nB — Leo (a charity cycle ride)\nI cycled a very long way indeed to raise money for a charity that is close to my heart, training for months beforehand in the cold evenings. I had badly, badly underestimated the hills; the map had made it all look so flat and friendly, and the reality left my legs screaming on every single climb. Worse, I got a puncture miles from the nearest town, with no one around and the light beginning to fade, and had to mend it with shaking, freezing hands at the roadside. Even so — and I mean this with all my heart — finishing that ride, rolling at last over the line into the cheering, is comfortably the proudest thing I have ever done.\n\nC — Sara (her first flight alone)\nI flew abroad entirely on my own for the very first time, to visit family I had not seen in years, and I was a bundle of nerves for weeks beforehand. I was genuinely terrified standing in that vast, echoing airport, clutching my passport, absolutely certain that I would get something badly wrong — the wrong gate, the wrong queue, the wrong everything. The flight itself, to my enormous surprise, turned out to be wonderfully calm and ordinary, and I even managed to doze for a while. Ever since that day I have felt completely confident about travelling by myself, and I now actively look forward to it rather than dreading it. That single journey changed how I see the whole world.\n\nD — Max (a family road trip)\nMy parents planned a long family road trip down the coast, poring over maps at the kitchen table for weeks, and I was honestly not at all sure that I wanted to go. Then the car broke down — not once, but twice — leaving us stranded at the hot roadside, waiting for help and gently bickering. By every sensible measure, it should have been an absolute disaster of a holiday. Instead, somehow, it turned into the funniest one we have ever had: the breakdowns gave us our best stories, the silly songs we sang while we waited, the terrible little roadside cafe. All that trouble, strangely, brought our whole family closer together than any perfect trip ever could have."
+  },
+  {
+   "title": "Two Languages, One Self: An Interview with Lina",
+   "topic": "Code-Switching",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read this interview and answer the questions that follow.",
+   "body": "Interviewer: You grew up speaking two languages. Does one feel more 'you' than the other?\n\nLina: People expect me to choose, but I cannot. In one language I am louder, quicker to joke. In the other I am gentler — it is the language I say sorry in. They are both me. I am just a slightly different me in each.\n\nInterviewer: Do you switch without noticing?\n\nLina: All the time. At home, a sentence might start in one language and finish in the other. My grandmother calls it 'making a mess'. I call it normal. The strange part is doing it instinctively — my mouth chooses before my mind does.\n\nInterviewer: Has it ever caused trouble?\n\nLina: Small things. A word that is polite in one language sounds rude in the other if you translate it directly. I have apologised for jokes that were never insults. But honestly, the harder part is not the words. It is that some people think you must belong fully to one side or the other. I have spent years learning that the in-between is a real place to stand — not a failure to land.\n\nInterviewer: Is there anything people misunderstand about growing up between two cultures?\n\nLina: That it must be confusing all the time. Mostly it is not — it is just ordinary to me. What is hard is the assumption that I am half of two things instead of fully something new. I am not fifty per cent one and fifty per cent another. I am one hundred per cent in-between, and that turned out to be its own whole thing.\n\nInterviewer: What would you tell a younger version of yourself?\n\nLina: That the discomfort fades. For years I tried to pick a side to make other people comfortable. Now I let the two languages sit in the same sentence and I do not apologise for it. The mess, it turns out, was never a mess. It was just me."
+  },
+  {
+   "title": "Why Travel Changes Us (Backup)",
+   "topic": "What Stays With You",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Backup passage (alternate, same skill: summary writing). Read the article, then write a summary as instructed.",
+   "body": "Why does travel change people so often, and so deeply? The reasons are not mysterious; researchers and seasoned travellers point to a handful of ordinary mechanisms that, together, reshape how a person sees the world — and themselves.\n\nThe most basic is contrast. At home, the way things are done feels like the only way; abroad, a traveller sees the same human needs — eating, working, raising children, marking time — met completely differently, and realises that much of what felt fixed was simply familiar. Choices become visible where before there were only habits, and once seen they cannot be unseen.\n\nA second mechanism is difficulty. Travel removes the supports people lean on without noticing — the easy language, the known routes, the friends who explain things, the sense of which behaviour is normal. Coping without them, even clumsily, builds a quiet confidence that transfers to the rest of life. Having managed in a place where nothing was automatic, ordinary challenges at home start to feel smaller and more manageable.\n\nA third is encounter. Meeting people whose lives are organised around different assumptions makes sweeping judgements harder to hold. It is difficult to keep a flat opinion about a place once it has a face and a kitchen table attached to it — once you have been fed by someone you were taught to be wary of, and found them kind.\n\nA fourth is reflection. Distance from home gives people room to see their own lives from the outside. Many travellers report that they understood their own country, their family, and themselves more clearly only once they had left and looked back from somewhere new.\n\nNone of this requires a far-off or expensive trip; the same mechanisms work on a short stay in the next region as on a year abroad. What matters is not distance but exposure — being placed, for a while, somewhere the usual rules do not quite apply, and being willing to notice what that reveals. The travellers who change most are not the ones who go furthest, but the ones who pay the most attention.\n\nIt is worth adding that these changes are rarely comfortable while they are happening. Contrast can feel like losing your footing; difficulty is, by definition, difficult; encounter can unsettle beliefs you were fond of. The change that travel brings usually arrives disguised as discomfort, and only later, looking back, does a person recognise it as growth. That is why the travellers who gain the most are often the ones who were willing to sit with the discomfort instead of fleeing it."
+  },
+  {
+   "title": "The First Six Months: A Newcomer's Field Notes",
+   "topic": "Living Elsewhere",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read this article and complete the notes below with ONE or TWO words from the text.",
+   "body": "When I moved abroad for work, a friend who had done the same gave me one piece of advice: keep notes, because you will forget how strange it all felt once it stops feeling strange. I did, and reading them back now, the first six months fall into clear phases.\n\nMonth one was pure logistics. I had imagined deep cultural encounters; instead I spent my days defeating a washing machine, hunting for a power adaptor, and learning that the supermarket closed at a time I could never quite remember. Nothing was hard, exactly, but everything took three times as long as it should, and by evening I was exhausted by tasks that had once been automatic.\n\nMonth two brought the language wall. I had studied the basics, but a textbook does not prepare you for a real person speaking quickly, swallowing half their words, expecting an answer. I nodded through conversations I only half understood. Twice I agreed to things I had not meant to agree to. I began to carry a small notebook of phrases, adding one each day, and slowly the wall developed a few footholds.\n\nBy month three something shifted in how people treated me. A neighbour who had only nodded before stopped to talk. The man at the coffee stall started preparing my order when he saw me coming. These were tiny signals, but together they said: you are becoming a regular, not a visitor. I had done nothing to earn it except keep showing up in the same places, day after day, until my face was simply part of the street.\n\nMonths four and five were the hardest, and the notes from then are the shortest. The novelty had worn off, but I did not yet feel at home. I missed things I could not name and found myself irritated by differences I had found charming in week one. My friend had warned me about exactly this dip; knowing it was normal did not remove it, but it stopped me from reading it as failure, and so I waited, and kept up my small routines, and trusted that it would pass.\n\nMonth six is where the notes grow warm again. Nothing dramatic happened. I simply noticed, one ordinary morning, that I had stopped translating the street signs in my head. The city had quietly become a place I lived in, rather than a place I was visiting. The strangeness had not vanished — it had just turned into the texture of an ordinary life."
+  },
+  {
+   "title": "What We Carry Home (Backup)",
+   "topic": "What Stays With You",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Backup passage (alternate, same skill: note completion / intensive reading). Read the article and complete the notes.",
+   "body": "Ask returning travellers what they brought back, and few mention souvenirs. The fridge magnets and keyrings end up in a drawer within weeks, forgotten almost as soon as they are unpacked. The lasting cargo of a journey, researchers find, tends to be invisible — and it falls into a few clear types.\n\nThe first is habits. A traveller may return with a new daily rhythm: an afternoon rest, a slower meal, a different way of greeting people. These small routines often outlast the trip by years, long after the photographs have been forgotten. People are sometimes surprised to find a foreign habit still shaping their mornings a decade later, a quiet leftover from a place they have not seen since.\n\nThe second is perspective. Having seen one problem solved in an unfamiliar way, returnees frequently question habits at home they had never thought to question — from how cities are built to how families eat together. What once seemed the only way of doing things is revealed as simply one way among many, and that realisation rarely goes away.\n\nThe third is language. Even travellers who never become fluent carry words home. A single borrowed term, used in the right moment, can hold a feeling the home language has no name for. These words become small private souvenirs, meaningful only to the person who picked them up, surfacing unexpectedly years later.\n\nThe fourth, and least expected, is tolerance for not knowing. People who have spent time confused in another culture — unable to read a sign, follow a conversation, or guess what happens next — often grow more comfortable with uncertainty in general. They become more willing to wait, to ask, and to be wrong, and that patience tends to stay with them at home.\n\nNone of these can be packed in a suitcase, and none can be bought. They are, in the end, what most people mean when they say that travel changed them: not the photographs, but the quieter, more permanent freight of habit, perspective, language and patience — the things that ride home unnoticed and never quite leave.\n\nPerhaps that is why returning travellers so often struggle to answer the simple question, 'How was your trip?' The honest answer is not a list of sights but a slow change in how they see ordinary things — and that is far harder to fit into a sentence at a dinner table. What they carry home cannot be shown in a photograph or handed across a table; it can only be lived out, quietly, in the months and years that follow."
+  },
+  {
+   "title": "The Month I Stopped Translating",
+   "topic": "Living Elsewhere",
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": "Read this personal essay and answer the questions, paying attention to the writer's use of language and its effect.",
+   "body": "For the first weeks, everything was a small battle. The washing machine had symbols I did not understand. The bread was the wrong shape. I translated every sentence in my head before I dared to speak it, and by the time the words came out, the moment had usually passed. I told my family on the phone that I was fine. I was not sure it was true.\n\nThe strangeness lived in small things. The light switched off downstairs, not up. Evenings arrived an hour earlier than my body expected, so that dusk always felt like an accusation that I had wasted the day. I carried a phrase book the way other people carry an umbrella — not often opened, but never left behind.\n\nThen, somewhere in the second month, something quietly shifted. I bought bread without rehearsing the question. I knew which neighbour smiled back and which did not. One evening I caught myself laughing at a joke before I had finished translating it — and realised I had not translated it at all. The change had no edges. It was less an arrival than a tide that had come in while I was looking the other way.\n\nNobody arrived to tell me I belonged. There was no certificate, no welcome. There was only a Tuesday that felt, for no particular reason, ordinary. I walked the same street I had once found bewildering, and it was simply the way home.\n\nI still miss things I cannot always name. But I have learned that belonging is not a door you walk through. It arrives in pieces, on days you are not watching for it, until one morning the unfamiliar has quietly become yours."
+  },
+  {
+   "title": "Forty-Eight Hours in a City I Never Met",
+   "topic": "The Tourist Gaze",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Read this travel blog post and answer the questions that follow.",
+   "body": "Day one. We landed at noon and the list began. The old bridge — photo. The famous tower — photo, then a queue, then another photo from a better angle. By three o'clock my phone held sixty pictures and my feet ached. The guidebook called it 'the must-see heart of the city', and we saw it, the way you see a painting through a crowd: in glimpses, over shoulders.\n\nDay two ran to the same rhythm. We queued two hours for the cathedral and twenty minutes for a lift to a rooftop viewpoint, where the city looked like its own postcard. A river cruise we had booked was cancelled — rain again — so we walked the old market instead, the one street I would happily have spent the whole trip in. By evening my legs had given up long before the list had.\n\nWhat I remember now is not the tower. It is the small café where we stopped only because it rained. The owner, who spoke no English, drew a map on a napkin to the bus we had missed. For ten minutes we were not tourists ticking off a list; we were just people being helped by a stranger. Then the rain stopped, the list resumed, and we hurried on.\n\nThat night I scrolled through the day's photographs. They were good photographs. They proved I had been there. What they could not show was the ten minutes that actually mattered, because nobody photographs a stranger drawing a map. I kept scrolling anyway, as if the right picture might suddenly contain the thing I had missed.\n\nI have travelled to nine countries and photographed all of them. If you asked me what any of them is truly like, I would struggle to answer. A tourist sees the surface and calls it the place. I am beginning to think the place is somewhere underneath, in the parts no itinerary makes time for."
+  },
+  {
+   "title": "Becoming a Local: How People Settle into a New Country",
+   "topic": "Living Elsewhere",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article, then write a summary as instructed in the question.",
+   "body": "Moving to a new country is rarely a single leap; for most people it is a slow process made of small adjustments. Researchers and experienced travellers describe several things that help a newcomer move from feeling like a visitor to feeling at home.\n\nThe first is routine. Early on, everything demands attention — shopping, transport, even paying a bill can feel like a test. People who settle well tend to build small daily habits quickly: a regular route to work, a shop they always use, a café they return to. Familiar patterns reduce the mental effort of daily life and make a strange place feel manageable.\n\nLanguage is a second factor, and not only in the obvious way. Newcomers who learn even a little of the local language report feeling far less isolated. The point is rarely fluency; it is the willingness to try. A few polite phrases, used daily, open doors that perfect grammar learned in silence never does.\n\nA third factor is local relationships. Those who form even one or two genuine local friendships adjust noticeably faster than those who stay inside a circle of people from their own country. Local friends explain the unwritten rules — when to arrive, how to greet, what is polite — that no guidebook contains.\n\nAttitude matters too. People adjust more easily when they treat differences as interesting rather than wrong. Frustration is normal, but those who expect some difficulty, and treat each problem as something to learn from, recover from setbacks more quickly than those who compare everything unfavourably with home.\n\nFinally, time is itself a factor that cannot be rushed. Almost everyone reports a low point, often in the first few months, when the novelty has faded but belonging has not yet arrived. Knowing this dip is coming does not prevent it, but it stops the dip from being mistaken for failure. Those who understand that it is normal — and temporary — are far more likely to push through it than to give up.\n\nNone of these guarantees an easy arrival, and no two experiences are the same. But together they describe a pattern: belonging in a new country is built, deliberately and gradually, out of habits, language, relationships, attitude and patience. The people who settle best are rarely the luckiest. More often, they are the ones who kept showing up while the unfamiliar slowly became their own. Arrival, in the end, is less an event than a habit you practise until it is true."
+  },
+  {
+   "title": "Coming Home Changed: The Shock Nobody Warns You About",
+   "topic": "What Stays With You",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read this informational article and answer the questions that follow.",
+   "body": "Most travellers prepare for culture shock — the disorientation of arriving somewhere new. Far fewer expect its mirror image: reverse culture shock, the strange difficulty of returning home.\n\nResearchers describe it in stages. At first, returnees feel relief and excitement at familiar faces and food. This 'honeymoon' fades within weeks. A second stage often brings frustration: home has carried on without them, friends have moved on, and stories from abroad are met with polite but brief interest. Returnees may feel that they have changed while everything they left behind has stayed the same — or worse, that it has changed in ways they no longer recognise. The feeling can be disorienting precisely because it is unexpected: the traveller braced for a foreign country, not for a strange version of their own.\n\nA third stage is gradual readjustment. Returnees learn to hold two things at once: the person they were before and the person they became away. Many report that they never fully return to who they were. They notice things about home they once took for granted, and they carry habits, tastes and questions picked up elsewhere.\n\nPsychologists who study returnees suggest several ways to ease the transition. Keeping in contact with friends made abroad helps the experience feel real rather than imagined. Joining a returnee group or an online community reduces the sense of being alone with a story no one wants to hear. And keeping one or two habits from the host country — a food, a phrase, a routine — lets the person they were abroad stay alive in the person they are at home. None of these removes the strangeness overnight, but each gives the returning traveller something to hold while the familiar slowly fits again.\n\nThe length of the adjustment varies from person to person. As a rough guide, researchers note that the deeper the immersion and the longer the time away, the longer the readjustment tends to take. Knowing this in advance does not remove the discomfort, but it makes it easier to recognise and to wait out.\n\nExperts suggest that the experience, though uncomfortable, is valuable. The discomfort is evidence of growth. A person who feels nothing on returning has usually engaged with very little; the ache is simply the price of having been changed. What stays with a traveller is rarely the photographs. More often it is a wider sense of how many ordinary ways there are to live a life."
+  },
+  {
+   "title": "The First Night (Backup)",
+   "topic": "Living Elsewhere",
+   "difficulty": "core",
+   "exam_part": 4,
+   "instructions": "Backup passage (alternate, same skill: language & effect). Read the personal essay and answer the questions.",
+   "body": "The room was clean, bare and far too quiet. My suitcase stood in the corner like a guest who did not know whether to sit down. I had wanted this — the scholarship, the new city, the whole adventure I had described so confidently to everyone at home — and now that it was here it felt less like a door opening than like a phone going dead mid-sentence. The excitement I had expected simply did not arrive on time.\n\nOutside, a language I half-knew rose and fell in the street. Each burst of laughter belonged to someone who was home, who knew which bus to take and which shop stayed open late and what the joke had been. I lay on top of the unfamiliar sheets and listened to a clock I had never heard before measure out the longest night of my life. Every small sound seemed to underline how far I was from everything I recognised.\n\nI did not cry, exactly. It was quieter than that — the slow leak of someone realising how far away everything they loved had become, and how long it would be until they saw it again. I told myself, as you do, that it would look smaller in the morning. I was not at all sure I believed it, and for a few hours I lay there arguing with myself in the dark.\n\nIt did. Morning has a way of shrinking the things the dark makes huge, and by breakfast the room was just a room again, the street outside merely busy rather than threatening. But I have never forgotten that first night, because it taught me something travel brochures never mention: that wanting to go somewhere and being ready to be there are not the same thing — and that the gap between them is exactly where the real journey starts."
+  },
+  {
+   "title": "Forty-Eight Hours in a City I Never Met [Practice Pilot copy]",
+   "topic": "The Tourist Gaze",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Practice pilot passage (separated copy; referenced only by the Reading P1 practice). Read this travel blog post and answer the questions that follow.",
+   "body": "Day one. We landed at noon and the list began. The old bridge — photo. The famous tower — photo, then a queue, then another photo from a better angle. By three o'clock my phone held sixty pictures and my feet ached. The guidebook called it 'the must-see heart of the city', and we saw it, the way you see a painting through a crowd: in glimpses, over shoulders.\n\nDay two ran to the same rhythm. We queued two hours for the cathedral and twenty minutes for a lift to a rooftop viewpoint, where the city looked like its own postcard. A river cruise we had booked was cancelled — rain again — so we walked the old market instead, the one street I would happily have spent the whole trip in. By evening my legs had given up long before the list had.\n\nWhat I remember now is not the tower. It is the small café where we stopped only because it rained. The owner, who spoke no English, drew a map on a napkin to the bus we had missed. For ten minutes we were not tourists ticking off a list; we were just people being helped by a stranger. Then the rain stopped, the list resumed, and we hurried on.\n\nThat night I scrolled through the day's photographs. They were good photographs. They proved I had been there. What they could not show was the ten minutes that actually mattered, because nobody photographs a stranger drawing a map. I kept scrolling anyway, as if the right picture might suddenly contain the thing I had missed.\n\nI have travelled to nine countries and photographed all of them. If you asked me what any of them is truly like, I would struggle to answer. A tourist sees the surface and calls it the place. I am beginning to think the place is somewhere underneath, in the parts no itinerary makes time for."
+  },
+  {
+   "title": "Slow Travel: The Case for Staying Put (Backup) [Practice Pilot copy]",
+   "topic": "The Tourist Gaze",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Practice pilot passage (separated copy; referenced only by the Reading P1 practice). Backup passage (alternate, same skill: skimming & scanning). Read the blog post and answer the questions.",
+   "body": "My first trips were races. I would land in a city, sprint between landmarks, and leave with a full camera and an empty memory. I could tell you which famous buildings I had stood in front of, but almost nothing about the places themselves — what people ate, how they spoke to each other, what the streets felt like after dark. Last year I tried the opposite. I chose one small town and stayed for two weeks, and I did almost nothing.\n\nOr rather, I did very ordinary things. I bought my coffee from the same stall each morning until the owner knew my order and started preparing it the moment he saw me. I learned which bakery sold out by nine, and which stayed open late. I got lost, found my way, and got lost again on the same three streets until they were no longer a map but a memory. I had conversations that went nowhere in particular, the kind a tourist on a schedule never has time for.\n\nNothing about the town would make a guidebook. There was no famous tower, no must-see view, nothing I felt obliged to photograph. And yet I can still describe the sound of its market on a Saturday and the smell of rain on its stone. I cannot say that about any of the ten capitals I once rushed through in a single frantic summer.\n\nSlow travel is not lazy, whatever its critics say. It is a different bet: that you learn more about a place from one quiet fortnight than from a fortnight of queues and ticket stubs. You trade breadth for depth, and the trade is worth it. I am no longer collecting countries the way I once collected stamps. I am trying, for once, to actually arrive — to be somewhere fully, instead of everywhere briefly."
+  },
+  {
+   "title": "Between Two Names: An Interview with Theo (Backup)",
+   "topic": "Code-Switching",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Backup passage (alternate, same skill: inference & viewpoint). Read the interview and answer the questions.",
+   "body": "Interviewer: You use two different names, depending on where you are. Why?\n\nTheo: At school I am Theo, because it is easier for everyone. At home I am the name my grandmother chose, which almost no one outside my family can pronounce. For a long time that split embarrassed me — it felt like proof that I did not fully belong anywhere, that I was always translating myself for someone. Now I think of it less as hiding and more as having two doors into the same house.\n\nInterviewer: Does using the 'easy' name cost you anything?\n\nTheo: Sometimes. A name is not just a sound; it carries where you are from, the people who gave it to you, a whole history. When people only ever meet 'Theo', they meet a slightly simplified version of me. But I have stopped seeing that as a loss. The full version is still there — I just do not hand it to everyone at once. You do not owe every stranger your whole story on the first day, and that is not the same as concealing it.\n\nInterviewer: Did you ever think about using only one name?\n\nTheo: For a while I wanted to. I thought choosing one would make me feel more solid, less divided, easier to explain. But it would have meant giving something up either way — either the name that is easy for others, or the name that is mine and carries my family in it. In the end I decided I did not have to choose. Both are real, and both are me; the switching between them is not a problem to solve.\n\nInterviewer: What changed your mind?\n\nTheo: A teacher who asked, on the first day, how my real name was actually said — and then practised it until she got it right. It took her three tries and she laughed at herself, but she kept going until it sounded the way my grandmother says it. It was a small thing, thirty seconds of effort. But it told me the in-between did not have to be a place I apologised for. It could just be where I lived — and that there was nothing about me that needed fixing.\n\nInterviewer: What would you say to someone facing the same choice?\n\nTheo: I would tell them not to rush to pick a side just because other people find two names confusing. That confusion is theirs to get over, not yours to prevent. Give people the easy version if it helps a first meeting go smoothly, but do not let the easy version become the only one you answer to. The day a new friend learns to say my full name properly still feels like being seen for the first time — and that is worth waiting for, however long it takes them to get there."
+  },
+  {
+   "title": "How Tea Travelled the World",
+   "topic": "history of tea",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "Read the article about the history of tea, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "Tea is the most popular drink on Earth after water, yet for most of its history it was known in only one part of the world. According to an old Chinese story, tea was discovered by accident around 2737 BCE, when leaves from a wild bush blew into a pot of boiling water that an emperor was drinking. Whether or not the tale is true, China was certainly the first country to grow and drink tea, and it kept the secret for a very long time.\n\nFor centuries, tea spread slowly along the trade routes of Asia. Buddhist monks carried it to Japan, where it became the centre of a careful, quiet ceremony. Traders took it west along the famous Silk Road, the network of paths that linked China to distant markets.\n\nTea did not reach Europe until the 1600s, when ships brought small, expensive amounts back from the East. At first it was a luxury that only the rich could afford. In Britain it slowly became a national habit, and demand grew so large that the country spent vast sums buying tea from China.\n\nTo avoid paying so much, Britain began to grow its own tea in India, a colony with the right climate. The hills of a region called Assam proved perfect, and within a few decades India was producing tea on an enormous scale. Today India remains one of the largest tea producers in the world.\n\nThe journey of tea shows how a single plant can shape history. It started wars, built fortunes, and created customs — from the Japanese ceremony to the British afternoon cup — that millions of people still treasure today."
+  },
+  {
+   "title": "A Year Away From Home",
+   "topic": "exchange year",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "Four students describe their year studying in another country.\n\nA — ELENA\nThe food was my biggest shock. At home we eat our main meal late at night, but in my host country everyone ate at noon and treated the evening meal as something small. For months my stomach was confused. By the end, though, I had come to prefer their way, and now back home I find our late dinners far too heavy.\n\nB — JIN\nFor me it was the language that mattered most. I arrived able to read perfectly but unable to understand fast, everyday speech. The first weeks were lonely because I could not join in conversations. The breakthrough came when I stopped being afraid of mistakes. Once I let myself sound silly, I learned faster than I ever had in a classroom.\n\nC — FATIMA\nWhat struck me was how differently people show politeness. In my home country we are very direct; there, people hinted at things and never said no openly. I often missed the real meaning and accidentally seemed rude. Learning to read between the lines was harder than any exam, but it taught me there are many ways to be respectful.\n\nD — LUCAS\nHonestly, the hardest thing was the weather and the dark. I come from a sunny place, and the long grey winters there made me low for weeks. No one warned me how much sunlight affects your mood. I learned to force myself outside even on cold days, and the local trick of bright lamps indoors genuinely helped."
+  },
+  {
+   "title": "Four People, Four New Languages",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Sofia (Italian)\nI learned Italian above all so that I could finally talk properly to my grandmother and the rest of that side of the family, who live in a noisy seaside town near Naples. For years I had only smiled and nodded at family gatherings, which felt awful. At first I was embarrassed every single time I opened my mouth, convinced everyone was secretly laughing at my mistakes, but I made myself keep going anyway. These days I practise mostly by watching Italian films with the subtitles turned off, pausing again and again to repeat lines until they sound natural. It has made an enormous difference: on our last visit I chatted for hours, and it has helped me make real friends my own age out there.\n\nB — Hassan (Japanese)\nIt was Japanese comics — manga — that first drew me in, and I wanted to read them exactly as they were really written, not in translation. I study completely on my own using an app, a little every morning before school, with nobody to test me or push me along. The writing system was by far the hardest part; there are thousands of characters, and it took me months of patient copying before any of it would stick in my head. What keeps me going now is that I write long letters to a pen pal in Osaka, who corrects my mistakes gently and tells me all about her daily life. Slowly, the language is becoming a real part of mine.\n\nC — Mei (French)\nA teacher entered me for a regional French competition without really asking me first, which absolutely terrified me at the time. I then did badly in an early practice test — so badly that I very nearly gave up the whole thing in tears one evening. But I am stubborn by nature, and something in me refused to quit and made me carry on to prove I could do it. My one piece of advice for any beginner is simple, and I repeat it to everyone who will listen: start speaking from the very first day, however clumsy and wrong you sound, because the fear only grows the longer you wait to open your mouth.\n\nD — Oliver (Arabic)\nMy family moved abroad for a whole year, and rather than study from a textbook I picked up Arabic mainly by listening to the people around me — in the busy market, on the bus, in the long queue at the bakery. I made plenty of funny mistakes along the way, but people were endlessly patient and kind about them. What surprised me most of all was how quickly the youngest children seemed to learn, running rings around the adults who were studying so seriously from their books. I keep it up now, back at home, by cooking from recipes written in Arabic, so that a little of that wonderful year stays alive in our kitchen."
+  },
+  {
+   "title": "The Story of Tea",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Tea is one of the oldest drinks in the entire world, and it is believed to have begun in China many thousands of years ago. A famous old legend says that a few wild tea leaves simply blew into a pot of hot water that an emperor happened to be heating in his garden, and that he was so delighted by the taste and the scent that drifted up that tea was born quite by lucky accident.\n\nFrom China, tea travelled slowly outwards along the great trade routes, carried by merchants on camels and on ships, reaching new lands, new languages and new cultures all along the way. When it finally arrived in Europe, after a journey of many long months, it was at first wildly fashionable and so expensive that only the very rich could afford to drink it, locking the precious leaves away in special boxes as though they were treasure.\n\nHow times change. Today tea is the second most popular drink anywhere on the whole planet, after only plain water, and billions of cups are poured and shared every single day. Remarkably, all true tea — whether green, black, white or oolong — comes from the leaves of one single plant, grown on cool, misty hillsides. The many different types that crowd the shelves of any shop simply depend on how those leaves are picked, dried, rolled and treated after they have been harvested. From one humble plant, in other words, comes almost endless variety in the cup."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Lessons From Away: Speakers (Backup outline)",
+   "accent": "mixed; distinct voices",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: speaker matching). Match each speaker (1-4) to a statement (A-F); two are extra. A: I value my own country more now. B: I came back with a new everyday skill or habit. C: I made friends I keep in touch with. D: I can still use the language. E: I learned to travel with less. F: I stopped judging other places. [Audio to be produced.]",
+   "script_text": "[Backup outline — alternate speaker-matching set, same skill.]\n\nSpeaker 1: I came home and finally learned to cook the dishes I had eaten every day there.\n\nSpeaker 2: My phone is full of contacts I am sure I will never lose touch with.\n\nSpeaker 3: I notice now how much my own city does well that I never appreciated before.\n\nSpeaker 4: I can switch into the other language the moment I need it."
+  },
+  {
+   "title": "Everyday Abroad: Short Recordings (Backup outline)",
+   "accent": "mixed",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: short-recording MCQ). Three representative items shown; expand to eight on production. [Audio to be produced.]",
+   "script_text": "[Backup outline — alternate short recordings, same skill.]\n\n1. (Bus announcement) This bus terminates two stops early today because of roadworks. For the centre, change to the number 9 at the market.\n\n2. (Host) Breakfast is whatever you find — we are not morning people. Just label anything in the fridge that is yours.\n\n3. (Student) I expected the hardest thing to be the classes. It was actually learning when it is rude to arrive early."
+  },
+  {
+   "title": "Coming Back: An Interview with a Returnee",
+   "accent": "two voices; one non-UK/US accent",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Maya, who lived abroad for a year. Answer the questions, choosing A, B or C.",
+   "script_text": "[Interview with a returnee. TTS production.]\n\nInterviewer: You spent a year abroad. What made you go?\n\nMaya: I wanted to find out who I was when nobody knew me. At home you become the person everyone expects. Abroad, I got to start from nothing.\n\nInterviewer: What was the hardest part?\n\nMaya: Not the language, surprisingly. It was the loneliness of the first month — evenings with no one to call who understood the day I had had.\n\nInterviewer: And coming home?\n\nMaya: That shocked me more than leaving did. I expected the foreign country to feel strange; I did not expect my own town to. People had moved on, and I had changed. That gap was the real culture shock.\n\nInterviewer: Do you think everyone should travel the way you did?\n\nMaya: I am careful about saying that. It helped me enormously — but it is not the only way to grow, and not everyone can drop a year. What matters is putting yourself somewhere the usual rules do not apply, whether that is abroad or closer to home.\n\nInterviewer: Any advice for someone about to go?\n\nMaya: Stay open, and be patient with yourself. The bad days are not failure; they are the adjustment doing its work."
+  },
+  {
+   "title": "A Year Away: Interview (Backup outline)",
+   "accent": "two voices",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: MCQ + viewpoint). Representative interview shown. [Audio to be produced.]",
+   "script_text": "[Backup outline — alternate returnee interview, same skill.]\n\nInterviewer: Looking back, what surprised you most about the year?\n\nSam: How ordinary it became. I thought every day would feel like an adventure. Within a month it was just my life, with different bread.\n\nInterviewer: Would you tell others to go?\n\nSam: I would tell them to go expecting boredom as well as wonder. The people who struggle are the ones who think it will be a holiday. It is not a holiday; it is a life somewhere else."
+  },
+  {
+   "title": "What Travel Taught Them: Short Extracts (Backup outline)",
+   "accent": "mixed",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: gist/detail). Three representative extracts shown; expand to five on production. [Audio to be produced.]",
+   "script_text": "[Backup outline — alternate short extracts, same skill.]\n\nSpeaker 1: I save for one big trip a year and skip everything else. People think I am extravagant; I think I am choosing what matters.\n\nSpeaker 2: The first time I travelled alone I phoned home every night. By the end I forgot for three days — and that felt like growing up.\n\nSpeaker 3: Do not photograph every meal. Eat it. You can describe a taste you remember; you cannot taste a photo."
+  },
+  {
+   "title": "What Stayed With Me: Six Returning Travellers",
+   "accent": "six distinct voices; mixed accents",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six people (Speakers 1-6) talk about what travel left them with. Match each speaker to the statement (A-H). There are TWO extra statements you will not need. A: I learned to enjoy not understanding everything. B: I came back with a new daily habit. C: I value my own country more now. D: I made a friend I still keep in touch with. E: I realised how little I actually need. F: I kept a language I still use. G: I stopped judging places so quickly. H: I missed the food more than the people.",
+   "script_text": "[Six speakers. Match each to a statement A-H; two are extra. TTS production.]\n\nSpeaker 1: Honestly, I gave away half my clothes before I came home. A backpack for a year taught me I was carrying too much, in every sense.\n\nSpeaker 2: Every morning now I make tea the way my host grandmother did. It is a small thing, but it brings the whole year back.\n\nSpeaker 3: There was a girl in my class there — we still text across three time zones. Distance has not touched it.\n\nSpeaker 4: I used to think one country had it right and everywhere else was wrong. I do not think that any more.\n\nSpeaker 5: Being confused all day was exhausting at first. Now I am oddly comfortable not knowing exactly what is going on.\n\nSpeaker 6: I never became fluent, but I kept enough to order food and make people laugh. I still use it."
+  },
+  {
+   "title": "Why I Travelled: Five Short Extracts",
+   "accent": "mixed; at least one non-UK/US accent",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five people talking about travel. For each speaker, choose the answer (A, B or C) that best matches what they say.",
+   "script_text": "[Five short extracts. TTS production.]\n\nSpeaker 1: I do not travel to relax. A beach bores me in a day. I go to put myself somewhere I do not know the rules and see how I cope.\n\nSpeaker 2: I love that town, which is exactly why it hurts to see it now — souvenir shops where the bakery used to be, queues where the quiet square once was.\n\nSpeaker 3: A hotel keeps you comfortable and separate. Living with a family for a month, eating what they eat, even arguing about the washing-up — that taught me more than any tour.\n\nSpeaker 4: I almost did not go. I was so nervous at the airport I nearly turned around. I am so glad I did not; it became the best year of my life.\n\nSpeaker 5: My one tip? Learn ten words before you land — hello, please, thank you, sorry, and the numbers one to five. People forgive everything if you try."
+  },
+  {
+   "title": "Travel Moments: Eight Short Recordings",
+   "accent": "mixed; at least one non-UK/US accent",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each question, choose the correct answer (A, B or C).",
+   "script_text": "[Eight short recordings. TTS production, mixed accents, ~135 wpm.]\n\n1. (Airport announcement) Passengers on the delayed flight to Lisbon: your new departure time is 14:40, not 14:14 as shown earlier. Please go to gate 22.\n\n2. (Homestay host) We eat dinner at seven, but help yourself to fruit any time. The only rule is shoes off at the door.\n\n3. (Student) I thought I would miss the food most. Actually, what I miss is being able to make a joke and have everyone understand it.\n\n4. (Tour guide) Photos are fine outside, but inside the temple please put your cameras away. It is a place of worship, not a backdrop.\n\n5. (Returnee) Everyone asked how my trip was, and they wanted a one-line answer. How do you fit a whole year into one line?\n\n6. (Announcement) The language exchange now meets on Thursdays at six, in the library, not the café. The café was too noisy last term.\n\n7. (Host parent) She has only been here three weeks and she already orders her own bread at the bakery. That took our last guest months.\n\n8. (Traveller) The map said twenty minutes. Two hours and three wrong turns later I finally found the hostel — and honestly, I saw more of the city that way."
+  },
+  {
+   "title": "Settling In: A Short Talk (Backup outline)",
+   "accent": "single speaker",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Backup outline (alternate, same skill: note completion). Representative talk shown; expand notes to 8-10 on production. [Audio to be produced.]",
+   "script_text": "[Backup outline — alternate short talk, same skill.]\n\nSettling into a new place, research suggests, rests on three simple moves. First, fix a daily anchor — one routine you repeat, like a morning walk. Second, find your people — even one regular, familiar face reduces loneliness fastest. Third, lower your standards for the first month: aim to cope, not to thrive. Do those three, and the place slowly stops feeling like a test."
+  },
+  {
+   "title": "Understanding Culture Shock: A Short Talk",
+   "accent": "single speaker; clear standard accent",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a short talk about culture shock. Complete the notes with ONE or TWO words.",
+   "script_text": "[A short talk on culture shock. TTS production.]\n\nGood morning. Today I want to talk about something almost every traveller meets but few are warned about: culture shock. Researchers usually describe it in four main stages.\n\nThe first is often called the honeymoon stage. Everything feels exciting and new; even the supermarket is an adventure. This can last days or weeks.\n\nThe second stage is harder. The novelty wears off, and small differences — the noise, the food, not understanding a joke — begin to cause frustration. This is the stage people remember most.\n\nThe third stage is gradual adjustment. You learn the unwritten rules, build habits, and the place stops fighting you.\n\nIn the fourth stage, the new culture starts to feel normal. You may even miss it when you finally leave.\n\nThe key message is this: culture shock is not a sign that you have failed. It is a sign of learning — your mind adapting to a new world. Two practical tips. First, keep a diary, so you can see the small wins you would otherwise forget. And second, build a daily routine quickly; familiar patterns make a strange place feel manageable. Thank you."
+  },
+  {
+   "title": "Read-Aloud: Coming Home Changed: The Shock Nobody Warns You About",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Most travellers prepare for culture shock — the disorientation of arriving somewhere new. Far fewer expect its mirror image: reverse culture shock, the strange difficulty of returning home.\n\nResearchers describe it in stages. At first, returnees feel relief and excitement at familiar faces and food. This 'honeymoon' fades within weeks. A second stage often brings frustration: home has carried on without them, friends have moved on, and stories from abroad are met with polite but brief interest. Returnees may feel that they have changed while everything they left behind has stayed the same — or worse, that it has changed in ways they no longer recognise. The feeling can be disorienting precisely because it is unexpected: the traveller braced for a foreign country, not for a strange version of their own.\n\nA third stage is gradual readjustment. Returnees learn to hold two things at once: the person they were before and the person they became away. Many report that they never fully return to who they were. They notice things about home they once took for granted, and they carry habits, tastes and questions picked up elsewhere.\n\nPsychologists who study returnees suggest several ways to ease the transition. Keeping in contact with friends made abroad helps the experience feel real rather than imagined. Joining a returnee group or an online community reduces the sense of being alone with a story no one wants to hear. And keeping one or two habits from the host country — a food, a phrase, a routine — lets the person they were abroad stay alive in the person they are at home. None of these removes the strangeness overnight, but each gives the returning traveller something to hold while the familiar slowly fits again.\n\nThe length of the adjustment varies from person to person. As a rough guide, researchers note that the deeper the immersion and the longer the time away, the longer the readjustment tends to take. Knowing this in advance does not remove the discomfort, but it makes it easier to recognise and to wait out.\n\nExperts suggest that the experience, though uncomfortable, is valuable. The discomfort is evidence of growth. A person who feels nothing on returning has usually engaged with very little; the ache is simply the price of having been changed. What stays with a traveller is rarely the photographs. More often it is a wider sense of how many ordinary ways there are to live a life."
+  },
+  {
+   "title": "Read-Aloud: Forty-Eight Hours in a City I Never Met",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Day one. We landed at noon and the list began. The old bridge — photo. The famous tower — photo, then a queue, then another photo from a better angle. By three o'clock my phone held sixty pictures and my feet ached. The guidebook called it 'the must-see heart of the city', and we saw it, the way you see a painting through a crowd: in glimpses, over shoulders.\n\nDay two ran to the same rhythm. We queued two hours for the cathedral and twenty minutes for a lift to a rooftop viewpoint, where the city looked like its own postcard. A river cruise we had booked was cancelled — rain again — so we walked the old market instead, the one street I would happily have spent the whole trip in. By evening my legs had given up long before the list had.\n\nWhat I remember now is not the tower. It is the small café where we stopped only because it rained. The owner, who spoke no English, drew a map on a napkin to the bus we had missed. For ten minutes we were not tourists ticking off a list; we were just people being helped by a stranger. Then the rain stopped, the list resumed, and we hurried on.\n\nThat night I scrolled through the day's photographs. They were good photographs. They proved I had been there. What they could not show was the ten minutes that actually mattered, because nobody photographs a stranger drawing a map. I kept scrolling anyway, as if the right picture might suddenly contain the thing I had missed.\n\nI have travelled to nine countries and photographed all of them. If you asked me what any of them is truly like, I would struggle to answer. A tourist sees the surface and calls it the place. I am beginning to think the place is somewhere underneath, in the parts no itinerary makes time for."
+  },
+  {
+   "title": "Read-Aloud: The Month I Stopped Translating",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "For the first weeks, everything was a small battle. The washing machine had symbols I did not understand. The bread was the wrong shape. I translated every sentence in my head before I dared to speak it, and by the time the words came out, the moment had usually passed. I told my family on the phone that I was fine. I was not sure it was true.\n\nThe strangeness lived in small things. The light switched off downstairs, not up. Evenings arrived an hour earlier than my body expected, so that dusk always felt like an accusation that I had wasted the day. I carried a phrase book the way other people carry an umbrella — not often opened, but never left behind.\n\nThen, somewhere in the second month, something quietly shifted. I bought bread without rehearsing the question. I knew which neighbour smiled back and which did not. One evening I caught myself laughing at a joke before I had finished translating it — and realised I had not translated it at all. The change had no edges. It was less an arrival than a tide that had come in while I was looking the other way.\n\nNobody arrived to tell me I belonged. There was no certificate, no welcome. There was only a Tuesday that felt, for no particular reason, ordinary. I walked the same street I had once found bewildering, and it was simply the way home.\n\nI still miss things I cannot always name. But I have learned that belonging is not a door you walk through. It arrives in pieces, on days you are not watching for it, until one morning the unfamiliar has quietly become yours."
+  },
+  {
+   "title": "Read-Aloud: Two Languages, One Self: An Interview with Lina",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Interviewer: You grew up speaking two languages. Does one feel more 'you' than the other?\n\nLina: People expect me to choose, but I cannot. In one language I am louder, quicker to joke. In the other I am gentler — it is the language I say sorry in. They are both me. I am just a slightly different me in each.\n\nInterviewer: Do you switch without noticing?\n\nLina: All the time. At home, a sentence might start in one language and finish in the other. My grandmother calls it 'making a mess'. I call it normal. The strange part is doing it instinctively — my mouth chooses before my mind does.\n\nInterviewer: Has it ever caused trouble?\n\nLina: Small things. A word that is polite in one language sounds rude in the other if you translate it directly. I have apologised for jokes that were never insults. But honestly, the harder part is not the words. It is that some people think you must belong fully to one side or the other. I have spent years learning that the in-between is a real place to stand — not a failure to land.\n\nInterviewer: Is there anything people misunderstand about growing up between two cultures?\n\nLina: That it must be confusing all the time. Mostly it is not — it is just ordinary to me. What is hard is the assumption that I am half of two things instead of fully something new. I am not fifty per cent one and fifty per cent another. I am one hundred per cent in-between, and that turned out to be its own whole thing.\n\nInterviewer: What would you tell a younger version of yourself?\n\nLina: That the discomfort fades. For years I tried to pick a side to make other people comfortable. Now I let the two languages sit in the same sentence and I do not apologise for it. The mess, it turns out, was never a mess. It was just me."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "e06921b0-d5fd-448a-8959-d746e6c11565",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "directed",
+   "register": "Personal-reflective article for a student magazine; warm, first-person, organised; purpose: reflect on an experience and share what it taught you.",
+   "title": "What Living Abroad Taught Me",
+   "subtopic": null,
+   "difficulty": "both",
+   "scenario": "A student magazine is running a series called 'Lessons from Away'. Write an article about a time you, or someone you know well, lived in or spent a long period in another place - and what it taught you.",
+   "instruction": "Write an article of 150-200 words for the magazine. Recount the experience using the present perfect, and shape it with Experience -> Reflection -> Resonance.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "one experience of living in or staying somewhere different",
+    "what changed, or what you noticed, while you were there",
+    "what it taught you and why it stays with you"
+   ],
+   "grammar_focus": [
+    "present perfect (experience/duration)"
+   ],
+   "required_vocab": [
+    "belonging",
+    "perspective",
+    "adapt",
+    "routine",
+    "nostalgia",
+    "home"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Experience",
+      "examples": [
+       "I have lived / studied / stayed in...",
+       "For a long time I had never...",
+       "Looking back on the months I spent..."
+      ]
+     },
+     {
+      "fn": "Reflection",
+      "examples": [
+       "What surprised me was...",
+       "It taught me that...",
+       "At first... but gradually..."
+      ]
+     },
+     {
+      "fn": "Resonance",
+      "examples": [
+       "Even now, I...",
+       "I have never forgotten...",
+       "If I have learned one thing, it is..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a personal article about a time you lived or stayed somewhere different, and what it taught you.",
+     "points": [
+      {
+       "how": "Pick one real experience — a single time or place, not a list. The more specific, the better: a moment, not a summary. Present perfect opens it well: 'I have lived in two countries.' Then zoom into one.",
+       "point": "one experience of living/staying somewhere different"
+      },
+      {
+       "how": "Show what shifted. What did you notice that you hadn't before — the food, the silence, how people greet? Compare the 'before you' with the 'after you'. A change the reader can picture beats 'everything was different'.",
+       "point": "what changed or what you noticed"
+      },
+      {
+       "how": "End on the lesson — what you carry from it now. Don't just say 'it was a great experience'. Name what it taught you, and why you still think about it today. This is the resonance line — the part that stays with the reader.",
+       "point": "what it taught you and why it stays with you"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Listing events with no reflection — say what it MEANT.",
+     "Present perfect with a finished time ('I have lived there last year') — use past simple for finished time.",
+     "No closing 'resonance' line — end on why it stays.",
+     "Too formal/essay-like — keep a warm, personal article voice."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads like a personal article — my own voice, written for a reader to enjoy."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is warm and personal, like I'm sharing something that mattered to me."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: the experience, what changed, and what it taught me."
+     },
+     {
+      "ref": "G1",
+      "text": "I used the present perfect, like 'I have lived' or 'it has stayed with me'."
+     },
+     {
+      "ref": "W6",
+      "text": "My article moves from the experience, to the change, to what it means now."
+     }
+    ],
+    "structure": [
+     {
+      "do": "recount the experience with the present perfect (what you've done / how long)",
+      "stage": "Experience"
+     },
+     {
+      "do": "say what it meant or what changed in you",
+      "stage": "Reflection"
+     },
+     {
+      "do": "land why it stays with you now, with a memorable closing line",
+      "stage": "Resonance"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Living abroad",
+       "words": [
+        "belonging",
+        "perspective",
+        "adapt",
+        "routine",
+        "nostalgia",
+        "home"
+       ],
+       "target_words": [
+        "belonging",
+        "perspective",
+        "adapt",
+        "routine",
+        "nostalgia",
+        "home"
+       ]
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Lessons from a Year Away\n\nI have lived in two places I would call home, but it is the second that changed me. For one long year, I stayed with a host family far from everything familiar, and at first I felt completely lost.\n\nWhat surprised me was how much the small things mattered. The food was different, the streets were louder, and even the way people greeted each other took time to learn. Slowly, I began to adapt. I built a new routine — the same bus, the same bakery, a few friendly faces — and the strange place started to feel like mine.\n\nIt taught me that belonging is something you build, not something you are simply given. I came home with a wider perspective and a soft nostalgia for a street I may never walk again. Even now, when I hear that language by chance, I am back there for a moment. If I have learned one thing, it is that home can be more than one place.",
+   "rubric": {
+    "language": "Present perfect used accurately for experience/duration.",
+    "content_W3": "Recounts an experience AND reflects on it (not just narrates); a clear insight or takeaway is present.",
+    "register_W5": "Warm, personal-reflective article voice suited to a student-magazine audience.",
+    "organisation": "E-R-R arc visible; cohesive; strong closing line."
+   },
+   "exam_refs": [
+    "W3",
+    "W5"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 1,
+   "created_at": "2026-05-31T03:07:10.319252+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "db645706-2329-4e44-b110-ed575705e29f",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "extended",
+   "register": "Descriptive, personal and sensory; first-person; vivid and evocative.",
+   "title": "A Place That Shaped You",
+   "subtopic": null,
+   "difficulty": "both",
+   "scenario": "Describe a place that has stayed with you - somewhere that shaped how you see things. It might be a home, a city, a single room, or a route you once walked every day.",
+   "instruction": "Write a descriptive piece of 150-200 words. Build it with Scene -> Detail -> Verdict, use rich noun phrases and defining relative clauses, and let the reader feel the place.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "the place: where and what it is (scene)",
+    "specific sensory details that make it real",
+    "why it shaped you and what it means now (verdict)"
+   ],
+   "grammar_focus": [
+    "defining relative clauses",
+    "present perfect (experience/duration)"
+   ],
+   "required_vocab": [
+    "belonging",
+    "nostalgia",
+    "perspective",
+    "enduring",
+    "cherish",
+    "home"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Scene",
+      "examples": [
+       "It is the kind of place that...",
+       "Tucked... stood the...",
+       "You would not look twice at it, but..."
+      ]
+     },
+     {
+      "fn": "Detail",
+      "examples": [
+       "The thing I remember is the... that...",
+       "There was a... where...",
+       "Even now I can... the..."
+      ]
+     },
+     {
+      "fn": "Verdict",
+      "examples": [
+       "It shaped me because...",
+       "I have carried... ever since.",
+       "If I close my eyes, I am back..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a vivid description of a place that shaped you, and say what it means to you now.",
+     "points": [
+      {
+       "how": "Set the scene first — where it is, what it is. Use a defining relative clause to say which place: 'the shop where I waited each morning'. No commas around it — it's telling us which one.",
+       "point": "the place: where/what it is (scene)"
+      },
+      {
+       "how": "Show it, don't just tell me it was nice. What did you see, hear, smell? One sharp detail — the smell of rain on hot pavement — beats five vague adjectives. Let the reader stand there with you.",
+       "point": "specific sensory details"
+      },
+      {
+       "how": "End with your verdict: why this place changed you, and what it means now. Present perfect carries the lasting part: 'it has stayed with me'. Don't leave it as just a pretty description — say why it matters.",
+       "point": "why it shaped you and what it means now (verdict)"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Telling not showing — use concrete sensory detail.",
+     "Commas around a defining relative clause — no commas (essential information).",
+     "No 'verdict' — say why the place matters to you.",
+     "Flat noun phrases — expand them (the narrow, lamp-lit room that...)."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a vivid description, not a dry list of facts."
+     },
+     {
+      "ref": "W4",
+      "text": "I showed the place with real sensory details, not just told the reader it was special."
+     },
+     {
+      "ref": "W5",
+      "text": "My writing is vivid and descriptive — it puts the reader in the place."
+     },
+     {
+      "ref": "W6",
+      "text": "I built it in three moves: the scene, the details, then my verdict."
+     },
+     {
+      "ref": "G1",
+      "text": "I used a defining relative clause with no commas, and the present perfect for what lasts."
+     }
+    ],
+    "structure": [
+     {
+      "do": "set the place in 1-2 rich sentences (where, what, first impression)",
+      "stage": "Scene"
+     },
+     {
+      "do": "give 2-3 precise sensory details; pin down what or who mattered, using defining relative clauses",
+      "stage": "Detail"
+     },
+     {
+      "do": "say why it shaped you and what it means now",
+      "stage": "Verdict"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Memory & belonging",
+       "words": [
+        "belonging",
+        "nostalgia",
+        "perspective",
+        "enduring",
+        "cherish",
+        "home"
+       ],
+       "target_words": [
+        "belonging",
+        "nostalgia",
+        "perspective",
+        "enduring",
+        "cherish",
+        "home"
+       ]
+      },
+      {
+       "label": "Descriptive chunks",
+       "words": [
+        "a place that never quite...",
+        "the kind of place where...",
+        "what stays with me is...",
+        "it was here that I first..."
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "There is a narrow stairwell at the back of my grandmother's building that I have climbed a thousand times. It is the kind of place you would not look twice at — grey steps, a flickering light, a window that never quite closes. Yet it is the spot where I first felt a real sense of belonging.\n\nI can still smell the rain on its cold concrete, still hear the echo my shoes made on the way up. There was a cracked tile near the top that I learned to step over without thinking. On the landing stood an old chair where my grandmother would wait, a cup of tea cooling beside her.\n\nThat stairwell has shaped me more than any grand view ever could. It taught me that home is not a building but a feeling you carry. Even now, a whiff of damp stone brings back a wave of nostalgia, and with it a quieter perspective on what truly matters. I cherish it still — an ordinary, enduring place I will never forget.",
+   "rubric": {
+    "language": "Rich noun phrases; defining relative clauses accurate (no commas); present perfect for the personal turn.",
+    "content_W4": "Sustained description developed across paragraphs; shows rather than tells; clear personal significance.",
+    "organisation_W6": "S-D-V structure; cohesive and well-paragraphed."
+   },
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 2,
+   "created_at": "2026-05-31T03:07:10.319252+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "17115f57-721d-429c-8afc-4ae280817575",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "long-turn",
+   "title": "A place where you feel you belong",
+   "subtopic": "Living Elsewhere",
+   "difficulty": "both",
+   "topic": "Cultures & Connections",
+   "intro": "Describe a place where you feel you truly belong.",
+   "card_points": [
+    "where it is and what it is like",
+    "what you do there",
+    "who you are with",
+    "why it feels like 'yours'"
+   ],
+   "discussion_questions": [
+    "Can you belong somewhere you were not born?",
+    "Has a place ever stopped feeling like home? Why?",
+    "Do you need people to feel you belong, or can a place alone be enough?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "The little library where I grew up reading has always felt like mine (Point), because I've spent countless quiet afternoons there (Reason), so it's become the one place I can fully relax (Result) — even now, walking in calms me the moment I smell the old books (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "The place where I feel I most belong is ___.",
+       "I'd like to talk about a place that's always felt like home."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "It matters to me because ___, which means ___.",
+       "For example, whenever I ___, I feel ___."
+      ]
+     },
+     {
+      "fn": "Describe with detail (defining relative clauses)",
+      "examples": [
+       "It's a ___ which ___.",
+       "There's a corner there where I ___."
+      ]
+     },
+     {
+      "fn": "Reflective close",
+      "examples": [
+       "I've felt at home there ___ (for years / since I was small).",
+       "What makes it mine is ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about a place where you feel you belong, then discuss belonging with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Can you belong somewhere you were not born?",
+       "how": "Take a clear view, then back it with a reason. 'Yes — home is where you build a life, not just where you started.' Think about what really creates belonging: time, people, routine. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Has a place ever stopped feeling like home? Why?",
+       "how": "Reflect on this however suits you — and you can keep it general. Places change, or we do — a street that felt like home can feel different years later. You don't have to share anything personal; talking about why this happens to people is enough. A thoughtful reason is what matters."
+      },
+      {
+       "q": "Do you need people to feel you belong, or can a place alone be enough?",
+       "how": "Give a view, but weigh both sides. 'For me, people make a place — but some find peace being alone somewhere quiet.' Show you see it both ways, then say where you land. Weighing it fairly is stronger than a flat answer."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Set the scene first — where is it, and what's it like? A defining relative clause helps you pin it down: 'a small café which always smells of coffee'. Give me enough detail to picture it. Don't rush past this — it's the ground everything else stands on.",
+       "point": "where it is and what it is like"
+      },
+      {
+       "how": "Now what you actually do there — pick a couple of real things, not a long list. 'I read by the window, or just watch people go by.' One or two concrete habits say more than ten quick mentions. Show the place in action.",
+       "point": "what you do there"
+      },
+      {
+       "how": "Now the people — who's there, and what do they add? Belonging often comes from who we're with, not just where we are. 'My friends gather there, and it's easier to be myself around them.' Name what those people bring to the place.",
+       "point": "who you are with"
+      },
+      {
+       "how": "This is the reflective heart — why does it feel like yours? Present perfect captures the time you've shared: 'I've felt at home there for years.' Say what gives you that sense of belonging — comfort, memories, freedom. End on something honest.",
+       "point": "why it feels like 'yours'"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing facts with no feeling — the card asks why it feels like yours.",
+     "Forgetting the present perfect — say how long it has felt like home.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I used the present perfect to say how long it has felt like home"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Belonging & home",
+       "words": [
+        "belonging",
+        "home",
+        "roots",
+        "routine",
+        "familiar"
+       ],
+       "target_words": [
+        "belonging",
+        "home",
+        "roots"
+       ]
+      },
+      {
+       "label": "Describe the place",
+       "words": [
+        "community",
+        "welcoming",
+        "at ease",
+        "my kind of place"
+       ],
+       "target_words": [
+        "welcoming"
+       ]
+      },
+      {
+       "label": "Reflect",
+       "words": [
+        "it means a lot to me",
+        "what makes it mine",
+        "feel I belong"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "The place I feel I belong is my grandmother's kitchen, which is small and always too warm. I have spent every long holiday there since I was little. What makes it mine is the chair by the window and the people who never ask me to be anything in particular. Whenever I am there I slow down. I belong there because it has never once asked me to prove that I do.",
+   "required_vocab": [
+    "belonging",
+    "home",
+    "roots",
+    "routine"
+   ],
+   "grammar_focus": [
+    "present perfect (experience/duration)",
+    "defining relative clauses"
+   ],
+   "rubric": {
+    "grammar": "present perfect for duration; defining relative clauses attempted?",
+    "vocabulary": "belonging/home words produced (not just recognised)?",
+    "development": "moves beyond a one-liner; reason + example given?",
+    "pronunciation": "clear, natural pace; self-correction welcomed.",
+    "opener_priority": "reward willingness to extend - confidence over flawlessness."
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 2,
+   "created_at": "2026-05-31T03:07:52.982605+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "0e804cfc-06e2-4634-87bd-fc1259581214",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "discussion",
+   "title": "What does 'home' mean to you?",
+   "subtopic": "What Stays With You",
+   "difficulty": "both",
+   "topic": "Cultures & Connections",
+   "intro": "What does the word 'home' mean to you?",
+   "card_points": null,
+   "discussion_questions": [
+    "Can a person have more than one home?",
+    "Is home a place you are from, or a place you choose?",
+    "Do people who move a lot have a different idea of home?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Home is really about people, not just a place (Point), because the same room feels empty without the ones you love in it (Reason), so wherever they are starts to feel like home (Result) — many people who move far away say it only felt like home once they'd made friends there (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "My view is that ___.",
+       "If you ask me, the answer is clearly ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason I think so is that ___.",
+       "This matters because ___, which means ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___ feels more like home."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "That said, you could argue ___.",
+       "It depends, though — ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss what 'home' means — take a position, give reasons, and keep it as general as you like.",
+     "discussion_how": [
+      {
+       "q": "Can a person have more than one home?",
+       "how": "Take a clear view, then give a reason. 'Yes — you can feel at home in more than one place, for different reasons.' Think about what makes somewhere home: people, comfort, familiarity. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Is home a place you are from, or a place you choose?",
+       "how": "Weigh the two — where you're from, versus where you choose. 'Some say home is your roots; others say it's wherever you build your life.' Show you see both, then say which feels truer to you. Weighing it fairly beats a flat answer."
+      },
+      {
+       "q": "Do people who move a lot have a different idea of home?",
+       "how": "This is about people in general — you don't need to make it personal. 'People who move often may see home as something they carry, not a fixed place.' Talk about why that might be, as a general idea. A thoughtful reason is what matters here."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one clear line. Don't list every angle first; lead with your view. 'I think home is more about people than any particular place.' A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built out fully, not a list. Make the point, say why, show what follows, give an example. 'Home is where you feel known, so it's the people, not the walls, that make it.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something real — an example, or a comparison. Compare a fancy house that never felt like home with a small flat that did. Or contrast 'where you live' with 'where you belong'. A concrete case is far more convincing than a general claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed both sides — concede a point, once. 'That said, for some people the physical place really does matter — where they grew up, their roots.' One fair concession makes you sound balanced, not absolute.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Home & belonging",
+       "words": [
+        "home",
+        "belonging",
+        "roots",
+        "identity",
+        "familiar"
+       ],
+       "target_words": [
+        "home",
+        "belonging",
+        "roots"
+       ]
+      },
+      {
+       "label": "Place vs feeling",
+       "words": [
+        "a sense of home",
+        "put down roots",
+        "where you're from"
+       ],
+       "target_words": []
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "it depends",
+        "on the one hand",
+        "that said",
+        "on balance"
+       ],
+       "target_words": [
+        "it depends"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "If you ask me, home is more about people than about any particular place. The main reason is that a house where you feel known will always feel more like home than an empty room, however grand. For example, many people who have moved far away say a new city only became home once they had made real friends there — that is where their sense of belonging grew. That said, for some people roots really do matter: the place they are from is home, and always will be.",
+   "required_vocab": [
+    "home",
+    "belonging",
+    "roots"
+   ],
+   "grammar_focus": [
+    "present perfect (experience/duration)",
+    "defining relative clauses"
+   ],
+   "rubric": {
+    "grammar": "present perfect for change over time; relative clauses?",
+    "vocabulary": "belonging/home words produced?",
+    "development": "defines + develops + gives a view, not a one-liner?",
+    "pronunciation": "clear; self-correction welcomed.",
+    "opener_priority": "confidence over flawlessness."
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 4,
+   "created_at": "2026-05-31T03:07:52.982605+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "48ac2972-dbc5-4d73-ad40-82ef500939c7",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "debate",
+   "title": "Debate: Tourism does more harm than good to local cultures",
+   "subtopic": "The Tourist Gaze",
+   "difficulty": "both",
+   "topic": "Cultures & Connections",
+   "intro": "Debate the motion: 'Tourism does more harm than good to local cultures.'",
+   "card_points": [
+    "state your stand (for or against)",
+    "two reasons with examples",
+    "one opposing point - then your rebuttal",
+    "a clear closing restatement"
+   ],
+   "discussion_questions": [
+    "Who benefits most from tourism, and who pays the cost?",
+    "Can tourism ever protect a culture rather than damage it?",
+    "Is 'authentic' travel even possible?",
+    "Should some places limit the number of visitors?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "State stand -> two reasons+examples -> concede+rebut -> restate",
+     "name": "Stand-Reasons-Concede-Restate",
+     "example": "I firmly believe tourism does more harm than good to local cultures (Stand). First, huge crowds wear down fragile heritage sites faster than they can be repaired (Reason 1). Second, local traditions often turn into performances for visitors, losing their real meaning (Reason 2). Some argue tourism brings in money that helps preserve culture (Concede), but too often that money flows to outside companies, not the locals whose livelihoods depend on it (Rebut). For these reasons, the harm outweighs the good (Restate)."
+    },
+    "stems": [
+     {
+      "fn": "Claim",
+      "examples": [
+       "I firmly believe that ___.",
+       "My stand is clear: ___."
+      ]
+     },
+     {
+      "fn": "Support",
+      "examples": [
+       "My first reason is ___, for example ___.",
+       "On top of that, ___."
+      ]
+     },
+     {
+      "fn": "Concede & counter",
+      "examples": [
+       "Some argue that ___, but ___.",
+       "It's true that ___; even so, ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Debate whether tourism harms local cultures more than it helps — pick one side and argue it, don't list both.",
+     "discussion_how": [
+      {
+       "q": "Who benefits most from tourism, and who pays the cost?",
+       "how": "Weigh the winners against those who pay. 'Big companies and visitors often gain most, while locals carry the costs — to their livelihoods and their peace.' Name both sides clearly, then say where the balance falls. A clear weighing answers this well."
+      },
+      {
+       "q": "Can tourism ever protect a culture rather than damage it?",
+       "how": "Give a view, then show how tourism can protect, not just harm. 'Yes — when visitor money funds the repair of old buildings and keeps crafts alive.' One real example of protection makes your point. Show you can see tourism's better side too."
+      },
+      {
+       "q": "Is 'authentic' travel even possible?",
+       "how": "Take a view — but first, say what 'authentic' even means to you. 'If authentic means seeing real daily life, then most tourism isn't.' Define the word, then judge it against that. Pinning down the term is half the answer here."
+      },
+      {
+       "q": "Should some places limit the number of visitors?",
+       "how": "Give a recommendation, and say what would result. 'Yes — limiting numbers would protect fragile sites and the people who live there.' Back your yes or no with the effect it brings. That outcome is what makes the case."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Commit to a side in your first line — clearly for or against. 'I firmly believe tourism does more harm than good to local cultures.' A debate rewards a clear stand, not a balanced essay. Say it boldly, then defend it.",
+       "point": "state your stand (for or against)"
+      },
+      {
+       "how": "Give two distinct reasons — and back each with a concrete example. Not two versions of the same point; two different angles. 'First, crowds can wear down old heritage sites. Second, local crafts get replaced by cheap souvenirs.' Each reason needs its own example to land.",
+       "point": "two reasons with examples"
+      },
+      {
+       "how": "Take one real point from the other side and concede it fairly. 'Some argue tourism brings money that helps preserve culture.' Then push back: 'but that money rarely reaches the people who keep the traditions alive.' Concede, then rebut — that's how you stay in control.",
+       "point": "one opposing point - then your rebuttal"
+      },
+      {
+       "how": "End by restating your stand in one clear line — no new points. 'For all these reasons, tourism does more harm than good to local cultures.' Bring it home with the same confidence you opened with. A strong restatement makes the whole argument feel settled.",
+       "point": "a clear closing restatement"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "Arguing both sides instead of taking a stand - commit to one side.",
+     "Reasons with no examples - back each up.",
+     "Skipping the concession+rebuttal (a debate move worth marks).",
+     "No closing restatement, or rushing the delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "for_points": [
+     "brings income and jobs to local people",
+     "can fund the preservation of heritage sites",
+     "builds cross-cultural understanding"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I stated a clear stand and held it"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave two reasons, each with an example"
+     },
+     {
+      "ref": "S2",
+      "text": "I conceded one opposing point and rebutted it"
+     },
+     {
+      "ref": "S1",
+      "text": "I restated my stand to close"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Debate topic",
+       "words": [
+        "tourism",
+        "local culture",
+        "heritage",
+        "authentic",
+        "commercialise"
+       ],
+       "target_words": [
+        "heritage",
+        "authentic"
+       ]
+      },
+      {
+       "label": "Stakes",
+       "words": [
+        "preserve",
+        "livelihood",
+        "overcrowding",
+        "sustainable"
+       ],
+       "target_words": [
+        "preserve",
+        "livelihood"
+       ]
+      },
+      {
+       "label": "Argue chunks",
+       "words": [
+        "some argue",
+        "it is true that, however",
+        "for these reasons"
+       ],
+       "target_words": [
+        "some argue"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well','I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "against_points": [
+     "turns a living culture into a performance for visitors",
+     "drives up prices and pushes locals out",
+     "damages environments and sacred sites",
+     "replaces ordinary life with souvenir shops"
+    ],
+    "model_in_column": true
+   },
+   "model_response": "I believe tourism does more harm than good to local cultures. My main reason is that it often turns a living culture into a performance: dances that once meant something become a show staged for visitors who leave within the hour. It also drives up prices, so the very people who built the culture can no longer afford to live in it. Some argue that tourism brings jobs, and that is true - but a job selling souvenirs is not the same as keeping a tradition alive. For these reasons, I think the harm runs deeper than the income.",
+   "required_vocab": [
+    "heritage",
+    "authentic",
+    "preserve",
+    "livelihood"
+   ],
+   "grammar_focus": [
+    "defining relative clauses",
+    "present perfect (experience/duration)"
+   ],
+   "rubric": {
+    "grammar": "relative clauses / present perfect used within the argument?",
+    "vocabulary": "culture/tourism argument words produced?",
+    "development": "claim + reasons + concession-rebuttal, not just an opinion?",
+    "pronunciation": "clear, persuasive delivery.",
+    "opener_priority": "reward a developed argument and willingness to engage the other side."
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 5,
+   "created_at": "2026-05-31T03:07:52.982605+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "a14493d1-968a-4114-a57f-76feee218be6",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "discussion",
+   "title": "An experience that taught you something",
+   "subtopic": "What Stays With You",
+   "difficulty": "both",
+   "topic": "Cultures & Connections",
+   "intro": "Talk about a time travelling, or living somewhere new, taught you something.",
+   "card_points": null,
+   "discussion_questions": [
+    "Do you learn more from comfort or from difficulty?",
+    "Is travelling the best way to understand another culture? What else works?",
+    "Can you really understand a place in a short visit?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "A trip to a place very different from home can change how you see the world (Point), because being the outsider for once forces you to adapt and look again (Reason), so you come back with a wider perspective (Result) — after my first trip somewhere unfamiliar, things I'd taken for granted suddenly looked like choices, not facts (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "My view is that ___.",
+       "If you ask me, the answer is clearly ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason I think so is that ___.",
+       "This matters because ___, which means ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___ teaches us far more."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "That said, you could argue ___.",
+       "It depends, though — ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss what experience teaches us and how we understand other cultures — take a position, give reasons, stay balanced.",
+     "discussion_how": [
+      {
+       "q": "Do you learn more from comfort or from difficulty?",
+       "how": "Take a side, and a comparison fits naturally here. 'More from difficulty — comfort rarely forces us to change.' Weigh the two: comfort is pleasant but easy to forget; difficulty stays with us. Pick a side, and say why it teaches more."
+      },
+      {
+       "q": "Is travelling the best way to understand another culture? What else works?",
+       "how": "Give a view, then name what else works. 'Travel helps, but it's not the only way — films, food, and friends from other places teach a lot too.' Don't just say yes; show you can think of alternatives. A range of ideas makes a fuller answer."
+      },
+      {
+       "q": "Can you really understand a place in a short visit?",
+       "how": "Give your view, then add a balance turn. 'Not fully — a short visit shows the surface, not the daily life beneath it.' Then concede: 'That said, even a glimpse can shift your perspective.' Hold a view, but show both sides."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one clear line. Don't circle every angle first; lead with your view. 'I think we learn most when life pushes us out of our comfort zone.' A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built out fully, not a list. Make the point, say why, show what follows, give an example. 'Hard experiences stick because they force us to adapt, and that changes how we see things.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something real — an example, or a comparison. Compare an easy week you've forgotten with one hard day you still remember. Or contrast reading about a culture with living in it. A concrete case is far more convincing than a general claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed both sides — concede a point, once. 'That said, difficulty only teaches us if we're ready to learn from it.' One fair concession makes you sound balanced, not absolute.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S2",
+      "text": "I made at least one balance turn ('that said...', 'it depends...')"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Experience & learning",
+       "words": [
+        "experience",
+        "adapt",
+        "perspective",
+        "unfamiliar",
+        "comfort zone"
+       ],
+       "target_words": [
+        "experience",
+        "adapt",
+        "perspective"
+       ]
+      },
+      {
+       "label": "Culture & travel",
+       "words": [
+        "culture",
+        "immerse",
+        "broaden your mind",
+        "first-hand"
+       ],
+       "target_words": [
+        "culture"
+       ]
+      },
+      {
+       "label": "Hedge / balance",
+       "words": [
+        "it depends",
+        "on the one hand",
+        "that said",
+        "on balance"
+       ],
+       "target_words": [
+        "it depends"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "My view is that we learn far more from difficulty than from comfort. The main reason is that an unfamiliar situation forces us to adapt, and that is when real change happens. For example, I have forgotten most of my easy holidays, but I still remember the trip where nothing went to plan — it gave me a completely new perspective. That said, difficulty only teaches us if we are open to it; the same hard experience can leave one person wiser and another just bitter.",
+   "required_vocab": [
+    "experience",
+    "adapt",
+    "perspective",
+    "unfamiliar"
+   ],
+   "grammar_focus": [
+    "present perfect (experience/duration)"
+   ],
+   "rubric": {
+    "grammar": "present perfect for experience natural?",
+    "vocabulary": "experience/learning words produced?",
+    "development": "experience -> reflection arc, not a list?",
+    "pronunciation": "natural pace; hedging/self-correction welcomed.",
+    "opener_priority": "confidence over flawlessness."
+   },
+   "exam_refs": [
+    "S1",
+    "S2"
+   ],
+   "feedback_mode": {
+    "routing": "Productive task -> human/AI-assisted feedback."
+   },
+   "display_order": 3,
+   "created_at": "2026-05-31T03:07:52.982605+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "7a313f36-d778-4c48-a790-6c76fb1ee52d",
+   "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (cultures & connections)",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": null,
+   "intro": null,
+   "card_points": null,
+   "discussion_questions": [
+    "Do you enjoy meeting people from different places or backgrounds? Why?",
+    "Is there a place you've visited that you'd love to go back to?",
+    "What's something you enjoy about where you live?",
+    "Do you like trying food from other countries?",
+    "Is there a country or place you'd like to visit one day? Why?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I love trying food from other countries (Point), because it's like exploring a place without leaving home (Reason), so every meal feels like a small adventure (Result) — last month a new dish completely surprised me (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name something + a reason",
+      "examples": [
+       "The place I'd love to go back to is ___, because ___.",
+       "One thing I really enjoy is ___, as ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions on travel, food and meeting people — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Do you enjoy meeting people from different places or backgrounds? Why?",
+       "how": "Don't stop at 'yes'. Say what you enjoy about it, and why. 'Yes — I love hearing how people live differently, it opens my mind.' One reason turns a flat answer into a real one. Add a quick example if you have one."
+      },
+      {
+       "q": "Is there a place you've visited that you'd love to go back to?",
+       "how": "Name a real place, then one reason you'd return. 'Yes — a little seaside town, because it was so relaxed and friendly.' Don't just say 'yes, the beach' — add what made it special. A detail makes it genuine."
+      },
+      {
+       "q": "What's something you enjoy about where you live?",
+       "how": "Pick one real thing, and say why you enjoy it. 'I love the food markets near my home — there's always something to try.' One specific thing beats 'it's nice'. Show a little of your daily life."
+      },
+      {
+       "q": "Do you like trying food from other countries?",
+       "how": "Answer yes or no, then give a quick example. 'Yes — the first time I tried really spicy noodles, I was hooked.' Even one dish makes the answer come alive. If it's no, say what you'd be willing to try."
+      },
+      {
+       "q": "Is there a country or place you'd like to visit one day? Why?",
+       "how": "Name a place, then say why it draws you. 'I'd love to visit somewhere with a very different culture, mainly because I'm curious how people live there.' A reason makes a dream sound real. 'Mainly because...' is a handy way to start."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Listing points with no reasons - give a reason and an example.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named something specific (a place, food, or person) and why"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "People & places",
+       "words": [
+        "background",
+        "culture",
+        "abroad",
+        "local"
+       ],
+       "target_words": [
+        "culture"
+       ]
+      },
+      {
+       "label": "Travel & food",
+       "words": [
+        "cuisine",
+        "try new things",
+        "explore",
+        "destination"
+       ],
+       "target_words": [
+        "explore"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "especially when",
+        "to be honest",
+        "what I like is"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-06T11:55:14.362847+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "_about": "Real live content for Reading Paper Technique (reading-paper-technique). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": "E1",
+  "slug": "reading-paper-technique",
+  "title": "Reading Paper Technique",
+  "unit_id": "8ee4dbdc-6d9d-4b89-85aa-1796413ad7e7",
+  "kind": "exam-technique"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Decoding Command Words: What the Question Actually Wants",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Skimming and Scanning Under Time Pressure",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "word_sort",
+    "coached_question"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Matching Questions: Spotting the Trap Options",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "reading",
+    "reading_questions"
+   ],
+   "reading_refs": [
+    "Four Volunteers, Four Journeys"
+   ],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "Inference vs Explicit Statement: Knowing the Difference",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "reading",
+    "reading_questions"
+   ],
+   "reading_refs": [
+    "First Day at the Newsdesk"
+   ],
+   "listening_refs": []
+  },
+  {
+   "order": 5,
+   "title": "Time Allocation: Building a Reading-Paper Battle Plan",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "reading",
+    "reading_questions"
+   ],
+   "reading_refs": [
+    "The Library That Would Not Close"
+   ],
+   "listening_refs": []
+  }
+ ],
+ "reading_passages": [
+  {
+   "title": "The Library That Would Not Close",
+   "topic": "Community & Volunteering",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "Skimming and scanning practice: locate facts quickly without reading every word. Matches Lesson 2 (Skimming and Scanning Under Time Pressure).",
+   "body": "Riverside Public Library had served the town for sixty years, but last spring the county council announced that funding had run out and the building would shut by the end of June. For many residents, the news felt like losing a member of the family. Maria Torres, the head librarian, had worked there since she was twenty-two, and she refused to accept that the doors would simply lock for good.\n\nWithin a week, Maria had organised a public meeting. Over two hundred people crowded into the reading room, spilling out into the car park. A retired accountant offered to manage the accounts for free. A local printing shop donated posters. Teenagers who normally came in only to use the free internet signed up to run a Saturday reading club for younger children. By the end of the meeting, a plan had taken shape: the library would become an independent charity, run partly by paid staff and partly by volunteers, funded by memberships, book sales, and a modest grant from a national trust.\n\nThe transition was not smooth. The council gave the group just ten weeks to prove the new model could work, and the first month brought more problems than solutions: the roof leaked during a storm, the old computer system crashed twice, and one major donor pulled out after a disagreement over how funds should be spent. Maria later admitted that during that period she barely slept, checking the accounts at midnight and again before dawn.\n\nBy September, however, membership had passed four hundred, well above the target the council had set. A local newspaper ran a story calling the library \"the town's proudest comeback,\" and other struggling libraries in the region began contacting Maria for advice. She now spends one afternoon a month mentoring librarians from three neighbouring towns, sharing the fundraising letters and volunteer rotas that saved Riverside. The library still receives no money from the council, but Maria says that no longer worries her: \"We found out we did not need permission to matter to people. We just needed to ask them to show up.\""
+  },
+  {
+   "title": "Four Volunteers, Four Journeys",
+   "topic": "Community & Volunteering",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Multiple-matching practice: four short first-person accounts. Distractors are deliberately close to the correct answer. Matches Lesson 3 (Matching Questions: Spotting the Trap Options).",
+   "body": "A — Mei\nI signed up to teach basic computer skills at the community centre because my grandmother could never use a smartphone and it frustrated her. I expected the older adults in my class to be slow learners, but I was wrong — they were just nervous about breaking something. Once I told them \"you genuinely cannot break this by clicking the wrong button,\" half the tension in the room disappeared. Six months in, one of my students video-calls her son abroad every single week now.\n\nB — Carlos\nOur beach clean-up group meets every Sunday at six in the morning, rain or shine. Honestly, the first few weeks nearly broke me — my back ached, my hands were freezing, and I questioned why I had volunteered at all. What kept me coming back was not the beach itself but the group chat: twelve strangers who now argue affectionately about whose turn it is to bring the coffee. The sand is genuinely cleaner, but the friendships are the part I never expected.\n\nC — Priya\nI tutor teenagers preparing for exams they are terrified of failing. The hardest lesson I have learned is that encouragement matters more than correction. One student, Daniyar, used to apologise before every wrong answer, as though he expected me to be angry. It took weeks of calm, patient feedback before he stopped flinching at his own mistakes. Watching him raise his hand first in a group session, instead of last, has meant more to me than any exam result could.\n\nD — Tom\nI deliver groceries to elderly residents who cannot leave their homes easily. What surprised me was how little the groceries mattered compared to the conversation. Mrs. Aliyeva, one of my regulars, once kept me at her door for forty minutes describing a garden she used to keep decades ago. I have since learned to build extra time into every round, because for some of the people I visit, mine might be the only voice they hear that day."
+  },
+  {
+   "title": "First Day at the Newsdesk",
+   "topic": "School & Careers",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Inference vs explicit statement practice: some answers are stated directly, others must be worked out from what the character does or implies. Matches Lesson 4 (Inference vs Explicit Statement).",
+   "body": "Amara arrived at the newspaper office forty minutes early, convinced that punctuality was the one thing she could control on her first day of work experience. The building was quieter than she had imagined: no shouting editors, no ringing phones, just the soft clatter of keyboards and the smell of old coffee. A reporter named Felix, who looked barely older than her, handed her a stack of local council documents and said simply, \"Find me a story in there by lunch.\"\n\nBy ten o'clock, Amara had read the documents twice and found nothing that seemed newsworthy — mostly budget tables and drainage reports. She was about to admit defeat when she noticed a single line buried on page fourteen: a proposal to close the only free youth centre in the district to save on heating costs. Nobody else in the office had mentioned it. She spent the next hour calling the youth centre, the council press office, and two parents whose children used the centre after school.\n\nWhen she showed Felix her notes at half past twelve, he read them without speaking, then looked up. \"This is a real story,\" he said, \"and you found it in documents everyone else skimmed past without stopping.\" He did not say she had done well, exactly, but he asked her to sit at the desk next to his for the rest of the week, which she took as a much stronger compliment.\n\nWalking home that evening, Amara realised something about the job that no careers talk had ever mentioned: the difference between a forgettable day and a memorable one was rarely about who worked fastest. It was about who was willing to read page fourteen."
+  }
+ ],
+ "listening_tracks": [],
+ "writing_tasks": [],
+ "speaking_tasks": []
+}

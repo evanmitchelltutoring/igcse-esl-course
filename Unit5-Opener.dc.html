@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U5 Opener · Title" data-speaker-notes="Welcome students to Unit 5. This opener sets up the whole unit — the big question, the four strands, how we work, and the argument essay they build toward. Read the title and byline, then move to the big idea." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 5 · Unit Opener</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:120px;line-height:.98;margin:0;letter-spacing:-.015em;">Art &amp; AI</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">A machine can make a picture in seconds. But can it make <em>art</em>?</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">12 lessons</span>
+        <span style="color:#8a8478;">Reading · Writing · Listening · Speaking · Use of English</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u5-opener-hero" src="assets/images/u5-opener-hero.jpg" shape="rect" fit="cover" placeholder="Unit cover: a hand-painted canvas beside a screen generating an image — the human and the machine side by side. Thought-provoking, a little uncanny. No identifiable faces or real artworks."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="The Big Idea" data-screen-label="U5 Opener · Big idea" data-speaker-notes="The through-line. Machines can now generate convincing images from a prompt in seconds — which forces an old question into the open: what actually makes something art, and what can only a human bring? Students return to this question in every lesson." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">The big idea</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:74px;line-height:1.08;margin:20px 0 0;max-width:1580px;">When a machine can copy any style in seconds, the question becomes: <span style="color:#e8b56a;">what is art actually for?</span></h2>
+    <p style="font-size:36px;line-height:1.4;margin:40px 0 0;max-width:1460px;color:#dbe2ea;">This unit weighs a genuine, live debate — from how AI images are made, to whose work they are trained on, to whether they belong in a gallery. There are strong arguments on every side. Your job is to <strong>weigh them, and decide what you think</strong>.</p>
+  </section>
+
+  <section data-label="Four Strands" data-screen-label="U5 Opener · Four strands" data-speaker-notes="Preview the four strands. Each has its own texts, vocabulary and tasks, and each is one side of the argument. Read each; ask students which they already have an opinion on." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">The four strands of this unit</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.0;margin:12px 0 30px;">Four questions at the heart of the debate</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #0f7d76;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#0f7d76;">Made by a Machine?</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">How AI images are actually made — from prompt to output.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #7a9fd4;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#3f62a0;">Whose Hand, Whose Eye?</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">What a human brings — intention, emotion, meaning — that a machine may not.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #e0a13c;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#b07a1e;">The Style Thief</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Whose work AI learns from — consent, ownership and originality.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #9a7fbf;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#6b4e94;">Real Art, Real Prize?</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Should AI work win prizes, hang in galleries, count as art at all?</div></div>
+    </div>
+  </section>
+
+  <section data-label="Your Goals" data-screen-label="U5 Opener · Goals" data-speaker-notes="What students will be able to DO by the end. These map onto the Cambridge skills without jargon. Reassure students every one is scaffolded." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">By the end of this unit, you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 30px;">What you'll be able to do</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Read</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">weigh both sides of an argument, and tell a fact from an opinion.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Write</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">argue a position with concessions, evidence and a clear verdict.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Listen</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">catch a speaker's stance and reasons in talks and interviews.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Speak</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">debate creativity and art using speculation and concession language.</span></div>
+    </div>
+  </section>
+
+  <section data-label="How We Work · Modes" data-screen-label="U5 Opener · Modes" data-speaker-notes="Re-introduce the three modes students know. The badge in the top-right corner of each slide tells them what to do: think and write, talk, or show me quickly. Consistency across units means no time lost explaining routines." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">How we work · the three modes</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 34px;">Watch the corner of each slide</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#f4d98b;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">notebook</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Think on your own and write it down. Silent focus.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#a8c8dd;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">talk</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Turn to a partner and speak. Use the sentence stems.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#8fbf9f;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">show me</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Quick response — hands, fingers, or a vote. No writing.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Reading in Colour" data-screen-label="U5 Opener · Annotation" data-speaker-notes="Recap the annotation code — Meaning, Method, Response — shown as bordered chips in their own palette, distinct from the round mode badges. In this argument unit, 'Method' often means how a writer concedes a point then turns against it. Students keep three colours ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Reading in three colours</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 32px;">How we mark up a text</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#dcebe9;border:1px solid #cfe0dd;border-left:8px solid #2f6d6a;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#2f6d6a;">● Meaning</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">What does it <em>say</em>? The claim and the main point.</div></div>
+      <div style="background:#f4e2d4;border:1px solid #e6cdb6;border-left:8px solid #b4632e;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#b4632e;">● Method</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How is it argued? Concessions, evidence, hedging words.</div></div>
+      <div style="background:#efe1ee;border:1px solid #ddc9db;border-left:8px solid #8a5a86;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#8a5a86;">● Response</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">Do <em>you</em> agree? Where do you push back?</div></div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U5 Opener · Skill Bank" data-speaker-notes="The Skill Bank continues across the whole course. Students keep adding one strategy per lesson to a running revision sheet. It already holds entries from Units 1–4 — this unit adds argument-reading, listening, writing and speaking strategies." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Your Skill Bank · keep building it</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.05;margin:18px 0 24px;max-width:1500px;">One strategy, every lesson — a revision sheet you build yourself.</h2>
+    <div style="display:flex;gap:20px;">
+      <div style="flex:1;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;color:#3d3830;">Every lesson ends with one <strong>Skill Bank</strong> card — a reading, writing, listening or speaking move you can reuse in the exam.</div>
+      <div style="flex:1;background:#14243d;color:#f4efe6;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;">By the end of Unit 5 you'll have added <strong>more</strong> — on top of everything from Units 1–4.</div>
+    </div>
+  </section>
+
+  <section data-label="Vocabulary Families" data-screen-label="U5 Opener · Vocab preview" data-speaker-notes="Preview the four vocabulary families, one per strand. Students meet these fully in Lesson 2 — this is a taste. Note the 'Real Art' strand also carries argument chunks (it could be argued that…) for the essay. Say a few chorally." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Words you'll build · four families</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 28px;">A taste of the vocabulary</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#0f7d76;margin-bottom:12px;">Made by a Machine?</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">algorithm · dataset · generate · mimic · prompt</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#3f62a0;margin-bottom:12px;">Whose Hand, Whose Eye?</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">authentic · craft · evoke · intention · soulless</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#b07a1e;margin-bottom:12px;">The Style Thief</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">attribution · consent · derivative · originality · scrape</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#6b4e94;margin-bottom:12px;">Real Art, Real Prize?</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">consensus · controversy · legitimate · merit · transparency</div></div>
+    </div>
+  </section>
+
+  <section data-label="Capstone" data-screen-label="U5 Opener · Capstone" data-speaker-notes="Show students the destination: the whole unit builds toward an argument essay and a class debate. Naming it now gives every lesson a purpose — the readings, vocabulary and grammar all feed the argument. Keep it light; details come in the writing lessons." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;padding:96px 80px 96px 110px;display:flex;flex-direction:column;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Where this unit is going</div>
+      <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.05;margin:18px 0 22px;">"A machine can never<br>truly make art."</h2>
+      <p style="font-size:34px;line-height:1.4;margin:0;max-width:780px;color:#dbe2ea;">You'll write an argument essay answering <strong>"How far do you agree?"</strong> — and take part in a class debate — using everything you build this unit: evidence, concession, and a clear verdict.</p>
+      <div style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap;font-family:Archivo,sans-serif;font-size:24px;font-weight:600;">
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Take a side</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Concede the other</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Give evidence</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Land a verdict</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#0f1c30;">
+      <image-slot id="u5-opener-apply" src="assets/images/u5-opener-apply.jpg" shape="rect" fit="cover" placeholder="A classroom debate or a gallery wall with a 'made by AI?' label beside a framed image — the argument made visible. Collaborative, thoughtful. No identifiable faces or real artworks."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="Start · Next" data-screen-label="U5 Opener · Start" data-speaker-notes="Close the opener and launch Lesson 1. One line to leave them with: this unit is about thinking clearly on a hard, live question — and arguing it well in English. Move to Lesson 1." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Let's begin</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:70px;line-height:1.05;margin:18px 0 30px;max-width:1560px;">There are no easy answers here — only better arguments. This unit gives you the words to build them.</h2>
+    <div style="display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:36px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">First lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;">Lesson 1 · Orientation &amp; Theme Hook</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

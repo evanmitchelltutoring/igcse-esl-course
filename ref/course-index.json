@@ -1,0 +1,44 @@
+{
+  "course": "Cambridge IGCSE English as a Second Language (ESL)",
+  "syllabus": "Cambridge 0510 (Speaking endorsed) / 0511 (Count-in speaking) — confirm the exact syllabus code with Evan before retagging AOs; 9-1 variants are 0991/0993.",
+  "site": "mrevansenglish.com — this is the course-switcher default (flagship).",
+  "note": "Two live courses share this handover. `igcse-esl` = the 12 thematic teaching units. `igcse-esl-exam` = 4 exam-technique units, one per paper. Every lesson below is already LIVE and paid on the site; the design work adds teacher-facing slides + printable packets on top of the existing digital course. Do NOT change the live digital lessons.",
+  "assessment_objectives": {
+    "reading": "R1 identify/select/organise ideas; R2 understand what is stated + implied (attitudes/emotions); R3 analyse/evaluate. (Confirm against the current 0510/0511 syllabus.)",
+    "writing": "W1 communicate appropriately for audience/purpose; W2 organise/structure/sequence; W3 use a range of accurate vocabulary/grammar/spelling/punctuation.",
+    "listening": "as reading AOs, applied to spoken texts.",
+    "speaking": "range/accuracy of structures; vocabulary; development of responses; fluency; interaction."
+  },
+  "courses": [
+    {
+      "slug": "igcse-esl",
+      "course_id": "ad474f59-4c86-407c-87ac-d8c50cc5c3a1",
+      "kind": "12 thematic teaching units",
+      "units": [
+        {"order": 1,  "slug": "leisure-and-lifestyle",       "title": "Leisure & Belonging",        "unit_id": "bce7d817-c57e-4702-8a71-f0bc8750f55c", "lessons": 11, "pack_data": "source-packs/u1-data.js",  "pilot": true},
+        {"order": 2,  "slug": "our-beautiful-world",          "title": "Landscapes & Living Things",  "unit_id": "d7bf6106-fd57-4b39-92b9-4df545da0107", "lessons": 11, "pack_data": "source-packs/u2-data.js"},
+        {"order": 3,  "slug": "healthy-living",               "title": "Health & Wellbeing",         "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075", "lessons": 11, "pack_data": "source-packs/u3-data.js"},
+        {"order": 4,  "slug": "around-the-world",             "title": "Cultures & Connections",      "unit_id": "db50f07b-eedd-4874-b0c6-653ba549d408", "lessons": 11, "pack_data": "source-packs/u4-data.js"},
+        {"order": 5,  "slug": "art-and-expression",           "title": "Art & AI",                    "unit_id": "09a1c9aa-1aea-40cd-a93b-8d34eae2f182", "lessons": 12, "pack_data": "source-packs/u5-data.js"},
+        {"order": 6,  "slug": "fashion-and-identity",         "title": "Fashion & Identity",          "unit_id": "92dc8987-302e-47d6-818e-38a2dcdf5c8c", "lessons": 11, "pack_data": "source-packs/u6-data.js"},
+        {"order": 7,  "slug": "sports-and-games",             "title": "Sports & Competition",        "unit_id": "89810eda-f539-45af-95ac-ed2343922aed", "lessons": 12, "pack_data": "source-packs/u7-data.js"},
+        {"order": 8,  "slug": "space-and-science",            "title": "Space & Ambition",            "unit_id": "f18acfdf-282e-416f-af08-a0235b4295e9", "lessons": 11, "pack_data": "source-packs/u8-data.js"},
+        {"order": 9,  "slug": "lifelong-learning",            "title": "Learning & Growth",           "unit_id": "8d5be584-e8a6-4a81-b824-00833c206cc0", "lessons": 12, "pack_data": "source-packs/u9-data.js"},
+        {"order": 10, "slug": "global-issues",                "title": "A Changing World",            "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b", "lessons": 11, "pack_data": "source-packs/u10-data.js"},
+        {"order": 11, "slug": "mystery-and-the-unexplained",  "title": "Mystery & the Unexplained",   "unit_id": "41bd9f15-8cb3-4762-9aa6-82b97698eebd", "lessons": 12, "pack_data": "source-packs/u11-data.js"},
+        {"order": 12, "slug": "adventure-and-survival",       "title": "Adventure & Survival",        "unit_id": "ab45382d-8a18-4fc8-aad3-d3a9da211497", "lessons": 12, "pack_data": "source-packs/u12-data.js"}
+      ]
+    },
+    {
+      "slug": "igcse-esl-exam",
+      "course_id": "bc519c65-b205-4336-be86-19201f55332d",
+      "kind": "4 exam-technique units (one per paper) — design is exam-STRATEGY, not thematic",
+      "units": [
+        {"order": 1, "slug": "reading-paper-technique",   "title": "Reading Paper Technique",   "unit_id": "8ee4dbdc-6d9d-4b89-85aa-1796413ad7e7", "lessons": 5, "pack_data": "source-packs/exam-reading-data.js"},
+        {"order": 2, "slug": "writing-paper-technique",   "title": "Writing Paper Technique",   "unit_id": "85589a8a-6e5b-4a6d-8218-b53b411e4b50", "lessons": 6, "pack_data": "source-packs/exam-writing-data.js"},
+        {"order": 3, "slug": "listening-paper-technique", "title": "Listening Paper Technique", "unit_id": "683e6643-4da2-425b-a106-e29ab7c34ee8", "lessons": 5, "pack_data": "source-packs/exam-listening-data.js"},
+        {"order": 4, "slug": "speaking-paper-technique",  "title": "Speaking Paper Technique",  "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c", "lessons": 4, "pack_data": "source-packs/exam-speaking-data.js"}
+      ]
+    }
+  ]
+}

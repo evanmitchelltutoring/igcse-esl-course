@@ -1,0 +1,2059 @@
+{
+ "_about": "Real live content for A Changing World (global-issues). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 10,
+  "slug": "global-issues",
+  "title": "A Changing World",
+  "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Orientation — A Changing World",
+   "skill": "orientation",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "objectives",
+    "presents",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary launch",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "objectives",
+    "presents"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "A changing climate",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "Small Choices, Big Picture"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Small Choices, Big Picture"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "A fairer world",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "The Homework Gap"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Homework Gap"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "People on the move",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [
+    "Starting Over: How Towns Welcome Newcomers"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Starting Over: How Towns Welcome Newcomers"
+   ]
+  },
+  {
+   "order": 6,
+   "title": "Working together",
+   "skill": "reading",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "reading",
+    "reading_questions",
+    "listening",
+    "vocab_set",
+    "paired_skills",
+    "owner_voice_slots",
+    "extension_hook",
+    "speaking_task"
+   ],
+   "reading_refs": [
+    "We're All Downstream"
+   ],
+   "listening_refs": [
+    "Read-Aloud: We're All Downstream"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "Grammar — hedging + subordination",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 8,
+   "title": "Listening",
+   "skill": "listening",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "owner_voice_slots",
+    "objectives",
+    "presents",
+    "paired_skills"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 9,
+   "title": "Writing — directed Article",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing — extended Argumentative (S-E-R)",
+   "skill": "writing",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "owner_voice_slots",
+    "intervention_hook",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Review, reflection & debate",
+   "skill": "review",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "coached_question",
+    "objectives",
+    "presents",
+    "paired_skills",
+    "reflection",
+    "owner_voice_slots",
+    "extension_hook"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "cooperation": [
+   {
+    "word": "accountability",
+    "pos": "noun",
+    "def": "the duty to take responsibility for your actions and explain them"
+   },
+   {
+    "word": "aid",
+    "pos": "noun / verb",
+    "def": "help, especially money, food, or services given to those in need"
+   },
+   {
+    "word": "coalition",
+    "pos": "noun",
+    "def": "a temporary group formed by parties or countries to act together"
+   },
+   {
+    "word": "commitment",
+    "pos": "noun",
+    "def": "a firm promise or strong intention to do something"
+   },
+   {
+    "word": "compromise",
+    "pos": "noun / verb",
+    "def": "an agreement reached when each side gives up part of what it wanted"
+   },
+   {
+    "word": "mutual",
+    "pos": "adjective",
+    "def": "shared by two or more people or groups; felt or done by each towards the other"
+   },
+   {
+    "word": "negotiate",
+    "pos": "verb",
+    "def": "to discuss something in order to reach an agreement"
+   },
+   {
+    "word": "solidarity",
+    "pos": "noun",
+    "def": "unity and support among people who share aims or face the same difficulty"
+   },
+   {
+    "word": "treaty",
+    "pos": "noun",
+    "def": "a formal written agreement between two or more countries"
+   }
+  ],
+  "migration": [
+   {
+    "word": "assimilate",
+    "pos": "verb",
+    "def": "to become fully part of a society by adopting its customs and way of life"
+   },
+   {
+    "word": "asylum",
+    "pos": "noun",
+    "def": "protection given by a country to someone who has fled danger in their own"
+   },
+   {
+    "word": "diaspora",
+    "pos": "noun",
+    "def": "a large group of people from the same origin who live spread across the world"
+   },
+   {
+    "word": "heritage",
+    "pos": "noun",
+    "def": "the traditions, culture, and history passed down within a family or group"
+   },
+   {
+    "word": "host (community)",
+    "pos": "noun",
+    "def": "the country or community that receives and welcomes people who arrive from elsewhere"
+   },
+   {
+    "word": "integration",
+    "pos": "noun",
+    "def": "the process of becoming a full part of a community or society"
+   },
+   {
+    "word": "refugee",
+    "pos": "noun",
+    "def": "a person who has been forced to leave their country to escape danger"
+   },
+   {
+    "word": "relocate",
+    "pos": "verb",
+    "def": "to move to a new place to live or work"
+   },
+   {
+    "word": "resettle",
+    "pos": "verb",
+    "def": "to help people start a new life in a different place, or to settle somewhere new"
+   }
+  ],
+  "climate": [
+   {
+    "word": "degradation",
+    "pos": "noun",
+    "def": "the process of something being damaged or made worse, especially the environment"
+   },
+   {
+    "word": "emissions",
+    "pos": "noun (plural)",
+    "def": "gases or substances released into the air, especially from burning fuels"
+   },
+   {
+    "word": "mitigate",
+    "pos": "verb",
+    "def": "to make something less harmful or serious"
+   },
+   {
+    "word": "offset",
+    "pos": "verb / noun",
+    "def": "to balance one thing against another so the effect is reduced or cancelled out"
+   },
+   {
+    "word": "scarcity",
+    "pos": "noun",
+    "def": "a situation in which there is not enough of something"
+   }
+  ],
+  "inequality": [
+   {
+    "word": "deprivation",
+    "pos": "noun",
+    "def": "the lack of the basic things people need for a decent life, such as food, money, or housing"
+   },
+   {
+    "word": "discrimination",
+    "pos": "noun",
+    "def": "unfair treatment of people based on their group, such as age, gender, or background"
+   },
+   {
+    "word": "disparity",
+    "pos": "noun",
+    "def": "a clear and often unfair difference between two or more things"
+   },
+   {
+    "word": "empowerment",
+    "pos": "noun",
+    "def": "the process of giving people more control, confidence, and power over their lives"
+   },
+   {
+    "word": "equitable",
+    "pos": "adjective",
+    "def": "fair and reasonable; treating everyone in a way that is right for their situation"
+   },
+   {
+    "word": "inclusion",
+    "pos": "noun",
+    "def": "the practice of making sure everyone is included and treated as part of a group"
+   },
+   {
+    "word": "marginalised",
+    "pos": "adjective",
+    "def": "treated as unimportant and pushed to the edges of society"
+   },
+   {
+    "word": "opportunity",
+    "pos": "noun",
+    "def": "a chance to do something, especially something that helps you progress"
+   },
+   {
+    "word": "privilege",
+    "pos": "noun",
+    "def": "a special advantage available only to a particular person or group"
+   },
+   {
+    "word": "redistribute",
+    "pos": "verb",
+    "def": "to share something out again, usually more fairly, among people"
+   },
+   {
+    "word": "vulnerable",
+    "pos": "adjective",
+    "def": "easily harmed or hurt"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "Starting Over: How Towns Welcome Newcomers",
+   "topic": "migration",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "main",
+   "body": "When a family arrives in a new country, the first weeks can feel overwhelming. The language is unfamiliar, the streets are confusing, and simple tasks — registering at a school, opening an account, finding a doctor — suddenly require help. How quickly newcomers settle often depends less on luck than on the welcome they receive.\n\nMany communities have found practical ways to help. Free language classes are among the most valuable, because without the local language almost everything else is harder. Some towns run 'welcome groups', where volunteers meet new arrivals, explain how local services work, and introduce them to others. Schools play a quiet but powerful role too: when children make friends quickly, their parents often follow them into the community. A few places have set up job-matching schemes that connect newcomers' existing skills with local employers, so that a trained nurse or engineer is not left delivering leaflets for years.\n\nThe difficulties, however, are real. Many newcomers struggle to have their qualifications recognised, and find themselves starting careers again from the beginning. Others face loneliness, especially if they are far from family and unsure of the customs around them. Prejudice, though not universal, can make daily life tiring in ways that are hard to explain to those who have never experienced it. And paperwork — endless forms in an unfamiliar language — can turn a small task into a day-long ordeal.\n\nWhat seems to help most is patience on both sides. Newcomers who are given time and support tend to contribute a great deal: starting businesses, filling shortages, and enriching the places they join. The towns that welcome them well rarely regret it."
+  },
+  {
+   "title": "Small Choices, Big Picture",
+   "topic": "climate",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "main",
+   "body": "A few years ago, switching off a light or refusing a plastic bag felt almost pointless to many teenagers. What difference could one person make against a problem as vast as a changing climate? Today, that mood is shifting. Across the world, young people are deciding that small choices are not the whole answer, but they are not nothing either.\n\nTake Maya, a sixteen-year-old who began by cutting the meat in her family's meals twice a week. On its own, her choice changes very little. Yet when she persuaded her school canteen to offer the same option, hundreds of students were suddenly eating differently. Her single decision had multiplied. This is the pattern that researchers keep noticing: individual actions matter most when they spread.\n\nOf course, not everyone agrees on where the focus should lie. Some argue that asking teenagers to recycle or take shorter showers shifts attention away from the real source of emissions — large industries and the choices of governments. They have a point. No amount of careful shopping by one student will match the impact of a national energy policy. But others reply that habits and policies are linked: people who change their own behaviour are also the people most likely to vote, campaign and push leaders to act.\n\nPerhaps the most useful way to see it is this. Individual choices and big systems are not rivals; they feed each other. A teenager who refuses fast fashion today may run a company tomorrow. The student who organises a clean-up may one day write the law. Small choices, in other words, are often where bigger change quietly begins.\n\nNone of this means the task is easy, and pretending the problem is solved would help no one. But the gloom that once surrounded the subject is giving way to something more practical: a sense that ordinary people, and especially young ones, have more influence than they were once told."
+  },
+  {
+   "title": "We're All Downstream",
+   "topic": "cooperation",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "main",
+   "body": "Imagine a single river running through many villages. The village at the top can pour whatever it likes into the water — and it is the villages below that drink it. This, in a sentence, is the problem of global responsibility. We are all downstream of someone, and upstream of someone else.\n\nFor years we have argued about who should clean the river. Wealthier nations, the argument goes, built their comfort by burning fuel and clearing land long before anyone counted the cost; surely they owe the most to fix it? It is a powerful case, and an honest one. Those with the broadest shoulders can carry the heaviest load.\n\nBut honesty cuts both ways. Pointing only at the rich is comfortable, yet it is not the whole truth. A problem this large cannot be solved by a handful of countries writing cheques while everyone else waits. Rivers do not respect borders, and neither do solutions. The village downstream still has to decide what it tips into the water.\n\nSo here is the harder, fairer idea: shared responsibility, measured by capacity. Those who can do more, should. Those who can do less, still do something. Not blame, not guilt — contribution. It is less satisfying than a villain, and far more useful.\n\nWill it be easy? Of course not. Cooperation is slow, frustrating, and full of broken promises. Treaties are signed and quietly ignored. And yet, again and again, it is the only thing that has ever worked. We cleaned the hole in the ozone layer not by shouting across the river, but by agreeing, together, to stop.\n\nThe water keeps moving. The question is not whether we are connected — we plainly are — but whether we are willing to act as though we are. We are all downstream. We had better start behaving like it."
+  },
+  {
+   "title": "Why Cities Are Planting Trees",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "More and more cities around the world are planting trees along their streets, and not only because they happen to look pretty. A single row of leafy trees gives valuable shade on a baking summer day and can cool a hot street by several degrees, which matters more and more as city temperatures keep rising and summers grow longer and hotter. In some places, the difference between a shaded street and a bare one can be enough to keep vulnerable people safe during a heatwave.\n\nTrees work hard in many other ways too. Their leaves quietly help to clean the air we breathe, trapping dust and harmful gases, while their roots soak up rainwater after a heavy storm, reducing the risk of flooding in the streets below. They also provide homes and food for birds, insects, squirrels and other small creatures that would otherwise struggle to survive in a busy city built of concrete and glass.\n\nThere are gentler, quieter benefits as well. Studies show, again and again, that simply being near trees and greenery makes people feel noticeably calmer, happier and less stressed; hospital patients who can see trees from their window even seem to recover a little faster. Of course, none of it is effortless: young trees do need real care, especially regular watering through their first few summers and protection from careless traffic, before their roots grow deep and strong enough to look after themselves. But almost every city that has tried it agrees that the effort, and the patience, is very well worth it in the end."
+  },
+  {
+   "title": "The Shared Boat",
+   "topic": "cooperation",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "backup-intervention",
+   "body": "Picture everyone in one small boat. If one person drills a hole under their own seat, do the rest stay dry? Of course not. The water rises for all of us. That is what people mean when they say the world's problems are shared: there is no 'their end' of the boat. We can argue about who should bail fastest — and the strongest arms should certainly do more — but no one gets to drill in peace. We sink or float together."
+  },
+  {
+   "title": "The Quiet Desk",
+   "topic": "inequality",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "backup-intervention",
+   "body": "Sam and Ana were given the same essay. Sam wrote his at a desk in a silent room. Ana wrote hers on a phone, squeezed between chores, with the television loud behind her. Both worked hard. Ana's essay was shorter, and her teacher first thought she had not tried. The truth was different: Ana had tried just as hard, with far less to help her. When the school began lending laptops and opening a quiet study room after class, Ana's marks rose. The gap, it turned out, was not in effort."
+  },
+  {
+   "title": "How Recycling Works",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Recycling turns yesterday rubbish into tomorrow useful things, but a surprising amount happens during the long journey between the two. It usually starts at home, where people carefully separate their waste into different coloured bins, and lorries then collect the recycling from homes right across the area, week after week, in all weathers.\n\nEverything is taken to a large recycling centre, which can be a noisy, busy and rather smelly place. There the mixed materials are first sorted into types — paper, glass, metal and plastic — sometimes by clever machines fitted with magnets and powerful jets of air, and sometimes by hand on fast-moving belts. Next, the sorted materials are cleaned to remove any leftover food, sticky labels or dirt, because even a little dirty material can spoil a whole batch and send it off to landfill instead.\n\nThe clean materials are then broken down or melted right down, ready to be made into brand new products that may look nothing at all like the original. A glass bottle may become another bottle; an old drinks can may return, months later, as part of a bicycle or even an aeroplane. The whole process saves both energy and the precious raw materials dug from the ground, and it keeps mountains of waste out of the earth. It is not perfect, though, and we should not pretend that it is: some items are made of several different materials stuck tightly together, and these simply cannot be recycled at all, which is why using less in the first place matters every bit as much as recycling well."
+  },
+  {
+   "title": "One Bottle",
+   "topic": "climate",
+   "difficulty": "core",
+   "exam_part": 1,
+   "instructions": "backup-intervention",
+   "body": "Maya started small. She stopped buying drinks in plastic bottles and carried a refillable one instead. By itself, this saved only a little. But her friends noticed, and soon a dozen of them were doing the same. Her teacher pointed out that this is how change often works: one person makes it normal, and others follow. Maya could not fix the climate alone. But she had learned something useful — that small choices spread, and spreading is where they start to count."
+  },
+  {
+   "title": "The Homework Gap",
+   "topic": "inequality",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "main",
+   "body": "Every evening, two students sit down to do the same homework. One opens a laptop in a quiet room and connects to fast, reliable internet. The other shares a single phone with younger siblings, hunts for a signal near the window, and waits for pages to load. They are set the same task and judged by the same standard. They do not start from the same place.\n\nTeachers have a name for this: the homework gap. It describes the difference in learning that comes not from ability or effort, but from what students can access at home. A recent school survey found that nearly one in three students did not have a quiet place to study, and roughly one in five had no dependable internet connection. For these students, a piece of online homework is not simply harder; it is sometimes impossible to finish on time.\n\nThe gap is easy to miss because it is invisible in the classroom. A student who hands in unfinished work may look careless, when in truth they ran out of data at nine o'clock the night before. Marks fall, confidence follows, and a problem that began with resources slowly turns into a belief that the student is 'just not good at school'.\n\nSome schools have started to respond. A few now lend laptops and portable internet devices to students who need them. Others keep the library open late so that anyone can find a quiet desk and a steady connection. One head teacher described the change simply: when the tools were shared more equally, the marks of the lowest-achieving group rose within a single term.\n\nNone of these measures removes inequality entirely. A borrowed laptop does not buy a quiet home. But they show something important — that part of what looks like a gap in talent is really a gap in access, and that access is something schools and communities can choose to change."
+  },
+  {
+   "title": "A Hand on Arrival",
+   "topic": "migration",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "backup-intervention",
+   "body": "When the Haddad family arrived, three things made the first month easier. A neighbour, Mrs Okoro, knocked on their door and explained where the school and clinic were. The local library ran a free evening class where they practised the language. And a volunteer helped them fill in the forms that had seemed impossible at first. 'Without that help,' the father said later, 'we would have felt completely lost.'"
+  },
+  {
+   "title": "Four Ways to Waste Less",
+   "topic": "reducing waste",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "Four people explain how they cut down on waste.\n\nA — AISHA\nI started repairing things instead of replacing them. When my phone screen cracked, I learned online how to change it myself for a few coins, when a shop wanted ten times as much. There is a real satisfaction in fixing a thing with your own hands, and the planet benefits from one less object thrown away.\n\nB — DIEGO\nFor me it is food. A third of all food is wasted, which is shameful when so many go hungry. So I plan every meal before I shop, I cook with what is about to go off, and I freeze leftovers instead of binning them. My grocery bill has fallen sharply, which my family certainly appreciates.\n\nC — HANA\nMy focus is plastic. I carry a cloth bag, a metal bottle and a cup everywhere, so I never need a throwaway one. People sometimes tease me for the bag of bags I keep by the door, but I no longer add to the mountain of single-use plastic that ends up in the sea.\n\nD — PETER\nI buy almost nothing new. Clothes, furniture, books — I get them all second-hand, from markets and online sellers. The quality is often better than cheap new things, and the price is a fraction. People assume second-hand means poor quality, but I have furnished an entire home this way and it looks wonderful."
+  },
+  {
+   "title": "Switching Off the Night",
+   "topic": "environment",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article and complete the notes below. Under each heading, write the relevant points from the article — one short note on each line.",
+   "body": "SWITCHING OFF THE NIGHT\nJournalist Aisha Rahman visits a town that has dimmed its lights to bring back the stars.\n\nThe small town of Carrow once glowed orange every night, its streetlights bouncing off low cloud so brightly that residents could barely make out a single star. Three years ago the town council decided to do something unusual: it joined a growing international network of \"dark-sky towns\", places that agree to reduce the light they send up into the night sky.\n\nThe council had several motives. The most immediate was cost, as older streetlights are expensive to run and the town's energy bill had risen sharply. Officials also pointed to wildlife, noting that bright artificial light confuses migrating birds and disturbs the insects that many crops depend on. A third reason was tourism: nearby towns had begun attracting visitors hoping to see the Milky Way, and Carrow did not want to be left behind.\n\nChange did not happen overnight. The old lamps were gradually replaced with warmer, downward-facing lights. Residents were asked to play their part too. The council advised people to switch off outdoor lights when they were not needed, and to fit curtains so that indoor light did not leak outside. Households were encouraged to replace any bright white security lights with softer, motion-activated ones. Finally, residents were asked to report any streetlight that seemed too bright, so that engineers could adjust it.\n\nThe results have surprised even the sceptics. The energy bill has fallen by almost a third, stargazers now visit at weekends, and on a clear night the people of Carrow can once again see the band of the Milky Way stretching overhead."
+  },
+  {
+   "title": "The Student Who Saw the Water Coming",
+   "topic": "technology",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the article about Nadia Hassan, then choose the best answer (A, B, C or D) for each question.",
+   "body": "THE STUDENT WHO SAW THE WATER COMING\n\nAt first glance, Nadia Hassan seems like any other seventeen-year-old. Yet over the past two years she has built a flood-warning system that now protects more than two thousand homes in her low-lying coastal town.\n\nThe idea came from frustration rather than ambition. After her neighbourhood flooded for the third time in a single winter, Nadia grew tired of hearing that \"nothing could be done\". She began reading about cheap sensors that measure water levels, and spent her savings on a handful of them. Her first design failed almost immediately: the sensors stopped working the moment they got wet, which, as she now admits with a laugh, was \"not ideal for a flood project\".\n\nRather than give up, she redesigned the system so that the sensors sat safely above the water and measured its rise using sound. When the water reaches a dangerous level, the system sends a text message to every household that has signed up. The messages arrive, on average, forty minutes before the water reaches the streets — enough time for families to move their belongings upstairs and, in two recent cases, to leave entirely.\n\nLocal officials were slow to take a teenager seriously. Nadia mentions this not with bitterness but as advice to others: \"If the people in charge will not help, build something so useful that they cannot ignore it.\" Her system has since been adopted by the town council, and two neighbouring towns have asked her to help set up their own.\n\nNadia is careful not to overstate what she has achieved. The system, she insists, does not stop floods; it only buys time. But in a town where minutes can decide whether a family loses everything, time is exactly what was missing."
+  },
+  {
+   "title": "The City That Cools Itself",
+   "topic": "urban heat",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "Read the article about cooling cities, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "As summers grow hotter, cities face a problem that the countryside does not. Concrete, brick and tarmac soak up the sun's heat all day and release it slowly at night, so a city can stay several degrees warmer than the fields around it. Scientists call this the \"urban heat island\" effect. For the people living there, it means restless, sweaty nights and rising electricity bills as air conditioners run without stopping.\n\nThe city of Medellín, in Colombia, decided to fight back not with machines but with plants. Engineers and gardeners worked together to create what they called \"green corridors\": long ribbons of trees and climbing plants planted along thirty of the city's roads and waterways. The leaves provide shade, and as water evaporates from them the surrounding air is cooled, much as sweat cools the skin.\n\nThe results were measured carefully. Within a few years, the average temperature along the corridors had fallen by about two degrees. On the hottest streets, the drop was even greater. The shaded paths also tempted more people to walk or cycle instead of driving, which in turn lowered the amount of pollution in the air.\n\nThere were other benefits the planners had not fully expected. The new plants gave homes to birds and insects, bringing wildlife back into the heart of the city. Residents reported that the green streets simply felt calmer and more pleasant. Best of all, once the plants were established, the corridors cost very little to maintain — far less than the energy needed to cool the city by machine.\n\nCities around the world are now studying Medellín's example. The lesson is a hopeful one: sometimes the cheapest and oldest technology — a tree — is also the best."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Listening Ex4 ('After the Debate')",
+   "accent": null,
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "Listen to the conversation and answer the inference questions.",
+   "script_text": "LENA: So, did you change your mind after the debate?\nTOM: A bit. I went in thinking the rich countries should just pay for everything. It felt obvious.\nLENA: And now?\nTOM: Now... I still think they should do more. But someone made the point that if you just hand over money and nobody checks how it's used, it can disappear. That stuck with me.\nLENA: So it's not that you think they should do less —\nTOM: No, no. More like... doing more has to come with actually working together, not just writing a cheque and walking away.\nLENA: That's basically what the other side was arguing, though.\nTOM: I know. That's what's annoying. Both sides were sort of right, and I came in wanting one team to win.\nLENA: Maybe that's the point of the whole topic. You can't really 'win' it.\nTOM: Maybe. Doesn't make for a very exciting debate, though.\nLENA: (laughs) No. But it might make for a more honest one."
+  },
+  {
+   "title": "Listening Ex3 ('Five Newcomers')",
+   "accent": null,
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Match each speaker (1-5) to the statement (A-H) that best fits. There are three extra statements.",
+   "script_text": "SPEAKER 1: When we arrived, I couldn't speak a word. The free language class at the library changed everything — once I could talk to people, the city stopped feeling like a wall.\nSPEAKER 2: My qualifications from home weren't accepted here. I was a teacher for fifteen years, and I spent my first two years stacking shelves. That was the hardest thing — not the work itself, the waste of it.\nSPEAKER 3: Honestly, what helped my kids helped us. They made friends at school within weeks, and through their friends' parents, we slowly found our own.\nSPEAKER 4: I run a small bakery now. People said I was brave to start a business in a new country, but really I just did what I'd always done back home. This place gave me the chance to do it again.\nSPEAKER 5: I volunteer with a welcome group. I'm not a newcomer myself — my grandparents were. I suppose I'm paying back a kindness that was once shown to them."
+  },
+  {
+   "title": "Listening Ex1 ('What We Actually Did')",
+   "accent": null,
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "Listen to the student assembly talk and answer the gist questions.",
+   "script_text": "Hi everyone. So, for our assembly today I want to talk about what our year group actually managed to do this term — not what we promised, what we did. Back in September, a lot of us felt, honestly, a bit hopeless about the environment. It's such a huge thing. What can one school do? But we decided to stop worrying about the whole planet and just fix one thing we could see: the amount of food being thrown away at lunch. We weighed it for a week — it was shocking. So we changed the ordering, let people choose smaller portions, and started a sharing shelf. By the end of term, food waste was down by nearly half. Now, I'm not standing here saying we've saved the world. We haven't. But I think we proved something to ourselves. The point isn't that our project was big. It's that doing something — anything — felt completely different from doing nothing. And once you've changed one thing, the next one feels possible."
+  },
+  {
+   "title": "Listening Ex2 ('The Laptop Scheme')",
+   "accent": null,
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Listen to the interview and answer the detail questions.",
+   "script_text": "PRESENTER: Today I'm speaking with Daniel Osei, who runs a programme lending laptops to students. Daniel, how did it start?\nDANIEL: It started small, actually. In our first year, 2021, we lent out just forty laptops. We thought that might be the end of it. But the demand was huge — last year we handed out over six hundred.\nPRESENTER: That's a big jump. And does it make a difference?\nDANIEL: We track it carefully. Students in the scheme improved their homework completion from about sixty per cent to nearly ninety. The biggest change, though, wasn't the marks. It was attendance — students started coming in more, because they no longer dreaded handing in work they couldn't finish.\nPRESENTER: What's the hardest part?\nDANIEL: Repairs, honestly. Not theft — we've lost only three machines in four years. It's cracked screens and broken chargers. We now keep a small repair fund, and we ask families to contribute what they can, even a little, because people look after things they've invested in.\nPRESENTER: And what's next?\nDANIEL: Internet. A laptop is useless without a connection, so this year we're adding free data devices."
+  },
+  {
+   "title": "Listening Ex5 ('Youth Voices' review)",
+   "accent": null,
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "Listen to the radio segment and answer the mixed-skill questions.",
+   "script_text": "PRESENTER: Welcome to Youth Voices. This week: what can young people actually change? First, Priya.\nPRIYA: People always ask if individual action matters. My honest answer? On its own, barely. Together, hugely. Our recycling club started with four people and now the whole school takes part. That's the trick — make it normal, and it spreads.\nPRESENTER: And Marcus, you focused on the bigger picture.\nMARCUS: Right. I looked at international agreements. Did you know that since the 1980s, countries working together have repaired most of the damage to the ozone layer? Not by accident — by signing a deal and sticking to it. It's the clearest proof we have that cooperation works, even when it's slow.\nPRESENTER: So, two scales — the personal and the global.\nPRIYA: And they're not opposites. The people who recycle today are the same people who'll vote for the big agreements later.\nPRESENTER: A hopeful note to end on. Thanks, both."
+  },
+  {
+   "title": "Global Issues — an interview with a young activist",
+   "accent": null,
+   "exam_part": 7,
+   "form": 1,
+   "instructions": "Listen to the interview and answer the questions. (Played twice.)",
+   "script_text": "HOST: My guest today started a local recycling initiative at just fifteen years old. Tell us how that began.\nAMARA: It started small. I noticed our school threw away huge amounts of paper and plastic every week with no proper recycling system in place, so I asked the school if I could set one up.\nHOST: Was it difficult to get support?\nAMARA: At first, yes. A lot of adults assumed I would lose interest after a few weeks, so they were hesitant to invest time in it.\nHOST: What changed their minds?\nAMARA: I think consistency, honestly. I kept showing up every week, tracking how much we were actually recycling, and sharing those numbers with the school. Once people saw real results, they took it more seriously.\nHOST: What would you say to other young people who want to start something similar?\nAMARA: Start smaller than you think you need to. I wanted to change the whole school's habits overnight, and that was overwhelming. Starting with just one classroom made it manageable, and it grew from there naturally.\nHOST: Any final advice?\nAMARA: Do not wait for permission to care about something. Adults are often more willing to help than you expect, once you show them you are serious."
+  },
+  {
+   "title": "Global Issues — a talk on food waste",
+   "accent": null,
+   "exam_part": 6,
+   "form": 1,
+   "instructions": "Listen to the talk and answer the questions. (Played twice.)",
+   "script_text": "NARRATOR: Roughly a third of all food produced worldwide is never eaten. In wealthier countries, most of this waste happens at the consumer level — food that is bought, forgotten in the back of a fridge, and eventually thrown away, often because it looks less than perfect rather than because it has actually gone bad.\nNARRATOR: In lower-income countries, the pattern is quite different. Most food loss there happens much earlier, during harvesting, storage, and transport, often because farmers lack access to proper refrigeration or reliable roads to get produce to market quickly.\nNARRATOR: Some cities have started tackling this problem directly. A number of supermarkets across Europe now sell \"ugly\" fruits and vegetables at a discount, items that are perfectly edible but do not meet the strict cosmetic standards usually required for sale.\nNARRATOR: Meanwhile, several apps now connect restaurants and bakeries with unsold food at the end of each day to customers willing to buy it at a reduced price, turning what would have been waste into an affordable meal, and reducing the environmental cost of producing food that is simply thrown away."
+  },
+  {
+   "title": "Read-Aloud: Small Choices, Big Picture",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "A few years ago, switching off a light or refusing a plastic bag felt almost pointless to many teenagers. What difference could one person make against a problem as vast as a changing climate? Today, that mood is shifting. Across the world, young people are deciding that small choices are not the whole answer, but they are not nothing either.\n\nTake Maya, a sixteen-year-old who began by cutting the meat in her family's meals twice a week. On its own, her choice changes very little. Yet when she persuaded her school canteen to offer the same option, hundreds of students were suddenly eating differently. Her single decision had multiplied. This is the pattern that researchers keep noticing: individual actions matter most when they spread.\n\nOf course, not everyone agrees on where the focus should lie. Some argue that asking teenagers to recycle or take shorter showers shifts attention away from the real source of emissions — large industries and the choices of governments. They have a point. No amount of careful shopping by one student will match the impact of a national energy policy. But others reply that habits and policies are linked: people who change their own behaviour are also the people most likely to vote, campaign and push leaders to act.\n\nPerhaps the most useful way to see it is this. Individual choices and big systems are not rivals; they feed each other. A teenager who refuses fast fashion today may run a company tomorrow. The student who organises a clean-up may one day write the law. Small choices, in other words, are often where bigger change quietly begins.\n\nNone of this means the task is easy, and pretending the problem is solved would help no one. But the gloom that once surrounded the subject is giving way to something more practical: a sense that ordinary people, and especially young ones, have more influence than they were once told."
+  },
+  {
+   "title": "Read-Aloud: Starting Over: How Towns Welcome Newcomers",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "When a family arrives in a new country, the first weeks can feel overwhelming. The language is unfamiliar, the streets are confusing, and simple tasks — registering at a school, opening an account, finding a doctor — suddenly require help. How quickly newcomers settle often depends less on luck than on the welcome they receive.\n\nMany communities have found practical ways to help. Free language classes are among the most valuable, because without the local language almost everything else is harder. Some towns run 'welcome groups', where volunteers meet new arrivals, explain how local services work, and introduce them to others. Schools play a quiet but powerful role too: when children make friends quickly, their parents often follow them into the community. A few places have set up job-matching schemes that connect newcomers' existing skills with local employers, so that a trained nurse or engineer is not left delivering leaflets for years.\n\nThe difficulties, however, are real. Many newcomers struggle to have their qualifications recognised, and find themselves starting careers again from the beginning. Others face loneliness, especially if they are far from family and unsure of the customs around them. Prejudice, though not universal, can make daily life tiring in ways that are hard to explain to those who have never experienced it. And paperwork — endless forms in an unfamiliar language — can turn a small task into a day-long ordeal.\n\nWhat seems to help most is patience on both sides. Newcomers who are given time and support tend to contribute a great deal: starting businesses, filling shortages, and enriching the places they join. The towns that welcome them well rarely regret it."
+  },
+  {
+   "title": "Read-Aloud: The Homework Gap",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Every evening, two students sit down to do the same homework. One opens a laptop in a quiet room and connects to fast, reliable internet. The other shares a single phone with younger siblings, hunts for a signal near the window, and waits for pages to load. They are set the same task and judged by the same standard. They do not start from the same place.\n\nTeachers have a name for this: the homework gap. It describes the difference in learning that comes not from ability or effort, but from what students can access at home. A recent school survey found that nearly one in three students did not have a quiet place to study, and roughly one in five had no dependable internet connection. For these students, a piece of online homework is not simply harder; it is sometimes impossible to finish on time.\n\nThe gap is easy to miss because it is invisible in the classroom. A student who hands in unfinished work may look careless, when in truth they ran out of data at nine o'clock the night before. Marks fall, confidence follows, and a problem that began with resources slowly turns into a belief that the student is 'just not good at school'.\n\nSome schools have started to respond. A few now lend laptops and portable internet devices to students who need them. Others keep the library open late so that anyone can find a quiet desk and a steady connection. One head teacher described the change simply: when the tools were shared more equally, the marks of the lowest-achieving group rose within a single term.\n\nNone of these measures removes inequality entirely. A borrowed laptop does not buy a quiet home. But they show something important — that part of what looks like a gap in talent is really a gap in access, and that access is something schools and communities can choose to change."
+  },
+  {
+   "title": "Read-Aloud: We're All Downstream",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Imagine a single river running through many villages. The village at the top can pour whatever it likes into the water — and it is the villages below that drink it. This, in a sentence, is the problem of global responsibility. We are all downstream of someone, and upstream of someone else.\n\nFor years we have argued about who should clean the river. Wealthier nations, the argument goes, built their comfort by burning fuel and clearing land long before anyone counted the cost; surely they owe the most to fix it? It is a powerful case, and an honest one. Those with the broadest shoulders can carry the heaviest load.\n\nBut honesty cuts both ways. Pointing only at the rich is comfortable, yet it is not the whole truth. A problem this large cannot be solved by a handful of countries writing cheques while everyone else waits. Rivers do not respect borders, and neither do solutions. The village downstream still has to decide what it tips into the water.\n\nSo here is the harder, fairer idea: shared responsibility, measured by capacity. Those who can do more, should. Those who can do less, still do something. Not blame, not guilt — contribution. It is less satisfying than a villain, and far more useful.\n\nWill it be easy? Of course not. Cooperation is slow, frustrating, and full of broken promises. Treaties are signed and quietly ignored. And yet, again and again, it is the only thing that has ever worked. We cleaned the hole in the ozone layer not by shouting across the river, but by agreeing, together, to stop.\n\nThe water keeps moving. The question is not whether we are connected — we plainly are — but whether we are willing to act as though we are. We are all downstream. We had better start behaving like it."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "4a5cf66e-5d99-4f21-be2b-43ef6b70d2b2",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "directed",
+   "register": "semi-formal (school magazine)",
+   "title": "Writing — Directed Article ('A Changing World' feature)",
+   "subtopic": "mixed",
+   "difficulty": null,
+   "scenario": "Your school magazine is running a feature called 'A Changing World'. The editor has asked students to write an article about one global issue and what young people can do about it.",
+   "instruction": "Write an article for the school magazine.",
+   "word_count_min": 150,
+   "word_count_max": 200,
+   "content_points": [
+    "explain why this issue matters to people your age",
+    "describe one or two practical things young people can actually do",
+    "encourage your readers to get involved"
+   ],
+   "grammar_focus": [
+    "imperatives (call to action)"
+   ],
+   "required_vocab": [
+    "sustainable",
+    "consumption",
+    "accountability",
+    "collaborate",
+    "commitment",
+    "empowerment"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Hook / direct address",
+      "examples": [
+       "Have you ever wondered…?",
+       "Have you ever wondered what one person can really change?"
+      ]
+     },
+     {
+      "fn": "Signpost",
+      "examples": [
+       "But here's the good news…",
+       "So what can you actually do? Here are two simple places to start."
+      ]
+     },
+     {
+      "fn": "Call to action (imperative)",
+      "examples": [
+       "Start small.",
+       "Don't wait for someone else — start this week."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write an encouraging school-magazine feature on a world issue and what young people can do.",
+     "points": [
+      {
+       "how": "Start by making the issue feel close to your readers — people your own age. Why should they care? Connect it to their lives: their future, their town, their choices. Make it matter before you ask anything of them.",
+       "point": "explain why this issue matters to people your age"
+      },
+      {
+       "how": "Give one or two things they can actually do — small and real, not 'save the world'. The more doable, the better: start a club, cut waste at home, share what they learn. Practical beats grand every time.",
+       "point": "describe one or two practical things young people can actually do"
+      },
+      {
+       "how": "End by encouraging them warmly — without preaching. This is where imperatives work: 'Start small. Bring a friend. Don't wait.' Inspire, don't lecture. Leave them feeling they can make a difference.",
+       "point": "encourage your readers to get involved"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Lecturing instead of connecting — make it personal and relevant to readers your age.",
+     "Vague advice — give one or two concrete, realistic actions.",
+     "A preachy tone — sound encouraging and confident, never preachy.",
+     "No call to action — end with something that makes readers want to take part."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a magazine feature — engaging and readable, not an essay."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is lively and encouraging — never preachy or lecturing."
+     },
+     {
+      "ref": "W4",
+      "text": "I covered all three: why it matters, what to do, and a push to get involved."
+     },
+     {
+      "ref": "G1",
+      "text": "I used imperatives as a call to action, like 'start small' or 'get involved'."
+     },
+     {
+      "ref": "W6",
+      "text": "It builds from why it matters, to what to do, to a final push."
+     }
+    ],
+    "structure": [
+     {
+      "do": "a short, catchy title — a question or a little wordplay",
+      "stage": "Headline"
+     },
+     {
+      "do": "open with a question, a surprising fact, or a tiny scene; speak to the reader directly",
+      "stage": "Hook"
+     },
+     {
+      "do": "why it matters to readers your age — personal and relevant, not a lecture",
+      "stage": "Body 1 — why it matters"
+     },
+     {
+      "do": "one or two concrete, realistic actions — not vague advice",
+      "stage": "Body 2 — what to do"
+     },
+     {
+      "do": "a short call to action or memorable closing line that makes the reader want to take part",
+      "stage": "Call to action"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Global-issues vocab",
+       "words": [
+        "sustainable",
+        "consumption",
+        "accountability",
+        "collaborate",
+        "commitment",
+        "empowerment"
+       ],
+       "target_words": [
+        "sustainable",
+        "accountability",
+        "collaborate"
+       ]
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Fast Fashion: A Problem We Can Wear Out\n\nEvery week, new clothes appear in the shops at prices almost too cheap to believe. To people my age, fast fashion feels exciting and harmless. In reality, it is one of the most polluting industries on the planet, and it should matter to all of us, because it is our generation that will inherit the damage. The mountains of waste and the rivers dyed with chemicals are not a distant problem; they are the cost of our own shopping habits.\n\nThe good news is that we have real power here. First, rethink your consumption. Buy less, choose quality and repair what you own instead of throwing it away. Second, support sustainable brands and swap or buy second-hand clothes with friends. These small choices add up quickly.\n\nWe must also demand accountability from the companies that profit from waste. Sign petitions, ask questions, and let businesses know we are watching.\n\nSo make a commitment today. Collaborate with your classmates, share what you learn, and feel the empowerment that comes from acting together. Change starts with what we choose to wear.",
+   "rubric": [
+    "uses article conventions (headline, engaging opening, reader address)",
+    "covers all three bullet points",
+    "register suits a school magazine (semi-formal, lively) — W5",
+    "organised into clear, logical paragraphs — W6",
+    "accurate and varied language"
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6"
+   ],
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-02T18:40:02.031221+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "de2f10ae-8df1-4e0a-b520-0b467ea743f1",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "extended",
+   "register": "formal/argumentative",
+   "title": "Writing — Extended Argumentative ('Who should do more?')",
+   "subtopic": "inequality",
+   "difficulty": null,
+   "scenario": "'Wealthier nations should bear greater responsibility for global problems.'",
+   "instruction": "Some people strongly agree; others think responsibility should be shared more widely. Write an argumentative essay in which you weigh both sides and reach your own conclusion.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "introduce the issue neutrally and explain why it is debated (don't take a side yet)",
+    "weigh both sides fairly — the case for greater responsibility, and the case against or the complications",
+    "give a measured recommendation as your own position, not an absolute"
+   ],
+   "grammar_focus": {
+    "balance_note": "Essay must weigh BOTH sides fairly — FOR (capacity, historical contribution) AND counter (sovereignty, effectiveness, shared-but-differentiated responsibility, developing-nation agency). Strength is in the weighing, not picking a side early. Do not tilt.",
+    "hedging-language": "wired in Evaluation — soften claims to weigh both sides",
+    "complex-sentences-subordination": "wired in Recommendation — although/while/so that for a measured close"
+   },
+   "required_vocab": [
+    "accountability",
+    "mitigate",
+    "emissions",
+    "equitable",
+    "disparity",
+    "commitment",
+    "mutual"
+   ],
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Weigh both sides",
+      "examples": [
+       "On the one hand… on the other hand…",
+       "A stronger argument is that…",
+       "However, this overlooks…",
+       "On balance…"
+      ]
+     },
+     {
+      "fn": "Hedge (soften claims)",
+      "examples": [
+       "It may be that…",
+       "This suggests that…",
+       "it could be argued that…",
+       "this does not necessarily mean…"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a balanced formal essay weighing who should do more about a global issue.",
+     "points": [
+      {
+       "how": "Open neutrally — lay out the issue and why people disagree, without picking a side yet. This is the setup, not your verdict. 'There is real debate over who should act first.' Stay even-handed here; your view comes later.",
+       "point": "introduce the issue neutrally and explain why it is debated (don't take a side yet)"
+      },
+      {
+       "how": "Now weigh both sides — and give each one real weight. Don't make one side weak just to beat it. Hedging keeps it fair: 'It could be argued that...', 'this may overlook...'. Complex sentences help you balance: 'Although governments have power, individuals also shape demand.'",
+       "point": "weigh both sides fairly — the case for greater responsibility, and the case against or the complications"
+      },
+      {
+       "how": "End with your own position — but measured, not an absolute. After weighing both sides, recommend a balanced way forward: 'The fairest answer is probably shared responsibility.' Hedge it ('probably', 'on balance'); avoid claiming one side is simply right.",
+       "point": "give a measured recommendation as your own position, not an absolute"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Taking a side too early — stay neutral in the Situation; weigh before concluding.",
+     "Declaring instead of weighing — hedge your claims (it may be, arguably, to some extent).",
+     "Tilting to one side — treat both sides fairly; the strength is in the weighing, not picking early.",
+     "An absolute conclusion — give a measured recommendation, joined with complex sentences (although…, so that…)."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "It reads as a balanced formal essay, in clear paragraphs."
+     },
+     {
+      "ref": "W4",
+      "text": "I gave both sides real weight — I didn't tilt to one and dismiss the other."
+     },
+     {
+      "ref": "W5",
+      "text": "My tone is formal and even — measured, not one-sided or emotional."
+     },
+     {
+      "ref": "G1",
+      "text": "I used hedging ('it may be argued') and complex sentences ('although...', 'so that...')."
+     },
+     {
+      "ref": "W6",
+      "text": "It moves from a neutral intro, to a fair weighing, to a measured recommendation."
+     }
+    ],
+    "structure": [
+     {
+      "do": "introduce the issue NEUTRALLY and why it is debated; signal you'll weigh both views (don't take a side yet)",
+      "stage": "Situation"
+     },
+     {
+      "do": "weigh both sides cautiously (2-3 paras) — the case FOR, then AGAINST/complications; hedge your claims",
+      "stage": "Evaluation"
+     },
+     {
+      "do": "propose a MEASURED response as your position (not an absolute); join ideas in complex sentences",
+      "stage": "Recommendation"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Connectors for a measured close",
+       "words": [
+        "although",
+        "while",
+        "whereas",
+        "so that",
+        "provided that",
+        "which means that"
+       ],
+       "target_words": [
+        "although",
+        "while",
+        "so that"
+       ]
+      },
+      {
+       "label": "Topic vocab",
+       "words": [
+        "accountability",
+        "mitigate",
+        "emissions",
+        "equitable",
+        "disparity",
+        "commitment",
+        "mutual"
+       ],
+       "target_words": [
+        "accountability",
+        "equitable",
+        "disparity"
+       ]
+      }
+     ],
+     "target_min": 5
+    },
+    "model_in_column": false,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Who Should Do More?\n\nWhen the world faces a shared crisis, from climate change to global poverty, a difficult question always follows: who should bear the greatest responsibility? Many argue that wealthier nations should do more, while others insist the burden should be shared more widely. The debate matters because the stakes are enormous, and because any answer touches on fairness, history and national pride all at once.\n\nThere is a strong case for asking richer countries to lead. They tend to have the resources to mitigate large problems quickly, and they often produced a disproportionate share of harmful emissions while building their wealth. From this point of view, accountability seems to follow capacity: those who can afford to act, and who contributed most to the damage, arguably should act first. Asking the poorest nations to carry an equal load would only deepen an existing disparity.\n\nHowever, the opposing view raises fair complications. Some wealthy nations may feel that decisions about their economies should remain a matter of sovereignty rather than outside obligation. Others point out that money alone rarely solves complex problems; without genuine commitment and cooperation from everyone, even generous funding can be wasted. It would also be unwise to treat developing nations as helpless, since many are now driving the most creative solutions themselves.\n\nOn balance, I would suggest that responsibility should be greater for wealthier nations, but not theirs alone. The principle of \"shared but differentiated\" responsibility seems the most equitable: each country contributes according to its means, while richer ones lead so that progress is not delayed. Although fairness demands that those with the most do more, lasting solutions will only emerge through mutual effort and trust. In the end, no nation can solve a global problem in isolation, and recognising that shared fate may be the first real step towards solving it together.",
+   "rubric": [
+    "clear S-E-R structure (situation set neutrally; both sides evaluated; measured recommendation)",
+    "both sides genuinely and fairly weighed — even-handed",
+    "evaluation uses cautious / hedging language (G1)",
+    "recommendation is measured, expressed in complex sentences with subordination (G1)",
+    "cohesive paragraphing and linking — W6",
+    "range and accuracy of grammatical structures — W4"
+   ],
+   "exam_refs": [
+    "W4",
+    "W6"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-02T18:40:02.031221+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "ac1190e4-d83d-42a6-9e37-f4ac34de089e",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "discussion",
+   "title": "Speaking 3 ('Should wealthier countries do more?')",
+   "subtopic": "inequality",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Should wealthier countries do more than others to help with global problems such as climate change and poverty? Talk about both sides and say what you think.",
+   "card_points": null,
+   "discussion_questions": [
+    "Those with the most resources can clearly do more — but does that mean they should carry most of the responsibility?",
+    "If every country is affected, should the response be shared by all, or weighted by wealth and history?",
+    "How can wealthier countries help without taking away poorer countries' own voice and choices?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Although wealthier countries clearly have more capacity to help, that doesn't make it solely their duty (Point), because lasting progress depends on poorer nations leading their own solutions too (Reason), so arguably the fairest path is a mutual partnership, not one-sided aid (Result) — on balance, shared effort to close the disparity works best when it respects both greater capacity and every nation's right to lead (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Hedge & subordinate",
+      "examples": [
+       "It may be that ___, although ___.",
+       "Arguably, ___, even though ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, the other side would argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether wealthier countries should do more about global problems — weigh both sides and land a measured view.",
+     "discussion_how": [
+      {
+       "q": "Those with the most resources can clearly do more — but does that mean they should carry most of the responsibility?",
+       "how": "Grant the capacity first, then weigh the 'should'. 'They certainly can do more — but whether they should carry most of it is a fairer question.' Acknowledge the ability, then examine the duty. Hedging here ('arguably', 'it may be') keeps you measured."
+      },
+      {
+       "q": "If every country is affected, should the response be shared by all, or weighted by wealth and history?",
+       "how": "Lay out both fairly — shared by all, or weighted by wealth and history. 'Although every nation is affected, some argue those who contributed most should do most.' Show you see the logic of each, then lean measuredly. An equitable answer weighs both."
+      },
+      {
+       "q": "How can wealthier countries help without taking away poorer countries' own voice and choices?",
+       "how": "This is about respect — help that doesn't override others' choices. 'Support works best when it's a mutual partnership, not charity handed down.' Think of help that strengthens, not controls. The key is treating every nation as an equal partner with its own voice."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open with a clear view — and either side is fine here. You might say 'Wealthier countries should do more, given their resources,' or 'They can help, but shouldn't carry it all.' Pick the side you can argue best, and state it cleanly. A firm, fair opening sets up the rest.",
+       "point": "open a clear view (either side is fine)"
+      },
+      {
+       "how": "Now your strongest reason — and it can run for or against. For: greater wealth means greater capacity to help. Against: aid doesn't always work, and every country has the right to its own choices. Build out whichever reason is yours; one deep reason beats five thin ones.",
+       "point": "give your strongest reason (for or against)"
+      },
+      {
+       "how": "Back it with something concrete — and keep it even-handed. You could compare a wealthy country funding clean water abroad with one whose aid created dependency instead. Or weigh shared global effort against each nation's right to set its own path. A fair example respects both sides.",
+       "point": "add an example or a comparison (even-handed)"
+      },
+      {
+       "how": "Now genuinely hold the other side — name its real arguments, not weak ones. If you argued for more help, grant that poorer countries are partners with their own voice, not just recipients. If you argued against, grant that those with the most truly can do a great deal of good. Concede fairly, then keep your balance.",
+       "point": "make a balance turn (genuinely hold the other side)"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Tilting entirely to one side — the strongest answer weighs both fairly.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a position but genuinely weighed the other side too"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I used a hedge or a subordinate clause to weigh my point (although / on balance / it could be argued)"
+     },
+     {
+      "ref": "S2",
+      "text": "I held the other side's strongest argument fairly, then landed measured"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Fairness & capacity",
+       "words": [
+        "equitable",
+        "disparity",
+        "capacity",
+        "obligation"
+       ],
+       "target_words": [
+        "equitable"
+       ]
+      },
+      {
+       "label": "Sharing responsibility",
+       "words": [
+        "sovereignty",
+        "mutual",
+        "accountability",
+        "compromise"
+       ],
+       "target_words": [
+        "mutual"
+       ]
+      },
+      {
+       "label": "Hedge / weigh",
+       "words": [
+        "on balance",
+        "it could be argued",
+        "not necessarily",
+        "to some extent"
+       ],
+       "target_words": [
+        "on balance"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "On balance, I do think wealthier countries should do more — though carefully. The strongest argument the other way is fairness too: every country is affected by climate change, so you could argue all should pull their weight equally — it isn't quite equitable to put it all on a few nations.\n\nI take that, but I'd still weight the responsibility. Wealthier countries simply have more — money, technology, experts — and if you can do more, there's a duty to. Much of the damage also came from richer countries industrialising last century, so they're helping clear a mess they largely made.\n\nBut how they help matters. It shouldn't be wealthy countries taking over and telling others what to do — that just creates new unfairness. Help should mean funding, shared technology and training: mutual support that leaves poorer countries in control of their own choices. So yes, do more — but as a partner, not a boss.",
+   "required_vocab": null,
+   "grammar_focus": {
+    "balance_note": "Students must voice BOTH sides fairly: FOR (capacity, historical contribution) AND counter (sovereignty, effectiveness, shared-but-differentiated responsibility, developing-nation agency). Previews the §F debate motion + S-E-R writing frame.",
+    "hedging-language": "elicited by L2 hedging_frames (it could be argued / not necessarily / on balance)",
+    "complex-sentences-subordination": "elicited by L3 S-E-R subordination frames"
+   },
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 4,
+   "created_at": "2026-06-02T18:38:45.221177+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "75d6f0a4-4d4c-4708-8dc3-bf3221a47da9",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "interview",
+   "title": "Speaking Part 1 — Interview (global issues)",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": null,
+   "intro": null,
+   "card_points": null,
+   "discussion_questions": [
+    "Do you follow the news much — on your phone, TV, or from people around you?",
+    "Is there a cause or issue you and your friends care about?",
+    "Do you do anything in daily life to help the environment, like recycling?",
+    "Are there clubs or groups at your school that try to make a difference?",
+    "When you were younger, was there a problem in the world you wanted to fix?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Instead of just 'yes', try: I care about protecting the environment (Point), because it's the one home we all share (Reason), so I try to get involved in small ways (Result) — joining a local clean-up made me feel I was really helping (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Extend a short answer",
+      "examples": [
+       "Yes, and the main reason is ___.",
+       "I do, mainly because ___."
+      ]
+     },
+     {
+      "fn": "Name something you care about + a reason",
+      "examples": [
+       "One cause I care about is ___, because ___.",
+       "I try to ___, as ___."
+      ]
+     },
+     {
+      "fn": "State a preference",
+      "examples": [
+       "I prefer ___, mainly because ___.",
+       "If I had to choose, I'd say ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Answer the examiner's warm-up questions about causes you care about — short answers, but extend each with a reason.",
+     "discussion_how": [
+      {
+       "q": "Do you follow the news much — on your phone, TV, or from people around you?",
+       "how": "Say how much you follow it, and where from. 'A bit, mainly on my phone — headlines keep me aware without taking over my day.' One honest detail is enough. No need to prove you're an expert."
+      },
+      {
+       "q": "Is there a cause or issue you and your friends care about?",
+       "how": "Name one cause, then a quick why. 'Yes — we care about the environment, mainly because it affects our future.' Even a simple shared interest counts. Keep it personal, not a speech."
+      },
+      {
+       "q": "Do you do anything in daily life to help the environment, like recycling?",
+       "how": "Say one small thing you do — or would like to. 'I try to recycle and waste less water.' One real action is plenty; you don't need a long list. If you don't, say what you'd start with."
+      },
+      {
+       "q": "Are there clubs or groups at your school that try to make a difference?",
+       "how": "Say if there are, and what they do — or what you'd like to see. 'Yes — we have an eco-club that runs clean-up days.' If your school doesn't, that's fine; mention a group you'd like to get involved with. One example is enough."
+      },
+      {
+       "q": "When you were younger, was there a problem in the world you wanted to fix?",
+       "how": "Share a childhood wish, then why it mattered to you. 'I wanted to save endangered animals — I loved them as a kid.' Even a small, simple memory works. Keep it warm and personal."
+      }
+     ],
+     "card_points_how": []
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) - develop every point.",
+     "Turning it into a speech or a lecture - keep it personal and warm.",
+     "Just agreeing - justify and add something (S2).",
+     "Rushing your delivery, or trailing off (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I extended each answer with a reason or example (not one word)"
+     },
+     {
+      "ref": "S1",
+      "text": "I named a cause I care about and said why"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear preference and justified it"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Caring about issues",
+       "words": [
+        "cause",
+        "environment",
+        "community",
+        "aware"
+       ],
+       "target_words": [
+        "aware"
+       ]
+      },
+      {
+       "label": "Taking part",
+       "words": [
+        "recycle",
+        "volunteer",
+        "support",
+        "get involved"
+       ],
+       "target_words": [
+        "get involved"
+       ]
+      },
+      {
+       "label": "Extend chunks",
+       "words": [
+        "mainly because",
+        "what I care about is",
+        "to be honest",
+        "especially"
+       ],
+       "target_words": [
+        "mainly because"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-06-07T03:03:53.385076+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "327af6df-065a-4985-bc7f-0e5c606d1e14",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "discussion",
+   "title": "Speaking 2 ('Can small actions change big problems?')",
+   "subtopic": "cooperation",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Some people say that individual actions cannot solve big global problems — only governments and large companies can. Others say everyday choices still matter. Discuss both views and give your own opinion.",
+   "card_points": null,
+   "discussion_questions": [
+    "Do small, everyday actions genuinely add up, or do they mainly make individuals feel better?",
+    "Is change more likely to come from millions of individuals, or from a few big decisions at the top?",
+    "Can ordinary people pressure governments and companies to act — and how?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "Although a single action seems tiny, it can spark change when others join in (Point), because shared commitment builds real momentum (Reason), so the collective effect grows powerful (Result) — arguably, when people collaborate toward a mutual goal, small steps become a force for change (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open a view",
+      "examples": [
+       "In my view, ___.",
+       "My position is that ___."
+      ]
+     },
+     {
+      "fn": "Reason",
+      "examples": [
+       "The main reason is that ___, which means ___.",
+       "This matters because ___."
+      ]
+     },
+     {
+      "fn": "Example / compare",
+      "examples": [
+       "For example, ___.",
+       "Compared with ___, ___."
+      ]
+     },
+     {
+      "fn": "Hedge & subordinate",
+      "examples": [
+       "It may be that ___, though arguably ___.",
+       "Although ___, it matters because ___."
+      ]
+     },
+     {
+      "fn": "Balance turn",
+      "examples": [
+       "On balance, though, ___.",
+       "That said, you could argue ___."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Discuss whether small individual actions can change big global problems — take a position and weigh it.",
+     "discussion_how": [
+      {
+       "q": "Do small, everyday actions genuinely add up, or do they mainly make individuals feel better?",
+       "how": "Take a view, then back it with a reason. 'They do add up — though arguably they help individuals stay motivated too, which matters.' Face the 'feel better' challenge honestly, then answer it. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Is change more likely to come from millions of individuals, or from a few big decisions at the top?",
+       "how": "Weigh the two, then land on a view. 'Although big decisions move faster, lasting change often needs millions of people behind it.' Show you see both forces, then say which you trust more. A balanced answer is strongest here."
+      },
+      {
+       "q": "Can ordinary people pressure governments and companies to act — and how?",
+       "how": "Give a view, then name a real 'how'. 'Yes — through votes, petitions, and choosing where they spend their money.' Don't stop at 'yes'; say by what means. A concrete method makes the answer convincing."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Open by saying where you stand — in one line. 'In my view, small actions really can add up to big change.' Take a clear side rather than staying neutral, then defend it. A firm opening gives the rest something to build on.",
+       "point": "open a clear view"
+      },
+      {
+       "how": "Now your strongest reason — one, built right out. Make the point, say why, show what follows, give an example. 'When millions make the same small choice, the effect grows huge, so no action is truly wasted.' One deep reason beats five quick ones.",
+       "point": "give your strongest reason"
+      },
+      {
+       "how": "Back it with something concrete — an example, or a comparison. Compare one person recycling with a whole city doing it together. Or contrast acting alone with people who collaborate toward a shared goal. A real case convinces more than a claim.",
+       "point": "add an example or a comparison"
+      },
+      {
+       "how": "Show you've weighed it — concede one fair point, and stay balanced. 'Arguably, big problems also need big decisions from leaders, not just individuals.' One honest concession makes you sound thoughtful, not one-sided. Then you can still lean to your view.",
+       "point": "make a balance turn"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent turn — ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Just agreeing in the discussion — justify and add something (S2).",
+     "Finishing too quickly, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I took a clear position and didn't sit on the fence"
+     },
+     {
+      "ref": "S1",
+      "text": "I gave developed reasons, not just opinions"
+     },
+     {
+      "ref": "S1",
+      "text": "I used a hedge or a subordinate clause to weigh my point (although / arguably / it may be)"
+     },
+     {
+      "ref": "S2",
+      "text": "I made a balance turn and still landed on a view"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Working together",
+       "words": [
+        "collaborate",
+        "mutual",
+        "consensus",
+        "coalition"
+       ],
+       "target_words": [
+        "collaborate",
+        "mutual"
+       ]
+      },
+      {
+       "label": "Individual vs collective",
+       "words": [
+        "accountability",
+        "commitment",
+        "grassroots",
+        "collective"
+       ],
+       "target_words": [
+        "commitment"
+       ]
+      },
+      {
+       "label": "Hedge / weigh",
+       "words": [
+        "arguably",
+        "on balance",
+        "tends to",
+        "it may be that"
+       ],
+       "target_words": [
+        "arguably"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "My honest view is that small, everyday actions do matter — but not on their own. If I recycle one bottle, that arguably changes nothing about the climate, and I can see why people say only governments and big companies move the needle; they control the factories, the laws, the energy.\n\nBut that's only half the picture. Millions of small actions genuinely add up — if a whole city cuts its waste a little, that's a real difference. More importantly, those choices change how people think: once you care at home, you vote for it and demand it from the shops you use.\n\nThat's where ordinary people pressure the powerful ones. Companies follow their customers, and governments follow voters, so when enough of us show real commitment and collaborate, the big decisions follow. So small actions feel tiny alone, but they're how the bigger changes get started.",
+   "required_vocab": null,
+   "grammar_focus": {
+    "hedging-language": "elicited by L2 hedging_frames (it may be that / arguably / tends to suggest)",
+    "complex-sentences-subordination": "elicited by L3 subordination_frames (although / if...then / while / which suggests)"
+   },
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S2"
+   ],
+   "feedback_mode": null,
+   "display_order": 3,
+   "created_at": "2026-06-02T18:38:45.221177+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "21d73040-c192-49c9-b2c3-3182915f7e4f",
+   "unit_id": "be85ef61-44d0-4ac5-9e57-5f13cb0b3b5b",
+   "task_type": "long-turn",
+   "title": "Speaking 1 ('An issue that matters to me')",
+   "subtopic": "mixed",
+   "difficulty": null,
+   "topic": null,
+   "intro": "Describe a global issue that matters to you, and explain what you — or young people like you — could do about it.",
+   "card_points": [
+    "what the issue is",
+    "why it matters to you",
+    "an effect you've noticed",
+    "what you or young people could do about it"
+   ],
+   "discussion_questions": [
+    "Do you think young people today feel more responsible for global problems than past generations did?",
+    "Is it better to focus deeply on one issue you care about, or to stay aware of many?",
+    "Should schools spend more time teaching students about global issues?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "One issue I care about is the disparity between rich and poor (Point), because it's not fair that where you're born decides your chances (Reason), so it drives me to want to help close that gap (Result) — even small efforts, like supporting education charities, can help mitigate it over time (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "The issue that matters most to me is ___.",
+       "I'd like to talk about ___."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "It matters to me because ___, which means ___.",
+       "For example, ___."
+      ]
+     },
+     {
+      "fn": "Name an effect",
+      "examples": [
+       "One effect I've noticed is ___.",
+       "You can already see ___."
+      ]
+     },
+     {
+      "fn": "Agency close",
+      "examples": [
+       "I believe we can ___, by ___.",
+       "Even small steps, like ___, can help."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk about a global issue that matters to you, then discuss it with the examiner.",
+     "discussion_how": [
+      {
+       "q": "Do you think young people today feel more responsible for global problems than past generations did?",
+       "how": "Take a view, then give a reason. 'I think we do — we grew up more aware of these problems, and more connected to them.' Compare generations fairly, then say where you land. A reason turns an opinion into a real answer."
+      },
+      {
+       "q": "Is it better to focus deeply on one issue you care about, or to stay aware of many?",
+       "how": "Pick a side, then justify it. 'Better to focus deeply — you can actually make a difference on one, instead of feeling helpless about all.' Weigh depth against breadth, then choose. A clear reason makes your stand solid."
+      },
+      {
+       "q": "Should schools spend more time teaching students about global issues?",
+       "how": "Give a view, with a reason. 'Yes — understanding the world helps us act on it, not just worry about it.' Think about what students gain. Back your view, and it lands."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name the issue clearly, then add one concrete detail. 'The issue I care about is plastic waste — millions of tonnes reach our oceans each year.' Don't stay vague; one real fact makes it solid. Set it up before you say why it matters.",
+       "point": "what the issue is"
+      },
+      {
+       "how": "Make it personal — why does this one matter to you? 'It matters to me because I love the sea, and I hate seeing it harmed.' A genuine, personal reason beats a textbook one. Let me hear why you, in particular, care.",
+       "point": "why it matters to you"
+      },
+      {
+       "how": "Point to one real effect — near you, or in the world. 'I've noticed more litter on beaches, and news of animals harmed by it.' One observed effect grounds your talk in reality. You don't need statistics; what have you seen?",
+       "point": "an effect you've noticed"
+      },
+      {
+       "how": "End on hope — one realistic thing you or young people could do. 'We can cut single-use plastic, and get involved in local clean-ups.' Keep it doable, not preachy; small actions add up. Ending on agency leaves the talk positive.",
+       "point": "what you or young people could do about it"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — develop each card point with detail and reflection, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your views in the discussion and respond to follow-ups — not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every card point.",
+     "Listing problems with no personal angle — the card asks why it matters to YOU.",
+     "Ending on doom — the card asks what could be DONE; finish on agency.",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with reasons and detail (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I ended on what could be done, not just the problem"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Naming the issue",
+       "words": [
+        "inequality",
+        "emissions",
+        "pollution",
+        "disparity"
+       ],
+       "target_words": [
+        "disparity"
+       ]
+      },
+      {
+       "label": "Why it matters",
+       "words": [
+        "aware",
+        "affected",
+        "concerned",
+        "urgent"
+       ],
+       "target_words": [
+        "aware"
+       ]
+      },
+      {
+       "label": "Taking action",
+       "words": [
+        "get involved",
+        "mitigate",
+        "raise awareness",
+        "collaborate"
+       ],
+       "target_words": [
+        "get involved",
+        "mitigate"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace — don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": false
+   },
+   "model_response": "The global issue that matters most to me is plastic waste, especially the plastic that ends up in the sea. I've chosen it because it's something I can actually see — once you become aware of it, it's everywhere.\n\nIt matters to me partly because I love the ocean; my family used to spend summers near the coast, and the idea of those places filling up with rubbish really upsets me. It also worries me because plastic doesn't disappear — it breaks into tiny pieces, gets into the fish, then into us.\n\nAn effect I've noticed is on the beaches near where we used to go: a few years ago they were beautiful; now you find bottles and packaging washed up on the sand. That change happened fast, and it brought the problem home.\n\nSo what can we do? Young people like me can get involved in plenty of ways — cutting single-use plastic, carrying our own bottles, joining beach clean-ups. We can't mitigate this alone, though; our real power is pressure — talking about it and pushing companies to use less plastic. Each action feels tiny, but together I believe we can shift how everyone thinks.",
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": [
+    "S1"
+   ],
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-06-02T18:38:45.221177+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}

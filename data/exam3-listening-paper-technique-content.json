@@ -1,0 +1,138 @@
+{
+ "_about": "Real live content for Listening Paper Technique (listening-paper-technique). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": "E3",
+  "slug": "listening-paper-technique",
+  "title": "Listening Paper Technique",
+  "unit_id": "683e6643-4da2-425b-a106-e29ab7c34ee8",
+  "kind": "exam-technique"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Note-Taking During Playback: Capturing Without Losing the Thread",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Paper 2 · Exercise 1 — Four Short Recordings"
+   ]
+  },
+  {
+   "order": 2,
+   "title": "Gap-Fill Traps: Why the Obvious Word Is Often Wrong",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "word_sort",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Paper 2 · Exercise 2 — A Talk About the School Trip"
+   ]
+  },
+  {
+   "order": 3,
+   "title": "Prediction Before Listening: Using the Pause Wisely",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Paper 2 · Exercise 3 — A Talk on the Recycling Scheme"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Common Transcription and Spelling Errors",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Paper 2 · Exercise 4 — Six Speakers: My First Job"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Tracking Multi-Part Questions Across a Long Audio Passage",
+   "skill": "Exam Technique",
+   "minutes": 12,
+   "blocks": [
+    "text",
+    "coached_question",
+    "listening",
+    "listening_questions"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Paper 2 · Exercise 5 — Interview with a Sea-Turtle Rescuer"
+   ]
+  }
+ ],
+ "reading_passages": [],
+ "listening_tracks": [
+  {
+   "title": "Paper 2 · Exercise 1 — Eight Short Recordings",
+   "accent": "four voices; clear, standard accents",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear four short recordings. Read the questions in the pause before each one.",
+   "script_text": "[Recording 1] Attention please. The library will close at three o'clock today, not the usual five, because the shelves are being replaced. Any books due back today can be returned tomorrow without a fine.\n[Recording 2] Right, listen up. Because the pitch is waterlogged, this afternoon's practice moves indoors to the sports hall. Bring trainers, not boots — the hall floor marks easily.\n[Recording 3] \"Have you seen the bus times? I thought the 42 left at ten past.\" \"They changed it last week. It's twenty past now, so we've actually got ten minutes.\"\n[Recording 4] Good afternoon. The guided tour of the castle starts from the courtyard, not the main entrance as printed on your ticket. It leaves in fifteen minutes, so please make your way over now.\n[Recording 5] Attention swimmers. The main pool is closed this morning for cleaning, so this week's lessons will run in the training pool instead. Please use the changing rooms on the upper floor, not the ones by the entrance.\n[Recording 6] \"Is the history essay still due on Thursday?\" \"It was, but Mr Doyle moved it to Monday, because half the class is away on the trip.\"\n[Recording 7] The delayed nine forty service to Riverside will now depart from platform six. Passengers already waiting on platform two should cross using the footbridge, not the underpass, which is closed this week.\n[Recording 8] A reminder that the school shop now takes card payments only — we no longer accept cash at all. The shop opens at break time, not before school as it did last term."
+  },
+  {
+   "title": "Paper 2 · Exercise 2 — A Talk About the School Trip",
+   "accent": "single speaker; teacher, clear and measured",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "Listen and complete the notes. Careful: some obvious words are not the right answer.",
+   "script_text": "Good morning, everyone. A few details about Friday's trip to the science museum, so please listen carefully rather than relying on the letter — one or two things have changed.\nThe coach leaves from the school car park at eight fifteen. That is fifteen minutes earlier than the letter said, because of the roadworks on the ring road. Please do not arrive at eight thirty and expect us to wait.\nBring a packed lunch. There is a café at the museum, but it gets extremely busy at midday and we will not have time to queue. Bring a bottle of water too — the museum is warm.\nYou do not need money for the entrance, which the school has already paid, but the gift shop is open at the end if you want it.\nWe will be back at school by half past four. If you are being collected, tell your family half past four, not four o'clock."
+  },
+  {
+   "title": "Paper 2 · Exercise 3 — A Talk on the Recycling Scheme",
+   "accent": "single speaker; scheme organiser, clear",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "Listen and complete the notes with one or two words or a number.",
+   "script_text": "Thanks for coming. I am Priya Raman — that is R-A-M-A-N — and I run the town's recycling scheme.\nWe started the scheme in two thousand and nineteen with just four streets. Today it covers the whole town, about twelve thousand homes.\nHere is how it works. Paper and card go in the blue box. Glass, tins and plastic bottles go in the green bin. Food waste goes in the small brown caddy, which is collected every week — the other bins are collected fortnightly.\nThe biggest mistake people make is putting greasy pizza boxes in with the paper. The grease ruins the whole batch, so a single box can spoil a lorry-load. If the card is dirty, it goes in the general waste.\nWe are proudest of the schools programme. Eleven schools now run their own collections, and the pupils there recycle almost twice as much at home as the town average."
+  },
+  {
+   "title": "Paper 2 · Exercise 4 — Six Speakers: My First Job",
+   "accent": "six distinct voices; varied ages and accents",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "Listen to six people talking about their first job. Match each speaker to a statement.",
+   "script_text": "Speaker 1: I worked in my uncle's shop the summer I turned sixteen. The pay was terrible, honestly, but I learned to talk to strangers without going red, and that has been worth more than the money ever was.\nSpeaker 2: Mine was washing up in a hotel kitchen. What surprised me was the chefs — they were under enormous pressure and still stopped to show me things properly. I copy that now with new staff.\nSpeaker 3: I delivered newspapers at six in the morning, in the rain, for two years. I hated every minute. But I have never once been late for anything since, because that round taught me what being late actually costs other people.\nSpeaker 4: I tutored a neighbour's son in maths. I thought I was good at maths until I had to explain it. Trying to teach it showed me all the gaps in what I thought I knew.\nSpeaker 5: A supermarket, on the tills. I was so shy that I nearly quit in the first week. My manager just put me on the busiest till and left me there. By August I could handle anyone.\nSpeaker 6: I worked at a campsite, cleaning. It was the first time nobody was checking my work, and I realised that whether I did it properly was entirely up to me. That was the lesson, really."
+  },
+  {
+   "title": "Paper 2 · Exercise 5 — Interview with a Sea-Turtle Rescuer",
+   "accent": "two speakers; interviewer and guest",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "Listen to the interview and answer the questions.",
+   "script_text": "INTERVIEWER: With me today is Nadia Haddad, who runs a sea-turtle rescue centre. Nadia, how did this begin?\nNADIA: Almost by accident. I was a diving instructor, and I kept finding turtles tangled in fishing line. I took the first one to a vet who admitted she had never treated one. So I started learning, mostly because nobody else was going to.\nINTERVIEWER: What is the most common injury you see?\nNADIA: People assume it is plastic bags, and those do cause harm. But by far the most common is old fishing line and netting — it wraps around a flipper and tightens. That is perhaps seven in ten of the animals we admit.\nINTERVIEWER: How long does a turtle stay with you?\nNADIA: It varies enormously. A minor wound might be three weeks. A turtle that has lost a flipper can be with us eighteen months, learning to swim again. We do not release anything that cannot feed itself.\nINTERVIEWER: Is there a case you remember most?\nNADIA: A big loggerhead we called Hercules. He arrived barely alive and took nearly two years. The day we released him he simply sat in the shallows for ten minutes, as if deciding. Then he was gone. I have never forgotten it.\nINTERVIEWER: What would you say to someone who wants to help?\nNADIA: Do not send money first. Pick up the line you see on a beach. Ninety per cent of what we treat began as somebody's tackle left behind."
+  }
+ ],
+ "writing_tasks": [],
+ "speaking_tasks": []
+}

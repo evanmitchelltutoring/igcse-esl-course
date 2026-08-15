@@ -1,0 +1,385 @@
+{
+ "_about": "Real live content for Speaking Paper Technique (speaking-paper-technique). Mirror in decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": "E4",
+  "slug": "speaking-paper-technique",
+  "title": "Speaking Paper Technique",
+  "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+  "kind": "exam-technique"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "The Warm-Up Is Not Assessed — But It Still Matters",
+   "skill": "Exam Technique",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Reading the Topic Card: The Prompts Are a Ladder, Not a List",
+   "skill": "Exam Technique",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "coached_question",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Developing an Answer: Reason, Example, Contrast",
+   "skill": "Exam Technique",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "word_sort",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 4,
+   "title": "When You Run Out: Hesitation That Costs Nothing",
+   "skill": "Exam Technique",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "coached_question",
+    "reflection",
+    "speaking_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "reading_passages": [],
+ "listening_tracks": [],
+ "writing_tasks": [],
+ "speaking_tasks": [
+  {
+   "id": "25ae3c49-99ae-4b78-8590-76bb154bb71d",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "interview",
+   "title": "Warm-up: Talking About Yourself",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Part 1 · Warm-up",
+   "intro": "This part is not assessed. It exists so that you can settle, hear your own voice, and get used to the examiner's pace before the card comes out. Answer naturally, in a sentence or two — you are not performing yet, you are warming up. If you are nervous, say so; examiners are used to it, and it costs you nothing here.",
+   "card_points": null,
+   "discussion_questions": [
+    "Tell me a little about where you live and who you live with.",
+    "What are you studying at the moment, and which subject do you enjoy most?",
+    "What do you usually do after school or at the weekend?",
+    "Is there something you are hoping to do in the next year or two?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 1,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "12356578-3932-4319-80d4-8b4c9102eda7",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "topic_card",
+   "title": "Topic Card: Technology and Everyday Life",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Part 2 · Topic card",
+   "intro": "You have two to three minutes to prepare. Make brief notes if you want to, but do not write out sentences to read aloud — the examiner is listening for a conversation, not a recital. Then talk about the topic, using the prompts to keep yourself going. You do not have to use all five, and you may add ideas of your own.",
+   "card_points": [
+    "the kinds of technology you use most in an ordinary day",
+    "how technology has changed the way you study or learn",
+    "whether being contactable at all times is a good thing or a bad one",
+    "a piece of technology you would find hard to give up, and why",
+    "how everyday technology might look twenty years from now"
+   ],
+   "discussion_questions": [
+    "Some people say young people spend too long looking at screens. How far do you agree?",
+    "Should schools decide how much technology students use, or should that be left to families?",
+    "Is there any technology you think the world would be better off without?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 2,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "0829a9de-776b-4e5d-83af-acbc1ad4f7e2",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "topic_card",
+   "title": "Topic Card: The Place Where You Live",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Part 2 · Topic card",
+   "intro": "Two to three minutes to prepare, then we talk. Notes are fine; a written-out speech is not. Use the prompts as a route rather than a checklist — if one of them opens up into something you actually want to say, follow it and let the others go.",
+   "card_points": [
+    "what your area is like for somebody who has never been there",
+    "what there is for young people to do nearby",
+    "something about the area that has changed in your lifetime",
+    "one thing you would change if the decision were yours",
+    "whether you would still want to live there in ten years' time"
+   ],
+   "discussion_questions": [
+    "Is it better to grow up in a city or in a smaller town?",
+    "Many people move away for work or study. What do they gain, and what do they lose?",
+    "Whose job is it to look after a neighbourhood — the people who live there, or the government?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 3,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "7027c87d-7fae-4e6c-947f-6c0c02a65303",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "topic_card",
+   "title": "Topic Card: Learning and School",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Part 2 · Topic card",
+   "intro": "You have two to three minutes to prepare. Brief notes only — full sentences read aloud always sound like reading, and the examiner will hear it immediately. Talk for as long as you comfortably can, and let one idea lead into the next rather than treating the prompts as five separate questions.",
+   "card_points": [
+    "the subject you find most useful, and why",
+    "how you prefer to learn something new",
+    "a teacher or another person who changed the way you study",
+    "whether exams are a fair way to measure what somebody knows",
+    "something you would like to learn that school does not teach"
+   ],
+   "discussion_questions": [
+    "Should students have more say in what they study?",
+    "Is it more important to learn facts, or to learn how to find them?",
+    "Some people say learning should carry on for the whole of life. What do you think?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 4,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "2e994c33-1478-434d-8b4a-02c945c5628f",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "topic_card",
+   "title": "Topic Card: Health and Free Time",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Part 2 · Topic card",
+   "intro": "Two to three minutes to prepare. Notes, not sentences. This card rewards honesty more than ambition — a real answer about what you actually do will always develop further than an ideal answer about what you think you should do.",
+   "card_points": [
+    "what you do to stay healthy, and how easy it is to keep up",
+    "how you usually spend your free time",
+    "whether people your age are more or less active than they used to be",
+    "something you have tried that you would recommend to a friend",
+    "how you balance schoolwork with rest"
+   ],
+   "discussion_questions": [
+    "Should schools give students more time for sport and rest?",
+    "Is staying healthy the responsibility of the individual, or of society?",
+    "Some people say we are all busier than we used to be. Do you agree?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 5,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  },
+  {
+   "id": "7dd07cf2-0dc6-4821-8c46-46512dfa702f",
+   "unit_id": "ad1af904-33c8-4834-ab34-6c76df40e51c",
+   "task_type": "discussion",
+   "title": "Full Paper 3 Rehearsal: Warm-up + Topic Card",
+   "subtopic": null,
+   "difficulty": null,
+   "topic": "Full paper · rehearsal",
+   "intro": "This is the whole test in one sitting, in the real order: a short warm-up that is not assessed, then two to three minutes to prepare the card, then the card itself, then the discussion that grows out of it. Record it in ONE take and leave your pauses in. Sitting the whole paper once, badly, teaches you more than practising the parts separately three times — because what you are really rehearsing is keeping going when a question surprises you.",
+   "card_points": [
+    "how young people where you live usually get money of their own",
+    "whether students should take a part-time job while studying",
+    "something you saved up for, and whether it turned out to be worth it",
+    "how you decide whether something is worth spending money on",
+    "whether schools should teach people how to manage money"
+   ],
+   "discussion_questions": [
+    "Should parents give children a fixed amount of money each week?",
+    "Is it wiser to save carefully, or to enjoy what you have now?",
+    "Do you think people your age worry about money more than their parents did at the same age?"
+   ],
+   "scaffolds": null,
+   "model_response": null,
+   "required_vocab": null,
+   "grammar_focus": null,
+   "rubric": {
+    "total": 40,
+    "scheme": "cambridge_speaking_4x10",
+    "Grammar": {
+     "max": 10
+    },
+    "Vocabulary": {
+     "max": 10
+    },
+    "Development": {
+     "max": 10
+    },
+    "Pronunciation": {
+     "max": 10
+    }
+   },
+   "exam_refs": null,
+   "feedback_mode": null,
+   "display_order": 6,
+   "created_at": "2026-07-15T04:46:51.769579+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": false
+  }
+ ]
+}

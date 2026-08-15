@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #0f7d76; } a:hover { color: #0a5a55; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="U4 Opener · Title" data-speaker-notes="Welcome students to Unit 4. This opener sets up the whole unit — the big idea, the four strands (travel, living abroad, language, and what stays with us), how we work, and the personal piece they build toward. Read the title and byline, then move to the big idea." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#0f7d76;">Unit 4 · Unit Opener</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:104px;line-height:.98;margin:0;letter-spacing:-.015em;">Cultures &amp;<br>Connections</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">Travel, language, and the places that change us.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">11 lessons</span>
+        <span style="color:#8a8478;">Reading · Writing · Listening · Speaking · Use of English</span>
+      </div>
+    </div>
+    <div style="width:624px;position:relative;background:#e7e0d4;">
+      <image-slot id="u4-opener-hero" src="assets/images/u4-opener-hero.jpg" shape="rect" fit="cover" placeholder="Unit cover: culture & travel — a busy street market in an unfamiliar city, a train window view, or a traveller with a small bag pausing in a new place. Warm, human, curious. Faces not identifiable."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="The Big Idea" data-screen-label="U4 Opener · Big idea" data-speaker-notes="The through-line for the unit. Travel and living among other cultures change both the traveller and the place. The real story isn't the landmarks — it's what shifts inside us, and the question of where we belong. Students return to this idea in every lesson." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">The big idea</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:74px;line-height:1.08;margin:20px 0 0;max-width:1580px;">A journey changes more than your <span style="color:#e8b56a;">location</span> — it changes how you see, speak, and belong.</h2>
+    <p style="font-size:36px;line-height:1.4;margin:40px 0 0;max-width:1460px;color:#dbe2ea;">This unit moves from the quick <em>tourist gaze</em> to the slow work of living somewhere new, learning to switch between languages and selves, and carrying a place home with you. The question underneath it all: <strong>what does it mean to belong?</strong></p>
+  </section>
+
+  <section data-label="Four Strands" data-screen-label="U4 Opener · Four strands" data-speaker-notes="Preview the four strands the unit moves through. Each has its own texts, vocabulary and tasks. Read each; ask students which they've felt themselves — a quick show of hands warms them up." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">The four strands of this unit</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:58px;line-height:1.0;margin:12px 0 30px;">Four ways a place gets under your skin</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #0f7d76;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#0f7d76;">The Tourist Gaze</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">How we <em>see</em> a place in a few short hours — and what that view misses.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #e0a13c;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#b07a1e;">Living Elsewhere</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">The slow, real work of settling into an unfamiliar home.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #7a9fd4;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#3f62a0;">Code-Switching</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Changing how we speak and act to move between languages and groups.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-left:8px solid #9a7fbf;border-radius:16px;padding:30px 36px;"><div style="font-family:Archivo,sans-serif;font-size:36px;font-weight:700;color:#6b4e94;">What Stays With You</div><div style="font-size:30px;line-height:1.4;margin-top:8px;color:#3d3830;">Coming home changed — nostalgia, perspective, and what you carry back.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Your Goals" data-screen-label="U4 Opener · Goals" data-speaker-notes="What students will be able to DO by the end. These are the unit's promises in student language; they map onto the Cambridge skills without the jargon. Reassure students every one is scaffolded." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">By the end of this unit, you will…</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 30px;">What you'll be able to do</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Read</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">follow a personal story and read for <em>feeling</em> and attitude, not just facts.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Write</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">write a warm reflective article and a vivid description of a place.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Listen</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">catch detail and feeling in travellers' and returnees' voices.</span></div>
+      <div style="display:flex;gap:22px;align-items:center;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:24px 32px;"><span style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#0f7d76;min-width:130px;">Speak</span><span style="font-size:31px;line-height:1.35;color:#2c2822;">talk about belonging and home using the present perfect and relative clauses.</span></div>
+    </div>
+  </section>
+
+  <section data-label="How We Work · Modes" data-screen-label="U4 Opener · Modes" data-speaker-notes="Re-introduce the three modes students know from earlier units. The badge in the top-right corner of each slide tells them what to do: think and write, talk, or show me quickly. Consistency across units means no time lost explaining routines." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">How we work · the three modes</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 34px;">Watch the corner of each slide</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#f4d98b;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">notebook</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Think on your own and write it down. Silent focus.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#a8c8dd;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">talk</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Turn to a partner and speak. Use the sentence stems.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:32px 34px;"><div style="display:flex;align-items:center;gap:12px;"><span style="width:22px;height:22px;border-radius:50%;background:#8fbf9f;"></span><span style="font-family:Archivo,sans-serif;font-size:32px;font-weight:700;">show me</span></div><div style="font-size:29px;line-height:1.4;margin-top:14px;color:#3d3830;">Quick response — hands, fingers, or a vote. No writing.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Reading in Colour" data-screen-label="U4 Opener · Annotation" data-speaker-notes="Recap the annotation code used across the course: Meaning, Method, Response — now shown as bordered chips in their own palette, distinct from the round mode badges. In this unit, 'Method' often means how writers use sensory detail and feeling to pull you into a place. Students keep three colours ready." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:84px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Reading in three colours</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 32px;">How we mark up a text</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:#dcebe9;border:1px solid #cfe0dd;border-left:8px solid #2f6d6a;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#2f6d6a;">● Meaning</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">What does it <em>say</em>? The facts and the main point.</div></div>
+      <div style="background:#f4e2d4;border:1px solid #e6cdb6;border-left:8px solid #b4632e;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#b4632e;">● Method</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How is it <em>said</em>? Sensory detail, feeling, strong words.</div></div>
+      <div style="background:#efe1ee;border:1px solid #ddc9db;border-left:8px solid #8a5a86;border-radius:16px;padding:32px 34px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#8a5a86;">● Response</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#2c2822;">How do <em>you</em> react? What it reminds you of, or makes you feel.</div></div>
+    </div>
+  </section>
+
+  <section data-label="Skill Bank" data-screen-label="U4 Opener · Skill Bank" data-speaker-notes="The Skill Bank continues across the whole course. Students keep adding one strategy per lesson to a running revision sheet. Remind them it already holds entries from Units 1–3 — this unit adds reading-for-feeling, listening, writing and speaking strategies for personal and cultural texts." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Your Skill Bank · keep building it</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:64px;line-height:1.05;margin:18px 0 24px;max-width:1500px;">One strategy, every lesson — a revision sheet you build yourself.</h2>
+    <div style="display:flex;gap:20px;">
+      <div style="flex:1;background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;color:#3d3830;">Every lesson ends with one <strong>Skill Bank</strong> card — a reading, writing, listening or speaking move you can reuse in the exam.</div>
+      <div style="flex:1;background:#14243d;color:#f4efe6;border-radius:14px;padding:26px 30px;font-size:28px;line-height:1.4;">By the end of Unit 4 you'll have added <strong>more</strong> — on top of everything from Units 1–3.</div>
+    </div>
+  </section>
+
+  <section data-label="Vocabulary Families" data-screen-label="U4 Opener · Vocab preview" data-speaker-notes="Preview the four vocabulary families, one per strand. Students meet these fully in Lesson 2 — this is a taste so the words feel familiar. Say a few chorally to set the 'say it before you meet it' habit." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Words you'll build · four families</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.0;margin:12px 0 28px;">A taste of the vocabulary</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#0f7d76;margin-bottom:12px;">The Tourist Gaze</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">itinerary · landmark · picturesque · superficial · vantage point</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#b07a1e;margin-bottom:12px;">Living Elsewhere</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">settle in · unfamiliar · routine · gradually · friction</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#3f62a0;margin-bottom:12px;">Code-Switching</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">bilingual · dialect · fluent · adjust · in-between</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:700;color:#6b4e94;margin-bottom:12px;">What Stays With You</div><div style="font-size:30px;line-height:1.7;color:#2c2822;">nostalgia · homesick · roots · cherish · perspective</div></div>
+    </div>
+  </section>
+
+  <section data-label="Capstone" data-screen-label="U4 Opener · Capstone" data-speaker-notes="Show students the destination: the whole unit builds toward a personal piece. Naming it now gives every lesson a purpose — the readings, vocabulary and grammar all feed into it. Keep it light; details come in the writing lessons." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;padding:96px 80px 96px 110px;display:flex;flex-direction:column;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#7fc9c2;">Where this unit is going</div>
+      <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:72px;line-height:1.03;margin:18px 0 22px;">A Place That<br>Shaped You</h2>
+      <p style="font-size:34px;line-height:1.4;margin:0;max-width:760px;color:#dbe2ea;">You'll write and share a vivid, personal piece about a place that changed you — real or imagined — using the sensory detail, vocabulary and structures you build all unit.</p>
+      <div style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap;font-family:Archivo,sans-serif;font-size:24px;font-weight:600;">
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Choose a place</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Show, don't tell</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">What it taught you</span>
+        <span style="background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 20px;">Share it</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#0f1c30;">
+      <image-slot id="u4-opener-apply" src="assets/images/u4-opener-apply.jpg" shape="rect" fit="cover" placeholder="A meaningful personal place — a family kitchen, a view from a childhood window, a market stall, a quiet street at dusk. Evocative and specific rather than grand. No identifiable faces."></image-slot>
+    </div>
+  </section>
+
+  <section data-label="Start · Next" data-screen-label="U4 Opener · Start" data-speaker-notes="Close the opener and launch Lesson 1. One line to leave them with: this unit is about how places and cultures change us — and how to put that into English. Move to Lesson 1." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:96px 110px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#0f7d76;">Let's begin</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:72px;line-height:1.05;margin:18px 0 30px;max-width:1560px;">Every place we pass through leaves a mark — this unit gives you the words to describe it.</h2>
+    <div style="display:flex;align-items:center;gap:28px;background:#14243d;color:#f4efe6;border-radius:18px;padding:36px 44px;">
+      <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#7fc9c2;">First lesson</div>
+      <div style="font-family:Archivo,sans-serif;font-size:42px;font-weight:600;">Lesson 1 · Visiting or Belonging?</div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

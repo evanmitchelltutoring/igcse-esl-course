@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <script src="./image-slot.js"></script>
+  <script src="./lesson-timer.js"></script>
+  <style>
+    body { margin: 0; }
+    a { color: #b07a1e; } a:hover { color: #8a5f13; }
+  </style>
+</helmet>
+<x-import component-from-global-scope="deck-stage" from="./deck-stage.js" width="1920" height="1080" hint-size="100%,100%">
+
+  <section data-label="Title" data-screen-label="E2 · Title" data-speaker-notes="Standalone exam-technique deck for the Writing paper. Six short clinics: covering content points, register, the 5-minute plan, mark-loss patterns, summary structure, and proofreading. Read the title, then how-this-works." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;display:flex;overflow:hidden;position:relative;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:100px 76px 92px 108px;">
+      <div style="font-family:Archivo,sans-serif;font-size:28px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#b07a1e;">Exam Technique · Paper 2</div>
+      <div>
+        <h1 style="font-family:Archivo,sans-serif;font-weight:700;font-size:96px;line-height:.98;margin:0;letter-spacing:-.015em;">Writing Paper<br>Technique</h1>
+        <p style="font-size:44px;line-height:1.25;margin:38px 0 0;color:#5a544c;font-style:italic;">Same ideas, more marks — by writing to the mark scheme.</p>
+      </div>
+      <div style="display:flex;align-items:center;gap:18px;font-family:Archivo,sans-serif;font-size:25px;font-weight:500;color:#3d3830;">
+        <span style="padding:11px 22px;background:#14243d;color:#f4efe6;border-radius:999px;">6 clinics · 12 min each</span>
+        <span style="color:#8a8478;">Content points · register · planning · mark-loss · summary · proofing</span>
+      </div>
+    </div>
+    <div style="width:600px;position:relative;background:#efe6d4;display:flex;align-items:center;justify-content:center;">
+      <div style="font-family:Archivo,sans-serif;font-weight:700;font-size:340px;line-height:1;color:#e0a13c;opacity:.85;">2</div>
+      <div style="position:absolute;bottom:70px;left:0;right:0;text-align:center;font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#8a6a2e;">Paper 2 · Writing</div>
+    </div>
+  </section>
+
+  <section data-label="How This Works" data-screen-label="E2 · How this works" data-speaker-notes="Set expectations. A technique clinic, not new content. Every clinic: the trap, the fix, and a timed rep against a real exam-style task. The mark scheme rewards content points, register and accuracy — write to it deliberately." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:88px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">How each clinic works</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:60px;line-height:1.02;margin:14px 0 34px;">The trap · the fix · a timed rep</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;flex:1;">
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">1 · The trap</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">The habit that quietly loses marks the writer had already earned.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">2 · The fix</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">A move drawn straight from what the mark scheme rewards.</div></div>
+      <div style="background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:34px 36px;"><div style="font-family:Archivo,sans-serif;font-size:34px;font-weight:700;color:#e8b56a;">3 · A timed rep</div><div style="font-size:29px;line-height:1.4;margin-top:12px;color:#dbe2ea;">Apply it to a real exam-style task, against the clock.</div></div>
+    </div>
+    <div style="margin-top:34px;font-size:30px;line-height:1.4;color:#e6ddd0;font-style:italic;">The examiner rewards content points, the right register, development and accuracy. Aim at those on purpose.</div>
+  </section>
+
+  <!-- CLINIC 1 -->
+  <section data-label="1 · Content Points" data-screen-label="E2 C1 · The trap + fix" data-speaker-notes="Clinic 1: covering every content point. The trap is writing beautifully about two of the three bullets and silently dropping the third — capping the content mark. The fix: turn the three bullets into three paragraphs and tick each. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 1 · Directed writing</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Cover <span style="color:#b07a1e;">every</span> content point</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Writing fluently about two bullets and quietly forgetting the third. A missed content point caps the whole content mark, however good the prose.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · one bullet, one paragraph</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Number the bullets. Make each its own paragraph, and develop it with a reason or a consequence. Tick each bullet off before you finish.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">"Develop" means one idea + a reason or result — not two ideas half-stated. Depth beats breadth.</div>
+  </section>
+
+  <section data-label="1 · Timed Rep" data-screen-label="E2 C1 · Content rep" data-speaker-notes="Rep on the school-library article task. Students don't write the whole thing — they plan one developed sentence per bullet. 3 minutes. Take a couple aloud; check each bullet is genuinely developed, not just named." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="180" label="Plan"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · one developed sentence per bullet</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.02;margin:8px 0 16px;">Task: article on extending the library's hours</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:12px;padding:16px 28px;font-size:24px;line-height:1.4;color:#2c2822;margin-bottom:16px;">Some students need quiet space to study after school; others say the library already closes too early for anyone with after-school clubs. Write an article giving your views.</div>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:27px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Bullet 1</strong> · why extended hours would help → <span style="color:#b89a4a;">______ + a reason</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Bullet 2</strong> · answer the clubs-finish-late worry → <span style="color:#b89a4a;">______ + a response</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Bullet 3</strong> · recommend a trial → <span style="color:#b89a4a;">______ + why now</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Check:</strong> three bullets → three paragraphs, each with a reason. The strongest answers <em>respond</em> to bullet 2 rather than just mentioning it.</div>
+  </section>
+
+  <!-- CLINIC 2 -->
+  <section data-label="2 · Register" data-screen-label="E2 C2 · The trap + fix" data-speaker-notes="Clinic 2: register and tone. The trap is one register for every task — chatty in a report, or stiff in an email to a friend. The fix: name the audience, then choose greeting, contractions and vocabulary to match. Read, then the sort rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 2 · Register &amp; tone</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Match the <span style="color:#b07a1e;">voice</span> to the reader</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Writing every task in the same voice — slang in a formal report, or a stiff "I am writing to inform you" in an email to a close friend. Register alone can cap the mark.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · name the reader first</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Before writing, say who reads this. Friend → contractions, warmth, "Hi". Editor/council → formal, no contractions, "Dear…". Let the reader set greeting, vocabulary and sign-off.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Consistency matters most: pick the register on line one and hold it to the sign-off.</div>
+  </section>
+
+  <section data-label="2 · Timed Rep" data-screen-label="E2 C2 · Register sort" data-speaker-notes="Sort rep: students label each phrase Formal or Informal, and say where it belongs. 90 seconds. Answers after — stress that mixing the two is the giveaway examiners catch." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="90" label="Sort"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · formal or informal?</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 20px;">Label each — and name where it belongs</h2>
+    <div style="display:flex;flex-direction:column;gap:13px;font-size:28px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">1. "I am writing in response to your recent article…" <span style="color:#b89a4a;">F / I?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">2. "Guess what — I finally joined the photography club!" <span style="color:#b89a4a;">F / I?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">3. "It is recommended that the council approve this scheme." <span style="color:#b89a4a;">F / I?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">4. "Honestly I was really disappointed too." <span style="color:#b89a4a;">F / I?</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Answers:</strong> 1 F (letter to editor) · 2 I (email to sibling) · 3 F (report to council) · 4 I (email to friend). A report that slips into "Honestly…" or an email that opens "I am writing to inform you" loses the register mark.</div>
+  </section>
+
+  <!-- CLINIC 3 -->
+  <section data-label="3 · The 5-Min Plan" data-screen-label="E2 C3 · The trap + fix" data-speaker-notes="Clinic 3: planning. The trap is diving straight in and running out of ideas at paragraph two. The fix: a 5-minute plan — jot the three bullets, one idea + development each, and the order. Read, then the rep builds a plan." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 3 · The 5-minute plan</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Five minutes now saves the <span style="color:#b07a1e;">whole answer</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Starting to write immediately, then stalling at paragraph two with no plan — or repeating the same idea in different words to fill the space.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · a 5-minute skeleton</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Jot the three bullets, one idea + one development beside each, and number the order. Five minutes of planning buys a structured, non-repetitive answer.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">A plan is also insurance: if you run short of time, a planned skeleton still reads as a complete, ordered answer.</div>
+  </section>
+
+  <section data-label="3 · Timed Rep" data-screen-label="E2 C3 · Plan rep" data-speaker-notes="Rep: students draft a 5-minute plan for the recycling-report task — three sections, one idea + development each. 3 minutes. Compare plans; the model is on screen." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="180" label="Plan"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · build a 5-minute plan</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.02;margin:8px 0 16px;">Task: report recommending a school recycling scheme</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:12px;padding:15px 28px;font-size:23px;line-height:1.4;color:#2c2822;margin-bottom:16px;">Most students throw away paper and plastic mixed together; a nearby school's scheme cut its waste bill. Summarise the problem, outline a scheme, recommend it.</div>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:26px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Findings</strong> · problem + the survey detail → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Proposed scheme</strong> · three ordered steps → <span style="color:#b89a4a;">______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:14px 26px;"><strong>Recommendation</strong> · approve + the reason → <span style="color:#b89a4a;">______</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Model plan:</strong> Findings (single bins → nothing recyclable; nearby school cut costs) → Scheme (1 labelled bins · 2 assembly · 3 termly check) → Recommend (approve next term; low-risk, clear benefit).</div>
+  </section>
+
+  <!-- CLINIC 4 -->
+  <section data-label="4 · Mark-Loss" data-screen-label="E2 C4 · The trap + fix" data-speaker-notes="Clinic 4: common mark-loss patterns. The trap is losing marks to fixable habits — ignoring the word count, no paragraphs, repetition, no title on an article. The fix: a pre-flight checklist. Read, then the diagnose rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 4 · Mark-loss patterns</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 20px;">The marks you're <span style="color:#b07a1e;">giving away</span></h2>
+    <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:24px 34px;font-size:29px;line-height:1.4;color:#2c2822;margin-bottom:20px;">These cost marks a student had already earned — and every one is avoidable in seconds.</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;flex:1;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 28px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#b07a1e;">Word count</div><div style="font-size:26px;line-height:1.4;margin-top:6px;color:#2c2822;">Well under loses content marks; far over wastes time and adds errors.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 28px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#b07a1e;">No paragraphs</div><div style="font-size:26px;line-height:1.4;margin-top:6px;color:#2c2822;">One block of text caps organisation. One paragraph per idea.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 28px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#b07a1e;">Repetition</div><div style="font-size:26px;line-height:1.4;margin-top:6px;color:#2c2822;">Saying the same idea twice adds length, not marks.</div></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:14px;padding:22px 28px;"><div style="font-family:Archivo,sans-serif;font-size:27px;font-weight:700;color:#b07a1e;">Missing features</div><div style="font-size:26px;line-height:1.4;margin-top:6px;color:#2c2822;">No title on an article; no greeting/sign-off on a letter.</div></div>
+    </div>
+  </section>
+
+  <section data-label="4 · Timed Rep" data-screen-label="E2 C4 · Diagnose rep" data-speaker-notes="Rep: students diagnose the mark-loss in each mini-example and name the fix. 90 seconds. Answers after — quick, punchy, checklist-forming." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="90" label="Spot"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · name the mark-loss and the fix</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 20px;">What's costing the mark?</h2>
+    <div style="display:flex;flex-direction:column;gap:13px;font-size:27px;line-height:1.35;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">1. A 260-word article when the task said 120–160. <span style="color:#b89a4a;">problem? fix?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">2. An article submitted with no headline. <span style="color:#b89a4a;">problem? fix?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">3. Three paragraphs that each make the same point. <span style="color:#b89a4a;">problem? fix?</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:15px 26px;">4. A friendly email that ends with no sign-off. <span style="color:#b89a4a;">problem? fix?</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:25px;color:#2f6d49;"><strong>Answers:</strong> 1 over-length → cut to range · 2 missing feature → add a title · 3 repetition → replace two with new ideas · 4 missing feature → add "Speak soon, [name]".</div>
+  </section>
+
+  <!-- CLINIC 5 -->
+  <section data-label="5 · Summary" data-screen-label="E2 C5 · The trap + fix" data-speaker-notes="Clinic 5: structuring a summary. The trap is copying whole sentences from the source, or including examples and opinion. The fix: select the points, reword them, and connect them into one flowing paragraph. Read, then the rep." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 5 · The summary response</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">Select, reword, <span style="color:#b07a1e;">connect</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Lifting whole sentences from the text, or padding the summary with examples, opinion and repetition that earn nothing.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · three moves</div><div style="font-size:30px;line-height:1.4;color:#2c2822;"><strong>Select</strong> only the points the question asks for; <strong>reword</strong> each in your own words; <strong>connect</strong> them into one flowing paragraph with linkers.</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Leave out examples, statistics and your own opinion — a summary is points only, tightly linked.</div>
+  </section>
+
+  <section data-label="5 · Timed Rep" data-screen-label="E2 C5 · Summary rep" data-speaker-notes="Rep: from a short source, students select the three points, then reword one into a connected sentence. 2.5 minutes. Answers after — model the select→reword→connect chain." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:70px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="150" label="Summarise"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · select → reword → connect</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:42px;line-height:1.0;margin:8px 0 16px;">Summarise the benefits of the scheme</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:18px 30px;font-size:22px;line-height:1.45;color:#2c2822;margin-bottom:16px;">
+      Source: "The colour-coded bins made recycling simple, so more waste was sorted correctly. Because less went to landfill, the school's collection costs fell sharply. Pupils also reported feeling proud that their school was doing something visible about the environment."
+    </div>
+    <div style="display:flex;flex-direction:column;gap:11px;font-size:25px;line-height:1.3;color:#2c2822;">
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;"><strong>Select</strong> the 3 points → <span style="color:#b89a4a;">______ / ______ / ______</span></div>
+      <div style="background:#fff;border:1px solid #e5ddce;border-radius:12px;padding:12px 24px;"><strong>Reword + connect</strong> into one sentence → <span style="color:#b89a4a;">______</span></div>
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:24px;color:#2f6d49;"><strong>Model:</strong> points = easier sorting · lower costs · pupil pride. Connected: "The scheme made sorting easier, which cut collection costs and gave pupils a sense of pride." Reworded, linked, no lifting.</div>
+  </section>
+
+  <!-- CLINIC 6 -->
+  <section data-label="6 · Proofreading" data-screen-label="E2 C6 · The trap + fix" data-speaker-notes="Clinic 6: proofreading. The trap is using the last minutes to add more content, leaving avoidable errors. The fix: a targeted proof pass hunting your own known error types. Read, then the rep — students proof a short passage." style="width:1920px;height:1080px;box-sizing:border-box;background:#f7f3ec;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:80px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Clinic 6 · Proofreading</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:56px;line-height:1.02;margin:12px 0 24px;">The last three minutes are for <span style="color:#b07a1e;">errors</span></h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;">
+      <div style="background:#fbeee9;border:1px solid #f0d2c7;border-left:8px solid #c0503a;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#b0402a;margin-bottom:10px;">The trap</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Spending the final minutes cramming in one more idea — and leaving a page of avoidable slips that pull down the accuracy mark.</div></div>
+      <div style="background:#eef6f0;border:1px solid #cfe6d6;border-left:8px solid #2f8f57;border-radius:16px;padding:26px 32px;"><div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#2f8f57;margin-bottom:10px;">The fix · hunt your own errors</div><div style="font-size:30px;line-height:1.4;color:#2c2822;">Proof for the mistakes <em>you</em> make: verb endings (-s), a/the, tense consistency, spelling of the task's key words. One targeted pass beats reading it "for feel".</div></div>
+    </div>
+    <div style="margin-top:22px;background:#14243d;color:#f4efe6;border-radius:14px;padding:22px 34px;font-size:29px;line-height:1.4;">Keep a personal error list. If you always drop the -s on he/she verbs, that is the one thing to hunt first.</div>
+  </section>
+
+  <section data-label="6 · Timed Rep" data-screen-label="E2 C6 · Proof rep" data-speaker-notes="Rep: students find and fix five errors in a short passage. 2 minutes. Answers after — the five are a verb ending, a/the, tense, spelling, and agreement." style="width:1920px;height:1080px;box-sizing:border-box;background:#faf7f1;color:#1a1713;font-family:'Source Serif 4',Georgia,serif;padding:74px 90px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="position:absolute;top:44px;right:52px;"><lesson-timer seconds="120" label="Proof"></lesson-timer></div>
+    <div style="font-family:Archivo,sans-serif;font-size:24px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#b07a1e;">Rep · find and fix five errors</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:44px;line-height:1.0;margin:10px 0 18px;">Proof this paragraph</h2>
+    <div style="background:#fbfaf6;border:1px solid #e5ddce;border-radius:14px;padding:24px 34px;font-size:29px;line-height:1.7;color:#2c2822;">
+      "Dear Editor, I am writing about the bus service, which <span style="text-decoration:underline;text-decoration-color:#c0503a;">affect</span> students every day. Last week the bus <span style="text-decoration:underline;text-decoration-color:#c0503a;">arrive</span> late twice. This is <span style="text-decoration:underline;text-decoration-color:#c0503a;">a</span> unacceptable situation. Many student <span style="text-decoration:underline;text-decoration-color:#c0503a;">misses</span> their first lesson, and last month I <span style="text-decoration:underline;text-decoration-color:#c0503a;">will lose</span> valuable time."
+    </div>
+    <div style="margin-top:auto;background:#eef6f0;border:1px solid #cfe6d6;border-radius:12px;padding:16px 28px;font-size:26px;color:#2f6d49;"><strong>Answers:</strong> affect → <strong>affects</strong> (verb ending) · arrive → <strong>arrived</strong> (tense) · a → <strong>an</strong> (article) · student misses → <strong>students miss</strong> (agreement) · will lose → <strong>lost</strong> (tense). Five marks, three minutes.</div>
+  </section>
+
+  <section data-label="Takeaways" data-screen-label="E2 · Takeaways" data-speaker-notes="Close the deck. Recap the six moves as a pre-submit checklist. This deck pairs with the Reading, Listening and Speaking technique decks. End on time." style="width:1920px;height:1080px;box-sizing:border-box;background:#14243d;color:#f4efe6;font-family:'Source Serif 4',Georgia,serif;padding:82px 96px;display:flex;flex-direction:column;overflow:hidden;position:relative;">
+    <div style="font-family:Archivo,sans-serif;font-size:26px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#e8b56a;">Take it into the exam</div>
+    <h2 style="font-family:Archivo,sans-serif;font-weight:700;font-size:54px;line-height:1.02;margin:12px 0 26px;">Six moves for the Writing paper</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;font-size:28px;line-height:1.3;">
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">1</span><span>One bullet, one developed paragraph — cover them all.</span></div>
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">2</span><span>Name the reader; hold that register to the sign-off.</span></div>
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">3</span><span>Spend 5 minutes on a skeleton before you write.</span></div>
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">4</span><span>Kill the easy mark-losses: count, paragraphs, title, sign-off.</span></div>
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">5</span><span>Summary = select, reword, connect — no lifting or opinion.</span></div>
+      <div style="display:flex;gap:18px;align-items:baseline;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:18px 26px;"><span style="font-family:Archivo,sans-serif;font-weight:700;color:#e8b56a;min-width:36px;">6</span><span>Save 3 minutes to hunt your own known errors.</span></div>
+    </div>
+  </section>
+
+</x-import>
+</x-dc>
+</body>
+</html>

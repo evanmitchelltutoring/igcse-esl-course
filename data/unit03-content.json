@@ -1,0 +1,2288 @@
+{
+ "_about": "Real live content for Health & Wellbeing (healthy-living), pulled 2026-08-14. Mirror this in the decks/packets; do not change the live digital lessons.",
+ "unit": {
+  "order": 3,
+  "slug": "healthy-living",
+  "title": "Health & Wellbeing",
+  "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+  "kind": "thematic"
+ },
+ "lessons": [
+  {
+   "order": 1,
+   "title": "Welcome to Healthy Living",
+   "skill": "orientation",
+   "minutes": 15,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "reading_questions",
+    "vocab_exercise",
+    "word_sort",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 2,
+   "title": "Vocabulary Launch",
+   "skill": "vocabulary",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "vocab_set",
+    "vocab_exercise"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 3,
+   "title": "Move Your Way",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "grammar_exercise",
+    "vocab_set",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The Two-Minute Workout"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Two-Minute Workout"
+   ]
+  },
+  {
+   "order": 4,
+   "title": "Fuel & Focus",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "listening_questions",
+    "vocab_set",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The Energy Trap"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Energy Trap",
+    "Exercise 2 — Five Short Extracts"
+   ]
+  },
+  {
+   "order": 5,
+   "title": "Functional Grammar: Cause-Effect & Advice",
+   "skill": "grammar",
+   "minutes": 20,
+   "blocks": [
+    "owner_voice_slots",
+    "coached_question",
+    "teaching_page",
+    "grammar_exercise",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 6,
+   "title": "Mind & Mood",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "teaching_page",
+    "reading",
+    "reading_questions",
+    "listening",
+    "word_sort",
+    "vocab_set",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "The Highlight Reel"
+   ],
+   "listening_refs": [
+    "Read-Aloud: The Highlight Reel"
+   ]
+  },
+  {
+   "order": 7,
+   "title": "Rest & Recovery",
+   "skill": "reading",
+   "minutes": 25,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "reading",
+    "reading_questions",
+    "listening",
+    "listening_questions",
+    "vocab_set",
+    "speaking_task",
+    "reflection"
+   ],
+   "reading_refs": [
+    "Small Changes, Big Differences"
+   ],
+   "listening_refs": [
+    "Read-Aloud: Small Changes, Big Differences",
+    "Exercise 5 — Interview with a Sleep Scientist"
+   ]
+  },
+  {
+   "order": 8,
+   "title": "Listening Skills Workout",
+   "skill": "listening",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "listening",
+    "listening_questions",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": [
+    "Exercise 1 — Eight Short Recordings",
+    "Exercise 3 — A Talk on Staying Energised at School",
+    "Exercise 4 — Six Speakers: A Change for the Better"
+   ]
+  },
+  {
+   "order": 9,
+   "title": "Writing: Persuade a Friend",
+   "skill": "writing",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "grammar_exercise",
+    "writing_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 10,
+   "title": "Writing: Staying Healthy on a Budget",
+   "skill": "writing",
+   "minutes": 30,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "writing_task"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  },
+  {
+   "order": 11,
+   "title": "Review & Capstone Prep",
+   "skill": "mixed",
+   "minutes": 20,
+   "blocks": [
+    "text",
+    "owner_voice_slots",
+    "coached_question",
+    "vocab_exercise",
+    "reflection"
+   ],
+   "reading_refs": [],
+   "listening_refs": []
+  }
+ ],
+ "vocabulary": {
+  "General": [
+   {
+    "word": "a balanced approach",
+    "pos": "academic chunk",
+    "def": "a sensible method that avoids extremes"
+   },
+   {
+    "word": "can lead to",
+    "pos": "academic chunk",
+    "def": "links a cause to a likely result"
+   },
+   {
+    "word": "in the long run",
+    "pos": "academic chunk",
+    "def": "over a long period of time; eventually"
+   },
+   {
+    "word": "rely on",
+    "pos": "academic chunk",
+    "def": "to depend on something or someone"
+   },
+   {
+    "word": "the very opposite of",
+    "pos": "academic chunk",
+    "def": "completely different from; the exact reverse of"
+   },
+   {
+    "word": "there is growing evidence that",
+    "pos": "academic chunk",
+    "def": "a formal way to introduce a claim that research supports"
+   }
+  ],
+  "Fuel & Focus": [
+   {
+    "word": "alertness",
+    "pos": "noun",
+    "def": "the state of being awake, attentive, and quick to notice things"
+   },
+   {
+    "word": "consume",
+    "pos": "verb",
+    "def": "to eat, drink, or use up"
+   },
+   {
+    "word": "consumption",
+    "pos": "noun",
+    "def": "the act of eating, drinking, or using something"
+   },
+   {
+    "word": "dehydration",
+    "pos": "noun",
+    "def": "the harmful loss of water from the body"
+   },
+   {
+    "word": "hydrate",
+    "pos": "verb",
+    "def": "to give the body the water it needs"
+   },
+   {
+    "word": "misleading",
+    "pos": "adjective",
+    "def": "giving a wrong idea or impression"
+   },
+   {
+    "word": "moderation",
+    "pos": "noun",
+    "def": "the avoidance of extremes; keeping within sensible limits"
+   },
+   {
+    "word": "nourish",
+    "pos": "verb",
+    "def": "to provide the food and care needed to grow and stay healthy"
+   },
+   {
+    "word": "nutritious",
+    "pos": "adjective",
+    "def": "containing substances that the body needs to stay healthy"
+   },
+   {
+    "word": "processed",
+    "pos": "adjective",
+    "def": "(of food) changed from its natural state by being treated or prepared in a factory"
+   }
+  ],
+  "Mind & Mood": [
+   {
+    "word": "anxiety",
+    "pos": "noun",
+    "def": "a feeling of worry or unease, often about something uncertain"
+   },
+   {
+    "word": "awareness",
+    "pos": "noun",
+    "def": "knowledge or perception of a situation or feeling"
+   },
+   {
+    "word": "burnout",
+    "pos": "noun",
+    "def": "extreme physical or mental tiredness caused by too much stress over time"
+   },
+   {
+    "word": "comparison",
+    "pos": "noun",
+    "def": "the act of looking at two or more things to see how they are alike or different"
+   },
+   {
+    "word": "deliberate",
+    "pos": "adjective",
+    "def": "done on purpose; intentional and considered"
+   },
+   {
+    "word": "mindful",
+    "pos": "adjective",
+    "def": "aware of, and paying careful attention to, the present moment"
+   },
+   {
+    "word": "overwhelm",
+    "pos": "verb",
+    "def": "to affect someone so strongly that they cannot cope"
+   },
+   {
+    "word": "resilience",
+    "pos": "noun",
+    "def": "the ability to recover quickly from difficulties or to withstand hard conditions"
+   },
+   {
+    "word": "supportive",
+    "pos": "adjective",
+    "def": "giving help, encouragement, or sympathy to someone"
+   }
+  ],
+  "Move Your Way": [
+   {
+    "word": "automatic",
+    "pos": "adjective",
+    "def": "done without conscious thought, or happening by itself"
+   },
+   {
+    "word": "discouraged",
+    "pos": "adjective",
+    "def": "having lost confidence, enthusiasm, or the will to continue"
+   },
+   {
+    "word": "energetic",
+    "pos": "adjective",
+    "def": "full of energy and active"
+   },
+   {
+    "word": "flexibility",
+    "pos": "noun",
+    "def": "the quality of bending or adapting easily without breaking"
+   },
+   {
+    "word": "intense",
+    "pos": "adjective",
+    "def": "very strong, extreme, or forceful"
+   },
+   {
+    "word": "posture",
+    "pos": "noun",
+    "def": "the way someone holds their body, esp. when seated"
+   },
+   {
+    "word": "strengthen",
+    "pos": "verb",
+    "def": "to make or become stronger"
+   }
+  ],
+  "Rest & Recovery": [
+   {
+    "word": "balanced",
+    "pos": "adjective",
+    "def": "having different elements in the correct or healthy proportions"
+   },
+   {
+    "word": "consistent",
+    "pos": "adjective",
+    "def": "behaving or happening in the same way over time; regular and dependable"
+   },
+   {
+    "word": "drowsy",
+    "pos": "adjective",
+    "def": "sleepy and not fully alert"
+   },
+   {
+    "word": "recovery",
+    "pos": "noun",
+    "def": "a return to a normal or healthy state"
+   },
+   {
+    "word": "refreshed",
+    "pos": "adjective",
+    "def": "feeling energetic and revived again, especially after rest"
+   },
+   {
+    "word": "relaxation",
+    "pos": "noun",
+    "def": "the state of being free from tension and worry"
+   },
+   {
+    "word": "restore",
+    "pos": "verb",
+    "def": "to bring something back to its original or healthy state"
+   },
+   {
+    "word": "sceptical",
+    "pos": "adjective",
+    "def": "not easily convinced; having doubts (US spelling: skeptical)"
+   },
+   {
+    "word": "steady",
+    "pos": "adjective",
+    "def": "firm, stable, and not changing suddenly"
+   }
+  ]
+ },
+ "reading_passages": [
+  {
+   "title": "The MoveWell Weekend",
+   "topic": "Health & Wellbeing — community wellbeing event",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "Read the information about the MoveWell Weekend and answer the questions. Write a short answer (a few words) for each.",
+   "body": "Every March, the seaside town of Port Meridian closes its main promenade to traffic for two days and fills it with one thing: movement. The MoveWell Weekend began six years ago as a single yoga class on the beach. Today it draws more than four thousand visitors, and around half of them are under the age of twenty.\n\nThe idea is simple. Organisers believe that looking after your body and your mind should not feel like a punishment, and certainly should not be expensive. Every activity on the programme is free, from sunrise sea-swimming to late-evening drumming circles. The only session that must be booked in advance is the climbing wall, because safety equipment is limited; everything else, visitors can simply join.\n\nThis year's programme is divided into three zones. The Active Zone offers football, skating and dance; the Calm Zone is reserved for yoga, breathing workshops and quiet reading; and the Fuel Zone, run by a local college, teaches simple meals that a student can cook cheaply in under fifteen minutes. New for this year is a 'Phone Locker' near the entrance, where visitors can leave their devices for a few hours if they wish.\n\nVolunteers are at the heart of the weekend, and most are former visitors who wanted to give something back. 'I came here at fourteen feeling shy and unfit,' says Priya, now nineteen and a zone leader. 'Nobody judged me. That is the whole point — you arrive as you are.'\n\nThe festival asks only that guests bring a refillable water bottle, as no single-use plastic is sold on site. Tickets are not required, but the organisers recommend arriving before ten o'clock, as the promenade reaches capacity quickly on the Saturday. Those who cannot attend in person can follow selected sessions on the festival's free livestream."
+  },
+  {
+   "title": "The Energy Trap",
+   "topic": "Health & Wellbeing — food, drink & focus",
+   "difficulty": "extended",
+   "exam_part": 1,
+   "instructions": "Read the article about energy drinks and answer the questions. Write a short answer (a few words) for each.",
+   "body": "Walk into almost any corner shop after school and you will see them: brightly coloured cans promising instant energy, sharper focus and better performance. Energy drinks have become one of the most popular products among teenagers, yet many young people have no idea what they are actually drinking.\n\nA single large can can contain as much caffeine as two cups of strong coffee, along with several spoonfuls of sugar. In small amounts, caffeine is harmless for most adults. The problem is the dose. Health experts recommend that teenagers consume no more than one hundred milligrams of caffeine a day; some energy drinks contain three times that in a single serving.\n\nThe promised 'energy' is also misleading. The drinks do not create energy; they borrow it. Caffeine and sugar produce a short, sharp lift, usually followed an hour or two later by a crash that leaves the drinker more tired, and often hungrier, than before. Students who rely on them during exam season frequently report poorer sleep and difficulty concentrating — the very opposite of what they were hoping for.\n\nSome countries have responded with rules. In 2024, a number of supermarkets across the United Kingdom stopped selling the strongest energy drinks to anyone under sixteen, even before a law required it. Schools in several cities have removed them from vending machines entirely, replacing them with water stations and chilled fruit.\n\nThere are simpler alternatives for a genuine lift. Drinking water is the cheapest: even mild dehydration can cause tiredness and headaches that are easily mistaken for hunger. A handful of nuts, a banana, or a short walk outside will all raise alertness without the later crash.\n\nNone of this means the occasional can is dangerous. The advice from nutritionists is about awareness, not fear: read the label, know your limit, and remember that real, lasting energy comes from sleep, food and movement — not from a can."
+  },
+  {
+   "title": "Small Changes, Big Differences",
+   "topic": "Health & Wellbeing — changing a habit",
+   "difficulty": "extended",
+   "exam_part": 2,
+   "instructions": "Read about four young people (A, B, C and D) who changed one habit to feel healthier. For each question, choose the correct person (A, B, C or D). A person may be chosen more than once.",
+   "body": "A — Tom\nI used to drink two or three energy drinks a day, especially in the weeks before exams, convinced they kept me alert. The truth was the opposite: I was wired, then exhausted. I quit completely in January. The first few days were rough, and I still miss the taste sometimes, but my sleep is steadier and I am no longer spending half my allowance on cans. I had not realised how much they were costing me until I stopped.\n\nB — Lena\nI swapped the bus for my bike. It started as a way to avoid the crowded morning route, but it has become the best part of my day. I arrive at school properly awake instead of half asleep, and after a few months I noticed I could climb the stairs without losing my breath. I never once thought of it as 'training'. The only real drawback is the rain, which can turn a cheerful ride into a miserable one.\n\nC — Idris\nBefore big swimming competitions I used to lie awake, replaying everything that could go wrong. A coach suggested writing for five minutes each night — just my worries, nothing neat. I was sceptical, and honestly I forgot to do it for the first fortnight. Once it became a habit, though, something shifted. Putting a fear into words somehow made it smaller and less frightening. I still get nervous, but the panic no longer controls me.\n\nD — Mei\nJoining the Saturday cooking club at our community centre was meant to be a one-off. Two years later I am still there. I learned to turn cheap ingredients into proper, balanced meals, which has genuinely changed how I eat. But what surprised me was how much the company mattered — laughing with the same group every week was as good for me as the food. These days I cook dinner for my whole family most evenings."
+  },
+  {
+   "title": "The Captain Who Learned to Rest",
+   "topic": "Health & Wellbeing — rest, recovery & burnout",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the article about Jordan Achebe, then choose the best answer (A, B, C or D) for each question.",
+   "body": "At fifteen, Jordan Achebe was the player every coach wanted: the first to arrive at training, the last to leave, the one who ran extra laps when everyone else had gone home. By seventeen, he had almost given up the sport entirely. His story has since become a quiet warning passed around changing rooms across the country.\n\nJordan's problem was not laziness; it was the opposite. He had absorbed a single, dangerous belief — that more must always be better. Tired legs, he told himself, were a sign of weakness rather than a signal from his body. So he trained through aches that should have been rested, and treated every defeat as proof that he simply had not worked hard enough.\n\nThe breaking point came not on the pitch but in a classroom, when he could no longer concentrate and felt strangely flat about a sport he had once loved. A team doctor used a word Jordan had never applied to himself: burnout. 'I thought rest was something you earned,' he says now. 'Nobody had told me it was something you needed.'\n\nWhat followed was slower and less dramatic than any training session. Jordan learned to read his own tiredness, to take recovery days without guilt, and to measure progress over months rather than hours. His performance did not collapse, as he had feared. Within a year it had quietly improved.\n\nPerhaps the biggest change was in the kind of teammate he became. The boy who once judged others for resting now noticed when a friend was struggling and told them, gently, to ease off. When he was made captain last season, his coach pointed to exactly this. 'Jordan leads by permission,' she explained. 'He gives the younger players permission to look after themselves — and that makes the whole team stronger.'\n\nJordan is careful not to turn his story into a lecture. He still trains hard; he is still ambitious. But he no longer wears exhaustion like a medal. The lesson he offers younger players is short, and he repeats it often: your body is not the enemy. Learning to listen to it, he insists, is not the opposite of discipline. It is discipline of a wiser kind."
+  },
+  {
+   "title": "The Highlight Reel",
+   "topic": "Health & Wellbeing — stress, mood & social comparison",
+   "difficulty": "extended",
+   "exam_part": 4,
+   "instructions": "Read the article about Aisha Karim, then choose the best answer (A, B, C or D) for each question.",
+   "body": "Aisha Karim used to measure her days against a screen. Each evening she would scroll through photographs of classmates laughing on perfect beaches, winning competitions, and seemingly never having a bad hair day. By the time she put her phone down, her own life felt grey by comparison. 'I wasn't sad about anything real,' she remembers. 'I was sad that I wasn't someone else.'\n\nWhat Aisha did not yet understand is something psychologists have studied for years. Social media shows us other people's 'highlight reels' — the carefully chosen best moments — while we experience our own lives in full, including the boredom, the worry and the ordinary afternoons. Comparing the two is not just unfair; it is impossible to win.\n\nThe turning point for Aisha was small. A teacher mentioned, almost in passing, that the feeds we scroll are 'edited, not lived'. The phrase stuck. Aisha began to notice how often a single post could shift her whole mood, and how rarely that shift had anything to do with her actual day.\n\nShe did not delete her accounts — she is quick to say she is not against social media. Instead she ran an experiment. For one month she unfollowed any account that left her feeling worse, and started following ones that taught her something or made her laugh. She also set a rule: no scrolling for the first hour after waking, when, she had noticed, her mood was most easily knocked.\n\nThe change was not dramatic, but it was real. 'I didn't suddenly love my life,' she says. 'I just stopped renting space in my head to strangers.' Her concentration improved, and so, slowly, did her sleep.\n\nAisha now helps run a peer-support group at her school, where students talk openly about the pressure of comparison. She is careful not to preach. The point, she insists, is not that everyone should use their phone the way she does. It is simply that a feed is a choice, not a mirror — and that noticing how something makes you feel is the first, quietest step towards changing it."
+  },
+  {
+   "title": "Why We Laugh",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Laughter is something that every single human being shares, no matter where in the world they happen to live or what language they speak. It is found in every culture on Earth, and babies begin to laugh long before they can speak even their very first word, which strongly suggests that it is built into us from the very start rather than something we have to learn.\n\nMuch of our laughter is deeply social. We laugh far more often, and far more easily, when we are with other people than when we are entirely alone, and it quietly helps us to bond with one another and to show that we feel safe and at ease in the company of others. Interestingly, laughter is not always caused by jokes at all; in fact, most everyday laughter has nothing whatsoever to do with anything funny. We often laugh simply because someone we like has said something at just the right moment, or out of pure nervousness, surprise or relief.\n\nThere are real, measurable benefits, too. A good, hearty laugh helps to release tension from the body, relaxes our tight muscles and leaves us feeling lighter and calmer afterwards. Doctors increasingly believe that laughing regularly is even good for the heart and for our general health, lowering stress over the years. Strangest of all, careful studies suggest that even forced, fake laughter, with nothing funny behind it at all, can slowly begin to lift the mood and gently trick the body into feeling better. Perhaps that is exactly why laughter has so often been described, down the centuries, as the very best medicine of all."
+  },
+  {
+   "title": "The Two-Minute Workout",
+   "topic": "Health & Wellbeing — everyday physical activity",
+   "difficulty": "extended",
+   "exam_part": 3,
+   "instructions": "Read the article about 'exercise snacks' and complete the notes below. Under each heading, write the relevant points from the article — one short note on each line.",
+   "body": "For years, the advice was clear: to be healthy, you needed long sessions at the gym or a daily run. For busy students, that advice often led to nothing at all, because the task felt too big to begin. Now scientists are offering a gentler idea, and they have given it a memorable name: 'exercise snacks'.\n\nAn exercise snack is a very short burst of activity, often lasting only one or two minutes, repeated several times across the day. It might be climbing the stairs quickly, doing ten squats while the kettle boils, or dancing to a single song. The movements are ordinary; what matters is that they are intense enough to raise the heart rate, even briefly.\n\nThe benefits have surprised researchers. Studies suggest that several short bursts can improve heart fitness almost as effectively as one long workout. Because each snack is so brief, people are far more likely to actually do them, and far less likely to feel discouraged. There is a mental benefit too: a quick burst of movement between two hours of revision can sharpen concentration and lift a low mood.\n\nFitting them into a school day is easier than it sounds. Experts suggest attaching a snack to something you already do — a habit they call 'stacking'. You might do star jumps after brushing your teeth, or a brisk walk around the building between lessons. The key is to choose a trigger you never skip, so the movement eventually becomes automatic.\n\nNone of this replaces sport or play entirely; team games and longer activity still matter. But for the student who believes they 'have no time to exercise', the message is encouraging. Health, it turns out, can be built two minutes at a time."
+  },
+  {
+   "title": "The Hours We Borrow",
+   "topic": "Health & Wellbeing — sleep & screen habits",
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Most teenagers know they should sleep more. Far fewer know what they are actually losing each time they stay up scrolling. Sleep is not simply “switching off.” While you rest, the brain replays the day, moving fresh information from temporary storage into long-term memory. Skip those hours, and the facts you revised the night before a test become harder, not easier, to recall.\n\nScientists now describe a habit they call “revenge bedtime procrastination” — staying awake on purpose, late into the night, to claim back free time that a busy day swallowed. The reward feels real: an hour of videos, games or messages that belongs to you alone. The cost arrives the next morning, disguised as a foggy head, a short temper and a strange craving for sugar.\n\nPhones make the problem worse in two ways. First, their screens emit blue light, which tricks the brain into thinking it is still daytime and delays the release of melatonin, the chemical that makes us feel sleepy. Second, the content itself is designed to be hard to leave. Each new clip arrives before the last one finishes, so the natural moment to stop never comes.\n\nMaya, a sixteen-year-old from Singapore, decided to test the advice for herself. For two weeks she charged her phone in the kitchen overnight instead of beside her bed. She expected to feel bored. Instead, she fell asleep faster and woke before her alarm — something that had not happened in months. Her marks did not transform overnight, but her concentration in afternoon lessons noticeably improved.\n\nNone of this means screens are the enemy. The point researchers make is gentler: sleep is not wasted time but active repair, and the body protects it fiercely when we let it. The hours we borrow from the night, they warn, are always repaid with interest — and the interest is charged to the very brain we are trying to train."
+  },
+  {
+   "title": "Why We Yawn",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "Everyone yawns. Tiny babies yawn even before they are born, and people of every age yawn throughout their lives, from the youngest child to the oldest grandparent. We tend to yawn most when we are tired or bored, although, rather surprisingly, nobody is completely certain why we do it at all. It remains one of those small, everyday mysteries that science has never quite managed to solve.\n\nOne popular theory is that a yawn helps to cool the brain. A big, deep breath of air, scientists suggest, lowers the temperature of the head very slightly and helps us to stay alert. This might explain why we often yawn just before an important moment, rather than only when we are sleepy; athletes have even been filmed yawning in the tense seconds before a big race begins.\n\nYawning is also strangely contagious. Simply seeing another person yawn, hearing one, or even just reading or thinking about it, can quietly set you off — you may well feel the urge right now. Researchers have found that we are far more likely to catch a yawn from someone we feel close to, such as a good friend or a family member, than from a complete stranger. The stronger the bond between two people, it seems, the stronger the effect.\n\nHumans are not alone in any of this. Many animals yawn as well, from dogs and cats to birds, lions and even fish, which suggests that yawning is very ancient and serves some deep purpose we have not yet understood. And if you try really hard not to yawn — perhaps in a dull meeting or a silent exam hall — you may notice that the urge only grows worse the longer you fight against it."
+  },
+  {
+   "title": "Four People Who Faced a Fear",
+   "topic": null,
+   "difficulty": "core",
+   "exam_part": null,
+   "instructions": null,
+   "body": "A — Sam (public speaking)\nI was made to give a talk in front of my entire class one ordinary Tuesday, and I shook uncontrollably from start to finish, my voice barely a whisper, my notes trembling in my hands. It was, at the time, one of the worst experiences of my whole life. Rather than simply avoid it forever, though — which every instinct in me screamed to do — I made the strange decision to join a debate club, deliberately forcing myself to practise the very thing I dreaded most, week after week after week. Slowly, astonishingly, it began to work. To my own total disbelief, I now genuinely enjoy standing up to speak, and I would not trade that hard-won confidence for anything in the world.\n\nB — Mia (deep water)\nI very nearly drowned at a crowded pool when I was small, slipping silently under before anyone noticed, and after that one terrifying afternoon I avoided deep water completely for years, refusing even to paddle at the edge. The fear sat inside me like a cold, heavy stone. As a teenager, though, I grew tired of being ruled by it, and I finally took proper adult swimming lessons, starting in the shallow end with a wonderfully patient instructor. Now — and the younger, frightened me would simply never have believed this possible — I swim in the open sea, out past the breakers where the water is deep and dark and wonderful. It is the bravest thing I have ever made myself do.\n\nC — Jon (spiders)\nI used to be completely unable to stay in the same room as even the smallest spider, leaping onto the furniture and shouting for someone, anyone, to come and remove it. It was, frankly, embarrassing for someone my age. So I started reading about them instead — books, articles, anything I could find — because I have always found that genuinely understanding something makes it a great deal less frightening, and slowly the dry facts crowded out some of the blind panic. These days I can calmly carry a spider outside in a glass, with a piece of card held over the top, and set it loose in the garden. I would not, however, go anywhere near as far as to say that I have actually come to like them.\n\nD — Ada (flying)\nI used to panic on every single flight, gripping the armrests white-knuckled from the very moment the doors thumped closed, convinced that each small bump of turbulence was surely the end. It made holidays a misery before they had even properly begun. Learning exactly how planes stay up in the air helped a little, oddly — the dull engineering of it was strangely reassuring — and I patiently taught myself slow, deep breathing techniques to use during take-off, quietly counting each breath. Then, just last month, I flew long-haul for the very first time, a flight of many hours out over the dark ocean, and I stayed completely calm the entire way, even sleeping. I could have cheered aloud as we finally landed."
+  },
+  {
+   "title": "The Science of a Good Night's Sleep",
+   "topic": "sleep science",
+   "difficulty": "core",
+   "exam_part": 3,
+   "instructions": "Read the article about sleep, then complete the notes below. Use NO MORE THAN THREE WORDS for each gap.",
+   "body": "Most teenagers know they should sleep more, but few understand what actually happens while they rest. Sleep is not a single, uniform state. During the night the brain moves through several stages, and each one does a different job.\n\nThe first stage is light sleep, when the body begins to relax and the heartbeat slows. After this comes deep sleep, sometimes called slow-wave sleep. This is the stage that repairs the body. While we are in deep sleep, the brain releases a chemical called growth hormone, which rebuilds muscle and strengthens bones. Without enough deep sleep, the body recovers slowly from exercise and illness.\n\nLater in the night comes a very different stage known as REM sleep, which stands for \"rapid eye movement\". This is when most dreaming happens, and the eyes flick quickly behind closed lids. Scientists believe REM sleep helps the brain organise everything it learned during the day. In one study, students who slept normally after studying remembered far more than students who were kept awake, even though both groups had revised for the same amount of time. The sleeping brain seems to move new information into long-term memory.\n\nTeenagers need more sleep than adults — about nine hours a night — yet most get far less. One reason is biological: during the teenage years the body's clock shifts later, so a teenager naturally feels sleepy later at night. Early school start times then cut the night short.\n\nThe cost of poor sleep is high. Tired students find it harder to concentrate, their mood drops, and they make more mistakes. Doctors now warn that a screen in the bedroom is one of the worst enemies of rest, because the blue light it gives off tricks the brain into thinking it is still daytime. The simplest cure, they say, is also the cheapest: switch the screen off an hour before bed."
+  },
+  {
+   "title": "What Keeps Us Well",
+   "topic": "healthy habits",
+   "difficulty": "core",
+   "exam_part": 2,
+   "instructions": "Read the four accounts and answer the questions.",
+   "body": "Four people describe the one habit that keeps them healthy.\n\nA — NADIA\nFor me it is walking. I cannot afford a gym and I find running boring, but everyone can walk. I get off the bus two stops early and walk the rest of the way to work. It costs nothing, it clears my head, and over a year those small extra distances add up to a great deal. The cheapest medicine, my doctor says, is a pair of shoes.\n\nB — KOFI\nI gave up sugary drinks completely, and it changed everything. I used to drink three cans of cola a day without thinking. When I switched to water, I lost weight without even trying, my teeth improved, and the afternoon tiredness vanished. I did not change my food or my exercise — only what I drank.\n\nC — MEILIN\nMy secret is sleep. I used to treat sleep as wasted time and stay up working, but I was always ill. Now I protect my eight hours fiercely, and I almost never catch the colds that go round my office. A rested body, I have learned, defends itself.\n\nD — SAMUEL\nFor me it is other people. I make sure I see a friend or family member every single day, even if only for a short chat. The doctors talk about diet and exercise, but they say less about loneliness, which can harm you as much as smoking. My health, I am convinced, is held up by the people around me."
+  }
+ ],
+ "listening_tracks": [
+  {
+   "title": "Exercise 4 — Six Speakers: A Change for the Better",
+   "accent": "British English (six distinct voices)",
+   "exam_part": 4,
+   "form": 1,
+   "instructions": "You will hear six young people talking about a change they made to feel healthier. For each speaker, choose from the list A–H the statement that matches what they say. Use each letter once; two letters are not needed.\n\nA  They wanted to save money.\nB  They were copying a friend.\nC  They wanted to sleep better.\nD  They wanted more energy for studying.\nE  They were recovering from an injury.\nF  They wanted to feel calmer and less stressed.\nG  They wanted to spend less time on screens.\nH  A family member encouraged them.",
+   "script_text": "Speaker 1: I used to feel wrecked every morning. Once I stopped drinking cola in the evenings, I started falling asleep so much faster. That was the whole reason — I just wanted to wake up feeling human again.\n\nSpeaker 2: Before competitions I'd get so anxious. My coach suggested writing my worries down each night. I didn't care about fitness or anything; I just wanted to feel less panicked. And honestly, it helped.\n\nSpeaker 3: I added up what I spent on energy drinks each month and nearly fell over. Switching to water wasn't really about health. It was my wallet.\n\nSpeaker 4: I swapped my evening scrolling for a short walk. The point wasn't exercise, to be honest — I just wanted to get off my phone for half an hour a day.\n\nSpeaker 5: My grandmother kept nagging me to come to her morning stretching class. I only went along to keep her happy, but now I actually look forward to it.\n\nSpeaker 6: I started having a proper breakfast because I kept fading during first period. I needed to be able to concentrate in lessons — simple as that."
+  },
+  {
+   "title": "Exercise 2 — Five Short Extracts",
+   "accent": "British English (mixed voices)",
+   "exam_part": 2,
+   "form": 1,
+   "instructions": "You will hear five short extracts. Answer the two questions on each extract by choosing A, B or C.",
+   "script_text": "Extract 1\nA: Did you eat before the exam? B: Barely — just a quick biscuit. I crashed by second period. A: See, that's why I always have oats now. They keep me going till lunch.\n\nExtract 2\nA: That gym's forty a month. B: Honestly, just walk and do some squats at home. You won't keep paying for the gym anyway. A: True — I never stick with it.\n\nExtract 3\nA: You look tired. B: I am. I keep scrolling till two. A: Try leaving your phone in another room. Sounds silly, but it worked for me.\n\nExtract 4\nA: These adverts make energy drinks sound essential. B: They're clever, but it's misleading. The crash afterwards is the real story. A: Yeah, I always feel worse later.\n\nExtract 5\nA: I downloaded a mood app. B: Do you actually use it? A: At first, loads. Now I forget — habits are hard. B: Maybe link it to something, like checking it after you brush your teeth."
+  },
+  {
+   "title": "Exercise 5 — Interview with a Sleep Scientist",
+   "accent": "British English (two voices)",
+   "exam_part": 5,
+   "form": 1,
+   "instructions": "You will hear an interview with Dr Lena Park, who studies sleep in teenagers. Choose the correct answer (A, B or C) for each question. You will hear the interview twice.",
+   "script_text": "Interviewer: Dr Park, thanks for joining us. Many teenagers say they simply can't fall asleep early. Are they just making excuses?\nDr Park: Not at all. During the teenage years, the body clock genuinely shifts later. So a teenager lying awake at eleven isn't being lazy — their biology is working against an early bedtime. The trouble is that school still starts early.\nInterviewer: So it isn't really their fault?\nDr Park: The timing isn't. But what they do in that late evening certainly is within their control. Bright screens, for instance, tell the brain it's still daytime. I'm not against phones at all, but the hour before bed is when they do the most damage.\nInterviewer: A lot of students study late, though. Surely that's a good use of the time?\nDr Park: That's the assumption I'd most like to challenge. Past a certain point, a tired brain stops absorbing new information. An extra hour of revision at midnight often achieves less than the sleep it replaces. Students are, in effect, working hard to make themselves perform worse.\nInterviewer: That's quite a claim.\nDr Park: It surprises people, yes. But in our studies, the students who protected their sleep didn't fall behind. They remembered more, not less.\nInterviewer: If you could give just one piece of advice?\nDr Park: Don't try to fix everything at once. Just move your phone out of the bedroom. It's a small change, and it removes the temptation at exactly the moment willpower is weakest.\nInterviewer: Dr Park, thank you.\nDr Park: My pleasure."
+  },
+  {
+   "title": "Exercise 3 — A Talk on Staying Energised at School",
+   "accent": "British English",
+   "exam_part": 3,
+   "form": 1,
+   "instructions": "You will hear a talk by a school nurse about staying energised through the school day. Complete the notes below. Write one or two words in each gap. You will hear the talk twice.",
+   "script_text": "Good morning, everyone. I'm Nurse Adeyemi, and I want to share a few simple habits that keep your energy steady through a long school day.\n\nLet's start with breakfast. You don't need anything fancy, but try to include something slow-release, like oats or wholegrain toast. These release energy gradually, so you avoid the mid-morning slump.\n\nNext, water. Most students I see who complain of headaches are simply not drinking enough. Aim to finish a bottle of water by lunchtime — and remember, mild dehydration often feels like hunger, so reach for your bottle before the snack machine.\n\nMovement matters too, but it doesn't mean sport. Even a two-minute walk between lessons wakes up your brain. If you sit all day, your concentration drops far faster than you'd expect.\n\nA word on screens. When you revise, look away from your screen every twenty minutes. This small break protects your eyes and, surprisingly, improves how much you remember.\n\nFinally, and most importantly, sleep. Aim for around eight hours. Sleep is when your brain stores everything you learned that day, so a late night before a test often does more harm than the extra revision does good.\n\nNone of these habits is difficult or expensive. Pick just one to start with this week, and build from there. Thank you."
+  },
+  {
+   "title": "Exercise 1 — Eight Short Recordings",
+   "accent": "British English (mixed voices)",
+   "exam_part": 1,
+   "form": 1,
+   "instructions": "You will hear eight short recordings. For each one, choose the correct answer (A, B, C or D). In the exam these are separate clips; the scripts are shown together here.",
+   "script_text": "1. (school announcement) Just a reminder that the new water-refill station outside the science block opens on Monday. Please bring your own bottle, as we won't be handing out cups.\n\n2. (coach) Listen up — because of the wet pitch, this afternoon's football is moving indoors to the sports hall. Same time, just a different place.\n\n3. (two friends in a shop) A: Are you getting an energy drink? B: No, I'm trying to cut back. I'll just grab a banana and some water.\n\n4. (announcement) The Tuesday breathing-and-relaxation workshop has moved from the library to Room 12, next to the music room.\n\n5. (student) I started cycling to school mainly to skip the crowded bus. I didn't expect it, but I actually arrive feeling wide awake now.\n\n6. (school nurse) If you're revising for hours, try to look away from your screen every twenty minutes. It rests your eyes and helps you concentrate.\n\n7. (organiser) Tomorrow's community park run starts at eight. It looks like rain, so bring a light waterproof rather than a heavy coat.\n\n8. (announcement) From next week the canteen will offer free fruit at break, replacing the sugary snacks that used to be on sale."
+  },
+  {
+   "title": "Read-Aloud: Small Changes, Big Differences",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "A — Tom\nI used to drink two or three energy drinks a day, especially in the weeks before exams, convinced they kept me alert. The truth was the opposite: I was wired, then exhausted. I quit completely in January. The first few days were rough, and I still miss the taste sometimes, but my sleep is steadier and I am no longer spending half my allowance on cans. I had not realised how much they were costing me until I stopped.\n\nB — Lena\nI swapped the bus for my bike. It started as a way to avoid the crowded morning route, but it has become the best part of my day. I arrive at school properly awake instead of half asleep, and after a few months I noticed I could climb the stairs without losing my breath. I never once thought of it as 'training'. The only real drawback is the rain, which can turn a cheerful ride into a miserable one.\n\nC — Idris\nBefore big swimming competitions I used to lie awake, replaying everything that could go wrong. A coach suggested writing for five minutes each night — just my worries, nothing neat. I was sceptical, and honestly I forgot to do it for the first fortnight. Once it became a habit, though, something shifted. Putting a fear into words somehow made it smaller and less frightening. I still get nervous, but the panic no longer controls me.\n\nD — Mei\nJoining the Saturday cooking club at our community centre was meant to be a one-off. Two years later I am still there. I learned to turn cheap ingredients into proper, balanced meals, which has genuinely changed how I eat. But what surprised me was how much the company mattered — laughing with the same group every week was as good for me as the food. These days I cook dinner for my whole family most evenings."
+  },
+  {
+   "title": "Read-Aloud: The Energy Trap",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Walk into almost any corner shop after school and you will see them: brightly coloured cans promising instant energy, sharper focus and better performance. Energy drinks have become one of the most popular products among teenagers, yet many young people have no idea what they are actually drinking.\n\nA single large can can contain as much caffeine as two cups of strong coffee, along with several spoonfuls of sugar. In small amounts, caffeine is harmless for most adults. The problem is the dose. Health experts recommend that teenagers consume no more than one hundred milligrams of caffeine a day; some energy drinks contain three times that in a single serving.\n\nThe promised 'energy' is also misleading. The drinks do not create energy; they borrow it. Caffeine and sugar produce a short, sharp lift, usually followed an hour or two later by a crash that leaves the drinker more tired, and often hungrier, than before. Students who rely on them during exam season frequently report poorer sleep and difficulty concentrating — the very opposite of what they were hoping for.\n\nSome countries have responded with rules. In 2024, a number of supermarkets across the United Kingdom stopped selling the strongest energy drinks to anyone under sixteen, even before a law required it. Schools in several cities have removed them from vending machines entirely, replacing them with water stations and chilled fruit.\n\nThere are simpler alternatives for a genuine lift. Drinking water is the cheapest: even mild dehydration can cause tiredness and headaches that are easily mistaken for hunger. A handful of nuts, a banana, or a short walk outside will all raise alertness without the later crash.\n\nNone of this means the occasional can is dangerous. The advice from nutritionists is about awareness, not fear: read the label, know your limit, and remember that real, lasting energy comes from sleep, food and movement — not from a can."
+  },
+  {
+   "title": "Read-Aloud: The Highlight Reel",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "Aisha Karim used to measure her days against a screen. Each evening she would scroll through photographs of classmates laughing on perfect beaches, winning competitions, and seemingly never having a bad hair day. By the time she put her phone down, her own life felt grey by comparison. 'I wasn't sad about anything real,' she remembers. 'I was sad that I wasn't someone else.'\n\nWhat Aisha did not yet understand is something psychologists have studied for years. Social media shows us other people's 'highlight reels' — the carefully chosen best moments — while we experience our own lives in full, including the boredom, the worry and the ordinary afternoons. Comparing the two is not just unfair; it is impossible to win.\n\nThe turning point for Aisha was small. A teacher mentioned, almost in passing, that the feeds we scroll are 'edited, not lived'. The phrase stuck. Aisha began to notice how often a single post could shift her whole mood, and how rarely that shift had anything to do with her actual day.\n\nShe did not delete her accounts — she is quick to say she is not against social media. Instead she ran an experiment. For one month she unfollowed any account that left her feeling worse, and started following ones that taught her something or made her laugh. She also set a rule: no scrolling for the first hour after waking, when, she had noticed, her mood was most easily knocked.\n\nThe change was not dramatic, but it was real. 'I didn't suddenly love my life,' she says. 'I just stopped renting space in my head to strangers.' Her concentration improved, and so, slowly, did her sleep.\n\nAisha now helps run a peer-support group at her school, where students talk openly about the pressure of comparison. She is careful not to preach. The point, she insists, is not that everyone should use their phone the way she does. It is simply that a feed is a choice, not a mirror — and that noticing how something makes you feel is the first, quietest step towards changing it."
+  },
+  {
+   "title": "Read-Aloud: The Two-Minute Workout",
+   "accent": null,
+   "exam_part": null,
+   "form": 1,
+   "instructions": null,
+   "script_text": "For years, the advice was clear: to be healthy, you needed long sessions at the gym or a daily run. For busy students, that advice often led to nothing at all, because the task felt too big to begin. Now scientists are offering a gentler idea, and they have given it a memorable name: 'exercise snacks'.\n\nAn exercise snack is a very short burst of activity, often lasting only one or two minutes, repeated several times across the day. It might be climbing the stairs quickly, doing ten squats while the kettle boils, or dancing to a single song. The movements are ordinary; what matters is that they are intense enough to raise the heart rate, even briefly.\n\nThe benefits have surprised researchers. Studies suggest that several short bursts can improve heart fitness almost as effectively as one long workout. Because each snack is so brief, people are far more likely to actually do them, and far less likely to feel discouraged. There is a mental benefit too: a quick burst of movement between two hours of revision can sharpen concentration and lift a low mood.\n\nFitting them into a school day is easier than it sounds. Experts suggest attaching a snack to something you already do — a habit they call 'stacking'. You might do star jumps after brushing your teeth, or a brisk walk around the building between lessons. The key is to choose a trigger you never skip, so the movement eventually becomes automatic.\n\nNone of this replaces sport or play entirely; team games and longer activity still matter. But for the student who believes they 'have no time to exercise', the message is encouraging. Health, it turns out, can be built two minutes at a time."
+  }
+ ],
+ "writing_tasks": [
+  {
+   "id": "d450a76a-6242-4f61-9ea0-a3cf0752bf9a",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "article",
+   "register": "formal",
+   "title": "Staying Healthy on a Budget",
+   "subtopic": "Fuel & Focus (unit-wide)",
+   "difficulty": "extended",
+   "scenario": "Your school magazine is running a feature on student wellbeing. The editor has asked students to contribute.",
+   "instruction": "Write an article for the school magazine advising students how to look after their health without spending much money.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "the problem: why many students believe being healthy is expensive or not worth the effort",
+    "practical, low-cost ideas (e.g. water vs energy drinks, short bursts of movement, sleep)",
+    "a persuasive conclusion encouraging readers to start"
+   ],
+   "grammar_focus": [
+    "cause-effect: because, leads to, results in, this means that, can lead to",
+    "advice in formal register: students should..., it is worth -ing, one simple step is to...",
+    "comparatives: cheaper than, far more effective than, the more... the better"
+   ],
+   "required_vocab": {
+    "min": 5,
+    "from": [
+     "consume",
+     "misleading",
+     "dehydration",
+     "alertness",
+     "moderation",
+     "in the long run",
+     "there is growing evidence that",
+     "the very opposite of"
+    ]
+   },
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Title ideas",
+      "examples": [
+       "Health Doesn't Have to Cost a Thing",
+       "The Cheapest Way to Feel Better"
+      ]
+     },
+     {
+      "fn": "Hook / state the myth",
+      "examples": [
+       "Many students are convinced that being healthy means spending money they don't have."
+      ]
+     },
+     {
+      "fn": "Bust the myth",
+      "examples": [
+       "In reality, this is misleading - the expensive option often does the very opposite."
+      ]
+     },
+     {
+      "fn": "Idea + reason (cause-effect)",
+      "examples": [
+       "Short bursts of movement are free and boost alertness, which means [effect]."
+      ]
+     },
+     {
+      "fn": "Comparative",
+      "examples": [
+       "The more consistent your sleep, the better you feel.",
+       "Water is far more effective than an energy drink for concentration."
+      ]
+     },
+     {
+      "fn": "Call to action",
+      "examples": [
+       "In the long run, small habits matter most - why not start today?"
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write a school-magazine article telling students how to look after their health cheaply. First bust the myth that being healthy is expensive, then give practical low-cost ideas with reasons, and end by persuading readers to start.",
+     "points": [
+      {
+       "how": "Name the belief and where it comes from (marketing, energy-drink ads). This sets up everything else.",
+       "point": "the problem: why many students believe being healthy is expensive or not worth the effort"
+      },
+      {
+       "how": "Don't just list. Pair each idea with its payoff using state -> reason -> effect.",
+       "point": "practical, low-cost ideas (water vs energy drinks, short bursts of movement, sleep)"
+      },
+      {
+       "how": "A 'start small, start today' call to action with one concrete first step.",
+       "point": "a persuasive conclusion encouraging readers to start"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Listing ideas with no reasons ('drink water, sleep more') - weak development (W4).",
+     "Skipping the misconception and jumping straight to tips - content point 1 missed.",
+     "Forgetting the title (loses organisation/register marks), or ending with no call to action.",
+     "Drifting too chatty ('hey guys', slang) - this is a semi-formal magazine article.",
+     "Using fewer than 5 target words/chunks."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W5",
+      "text": "A clear, engaging title"
+     },
+     {
+      "ref": "W3",
+      "text": "The misconception ('healthy = expensive') is named and challenged"
+     },
+     {
+      "ref": "W4",
+      "text": "At least two low-cost ideas, each with a reason or effect - not just listed"
+     },
+     {
+      "ref": "G1",
+      "text": "Cause-effect and/or comparatives used accurately"
+     },
+     {
+      "ref": "W3",
+      "text": "Persuasive conclusion with a concrete first step"
+     },
+     {
+      "ref": "W5",
+      "text": "Semi-formal magazine tone throughout; addresses students"
+     },
+     {
+      "ref": "G1",
+      "text": "At least 5 target words/chunks used naturally"
+     },
+     {
+      "ref": "W6",
+      "text": "Logical paragraphing problem -> ideas -> conclusion; 120-160 words"
+     }
+    ],
+    "structure": [
+     {
+      "do": "A title that pulls readers in, then name the misconception.",
+      "stage": "Title + hook"
+     },
+     {
+      "do": "One cheap habit - state -> reason -> effect, not just a list.",
+      "stage": "Idea 1 (+ reason)"
+     },
+     {
+      "do": "Water vs energy drinks; short movement; sleep.",
+      "stage": "Idea 2-3 (+ reasons)"
+     },
+     {
+      "do": "Persuade them to start - one concrete first step.",
+      "stage": "Call to action"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Body & focus",
+       "words": [
+        "consume",
+        "dehydration",
+        "alertness",
+        "moderation",
+        "energy levels"
+       ],
+       "target_words": [
+        "consume",
+        "dehydration",
+        "alertness",
+        "moderation"
+       ]
+      },
+      {
+       "label": "Argument chunks",
+       "words": [
+        "there is growing evidence that",
+        "in the long run",
+        "the very opposite of",
+        "this means that"
+       ],
+       "target_words": [
+        "there is growing evidence that",
+        "in the long run",
+        "the very opposite of"
+       ]
+      },
+      {
+       "label": "Myth-busting / evaluation",
+       "words": [
+        "misleading",
+        "far more effective than",
+        "cheaper than",
+        "not worth the effort"
+       ],
+       "target_words": [
+        "misleading"
+       ]
+      }
+     ],
+     "target_min": 5
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Health Doesn't Have to Cost a Thing\n\nMany students are convinced that being healthy means spending money they don't have — on gym memberships, supplements and expensive drinks. In reality, this belief is misleading, and there is growing evidence that the costly option is often the very opposite of healthy.\n\nTake energy drinks. They are expensive, yet water is far more effective for alertness, because the caffeine crash that follows can lead to tiredness and even mild dehydration. Short bursts of movement cost nothing too: a brisk ten-minute walk wakes up the brain and lifts your mood. Sleep matters most of all — the more regular your sleep, the better you focus the next day.\n\nThe key is moderation, not money. In the long run, small daily habits beat any product you can buy. One simple step is to swap one energy drink for water, and notice the difference.",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All content points addressed with relevant, practical detail."
+    },
+    {
+     "exam_ref": "W4",
+     "criterion": "Development",
+     "descriptor": "Ideas extended across paragraphs with reasons and examples, not just listed."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Appropriately formal/semi-formal magazine tone; clear title; addresses a student readership."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Logical paragraphing (problem -> ideas -> conclusion) with effective linking."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate cause-effect and advice structures; at least 5 target words/chunks used well."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points, register, target-word use, paragraphing, accuracy",
+    "human": "nuanced feedback on argument quality, idea development and overall effectiveness"
+   },
+   "display_order": 2,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  },
+  {
+   "id": "55703cae-bb29-4b99-aabf-0086f34b5b99",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "letter",
+   "register": "informal",
+   "title": "A letter to a friend",
+   "subtopic": "Move Your Way / Rest & Recovery",
+   "difficulty": "extended",
+   "scenario": "Your friend has told you they feel tired and stressed all the time and keep saying they 'have no time' to look after themselves. The free MoveWell Weekend is happening next month.",
+   "instruction": "Write a letter to your friend persuading them to come to the MoveWell Weekend with you and to make a few small, healthy changes.",
+   "word_count_min": 120,
+   "word_count_max": 160,
+   "content_points": [
+    "explain why you are worried about them",
+    "describe what the MoveWell Weekend involves and why it is not intimidating",
+    "persuade them to try it with you and suggest one small change they could start now"
+   ],
+   "grammar_focus": [
+    "advice structures: why don't you...?, you should..., it's worth -ing, have you thought about -ing?",
+    "cause-effect linkers: because, so, that way, this will help you..."
+   ],
+   "required_vocab": {
+    "min": 4,
+    "from": [
+     "recovery",
+     "steady",
+     "balanced",
+     "discouraged",
+     "a balanced approach",
+     "rely on"
+    ]
+   },
+   "scaffolds": {
+    "stems": [
+     {
+      "fn": "Open warmly",
+      "examples": [
+       "Hi [name] - I've been meaning to write since you said you'd been feeling worn out."
+      ]
+     },
+     {
+      "fn": "Show you care (your worry)",
+      "examples": [
+       "I have to be honest - I've been a little worried about you."
+      ]
+     },
+     {
+      "fn": "Make it un-scary",
+      "examples": [
+       "Before you say no - it's nothing intense. You don't need to be sporty at all."
+      ]
+     },
+     {
+      "fn": "Advice / persuade",
+      "examples": [
+       "Why don't you come along with me? It's worth giving it a go, because [reason]."
+      ]
+     },
+     {
+      "fn": "One small change",
+      "examples": [
+       "Even before then, it's worth [tiny step] - that way you'll [result]."
+      ]
+     },
+     {
+      "fn": "Close warmly",
+      "examples": [
+       "Just think about it for me? Write back soon - Take care, [you]."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Write to a friend who is exhausted and stressed and keeps saying they have no time for themselves. Gently persuade them to come to the free MoveWell Weekend with you and to start one small healthy change now. Warm and caring, not a lecture.",
+     "points": [
+      {
+       "how": "Name what you've noticed (the tiredness, the 'no time') and say it kindly, because you care - not as a telling-off.",
+       "point": "explain why you are worried about them"
+      },
+      {
+       "how": "Give a concrete, low-pressure picture: relaxed, beginner-friendly, no fitness needed - so their fear of 'not being sporty' drops.",
+       "point": "describe what the MoveWell Weekend involves and why it is not intimidating"
+      },
+      {
+       "how": "Invite them to come WITH you (you'll do it together) and offer one tiny first step they can start today.",
+       "point": "persuade them to try it with you and suggest one small change they could start now"
+      }
+     ]
+    },
+    "schema": "writing_scaffold.v1",
+    "pitfalls": [
+     "Lecturing instead of caring ('you must exercise') - kills the friendly register (W5) and the persuasion.",
+     "Making the weekend sound like a sports competition - that feeds the fear you are meant to remove.",
+     "Forgetting the one small change to start now (part of content point 3).",
+     "Slipping formal: 'I am writing to persuade you to attend' - wrong register for a close friend.",
+     "Using fewer than 4 target words, or dropping them in unnaturally."
+    ],
+    "always_on": [
+     "pitfalls"
+    ],
+    "checklist": [
+     {
+      "ref": "W3",
+      "text": "All three content points covered - including one small change to start now"
+     },
+     {
+      "ref": "W5",
+      "text": "Reads like a message to a close friend: greeting, contractions, direct address"
+     },
+     {
+      "ref": "W3",
+      "text": "The weekend is described as relaxed and beginner-friendly, not intense"
+     },
+     {
+      "ref": "G1",
+      "text": "At least two advice structures used (why don't you...?, it's worth -ing)"
+     },
+     {
+      "ref": "G1",
+      "text": "Cause-effect shown at least once (...because..., ...so that way...)"
+     },
+     {
+      "ref": "G1",
+      "text": "At least 4 target words used naturally"
+     },
+     {
+      "ref": "W6",
+      "text": "120-160 words; the persuasion builds across paragraphs"
+     }
+    ],
+    "structure": [
+     {
+      "do": "Greet warmly, then say kindly what you've noticed - because you care.",
+      "stage": "Open + your worry"
+     },
+     {
+      "do": "Describe the weekend as relaxed and beginner-friendly; answer the fear of not being sporty.",
+      "stage": "Make it un-scary"
+     },
+     {
+      "do": "Invite them to come with you, and offer one tiny change to start today.",
+      "stage": "Persuade + one step"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Wellbeing & recovery",
+       "words": [
+        "recovery",
+        "steady",
+        "balanced",
+        "a balanced approach",
+        "recharge",
+        "rest"
+       ],
+       "target_words": [
+        "recovery",
+        "steady",
+        "balanced",
+        "a balanced approach"
+       ]
+      },
+      {
+       "label": "How they're feeling",
+       "words": [
+        "discouraged",
+        "rely on",
+        "worn out",
+        "run-down",
+        "drained",
+        "overwhelmed"
+       ],
+       "target_words": [
+        "discouraged",
+        "rely on"
+       ]
+      },
+      {
+       "label": "Gentle-persuasion phrases",
+       "words": [
+        "no pressure",
+        "ease back in",
+        "give it a go",
+        "do you good",
+        "one small step"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 4
+    },
+    "model_in_column": true,
+    "reveal_by_level": {
+     "0": [
+      "decode",
+      "checklist"
+     ],
+     "2": [
+      "decode",
+      "structure",
+      "vocab_bank",
+      "checklist"
+     ],
+     "4": [
+      "decode",
+      "structure",
+      "stems",
+      "vocab_bank",
+      "checklist"
+     ]
+    }
+   },
+   "model_answer": "Hi Sam,\n\nI've been meaning to write since you told me how worn out you've been feeling. Honestly, I've been a little worried about you — you keep saying you've no time for yourself, and lately you've sounded really discouraged.\n\nHave you thought about coming to the MoveWell Weekend with me next month? Before you say no — it's nothing intense, and you don't need to be sporty at all. It's relaxed and beginner-friendly: gentle walks, stretching, and tips on sleep and recovery. People just go at their own steady pace.\n\nWhy don't we try it together? It's worth giving it a go, because a balanced approach really does help. And even before then, it's worth swapping one late night for an early one — that way your body gets the rest it needs, instead of having to rely on caffeine.\n\nJust think about it for me? Write back soon.\n\nTake care,\nAlex",
+   "rubric": [
+    {
+     "exam_ref": "W3",
+     "criterion": "Content & ideas",
+     "descriptor": "All three content points covered and developed with relevant detail."
+    },
+    {
+     "exam_ref": "W5",
+     "criterion": "Register & audience",
+     "descriptor": "Consistently warm, informal tone suited to a close friend (greeting, contractions, direct address)."
+    },
+    {
+     "exam_ref": "W6",
+     "criterion": "Organisation & cohesion",
+     "descriptor": "Clear letter format; ideas linked so the persuasion builds logically."
+    },
+    {
+     "exam_ref": "G1",
+     "criterion": "Language range & accuracy",
+     "descriptor": "Accurate advice structures and cause-effect linkers; at least 4 target words used naturally."
+    }
+   ],
+   "exam_refs": [
+    "W3",
+    "W5",
+    "W6"
+   ],
+   "feedback_mode": {
+    "ai": "first pass: content points covered, register, target-word use, basic accuracy",
+    "human": "nuanced feedback on persuasiveness, warmth and naturalness"
+   },
+   "display_order": 1,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "model_answer_lower": null,
+   "model_band_meta": null,
+   "ao_maxes": {
+    "total": 15,
+    "scheme": "igcse_esl_writing",
+    "syllabus": "0510/0511/0991/0993 (from 2024)",
+    "dimensions": [
+     {
+      "ao": "content",
+      "max": 6,
+      "bands": {
+       "0": "No creditable content.",
+       "1-2": "Partially addresses the task; some content not relevant; inconsistent or inappropriate format and register; lack of understanding of purpose and audience; minimal development; below the required word count.",
+       "3-4": "Mainly addresses the task; mainly relevant content; mainly appropriate format and register; good understanding of purpose and audience; mainly well developed; meets the word-count requirement.",
+       "5-6": "Addresses the task completely; only relevant content; appropriate format and register throughout; excellent understanding of purpose and audience; very well developed; meets the word-count requirement."
+      },
+      "label": "Content",
+      "from_refs": [
+       "W3",
+       "W4",
+       "W5",
+       "W6"
+      ]
+     },
+     {
+      "ao": "language",
+      "max": 9,
+      "bands": {
+       "0": "No creditable content.",
+       "1-3": "Only common vocabulary; only simple structures; sometimes difficult to understand due to errors; only a basic attempt at organisation; small range of linking words and devices.",
+       "4-6": "Range of common vocabulary with some less common; broad range of simple structures and tries some complex; mainly accurate (errors mostly in less common vocabulary or complex structures, not affecting comprehension); reasonably well organised; range of linking words and devices.",
+       "7-9": "Broad range of common and uncommon vocabulary; broad range of simple and complex structures; almost always accurate (errors are in less common vocabulary or complex structures and do not affect comprehension); organised effectively; broad range of linking words and devices."
+      },
+      "label": "Language",
+      "from_refs": [
+       "G1"
+      ]
+     }
+    ]
+   },
+   "listening_track_id": null,
+   "image_url": null,
+   "required_words": null,
+   "image_alt": null
+  }
+ ],
+ "speaking_tasks": [
+  {
+   "id": "633f3d23-17f7-4b31-9728-9bdfbdf899a9",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "topic_card",
+   "title": "Sleep, rest and balance",
+   "subtopic": "Rest & Recovery",
+   "difficulty": "extended",
+   "topic": "The value of rest",
+   "intro": "We're going to talk about sleep, rest and balance. Look at the points, then we'll discuss them.",
+   "card_points": [
+    "your own sleep habits and how they affect your day",
+    "whether you think rest is valued enough by students and schools",
+    "the pressure many people feel to always be busy or productive",
+    "one change you could make to rest or recover better"
+   ],
+   "discussion_questions": [
+    "Do you agree that 'more is always better' when it comes to study and work?",
+    "Should the school day start later for teenagers?",
+    "Some people see resting as lazy. What do you think?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "If I could make one change, I'd take a short break every hour while studying (Point), because my focus fades when I push too long (Reason), so I'd actually remember more (Result) — last exam season I tried it and revised better (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "I'd like to start with my own sleep habits, because that's where I notice it most.",
+       "There are a few sides to this, so let me take them one at a time."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "My main point is that rest matters, because a tired brain learns slowly.",
+       "For example, after a good night's sleep, I get far more done the next day."
+      ]
+     },
+     {
+      "fn": "Give a recommendation",
+      "examples": [
+       "If I could change one thing, I'd put my phone away an hour before bed.",
+       "I'd recommend taking short breaks, so you recover before you burn out."
+      ]
+     },
+     {
+      "fn": "Justify in discussion",
+      "examples": [
+       "I'd say no — once you're tired, more study isn't always better.",
+       "I partly agree, but a balanced approach works better than being busy non-stop."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Give a short talk on sleep, rest and balance, then discuss it — keep it as general as you like.",
+     "discussion_how": [
+      {
+       "q": "Do you agree that 'more is always better' when it comes to study and work?",
+       "how": "Pick a side, then say why. 'No — past a point, more study just tires you out and helps less.' Don't be vague; give a clear reason for your view. A balanced approach often makes the strongest answer."
+      },
+      {
+       "q": "Should the school day start later for teenagers?",
+       "how": "Give a recommendation, and say what would result. 'Yes — if school started later, students would be more awake and learn more.' Back your yes or no with the effect it would have. That result is what makes it persuasive."
+      },
+      {
+       "q": "Some people see resting as lazy. What do you think?",
+       "how": "Push back, but fairly — you can agree in part, then disagree. 'I see why it looks lazy, but real rest is how we recover and do better.' Qualify it: rest isn't doing nothing, it's recovery. A reasoned pushback beats a flat 'no'."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Don't just say 'I sleep okay'. Be specific: when do you sleep, and what's the effect the next day? Link them: 'When I stay up late, I can't focus in morning class.' One real example beats a vague answer.",
+       "point": "your own sleep habits and how they affect your day"
+      },
+      {
+       "how": "Take a clear view — yes or no — and back it with what you actually see. Do students brag about little sleep? Do schools pile on work? Point to real signs, not just opinions. 'Rest isn't valued — we treat being tired as normal.'",
+       "point": "whether you think rest is valued enough by students and schools"
+      },
+      {
+       "how": "Name the pressure honestly — where does it come from? Social media, exams, comparing ourselves to others? Say how it feels to always feel behind. This is where 'burnout' fits: the cost of never switching off.",
+       "point": "the pressure many people feel to always be busy or productive"
+      },
+      {
+       "how": "This is your recommendation — make it concrete, and build it out. Point: name one change. Reason: why it'd help. Result: what would improve. Example: picture it. 'I could stop using my phone an hour before bed (Point), because screens keep me awake (Reason), so I'd fall asleep faster (Result) — last week I tried it and slept better (Example).'",
+       "point": "one change you could make to rest or recover better"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn — extend each point with a reason and example, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "Justify your view in the discussion and respond to follow-ups — a clear recommendation with a reason scores well here."
+     },
+     {
+      "ref": "S3",
+      "what": "A calm, steady pace; clear stress and intonation."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) — develop every point.",
+     "Listing points with no reasons — give a reason and an example.",
+     "Giving advice with no reason or result — say why it helps (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes covering the card points with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with a reason + example (P-R-R-E)"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave a clear recommendation and said why it helps"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my view and answered the follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Rest & recovery",
+       "words": [
+        "recovery",
+        "steady",
+        "burnout",
+        "recharge"
+       ],
+       "target_words": [
+        "recovery",
+        "burnout"
+       ]
+      },
+      {
+       "label": "Balance & advice",
+       "words": [
+        "balanced",
+        "a balanced approach",
+        "cut back",
+        "switch off"
+       ],
+       "target_words": [
+        "balanced",
+        "a balanced approach"
+       ]
+      },
+      {
+       "label": "Develop / recommend",
+       "words": [
+        "which means",
+        "I'd recommend",
+        "for example"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a calm, steady pace — this topic suits it.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation fall to finish a recommendation clearly."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "One change I could make is keeping a steady bedtime, because at the moment I stay up far too late. That means I'm exhausted by the afternoon, which is the opposite of what I want before exams. For example, I think a lot of students are heading towards burnout simply because they believe more hours always means better marks. I'd argue a balanced approach - enough sleep and shorter, focused study - actually works better.",
+   "required_vocab": {
+    "min": 3,
+    "from": [
+     "recovery",
+     "steady",
+     "balanced",
+     "burnout",
+     "a balanced approach"
+    ]
+   },
+   "grammar_focus": [
+    "P-R-R-E frame",
+    "advice and recommendation structures"
+   ],
+   "rubric": [
+    {
+     "exam_ref": "S1",
+     "criterion": "Development & fluency",
+     "descriptor": "Develops points with reasons and examples; talks at length."
+    },
+    {
+     "exam_ref": "S2",
+     "criterion": "Interaction & argument",
+     "descriptor": "Takes and defends a clear position on the discussion questions; sustains the exchange."
+    },
+    {
+     "exam_ref": "S3",
+     "criterion": "Pronunciation & intonation",
+     "descriptor": "Clear, intelligible, with natural stress and intonation."
+    }
+   ],
+   "exam_refs": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "feedback_mode": {
+    "ai": "light first pass: target-word use, length",
+    "human": "fluency, confidence, pronunciation, strength of argument"
+   },
+   "display_order": 4,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "bb6d2c14-0963-459e-9ce7-a9966daaf45a",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "topic_card",
+   "title": "Stress and wellbeing",
+   "subtopic": "Mind & Mood",
+   "difficulty": "extended",
+   "topic": "Looking after your mind",
+   "intro": "We're going to talk about stress and wellbeing in general. Look at the points, then we'll discuss them. You only need to share what you're comfortable sharing.",
+   "card_points": [
+    "something that helps you relax or feel calmer",
+    "the way phones or social media can affect people's mood",
+    "whether you think students today face more pressure than in the past",
+    "a small change that you think could improve someone's wellbeing"
+   ],
+   "discussion_questions": [
+    "Does social media do more harm than good to young people's wellbeing?",
+    "Should schools teach students how to manage stress?",
+    "Is comparing ourselves to other people always a bad thing?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example, weighing both sides",
+     "name": "P-R-R-E + balance",
+     "example": "On the one hand, social media keeps us connected (Point) because we reach friends instantly (Reason); on the other, constant comparison can lower our mood (Result) - for example, late-night scrolling leaves people feeling worse (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "One thing that helps people relax is..."
+      ]
+     },
+     {
+      "fn": "Show both sides",
+      "examples": [
+       "On the one hand..., on the other hand..."
+      ]
+     },
+     {
+      "fn": "Show awareness",
+      "examples": [
+       "I've become more aware that [point]."
+      ]
+     },
+     {
+      "fn": "Qualify a view",
+      "examples": [
+       "It isn't always bad - sometimes comparison can [positive]."
+      ]
+     },
+     {
+      "fn": "Suggest a change",
+      "examples": [
+       "A small, deliberate change would be..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "A long turn on stress and wellbeing (S1), then a balanced discussion (S2), spoken clearly (S3). This is a general discussion - you only need to share what you're comfortable with; you can speak about people in general, not yourself.",
+     "discussion_how": [
+      {
+       "q": "social media: more harm than good?",
+       "how": "Give a balanced view - on one hand / on the other."
+      },
+      {
+       "q": "should schools teach stress management?",
+       "how": "Reason + result."
+      },
+      {
+       "q": "is comparing ourselves always bad?",
+       "how": "Qualify - sometimes it can motivate."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name a strategy and why it works - general is fine.",
+       "point": "something that helps you relax"
+      },
+      {
+       "how": "Show both sides (can connect us / can lower mood).",
+       "point": "how phones/social media affect mood"
+      },
+      {
+       "how": "Take a position with a reason; compare with the past.",
+       "point": "more pressure today than in the past?"
+      },
+      {
+       "how": "Give a concrete, doable suggestion and its result.",
+       "point": "a small change to improve wellbeing"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute turn - kept general is completely fine."
+     },
+     {
+      "ref": "S2",
+      "what": "Here, balanced and justified views score well - weigh both sides."
+     },
+     {
+      "ref": "S3",
+      "what": "A calm, steady pace; signpost the two sides clearly with intonation."
+     }
+    ],
+    "pitfalls": [
+     "One-sided answers - this card rewards balance (S2).",
+     "Treating it as a personal confession - keep it general.",
+     "Points with no reasons or examples (S1).",
+     "Under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes on the card with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed points with a reason + example (P-R-R-E)"
+     },
+     {
+      "ref": "S2",
+      "text": "I gave balanced views (both sides) where useful"
+     },
+     {
+      "ref": "S2",
+      "text": "I justified my opinion and responded to follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Mind & mood",
+       "words": [
+        "awareness",
+        "comparison",
+        "deliberate",
+        "calm",
+        "pressure"
+       ],
+       "target_words": [
+        "awareness",
+        "comparison",
+        "deliberate"
+       ]
+      },
+      {
+       "label": "Balance chunks",
+       "words": [
+        "on the one hand",
+        "on the other hand",
+        "the very opposite of",
+        "to some extent"
+       ],
+       "target_words": [
+        "the very opposite of"
+       ]
+      },
+      {
+       "label": "Develop / argue",
+       "words": [
+        "which means",
+        "for example",
+        "I'd argue that"
+       ],
+       "target_words": []
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "A calm, steady pace suits this topic.",
+     "Signpost the two sides clearly with your intonation.",
+     "Don't trail off - finish each point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "On the one hand, social media helps people feel connected, because they can reach friends any time. On the other hand, constant comparison can do the very opposite, slowly lowering someone's mood. For example, late-night scrolling often leaves people feeling worse, not calmer. I think a small, deliberate change — like switching the phone off an hour before bed — could really help. With a bit more awareness of how it affects us, people could enjoy it without the downside.",
+   "required_vocab": {
+    "min": 3,
+    "from": [
+     "comparison",
+     "awareness",
+     "deliberate",
+     "the very opposite of"
+    ]
+   },
+   "grammar_focus": [
+    "P-R-R-E frame",
+    "balanced opinion language (on the one hand... on the other...)"
+   ],
+   "rubric": [
+    {
+     "exam_ref": "S1",
+     "criterion": "Development & fluency",
+     "descriptor": "Develops ideas with reasons and examples; speaks comfortably at length."
+    },
+    {
+     "exam_ref": "S2",
+     "criterion": "Interaction & argument",
+     "descriptor": "Offers balanced, justified opinions on contested questions; responds to the examiner."
+    },
+    {
+     "exam_ref": "S3",
+     "criterion": "Pronunciation & intonation",
+     "descriptor": "Clear and intelligible with natural intonation."
+    }
+   ],
+   "exam_refs": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "feedback_mode": {
+    "ai": "light first pass only",
+    "human": "fluency, confidence, sensitivity, balance and justification of views"
+   },
+   "display_order": 3,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "d59384f4-fc35-4e35-b726-8d43a5264cd0",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "topic_card",
+   "title": "Food, drink and energy",
+   "subtopic": "Fuel & Focus",
+   "difficulty": "extended",
+   "topic": "Eating and drinking for energy",
+   "intro": "We're going to talk about food, drink and energy. Look at the points, then we'll discuss them.",
+   "card_points": [
+    "a food or drink that gives you energy, and one that makes you feel worse",
+    "whether you eat and drink well during the school day",
+    "your opinion of energy drinks and the way they are advertised",
+    "how the cost of food affects what students choose to eat"
+   ],
+   "discussion_questions": [
+    "Should the sale of strong energy drinks to under-16s be banned?",
+    "Is it really possible to eat healthily on a small budget?",
+    "Whose responsibility is student nutrition - the school, families, or students themselves?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example, linking cause and effect",
+     "name": "P-R-R-E + cause-effect",
+     "example": "Energy drinks give a quick boost (Point), but too much caffeine can lead to a crash (Reason), which means you focus less later (Result) - for example, after one I feel worse by the afternoon (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "Something that gives me energy is...",
+       "One thing that makes me feel worse is..."
+      ]
+     },
+     {
+      "fn": "Cause & effect",
+      "examples": [
+       "...can lead to [effect], which means [result]."
+      ]
+     },
+     {
+      "fn": "Evaluate the advertising",
+      "examples": [
+       "The advertising can be misleading because..."
+      ]
+     },
+     {
+      "fn": "Give a measured opinion",
+      "examples": [
+       "In moderation,...",
+       "I'd be in favour of... because..."
+      ]
+     },
+     {
+      "fn": "Share responsibility",
+      "examples": [
+       "It's partly [x], but ultimately [y]."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "A long turn about food, drink and energy (S1), then justify your views on energy drinks, budgets and responsibility (S2), clearly (S3). The card asks you to evaluate - especially how energy drinks are advertised.",
+     "discussion_how": [
+      {
+       "q": "ban strong energy drinks to under-16s?",
+       "how": "Take a side, give a reason and a likely result."
+      },
+      {
+       "q": "eat healthily on a small budget?",
+       "how": "Challenge 'healthy = expensive'."
+      },
+      {
+       "q": "whose responsibility is student nutrition?",
+       "how": "Give a balanced view - school / family / student."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Name it and its effect on you (cause-effect: '...gives me energy because...', '...can lead to a crash').",
+       "point": "a food/drink that gives energy + one that makes you feel worse"
+      },
+      {
+       "how": "Take an honest position with a reason.",
+       "point": "whether you eat/drink well during the school day"
+      },
+      {
+       "how": "Evaluate - the advertising can be misleading; say why.",
+       "point": "your opinion of energy drinks and their advertising"
+      },
+      {
+       "how": "Link cost to choices with a reason.",
+       "point": "how cost affects what students eat"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "Bare lists of foods with no effect or reason (S1).",
+     "Skipping the evaluation of the ads (card point 3).",
+     "Agreeing in the discussion without a reason (S2).",
+     "Under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes on the card with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I linked cause and effect (a drink -> how it makes me feel)"
+     },
+     {
+      "ref": "S1",
+      "text": "I actually evaluated energy-drink advertising (card point 3)"
+     },
+     {
+      "ref": "S2",
+      "text": "I took a justified position in the discussion"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Body & energy",
+       "words": [
+        "consume",
+        "dehydration",
+        "moderation",
+        "alertness",
+        "a crash"
+       ],
+       "target_words": [
+        "consume",
+        "dehydration",
+        "moderation"
+       ]
+      },
+      {
+       "label": "Cause-effect",
+       "words": [
+        "can lead to",
+        "which means",
+        "so",
+        "results in"
+       ],
+       "target_words": [
+        "can lead to"
+       ]
+      },
+      {
+       "label": "Evaluation",
+       "words": [
+        "misleading",
+        "overpriced",
+        "far better than"
+       ],
+       "target_words": [
+        "misleading"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Stress the contrast words (better / worse).",
+     "Pause between ideas - don't rattle off a list.",
+     "Rising intonation when listing options, fall to conclude."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "One drink I'd avoid is a strong energy drink, because too much caffeine can lead to a crash later. That means the quick boost they advertise is misleading — you actually focus less by the afternoon. For example, water keeps me far more alert, and it costs nothing. So I'd say energy drinks are fine in moderation, but I wouldn't rely on them, especially when the dehydration they cause leaves you feeling worse, not better.",
+   "required_vocab": {
+    "min": 3,
+    "from": [
+     "consume",
+     "misleading",
+     "moderation",
+     "dehydration",
+     "can lead to"
+    ]
+   },
+   "grammar_focus": [
+    "P-R-R-E frame",
+    "cause-effect linkers (can lead to, so, which means)"
+   ],
+   "rubric": [
+    {
+     "exam_ref": "S1",
+     "criterion": "Development & fluency",
+     "descriptor": "Develops points with reasons and personal examples; speaks at length."
+    },
+    {
+     "exam_ref": "S2",
+     "criterion": "Interaction & argument",
+     "descriptor": "Takes a clear position on the discussion questions and justifies it; handles counter-points."
+    },
+    {
+     "exam_ref": "S3",
+     "criterion": "Pronunciation & intonation",
+     "descriptor": "Clear pronunciation; intonation supports meaning."
+    }
+   ],
+   "exam_refs": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "feedback_mode": {
+    "ai": "light first pass: target-word use, length",
+    "human": "fluency, confidence, pronunciation, quality of argument"
+   },
+   "display_order": 2,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  },
+  {
+   "id": "310b3021-c188-4f4e-b2b1-1e31844786b6",
+   "unit_id": "7b12ce02-3f3f-42dd-a62c-0dd5cad69075",
+   "task_type": "topic_card",
+   "title": "Being active in everyday life",
+   "subtopic": "Move Your Way",
+   "difficulty": "extended",
+   "topic": "Staying active",
+   "intro": "We're going to talk about being active in everyday life. Take a moment to look at the points, then we'll discuss them together.",
+   "card_points": [
+    "how you stay active during a normal week (or wish you did)",
+    "a type of exercise or movement you enjoy, and one you dislike",
+    "whether you think you get enough movement in your day",
+    "the idea that short bursts of activity can be as useful as a long workout"
+   ],
+   "discussion_questions": [
+    "Should schools give students more time for physical activity during the day?",
+    "Do you need expensive equipment or a gym to stay healthy?",
+    "Some people say they 'have no time' to exercise. How would you respond to that?"
+   ],
+   "scaffolds": {
+    "frame": {
+     "how": "Point -> Reason -> Result -> Example",
+     "name": "P-R-R-E",
+     "example": "One thing I do is take the stairs (Point) because it's become automatic (Reason), which means I move without thinking (Result) - for example, I've stopped using the lift entirely (Example)."
+    },
+    "stems": [
+     {
+      "fn": "Open the long turn",
+      "examples": [
+       "One thing I do to stay active is...",
+       "To be honest, I wish I..."
+      ]
+     },
+     {
+      "fn": "Develop (P-R-R-E)",
+      "examples": [
+       "...because [reason], which means [result]. For example,..."
+      ]
+     },
+     {
+      "fn": "Compare enjoy / dislike",
+      "examples": [
+       "I really enjoy [x], whereas I can't stand [y] because..."
+      ]
+     },
+     {
+      "fn": "Give an opinion (discussion)",
+      "examples": [
+       "I'd argue that...",
+       "In the long run,..."
+      ]
+     },
+     {
+      "fn": "Respond to 'no time'",
+      "examples": [
+       "I understand why people say that, but even short bursts..."
+      ]
+     }
+    ],
+    "decode": {
+     "plain": "Talk on the card for 1-2 minutes (S1), developing each point - then justify your views in the discussion (S2), speaking clearly throughout (S3). Don't list the points; develop them.",
+     "discussion_how": [
+      {
+       "q": "more activity time in schools?",
+       "how": "Give a reason and a likely result."
+      },
+      {
+       "q": "need expensive gym/equipment?",
+       "how": "Challenge the assumption; name cheap/free alternatives."
+      },
+      {
+       "q": "people who say they 'have no time'",
+       "how": "Respond with empathy, then a practical reframe (short bursts)."
+      }
+     ],
+     "card_points_how": [
+      {
+       "how": "Don't just name it - say what, when, and why it works for you (P-R-R-E).",
+       "point": "how you stay active during a normal week"
+      },
+      {
+       "how": "Contrast the two, with a reason for each (comparatives + because).",
+       "point": "a type of movement you enjoy, and one you dislike"
+      },
+      {
+       "how": "Take an honest position and justify it.",
+       "point": "whether you get enough movement"
+      },
+      {
+       "how": "This is the opinion hook - agree or qualify with a reason and an example.",
+       "point": "short bursts vs a long workout"
+      }
+     ]
+    },
+    "levels": {
+     "0": [],
+     "1": [
+      "vocab_bank"
+     ],
+     "2": [
+      "vocab_bank",
+      "stems"
+     ],
+     "3": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank"
+     ],
+     "4": [
+      "decode",
+      "frame",
+      "stems",
+      "vocab_bank",
+      "self_check"
+     ]
+    },
+    "schema": "speaking_scaffold.v1",
+    "assessed": [
+     {
+      "ref": "S1",
+      "what": "A developed, fluent 1-2 minute long turn - ideas extended, not one-word answers."
+     },
+     {
+      "ref": "S2",
+      "what": "You justify opinions and respond to the examiner in the discussion - not just agree."
+     },
+     {
+      "ref": "S3",
+      "what": "Clear pronunciation and intonation; a steady pace; sensible stress."
+     }
+    ],
+    "pitfalls": [
+     "One-word answers in the long turn (kills S1 fluency) - develop every point.",
+     "Listing card points with no reasons - use P-R-R-E.",
+     "Just agreeing in the discussion - justify and add something (S2).",
+     "Finishing under a minute, or rushing your delivery (S3)."
+    ],
+    "always_on": [
+     "assessed",
+     "fluency_pron",
+     "pitfalls"
+    ],
+    "self_check": [
+     {
+      "ref": "S1",
+      "text": "I spoke 1-2 minutes on the card with no long pauses"
+     },
+     {
+      "ref": "S1",
+      "text": "I developed every point with a reason + example (P-R-R-E)"
+     },
+     {
+      "ref": "S1",
+      "text": "I contrasted a movement I enjoy vs dislike, each with a reason"
+     },
+     {
+      "ref": "S2",
+      "text": "In the discussion I justified my views and answered follow-ups"
+     },
+     {
+      "ref": "S3",
+      "text": "I spoke clearly, with natural stress and intonation"
+     },
+     {
+      "ref": "S1",
+      "text": "I used at least 3 target words naturally"
+     }
+    ],
+    "vocab_bank": {
+     "groups": [
+      {
+       "label": "Movement & effort",
+       "words": [
+        "intense",
+        "automatic",
+        "steady",
+        "active",
+        "a quick burst"
+       ],
+       "target_words": [
+        "intense",
+        "automatic"
+       ]
+      },
+      {
+       "label": "How it feels",
+       "words": [
+        "discouraged",
+        "motivated",
+        "energised",
+        "sluggish"
+       ],
+       "target_words": [
+        "discouraged"
+       ]
+      },
+      {
+       "label": "Develop / argue chunks",
+       "words": [
+        "in the long run",
+        "which means",
+        "for example",
+        "I'd argue that"
+       ],
+       "target_words": [
+        "in the long run"
+       ]
+      }
+     ],
+     "target_min": 3
+    },
+    "fluency_pron": [
+     "Keep a steady pace - don't rush the long turn.",
+     "Stress the key word in each point.",
+     "Use short fillers ('well', 'I suppose') rather than long silences.",
+     "Let intonation rise on a list and fall to finish a point."
+    ],
+    "model_in_column": true
+   },
+   "model_response": "One thing I do to stay active is take the stairs instead of the lift, because over time it's become completely automatic. That means I move more without ever planning a workout, which keeps me from feeling discouraged about fitness. For example, short bursts like that add up across a busy week. I'd argue that, in the long run, small daily movement matters far more than the occasional intense session at the gym.",
+   "required_vocab": {
+    "min": 3,
+    "from": [
+     "intense",
+     "automatic",
+     "discouraged",
+     "in the long run"
+    ]
+   },
+   "grammar_focus": [
+    "P-R-R-E frame (Point-Reason-Result-Example)",
+    "advice structures for the discussion"
+   ],
+   "rubric": [
+    {
+     "exam_ref": "S1",
+     "criterion": "Development & fluency",
+     "descriptor": "Talks at length, developing each point with reasons and examples rather than one-word answers."
+    },
+    {
+     "exam_ref": "S2",
+     "criterion": "Interaction & argument",
+     "descriptor": "Responds to discussion questions, gives and justifies opinions, sustains the conversation."
+    },
+    {
+     "exam_ref": "S3",
+     "criterion": "Pronunciation & intonation",
+     "descriptor": "Clear and intelligible; natural stress and intonation."
+    }
+   ],
+   "exam_refs": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "feedback_mode": {
+    "ai": "light first pass: target-word use, obvious filler, length",
+    "human": "fluency, confidence, pronunciation, how well opinions are justified and developed"
+   },
+   "display_order": 1,
+   "created_at": "2026-05-29T12:05:18.101174+00:00",
+   "status": "published",
+   "slug": null,
+   "listening_track_id": null,
+   "image_url": null,
+   "prep_time_seconds": null,
+   "response_time_seconds": null,
+   "has_model": true
+  }
+ ]
+}
