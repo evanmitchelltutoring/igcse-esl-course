@@ -62,6 +62,14 @@
     '.time{font-variant-numeric:tabular-nums;font-size:13px;color:#a9c0bd;min-width:88px;text-align:right;}',
     '.note{margin-top:11px;font-size:12.5px;line-height:1.4;color:#8a9bb0;font-family:"Source Serif 4",Georgia,serif;font-style:italic;}',
     '.err{background:#3a2016;color:#f2c9b8;border:1px solid #6b3a28;border-radius:12px;padding:16px 20px;font-size:15px;line-height:1.45;}',
+    '.trow{margin-top:14px;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;}',
+    '.tbtn{font-family:inherit;font-size:14px;font-weight:600;border:1px solid rgba(255,255,255,.22);background:rgba(255,255,255,.06);color:#f4efe6;border-radius:999px;padding:9px 16px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;transition:background .15s ease;}',
+    '.tbtn:hover{background:rgba(255,255,255,.16);}',
+    '.tbtn .car{transition:transform .15s ease;font-size:12px;}',
+    '.tbtn[aria-expanded="true"] .car{transform:rotate(90deg);}',
+    '.thint{font-size:12.5px;line-height:1.4;color:#8a9bb0;font-style:italic;font-family:"Source Serif 4",Georgia,serif;}',
+    '.panel{margin-top:12px;background:#0f1b2e;border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:16px 20px;max-height:340px;overflow:auto;font-family:"Source Serif 4",Georgia,serif;font-size:15px;line-height:1.65;color:#e7ecf3;white-space:pre-wrap;}',
+    '.panel[hidden]{display:none;}',
     '@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.4;}}'
   ].join('');
 
@@ -109,12 +117,23 @@
     render() {
       var label = this.getAttribute('label') || 'Listening track';
       if (this.mode === 'speech' && !HAS_SPEECH) {
-        this.shadowRoot.innerHTML = '<style>' + STYLE + '</style><div class="err"><strong>Audio player unavailable.</strong> This browser has no speech engine and no recording is attached. Use the printed script in the teacher notes, or open the page in Chrome, Edge or Safari.</div>';
+        if (this.hasTranscript()) {
+          this.shadowRoot.innerHTML = '<style>' + STYLE + '</style><div class="wrap">' +
+            '<div class="top"><span class="badge">Listen</span><span class="label">' + this.escape(label) + '</span></div>' +
+            '<div class="note">No audio engine in this browser — read the transcript below, or open the page in Chrome, Edge or Safari to hear it.</div>' +
+            '<div class="panel" role="region" aria-label="Transcript">' + this.transcriptHtml() + '</div>' +
+          '</div>';
+          return;
+        }
+        this.shadowRoot.innerHTML = '<style>' + STYLE + '</style><div class="err"><strong>Audio player unavailable.</strong> This browser has no speech engine and no recording is attached. Open the page in Chrome, Edge or Safari.</div>';
         return;
       }
+      var hasT = this.hasTranscript();
       var noteText = this.mode === 'clip'
-        ? 'Recording plays as in the exam. The full script is in the teacher notes.'
-        : 'Synthetic voice for classroom practice — quality varies by device. The full script is in the teacher notes.';
+        ? (hasT ? 'Recording plays as in the exam. Reveal the transcript below once you have answered, to check what you missed.'
+                : 'Recording plays as in the exam.')
+        : (hasT ? 'Synthetic voice for classroom practice — quality varies by device. Reveal the transcript below once you have answered.'
+                : 'Synthetic voice for classroom practice — quality varies by device.');
       var statusInit = this.mode === 'clip'
         ? 'Ready · this recording plays the exam pattern'
         : 'Ready · plays ' + this.plays + '× with a pause between';
@@ -134,14 +153,22 @@
           '<div class="status"><span class="dot" id="dot"></span><span id="msg">' + statusInit + '</span><span class="time" id="time"></span></div>' +
           '<div class="status"><div class="bar" id="bar"><div class="fill" id="fill"></div></div></div>' +
           '<div class="note">' + noteText + '</div>' +
+          (hasT
+            ? '<div class="trow">' +
+                '<button class="tbtn" id="tt" aria-expanded="false" aria-controls="panel"><span class="car">&#9654;</span><span id="ttl">Show transcript</span></button>' +
+                '<span class="thint">Open it after you have answered — read it back to spot what tricked you.</span>' +
+              '</div>' +
+              '<div class="panel" id="panel" role="region" aria-label="Transcript" hidden>' + this.transcriptHtml() + '</div>'
+            : '') +
         '</div>';
       var $ = (id) => this.shadowRoot.getElementById(id);
-      this._els = { pp: $('pp'), pplabel: $('pplabel'), replay: $('replay'), stop: $('stop'), dot: $('dot'), msg: $('msg'), time: $('time'), fill: $('fill'), bar: $('bar'), s75: $('s75'), s1: $('s1') };
+      this._els = { pp: $('pp'), pplabel: $('pplabel'), replay: $('replay'), stop: $('stop'), dot: $('dot'), msg: $('msg'), time: $('time'), fill: $('fill'), bar: $('bar'), s75: $('s75'), s1: $('s1'), tt: $('tt'), ttl: $('ttl'), panel: $('panel') };
       this._els.pp.addEventListener('click', () => this.toggle());
       this._els.replay.addEventListener('click', () => this.start());
       this._els.stop.addEventListener('click', () => this.stop());
       this._els.s75.addEventListener('click', () => this.setRate(0.75));
       this._els.s1.addEventListener('click', () => this.setRate(1));
+      if (this._els.tt) this._els.tt.addEventListener('click', () => this.toggleTranscript());
       if (this.mode === 'clip') this.initClip();
     }
 
@@ -246,6 +273,27 @@
         this.setStatus(this.mode === 'clip' ? 'Ready · this recording plays the exam pattern' : ('Ready · plays ' + this.plays + '× with a pause between'), '');
         if (this.mode === 'clip' && this._audio && this._audio.duration) this._els.time.textContent = '0:00 / ' + fmt(this._audio.duration);
       }
+    }
+
+    /* ── Transcript (student-revealable) ───────────────────────────────── */
+    hasTranscript() {
+      var s = this.getAttribute('script');
+      return !!(s && s.trim());
+    }
+
+    transcriptHtml() {
+      // Reuse the sentence split (handles "/"-separated items) so the transcript
+      // reads one line per turn; escape, then join with newlines (panel is pre-wrap).
+      var self = this;
+      return this.sentences().map(function (s) { return self.escape(s); }).join('\n');
+    }
+
+    toggleTranscript() {
+      if (!this._els.panel) return;
+      var open = this._els.panel.hasAttribute('hidden');
+      if (open) this._els.panel.removeAttribute('hidden'); else this._els.panel.setAttribute('hidden', '');
+      this._els.tt.setAttribute('aria-expanded', open ? 'true' : 'false');
+      this._els.ttl.textContent = open ? 'Hide transcript' : 'Show transcript';
     }
 
     /* ── Speech engine (fallback) ──────────────────────────────────────── */
