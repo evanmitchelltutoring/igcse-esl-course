@@ -29,10 +29,15 @@
     connectedCallback() {
       if (this._b) return; this._b = true;
       // Defer: when the script is in <head>, the element upgrades before its
-      // child text has been parsed, so read innerHTML on the next frame.
+      // child text has been parsed, so read innerHTML on the next frame. Use rAF
+      // AND a setTimeout fallback — inside slide-deck runtimes (deck-stage) the
+      // rAF can be throttled/skipped for freshly-cloned offscreen slides, so the
+      // timeout guarantees the build runs. _build is idempotent (guards on shadowRoot).
       requestAnimationFrame(() => this._build());
+      setTimeout(() => this._build(), 0);
     }
     _build() {
+      if (this.shadowRoot) return;
       var q = this.innerHTML.trim();
       var a = this.getAttribute('answer') || '';
       this._counted = null;
